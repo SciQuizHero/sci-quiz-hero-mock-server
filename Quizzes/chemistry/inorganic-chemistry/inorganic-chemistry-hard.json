@@ -1,0 +1,116 @@
+{
+  "category": "Inorganic Chemistry",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Which of the following elements is a lanthanide?",
+      "options": [
+        "Uranium (U)",
+        "Platinum (Pt)",
+        "Neodymium (Nd)",
+        "Zirconium (Zr)"
+      ],
+      "correct_answer": "Neodymium (Nd)",
+      "id": "3D9C4726-60FF-40D0-B54E-0BCD9F657AC3"
+    },
+    {
+      "question": "Which of the following statements about the Aufbau principle is not correct?",
+      "options": [
+        "Electrons fill orbitals starting with the lowest available energy levels before moving to higher energy levels",
+        "Electrons will not pair up in an orbital until all orbitals in the same sublevel have at least one electron",
+        "Electrons will always occupy a p-orbital before a s-orbital in the same energy level",
+        "The order of the orbital energies is often remembered using the Madelung rule"
+      ],
+      "correct_answer": "Electrons will always occupy a p-orbital before a s-orbital in the same energy level",
+      "id": "3187E40A-EE10-4E16-B2FD-0857132F755F"
+    },
+    {
+      "question": "What term describes the phenomenon where the electron shielding effect is less effective for elements in the d and f blocks, causing atomic radii to decrease despite an increase in atomic number?",
+      "options": [
+        "Ionic radius trend",
+        "Lanthanide contraction",
+        "Electron affinity",
+        "Quantum shielding effect"
+      ],
+      "correct_answer": "Lanthanide contraction",
+      "id": "67766048-5835-463D-AEE4-DEFB1B978A1A"
+    },
+    {
+      "question": "Which of the following is not a type of intermolecular force?",
+      "options": [
+        "Ionic bonding",
+        "Dipole-dipole interaction",
+        "London dispersion forces",
+        "Hydrogen bonding"
+      ],
+      "correct_answer": "Ionic bonding",
+      "id": "E41E4936-AF44-4B6F-8A37-628D7C40715A"
+    },
+    {
+      "question": "In the compound FeSO4.7H2O, what does the '7' represent?",
+      "options": [
+        "The oxidation state of the iron",
+        "The charge on the sulfate ion",
+        "The number of water molecules associated with each formula unit",
+        "The number of sulfate ions for each iron ion"
+      ],
+      "correct_answer": "The number of water molecules associated with each formula unit",
+      "id": "F1FA2BBE-30E3-4FC8-8FAB-2755696B3EDB"
+    },
+    {
+      "question": "In which type of solid is Frenkel defect usually found?",
+      "options": [
+        "Molecular solids",
+        "Metallic solids",
+        "Covalent network solids",
+        "Ionic solids"
+      ],
+      "correct_answer": "Ionic solids",
+      "id": "5D9EF831-046B-4208-A60D-00AF8A3F2D0B"
+    },
+    {
+      "question": "What type of isomerism is shown by [Co(NH3)4Cl2]Cl?",
+      "options": [
+        "Linkage isomerism",
+        "Ionization isomerism",
+        "Geometrical isomerism",
+        "Coordination isomerism"
+      ],
+      "correct_answer": "Ionization isomerism",
+      "id": "643C0906-EB12-454F-9CC3-2AFED6B54EEF"
+    },
+    {
+      "question": "What is the coordination number of each ion in a rock salt structure?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct_answer": "6",
+      "id": "AAF794F7-AC43-4D2E-B09A-2098847553FE"
+    },
+    {
+      "question": "Which element of the d-block has the highest melting point?",
+      "options": [
+        "Iron (Fe)",
+        "Nickel (Ni)",
+        "Tungsten (W)",
+        "Platinum (Pt)"
+      ],
+      "correct_answer": "Tungsten (W)",
+      "id": "CA06F696-AC21-4762-AC69-1D3A39BEEDBA"
+    },
+    {
+      "question": "In the periodic table, which transition series includes the actinide elements?",
+      "options": [
+        "First transition series",
+        "Second transition series",
+        "Third transition series",
+        "Fourth transition series"
+      ],
+      "correct_answer": "Fourth transition series",
+      "id": "5E5A0BA0-ADA7-4DFE-9F91-BE0409552C68"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Cell Biology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Which organelle is responsible for producing energy in the form of ATP?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Golgi Apparatus",
+        "Endoplasmic Reticulum"
+      ],
+      "correct_answer": "Mitochondria",
+      "id": "32533C67-644E-4051-9584-8EC5FFF507AB"
+    },
+    {
+      "question": "Which cell organelle contains genetic material and controls the cell's activities?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Golgi Apparatus",
+        "Endoplasmic Reticulum"
+      ],
+      "correct_answer": "Nucleus",
+      "id": "D20F8D5E-57D7-4662-9ED1-7C80CEAA1C03"
+    },
+    {
+      "question": "Which cellular structure is responsible for protein synthesis?",
+      "options": [
+        "Ribosomes",
+        "Nucleus",
+        "Mitochondria",
+        "Golgi Apparatus"
+      ],
+      "correct_answer": "Ribosomes",
+      "id": "62A5B392-8068-4405-B718-F9D9C9F34C21"
+    },
+    {
+      "question": "What is the primary function of the cell membrane?",
+      "options": [
+        "Produce energy",
+        "Store genetic information",
+        "Regulate the movement of substances in and out of the cell",
+        "Synthesize proteins"
+      ],
+      "correct_answer": "Regulate the movement of substances in and out of the cell",
+      "id": "054F1F58-B256-48DE-B3B3-062B6513630A"
+    },
+    {
+      "question": "What is the process by which cells reproduce called?",
+      "options": [
+        "Fermentation",
+        "Mitosis",
+        "Photosynthesis",
+        "Respiration"
+      ],
+      "correct_answer": "Mitosis",
+      "id": "CE51117B-FBDF-4ACA-B04A-F7F2494B8296"
+    },
+    {
+      "question": "Which structure is responsible for modifying, packaging, and transporting proteins and lipids?",
+      "options": [
+        "Golgi Apparatus",
+        "Nucleus",
+        "Mitochondria",
+        "Ribosomes"
+      ],
+      "correct_answer": "Golgi Apparatus",
+      "id": "166991BA-BD59-4432-B679-DE03B4F5FBED"
+    },
+    {
+      "question": "What is the watery, jelly-like substance found inside the cell called?",
+      "options": [
+        "Cytoplasm",
+        "Endoplasmic Reticulum",
+        "Nucleoplasm",
+        "Plasma Membrane"
+      ],
+      "correct_answer": "Cytoplasm",
+      "id": "1FF00995-ED75-44A9-B7F2-B4E96E0C9011"
+    },
+    {
+      "question": "What structure provides support and protection for plant cells?",
+      "options": [
+        "Cell Wall",
+        "Cell Membrane",
+        "Nucleus",
+        "Mitochondria"
+      ],
+      "correct_answer": "Cell Wall",
+      "id": "4AF640BD-6072-4A9B-95E8-1D582258D769"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": [
+        "Mitochondria",
+        "Golgi Apparatus",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "correct_answer": "Mitochondria",
+      "id": "54F5BBB8-D982-407C-BE0B-F0840955474D"
+    },
+    {
+      "question": "Which organelle is responsible for protein synthesis?",
+      "options": [
+        "Ribosome",
+        "Nucleus",
+        "Mitochondria",
+        "Golgi Apparatus"
+      ],
+      "correct_answer": "Ribosome",
+      "id": "FAD905CB-316C-46BA-AE5E-E02B5B49AB06"
+    }
+  ]
+}

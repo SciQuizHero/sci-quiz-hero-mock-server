@@ -1,0 +1,116 @@
+{
+  "category": "Oceanography",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Which term describes the salinity, temperature, and density gradients or layers in the ocean?",
+      "options": [
+        "Isothermal",
+        "Isobaric",
+        "Halocline",
+        "Pycnocline"
+      ],
+      "correct_answer": "Pycnocline",
+      "id": "CF8C2E2D-CAE8-4DA9-B132-7BE4059960A8"
+    },
+    {
+      "question": "What is the name for the region in the water column which sees the maximum rate of decrease in temperature with increasing depth?",
+      "options": [
+        "Thermocline",
+        "Halocline",
+        "Pycnocline",
+        "Epipelagic zone"
+      ],
+      "correct_answer": "Thermocline",
+      "id": "708F5BC9-CE7C-48F2-915C-E2C5A9293CB1"
+    },
+    {
+      "question": "What is the name for the seafloor feature that is created where an oceanic plate is subducting beneath another plate?",
+      "options": [
+        "Mid-ocean ridge",
+        "Abyssal plain",
+        "Oceanic trench",
+        "Continental rise"
+      ],
+      "correct_answer": "Oceanic trench",
+      "id": "54FF0D09-A40F-4F3F-9D2F-B12939ECA1A2"
+    },
+    {
+      "question": "What drives the thermohaline circulation in the world's oceans?",
+      "options": [
+        "Tidal forces",
+        "Surface wind",
+        "Differences in temperature and salinity",
+        "Ocean currents"
+      ],
+      "correct_answer": "Differences in temperature and salinity",
+      "id": "79563077-159B-4D85-90D8-4AE89EEF9FC3"
+    },
+    {
+      "question": "Which oceanic zone represents the deepest part of the ocean, below 6000 meters?",
+      "options": [
+        "Bathypelagic Zone",
+        "Mesopelagic Zone",
+        "Abyssopelagic Zone",
+        "Hadopelagic Zone"
+      ],
+      "correct_answer": "Hadopelagic Zone",
+      "id": "683ECF70-B985-4811-B78B-7FF1494841D8"
+    },
+    {
+      "question": "Which layer of the ocean is characterized by constant low temperature, high pressure, low oxygen, and minimal nutrient levels?",
+      "options": [
+        "Epipelagic layer",
+        "Mesopelagic layer",
+        "Bathypelagic layer",
+        "Abyssopelagic layer"
+      ],
+      "correct_answer": "Abyssopelagic layer",
+      "id": "BFE51FC8-84FD-447D-BBA4-44AC5F715F51"
+    },
+    {
+      "question": "What type of marine ecosystem is characterized by areas of open water that may be periodically covered by land due to fluctuating water levels?",
+      "options": [
+        "Estuarine",
+        "Intertidal",
+        "Benthic",
+        "Pelagic"
+      ],
+      "correct_answer": "Intertidal",
+      "id": "A7F09EA2-64BC-4278-8AD6-B819F1957C74"
+    },
+    {
+      "question": "Which principle states that the ratio of the concentration of a chemical in an organism to the concentration of the chemical in the surrounding environment is constant across different levels of biological organization?",
+      "options": [
+        "Principle of Constant Proportions",
+        "Biot-Savart Law",
+        "Dittmar's Principle",
+        "Principle of Biological Magnification"
+      ],
+      "correct_answer": "Principle of Biological Magnification",
+      "id": "87825D87-6706-4FF1-8B7E-969D48A5A81B"
+    },
+    {
+      "question": "What is the term for the amount of solid salt in seawater, usually expressed in parts per thousand?",
+      "options": [
+        "Salinity",
+        "Density",
+        "Conductivity",
+        "Alkalinity"
+      ],
+      "correct_answer": "Salinity",
+      "id": "4E7D928A-57A3-4C9E-9662-D14762F6B2EC"
+    },
+    {
+      "question": "What does the Ekman spiral describe in oceanography?",
+      "options": [
+        "The shape of wave patterns",
+        "The direction of deep ocean currents",
+        "The change in wind direction with height",
+        "The effect of the Coriolis effect on wind-driven ocean currents"
+      ],
+      "correct_answer": "The effect of the Coriolis effect on wind-driven ocean currents",
+      "id": "0C217682-19EE-4F30-914E-DBC419C70DCF"
+    }
+  ]
+}

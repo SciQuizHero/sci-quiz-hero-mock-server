@@ -1,0 +1,116 @@
+{
+  "category": "Electrical Engineering",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Which electronic component is used to amplify or switch electronic signals and electrical power?",
+      "options": [
+        "Diode",
+        "Capacitor",
+        "Transistor",
+        "Resistor"
+      ],
+      "correct_answer": "Transistor",
+      "id": "14BE07D6-49F8-4143-A22D-28DE9930F60C"
+    },
+    {
+      "question": "In a 3-phase power system, what is the phase angle difference between each phase?",
+      "options": [
+        "30 degrees",
+        "60 degrees",
+        "90 degrees",
+        "120 degrees"
+      ],
+      "correct_answer": "120 degrees",
+      "id": "BB286F6D-248D-4651-A270-1E1054FA97FB"
+    },
+    {
+      "question": "In a CMOS technology, the 'D' in 'MOSFET' stands for what?",
+      "options": [
+        "Diode",
+        "Drain",
+        "Dipole",
+        "Dynamo"
+      ],
+      "correct_answer": "Drain",
+      "id": "97BEDEBC-5976-46B3-9D76-9F5F0224D1D1"
+    },
+    {
+      "question": "What does the Maxwell's equation ∇ · B = 0 imply?",
+      "options": [
+        "Electric field lines are open ended",
+        "Magnetic field lines are open ended",
+        "Electric field lines are closed loops",
+        "Magnetic field lines are closed loops"
+      ],
+      "correct_answer": "Magnetic field lines are closed loops",
+      "id": "E9AD7C90-4480-4041-ADBB-2A9F6F9272A0"
+    },
+    {
+      "question": "What is the Laplace transform of a unit step function?",
+      "options": [
+        "1/s",
+        "1/s^2",
+        "s",
+        "s^2"
+      ],
+      "correct_answer": "1/s",
+      "id": "F7ED6643-A5FA-4D0D-BA51-0D832D152C55"
+    },
+    {
+      "question": "Which parameter does a Bode plot represent?",
+      "options": [
+        "Time response of a system",
+        "Frequency response of a system",
+        "System stability",
+        "System resonance"
+      ],
+      "correct_answer": "Frequency response of a system",
+      "id": "3EF5AD32-3C41-4CBC-965A-6996EE2F19C4"
+    },
+    {
+      "question": "What is the primary role of a rectifier in an electrical circuit?",
+      "options": [
+        "To amplify the current",
+        "To convert alternating current (AC) to direct current (DC)",
+        "To convert direct current (DC) to alternating current (AC)",
+        "To reduce the voltage"
+      ],
+      "correct_answer": "To convert alternating current (AC) to direct current (DC)",
+      "id": "8A7A3A8A-B800-4869-B54A-AB5F28D9F334"
+    },
+    {
+      "question": "In power electronics, what is the purpose of a 'Snubber' circuit?",
+      "options": [
+        "To protect switches from voltage spikes",
+        "To step up the voltage",
+        "To store electrical energy",
+        "To rectify the current"
+      ],
+      "correct_answer": "To protect switches from voltage spikes",
+      "id": "6F59F794-6E1B-497D-A417-2B99706DA52B"
+    },
+    {
+      "question": "In digital logic, what is a 'Latch'?",
+      "options": [
+        "A device that counts pulses",
+        "A device that oscillates between two states",
+        "A device that stores one bit of data",
+        "A device that converts analog signals to digital"
+      ],
+      "correct_answer": "A device that stores one bit of data",
+      "id": "5574A516-EBC0-482E-B2E6-293D2C31F73B"
+    },
+    {
+      "question": "What is the Nyquist rate for a signal of bandwidth 100 Hz?",
+      "options": [
+        "50 Hz",
+        "100 Hz",
+        "200 Hz",
+        "400 Hz"
+      ],
+      "correct_answer": "200 Hz",
+      "id": "0697EF5E-992E-4C11-94C6-DCAC9D27EE75"
+    }
+  ]
+}

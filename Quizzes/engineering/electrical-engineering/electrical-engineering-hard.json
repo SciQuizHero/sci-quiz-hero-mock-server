@@ -1,0 +1,116 @@
+{
+  "category": "Electrical Engineering",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the 'skin effect' in electrical conductors?",
+      "options": [
+        "The tendency of alternating current to flow only on the surface of a conductor",
+        "The tendency of direct current to flow only in the core of a conductor",
+        "The phenomenon where the outer layer of a conductor has a higher resistance",
+        "The phenomenon where the inner layer of a conductor has a lower inductance"
+      ],
+      "correct_answer": "The tendency of alternating current to flow only on the surface of a conductor",
+      "id": "E91C1138-718A-489B-8F5F-5085DB8D1C49"
+    },
+    {
+      "question": "Which modulation technique uses a carrier wave whose phase is changed in accordance with the input signal?",
+      "options": [
+        "Amplitude Modulation (AM)",
+        "Frequency Modulation (FM)",
+        "Phase Modulation (PM)",
+        "Pulse Code Modulation (PCM)"
+      ],
+      "correct_answer": "Phase Modulation (PM)",
+      "id": "57EBB8E8-C2F8-4014-821D-F09D69EA5A88"
+    },
+    {
+      "question": "In a Bode plot, what does a negative slope indicate?",
+      "options": [
+        "Increase in magnitude with frequency",
+        "Decrease in magnitude with frequency",
+        "Increase in phase with frequency",
+        "Decrease in phase with frequency"
+      ],
+      "correct_answer": "Decrease in magnitude with frequency",
+      "id": "BF300AFC-AE2E-420C-9407-DC8A707D6254"
+    },
+    {
+      "question": "What is the principle of superposition as applied to electrical circuits?",
+      "options": [
+        "The total current in a circuit is equal to the sum of the currents through each component",
+        "The total voltage in a circuit is equal to the sum of the voltages across each component",
+        "The response in a linear, passive circuit with multiple independent sources can be calculated as the sum of the responses of each source acting independently",
+        "The power consumed in a circuit is equal to the sum of the power consumed by each component"
+      ],
+      "correct_answer": "The response in a linear, passive circuit with multiple independent sources can be calculated as the sum of the responses of each source acting independently",
+      "id": "DF730FB8-8674-4EB6-A7AA-A2F493164735"
+    },
+    {
+      "question": "What type of oscillator uses a parallel LC circuit (tank circuit) to provide the oscillations?",
+      "options": [
+        "Hartley oscillator",
+        "Colpitts oscillator",
+        "Phase shift oscillator",
+        "Crystal oscillator"
+      ],
+      "correct_answer": "Colpitts oscillator",
+      "id": "C9D69840-9748-47F6-80E9-BE84CF099FD0"
+    },
+    {
+      "question": "In control systems, what is the purpose of a PID controller?",
+      "options": [
+        "To invert the input signal",
+        "To provide feedback control using proportional, integral, and derivative terms",
+        "To control the power supplied to the system",
+        "To generate a signal based on a set of predefined instructions"
+      ],
+      "correct_answer": "To provide feedback control using proportional, integral, and derivative terms",
+      "id": "931D992B-23F5-474C-B726-8AFEDF9A65E5"
+    },
+    {
+      "question": "In digital logic, what type of flip-flop output depends not only on the current input state but also the previous input state?",
+      "options": [
+        "SR flip-flop",
+        "JK flip-flop",
+        "D flip-flop",
+        "T flip-flop"
+      ],
+      "correct_answer": "JK flip-flop",
+      "id": "625A599B-61F0-4920-90C9-C33844D4638D"
+    },
+    {
+      "question": "In power electronics, what type of device is a thyristor?",
+      "options": [
+        "A device that can be turned on by a gate signal, but can only be turned off when the current drops to zero",
+        "A device that can be turned on and off by a gate signal",
+        "A device that can amplify the power of an input signal",
+        "A device that converts DC to AC"
+      ],
+      "correct_answer": "A device that can be turned on by a gate signal, but can only be turned off when the current drops to zero",
+      "id": "004CDA28-1B96-49F7-9B64-92AACA256ED7"
+    },
+    {
+      "question": "What is the process of converting a continuous time signal into a discrete time signal called?",
+      "options": [
+        "Quantization",
+        "Normalization",
+        "Sampling",
+        "Aliasing"
+      ],
+      "correct_answer": "Sampling",
+      "id": "4405A4E6-3BFF-4C8E-9DD3-CC462491E864"
+    },
+    {
+      "question": "What does the Nyquist-Shannon sampling theorem state?",
+      "options": [
+        "A signal must be sampled at twice its highest frequency to avoid aliasing",
+        "A signal must be sampled at half its highest frequency to avoid aliasing",
+        "A signal can be sampled at any frequency above its highest frequency",
+        "A signal can be perfectly reconstructed from its samples if the sampling frequency is greater than twice the highest frequency of the signal"
+      ],
+      "correct_answer": "A signal can be perfectly reconstructed from its samples if the sampling frequency is greater than twice the highest frequency of the signal",
+      "id": "4D47A5C0-052C-4F95-A5D1-1A63D527C429"
+    }
+  ]
+}

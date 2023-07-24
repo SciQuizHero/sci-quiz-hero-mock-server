@@ -1,0 +1,116 @@
+{
+  "category": "Botany",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the term for the symbiotic associations between a fungus and the roots of a vascular host plant?",
+      "options": [
+        "Lichens",
+        "Mycorrhizae",
+        "Rhizobia",
+        "Actinomycetes"
+      ],
+      "correct_answer": "Mycorrhizae",
+      "id": "A32DBCFB-C89A-476E-B769-578E80E7A680"
+    },
+    {
+      "question": "Which plant hormone is responsible for inhibiting growth and promoting dormancy?",
+      "options": [
+        "Abscisic acid",
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin"
+      ],
+      "correct_answer": "Abscisic acid",
+      "id": "64DC6B57-1702-4F2F-BD56-523F49F75D88"
+    },
+    {
+      "question": "Which cellular structure in plants is primarily responsible for storing water and maintaining turgidity?",
+      "options": [
+        "Chloroplast",
+        "Mitochondria",
+        "Central vacuole",
+        "Endoplasmic reticulum"
+      ],
+      "correct_answer": "Central vacuole",
+      "id": "50A49B22-D520-4EFC-A6EA-61A2F0CE3FF4"
+    },
+    {
+      "question": "Which type of plant cells have thick, lignified secondary walls and are dead at maturity?",
+      "options": [
+        "Parenchyma cells",
+        "Collenchyma cells",
+        "Sclerenchyma cells",
+        "Epidermal cells"
+      ],
+      "correct_answer": "Sclerenchyma cells",
+      "id": "8BC479D9-82E5-46DF-9E0A-EFF6717A4A44"
+    },
+    {
+      "question": "In C4 plants, where does the carbon dioxide fixation step of photosynthesis occur?",
+      "options": [
+        "Bundle sheath cells",
+        "Mesophyll cells",
+        "Guard cells",
+        "Epidermal cells"
+      ],
+      "correct_answer": "Mesophyll cells",
+      "id": "871CEFAE-94D5-4CEE-968F-D49123488773"
+    },
+    {
+      "question": "What do you call the phenomenon where plants grow towards the light source?",
+      "options": [
+        "Thigmotropism",
+        "Geotropism",
+        "Phototropism",
+        "Hydrotropism"
+      ],
+      "correct_answer": "Phototropism",
+      "id": "ED707F79-180B-44F8-A9C2-B8569E62A848"
+    },
+    {
+      "question": "What type of symbiotic association exists between leguminous plants and bacteria in their root nodules?",
+      "options": [
+        "Parasitism",
+        "Mutualism",
+        "Commensalism",
+        "Amensalism"
+      ],
+      "correct_answer": "Mutualism",
+      "id": "1D72CC96-C253-4DCE-A530-B6FFBC254704"
+    },
+    {
+      "question": "What is the primary function of leghemoglobin in root nodules of leguminous plants?",
+      "options": [
+        "It provides nitrogen to the plant",
+        "It fixes atmospheric nitrogen",
+        "It transports oxygen in a way that doesn't inhibit nitrogenase activity",
+        "It aids in photosynthesis"
+      ],
+      "correct_answer": "It transports oxygen in a way that doesn't inhibit nitrogenase activity",
+      "id": "85DE94CB-2ABB-4FD2-8FC6-48261A847268"
+    },
+    {
+      "question": "Which class of pigments found in some plant tissues can act as a pH indicator, changing from yellow to red under acidic conditions?",
+      "options": [
+        "Anthocyanins",
+        "Chlorophyll",
+        "Carotenoids",
+        "Flavonoids"
+      ],
+      "correct_answer": "Anthocyanins",
+      "id": "73DFC3E4-4421-4247-BEC2-9F02359F53D6"
+    },
+    {
+      "question": "What type of fruit is derived from a flower that contains more than one ovary?",
+      "options": [
+        "Simple fruit",
+        "Aggregate fruit",
+        "Multiple fruit",
+        "Composite fruit"
+      ],
+      "correct_answer": "Aggregate fruit",
+      "id": "9BD3FC83-6139-4C7D-91F2-9EE1A060CB79"
+    }
+  ]
+}

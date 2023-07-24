@@ -1,0 +1,116 @@
+{
+  "category": "Genetics",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the name of the molecule that is responsible for carrying genetic information in cells?",
+      "options": [
+        "Deoxyribonucleic acid",
+        "Ribonucleic acid",
+        "Protein",
+        "Lipid"
+      ],
+      "correct_answer": "Deoxyribonucleic acid",
+      "id": "57C7FEB0-9771-4225-AEA4-63EB91F57567"
+    },
+    {
+      "question": "What are the building blocks of DNA?",
+      "options": [
+        "Nucleotides",
+        "Amino acids",
+        "Fatty acids",
+        "Carbohydrates"
+      ],
+      "correct_answer": "Nucleotides",
+      "id": "77BDA338-7F36-42E7-B39E-F7CA8D300428"
+    },
+    {
+      "question": "What is the term for the physical traits of an organism?",
+      "options": [
+        "Phenotype",
+        "Genotype",
+        "Genome",
+        "Chromosome"
+      ],
+      "correct_answer": "Phenotype",
+      "id": "D0A55B5A-B3D9-4325-B7C7-A98214B7C46F"
+    },
+    {
+      "question": "What is the process by which DNA is copied during cell division?",
+      "options": [
+        "Replication",
+        "Transcription",
+        "Translation",
+        "Mitosis"
+      ],
+      "correct_answer": "Replication",
+      "id": "0EA4C79B-2CE0-45A2-AC18-92F07BEF912B"
+    },
+    {
+      "question": "What are the four bases of DNA?",
+      "options": [
+        "Adenine, Thymine, Guanine, Cytosine",
+        "Adenine, Thymine, Guanine, Uracil",
+        "Adenine, Thymine, Guanine, Ribose",
+        "Adenine, Uracil, Guanine, Cytosine"
+      ],
+      "correct_answer": "Adenine, Thymine, Guanine, Cytosine",
+      "id": "3840E035-875A-4377-8D8E-941A6A4498BC"
+    },
+    {
+      "question": "What is a mutation?",
+      "options": [
+        "A change in the sequence of DNA",
+        "A cell division process",
+        "A type of protein",
+        "A form of energy"
+      ],
+      "correct_answer": "A change in the sequence of DNA",
+      "id": "01886707-2928-44E8-94A2-0E807A9CB5C2"
+    },
+    {
+      "question": "What does 'homozygous' mean?",
+      "options": [
+        "Having two identical alleles for a trait",
+        "Having two different alleles for a trait",
+        "Having only one allele for a trait",
+        "Having no alleles for a trait"
+      ],
+      "correct_answer": "Having two identical alleles for a trait",
+      "id": "128EE4DD-99D2-4E65-8656-E5B2CD366756"
+    },
+    {
+      "question": "Which cell division process results in cells with half the number of chromosomes?",
+      "options": [
+        "Meiosis",
+        "Mitosis",
+        "Replication",
+        "Translation"
+      ],
+      "correct_answer": "Meiosis",
+      "id": "7C2E7EE1-56CB-46CE-A04A-6673A40DA1C5"
+    },
+    {
+      "question": "What is the term for the genetic makeup of an organism?",
+      "options": [
+        "Genotype",
+        "Phenotype",
+        "Protein",
+        "Chromosome"
+      ],
+      "correct_answer": "Genotype",
+      "id": "B9E24A0F-0E06-4A02-B7DD-DDD9F2CA460E"
+    },
+    {
+      "question": "Who is considered the father of genetics?",
+      "options": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "correct_answer": "Gregor Mendel",
+      "id": "0ED3F624-065C-4E86-8061-56D6E3962BE3"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Organic Chemistry",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What type of reaction is the Diels-Alder reaction?",
+      "options": [
+        "Electrophilic addition",
+        "Nucleophilic substitution",
+        "Electrocyclic reaction",
+        "Cycloaddition"
+      ],
+      "correct_answer": "Cycloaddition",
+      "id": "F9B52437-AB8B-4229-8238-186DD5970F2E"
+    },
+    {
+      "question": "What is the geometry around the carbon atom in an sp2 hybridized state?",
+      "options": [
+        "Linear",
+        "Tetrahedral",
+        "Trigonal planar",
+        "Trigonal pyramidal"
+      ],
+      "correct_answer": "Trigonal planar",
+      "id": "5107F1B5-101C-4CC8-B3A2-2125CACE1D18"
+    },
+    {
+      "question": "Which reaction mechanism describes the nucleophilic substitution of a tertiary alkyl halide?",
+      "options": [
+        "SN1",
+        "SN2",
+        "E1",
+        "E2"
+      ],
+      "correct_answer": "SN1",
+      "id": "68EF6CED-1B10-4B64-9986-6B6BAC8270FA"
+    },
+    {
+      "question": "Which reaction is used to convert carboxylic acids into amides?",
+      "options": [
+        "Fischer esterification",
+        "Amide coupling",
+        "Schotten-Baumann reaction",
+        "Jones oxidation"
+      ],
+      "correct_answer": "Schotten-Baumann reaction",
+      "id": "8FAC2DD2-4AB0-4A89-8E22-AAE8B91CB048"
+    },
+    {
+      "question": "Which of the following represents the structure of an enol?",
+      "options": [
+        "R-C(OH)=CH2",
+        "R-CH=O",
+        "R-C=O",
+        "R-COOH"
+      ],
+      "correct_answer": "R-C(OH)=CH2",
+      "id": "40908F84-680B-4CC1-BF01-E477C4E19472"
+    },
+    {
+      "question": "What is the stereochemical outcome of an E2 elimination reaction?",
+      "options": [
+        "Trans",
+        "Cis",
+        "Racemic",
+        "None of the above"
+      ],
+      "correct_answer": "Trans",
+      "id": "D36E7DE0-CD02-4FEA-BD6C-7E605BB4B546"
+    },
+    {
+      "question": "Which of the following molecules is an example of a saponifiable lipid?",
+      "options": [
+        "Triglycerides",
+        "Cholesterol",
+        "Prostaglandins",
+        "Steroid hormones"
+      ],
+      "correct_answer": "Triglycerides",
+      "id": "D73A5749-F6D3-435D-B64C-719DC56403AD"
+    },
+    {
+      "question": "In a Sharpless epoxidation, what type of molecule is used to control the stereochemistry of the epoxide formation?",
+      "options": [
+        "Enantiomerically pure sulfoxide",
+        "Chiral auxiliary",
+        "Chiral catalyst",
+        "Racemic mixture of enantiomers"
+      ],
+      "correct_answer": "Chiral catalyst",
+      "id": "73552AD5-6161-4C44-AE50-A5B1A1339774"
+    },
+    {
+      "question": "What type of linkage connects monosaccharides in a disaccharide?",
+      "options": [
+        "Ester linkage",
+        "Glycosidic linkage",
+        "Peptide linkage",
+        "Ether linkage"
+      ],
+      "correct_answer": "Glycosidic linkage",
+      "id": "51FC74F5-1130-4CEC-8F6B-55A59727D99C"
+    },
+    {
+      "question": "In nucleophilic aromatic substitution, why does the reaction preferentially occur at the ortho and para positions relative to the electron-withdrawing group?",
+      "options": [
+        "Because those positions are the most sterically accessible",
+        "Because those positions are the most electron-rich",
+        "Because those positions are the most electron-poor",
+        "Because those positions have the most hydrogen atoms"
+      ],
+      "correct_answer": "Because those positions are the most electron-rich",
+      "id": "9B8A6B31-57CB-4614-80EE-2376E37871D1"
+    }
+  ]
+}

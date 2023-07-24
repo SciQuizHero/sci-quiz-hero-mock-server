@@ -1,0 +1,116 @@
+{
+  "category": "Pathology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What pathological process describes the transformation from one type of adult cell to another?",
+      "options": [
+        "Metaplasia",
+        "Dysplasia",
+        "Hyperplasia",
+        "Hypoplasia"
+      ],
+      "correct_answer": "Metaplasia",
+      "id": "00B8DC31-C457-4EE6-9FA0-70A03753700D"
+    },
+    {
+      "question": "Which infectious agent is smaller than a bacteria and can only reproduce inside a host's cells?",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungi",
+        "Protozoa"
+      ],
+      "correct_answer": "Virus",
+      "id": "BA3AEFC6-9C0A-4343-8D27-4C77D699F64E"
+    },
+    {
+      "question": "What term describes the process in which cells self-destruct due to damage or disease?",
+      "options": [
+        "Necrosis",
+        "Apoptosis",
+        "Atrophy",
+        "Metastasis"
+      ],
+      "correct_answer": "Apoptosis",
+      "id": "AD4F2B39-1785-4F1F-ADC8-0F16B04ED232"
+    },
+    {
+      "question": "What is the term for a tumor that invades surrounding tissues and spreads to other sites in the body?",
+      "options": [
+        "Benign tumor",
+        "Malignant tumor",
+        "Hyperplastic tumor",
+        "Pre-malignant tumor"
+      ],
+      "correct_answer": "Malignant tumor",
+      "id": "7F2E73C4-77AF-430A-A9FA-1CE428CE57EA"
+    },
+    {
+      "question": "Which is the most common type of skin cancer, often associated with excessive sun exposure?",
+      "options": [
+        "Melanoma",
+        "Squamous cell carcinoma",
+        "Basal cell carcinoma",
+        "Kaposi sarcoma"
+      ],
+      "correct_answer": "Basal cell carcinoma",
+      "id": "76C3E231-4814-4670-BFA4-1B7CA9391E95"
+    },
+    {
+      "question": "Which genetic condition is characterized by the presence of an extra 21st chromosome?",
+      "options": [
+        "Down syndrome",
+        "Turner syndrome",
+        "Klinefelter syndrome",
+        "Edwards syndrome"
+      ],
+      "correct_answer": "Down syndrome",
+      "id": "8BB17052-5175-401E-A32F-57C5C96B6A8F"
+    },
+    {
+      "question": "What term describes the invasion of the body by pathogenic microorganisms and their multiplication, leading to a response from the host's immune system?",
+      "options": [
+        "Infection",
+        "Inflammation",
+        "Ischemia",
+        "Infarction"
+      ],
+      "correct_answer": "Infection",
+      "id": "51279748-2D55-4F06-BA7C-B5642D1041B7"
+    },
+    {
+      "question": "What is the process by which cancer cells break away from a tumor and establish a new tumor elsewhere in the body?",
+      "options": [
+        "Hyperplasia",
+        "Anaplasia",
+        "Neoplasia",
+        "Metastasis"
+      ],
+      "correct_answer": "Metastasis",
+      "id": "A4F0BA14-BC17-4FC3-AAB7-C2D10DC4A57D"
+    },
+    {
+      "question": "Which autoimmune disease results in hyperthyroidism due to the overproduction of thyroid hormones?",
+      "options": [
+        "Graves' disease",
+        "Addison's disease",
+        "Cushing's disease",
+        "Hashimoto's disease"
+      ],
+      "correct_answer": "Graves' disease",
+      "id": "B098C92D-6078-4EE8-BD5B-E12CE807EB48"
+    },
+    {
+      "question": "What condition, often caused by alcohol abuse or viral hepatitis, leads to liver scarring and poor liver function?",
+      "options": [
+        "Hepatitis",
+        "Fatty liver disease",
+        "Liver cirrhosis",
+        "Cholestasis"
+      ],
+      "correct_answer": "Liver cirrhosis",
+      "id": "15205E8B-BC84-473E-B09C-4B173B2F2243"
+    }
+  ]
+}

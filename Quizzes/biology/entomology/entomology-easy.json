@@ -1,0 +1,116 @@
+{
+  "category": "Entomology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Which of the following is NOT an insect?",
+      "options": [
+        "Butterfly",
+        "Ant",
+        "Spider",
+        "Fly"
+      ],
+      "correct_answer": "Spider",
+      "id": "E1733539-A34E-4C28-9080-BA511FA88F36"
+    },
+    {
+      "question": "What is the process called when a caterpillar transforms into a butterfly?",
+      "options": [
+        "Adaptation",
+        "Reproduction",
+        "Metamorphosis",
+        "Regeneration"
+      ],
+      "correct_answer": "Metamorphosis",
+      "id": "9EDC0C22-3187-4622-A5ED-C7E00B90DB54"
+    },
+    {
+      "question": "What is the largest group of insects?",
+      "options": [
+        "Moths and butterflies",
+        "Beetles",
+        "Flies",
+        "Ants, bees, and wasps"
+      ],
+      "correct_answer": "Beetles",
+      "id": "28D0C88F-2E16-403E-A56C-4171541728EF"
+    },
+    {
+      "question": "How many legs does an insect typically have?",
+      "options": [
+        "Two",
+        "Four",
+        "Six",
+        "Eight"
+      ],
+      "correct_answer": "Six",
+      "id": "0A697714-5117-4591-A4C4-7E5A5F060197"
+    },
+    {
+      "question": "What is the study of insects called?",
+      "options": [
+        "Herpetology",
+        "Ornithology",
+        "Ichthyology",
+        "Entomology"
+      ],
+      "correct_answer": "Entomology",
+      "id": "ABC4C08F-8B9B-45DC-BF45-89BCEA775CC3"
+    },
+    {
+      "question": "Which insect is known for its ability to produce light?",
+      "options": [
+        "Dragonfly",
+        "Firefly",
+        "Ladybug",
+        "Bee"
+      ],
+      "correct_answer": "Firefly",
+      "id": "2A9BC140-C2FF-41ED-8216-B14DA928525E"
+    },
+    {
+      "question": "Which insect is known to live in colonies and has a caste system?",
+      "options": [
+        "Ants",
+        "Beetles",
+        "Butterflies",
+        "Grasshoppers"
+      ],
+      "correct_answer": "Ants",
+      "id": "C0783DD9-1467-42CC-9DB3-E50E163394A4"
+    },
+    {
+      "question": "What is the term for insects that undergo incomplete metamorphosis?",
+      "options": [
+        "Hemimetabolous",
+        "Holometabolous",
+        "Amphibious",
+        "Ametabolous"
+      ],
+      "correct_answer": "Hemimetabolous",
+      "id": "1CACC5B8-9BB5-4491-9DE4-B25E676F8730"
+    },
+    {
+      "question": "Which insects are known for their ability to jump long distances?",
+      "options": [
+        "Grasshoppers",
+        "Butterflies",
+        "Ants",
+        "Moths"
+      ],
+      "correct_answer": "Grasshoppers",
+      "id": "16ADF8C8-6657-4994-8AEF-DF06F655E147"
+    },
+    {
+      "question": "What are the sensory appendages on an insect's head called?",
+      "options": [
+        "Antennae",
+        "Proboscis",
+        "Mandibles",
+        "Tarsi"
+      ],
+      "correct_answer": "Antennae",
+      "id": "FCEE7F16-B5B3-4367-A9FE-F883ED03641A"
+    }
+  ]
+}

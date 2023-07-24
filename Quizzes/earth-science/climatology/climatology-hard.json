@@ -1,0 +1,116 @@
+{
+  "category": "Climatology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What climatology term refers to a long-term shift in global or regional climate patterns, often associated with a rise in global average temperature?",
+      "options": [
+        "Climate Shift",
+        "Global Warming",
+        "Climate Change",
+        "Thermal Expansion"
+      ],
+      "correct_answer": "Climate Change",
+      "id": "58DFB904-B6CC-4E07-980F-1478FE577A3A"
+    },
+    {
+      "question": "What term is used for a dry, high-pressure system that forms over the poles?",
+      "options": [
+        "Polar cyclone",
+        "Polar vortex",
+        "Polar front",
+        "Polar easterlies"
+      ],
+      "correct_answer": "Polar vortex",
+      "id": "B1408B26-1129-4A00-8F13-FD61483535F6"
+    },
+    {
+      "question": "What kind of graph is used in climatology to show temperature and precipitation for a particular place over the course of a year?",
+      "options": [
+        "Climograph",
+        "Weather graph",
+        "Barometric chart",
+        "Thermographic chart"
+      ],
+      "correct_answer": "Climograph",
+      "id": "C18FB1A3-1F5F-4BF9-A456-BCBCC32863FA"
+    },
+    {
+      "question": "What is the term for the level above the Earth's surface at which dew begins to form?",
+      "options": [
+        "Condensation level",
+        "Saturation level",
+        "Dew point",
+        "Freezing level"
+      ],
+      "correct_answer": "Condensation level",
+      "id": "6837AF46-D893-41C7-A32D-821B9EFDE172"
+    },
+    {
+      "question": "The Köppen Climate Classification system classifies climates primarily on what basis?",
+      "options": [
+        "Prevailing wind patterns",
+        "Annual and monthly averages of temperature and precipitation",
+        "Altitude",
+        "Proximity to the equator"
+      ],
+      "correct_answer": "Annual and monthly averages of temperature and precipitation",
+      "id": "38D5D0BC-8D06-42F9-8A7D-5A6A97BE74C9"
+    },
+    {
+      "question": "What is the name of the semi-permanent high pressure system found over the North and South Pacific Oceans?",
+      "options": [
+        "Subtropical ridge",
+        "Bermuda High",
+        "Azores High",
+        "Pacific High"
+      ],
+      "correct_answer": "Pacific High",
+      "id": "75AE67FA-AE2B-4ADD-8CFF-F23B89F26030"
+    },
+    {
+      "question": "What is the name of the climate zone characterized by low-angle sun and short, cool summers leading to a short growing season?",
+      "options": [
+        "Polar zone",
+        "Temperate zone",
+        "Tropical zone",
+        "Subtropical zone"
+      ],
+      "correct_answer": "Polar zone",
+      "id": "3C61F011-1052-4671-9ED9-52EDC3C594B6"
+    },
+    {
+      "question": "Which climate zone is characterized by the presence of the Intertropical Convergence Zone (ITCZ)?",
+      "options": [
+        "Polar",
+        "Temperate",
+        "Subtropical",
+        "Tropical"
+      ],
+      "correct_answer": "Tropical",
+      "id": "982D61B7-EBC3-45E3-984A-8636E25EB7F0"
+    },
+    {
+      "question": "What does the term 'albedo' refer to in climatology?",
+      "options": [
+        "The study of high atmosphere wind patterns",
+        "The effect of human activity on climate change",
+        "The reflectivity of a surface",
+        "The warming effect of certain gases"
+      ],
+      "correct_answer": "The reflectivity of a surface",
+      "id": "775992DB-1CE2-4505-96DC-192FB479F3E1"
+    },
+    {
+      "question": "What is the name of the process where changes in land use or land cover can affect the temperature and other climatic variables of a region?",
+      "options": [
+        "Urban heat island effect",
+        "Deforestation",
+        "Land use feedback",
+        "Thermal pollution"
+      ],
+      "correct_answer": "Land use feedback",
+      "id": "4988F234-FE74-473A-994A-98C1B9B5380A"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Discrete Mathematics",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What does the term 'discrete' in Discrete Mathematics mean?",
+      "options": [
+        "That values can be any real number",
+        "That values can only be certain separate, distinct numbers",
+        "That calculations are carried out discretely",
+        "That the mathematical operations are discreet and not public"
+      ],
+      "correct_answer": "That values can only be certain separate, distinct numbers",
+      "id": "C6A152AA-6BE4-4FF9-8A44-358FDCC04E99"
+    },
+    {
+      "question": "In the context of graph theory, what is a vertex?",
+      "options": [
+        "A connection between two nodes",
+        "A central point in the graph",
+        "A point where two or more lines meet",
+        "The maximum number of edges in a graph"
+      ],
+      "correct_answer": "A point where two or more lines meet",
+      "id": "8D2E1631-040C-47B9-A330-281A37D7D482"
+    },
+    {
+      "question": "What is the pigeonhole principle?",
+      "options": [
+        "If you have more pigeons than pigeonholes, at least one pigeonhole has to contain more than one pigeon",
+        "Pigeons always return to their own pigeonholes",
+        "Pigeonholes should always be in odd numbers",
+        "All pigeonholes should be of the same size"
+      ],
+      "correct_answer": "If you have more pigeons than pigeonholes, at least one pigeonhole has to contain more than one pigeon",
+      "id": "DDCBD69B-6E78-4C2F-87D7-1BDF0BA5476D"
+    },
+    {
+      "question": "What is a binary relation?",
+      "options": [
+        "A relation between two sets",
+        "A relation involving two numbers",
+        "A relation that is true or false",
+        "A relation that can only have two values"
+      ],
+      "correct_answer": "A relation between two sets",
+      "id": "E01C148C-B796-42AA-9555-AA9DC039F518"
+    },
+    {
+      "question": "What does 'n!' represent in Discrete Mathematics?",
+      "options": [
+        "The factorial of n",
+        "The sum of the first n numbers",
+        "The product of the first n numbers",
+        "The square root of n"
+      ],
+      "correct_answer": "The factorial of n",
+      "id": "8E31501A-6EE3-43A0-930A-48ECD15DA5FD"
+    },
+    {
+      "question": "What is the name of the sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21...?",
+      "options": [
+        "Lucas Sequence",
+        "Pell Sequence",
+        "Fibonacci Sequence",
+        "Catalan Sequence"
+      ],
+      "correct_answer": "Fibonacci Sequence",
+      "id": "D63396E9-C606-4AA2-94CD-86C7F2AA2B05"
+    },
+    {
+      "question": "In graph theory, what is a simple path?",
+      "options": [
+        "A path where each vertex is unique",
+        "A path that starts and ends at the same vertex",
+        "A path where each edge is unique",
+        "A path that only includes two vertices"
+      ],
+      "correct_answer": "A path where each vertex is unique",
+      "id": "551EF048-2648-487A-A1F4-2AE1D16A5EB8"
+    },
+    {
+      "question": "In set theory, what does the union of sets A and B represent?",
+      "options": [
+        "Elements that are in both A and B",
+        "Elements that are in A but not in B",
+        "Elements that are in A or in B or in both",
+        "Elements that are in A and B but not in their intersection"
+      ],
+      "correct_answer": "Elements that are in A or in B or in both",
+      "id": "9057D085-3E4D-4410-ABF5-F0ABDB76DF67"
+    },
+    {
+      "question": "What does the 'floor function', often denoted as ⌊x⌋, do to the number x?",
+      "options": [
+        "Rounds it up to the nearest integer",
+        "Rounds it down to the nearest integer",
+        "Rounds it to the nearest integer",
+        "Finds the square root"
+      ],
+      "correct_answer": "Rounds it down to the nearest integer",
+      "id": "30054D4A-8BC8-4F09-B2CF-E1572822E5FC"
+    },
+    {
+      "question": "What is a bijection in the context of functions?",
+      "options": [
+        "A function that is both injective and surjective",
+        "A function that has an inverse",
+        "A function that passes the vertical line test",
+        "A function where every input has two outputs"
+      ],
+      "correct_answer": "A function that is both injective and surjective",
+      "id": "CE0D4962-AE33-401D-8A23-A019D782D43B"
+    }
+  ]
+}

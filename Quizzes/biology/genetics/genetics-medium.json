@@ -1,0 +1,116 @@
+{
+  "category": "Genetics",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the term for a gene located on a sex chromosome?",
+      "options": [
+        "Sex-linked gene",
+        "Autosomal gene",
+        "Dominant gene",
+        "Recessive gene"
+      ],
+      "correct_answer": "Sex-linked gene",
+      "id": "2E10E0CC-C80F-4488-B7AE-F7DB1EEBD1CC"
+    },
+    {
+      "question": "What is the term for a mutation that involves one or a few nucleotides?",
+      "options": [
+        "Point mutation",
+        "Frameshift mutation",
+        "Deletion mutation",
+        "Duplication mutation"
+      ],
+      "correct_answer": "Point mutation",
+      "id": "FDA01F6C-ED84-4E7D-B618-6BFDD6F00495"
+    },
+    {
+      "question": "Which law states that allele pairs separate independently during the formation of gametes?",
+      "options": [
+        "Law of Segregation",
+        "Law of Independent Assortment",
+        "Law of Dominance",
+        "Law of Uniformity"
+      ],
+      "correct_answer": "Law of Independent Assortment",
+      "id": "603CAEC6-046F-47E4-9134-CF5327593C5B"
+    },
+    {
+      "question": "In epistasis, what is the relationship between genes?",
+      "options": [
+        "One gene masks the expression of another gene",
+        "Genes are expressed at the same time",
+        "Genes interact to produce physical traits",
+        "One gene alters the expected outcome of another gene"
+      ],
+      "correct_answer": "One gene masks the expression of another gene",
+      "id": "0935829C-F8F4-47ED-A0CF-B6C9405A603D"
+    },
+    {
+      "question": "Which type of RNA is involved in protein synthesis and carries the genetic code from DNA?",
+      "options": [
+        "mRNA",
+        "rRNA",
+        "tRNA",
+        "snRNA"
+      ],
+      "correct_answer": "mRNA",
+      "id": "53A73913-0262-421C-B38D-A9EC1B07BD8E"
+    },
+    {
+      "question": "Which process produces gametes in animals?",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Binary Fission",
+        "Budding"
+      ],
+      "correct_answer": "Meiosis",
+      "id": "F443AB6E-D622-4229-912D-50A78AC18FEF"
+    },
+    {
+      "question": "Which scientist(s) is/are associated with the discovery of the structure of DNA?",
+      "options": [
+        "Charles Darwin and Alfred Russel Wallace",
+        "Gregor Mendel",
+        "James Watson and Francis Crick",
+        "Rosalind Franklin and Maurice Wilkins"
+      ],
+      "correct_answer": "James Watson and Francis Crick",
+      "id": "8A7B2C34-2487-40E9-AD9D-9DF668050F6A"
+    },
+    {
+      "question": "What is the name of the technique commonly used to amplify a single copy or a few copies of a piece of DNA?",
+      "options": [
+        "Cloning",
+        "Polymerase chain reaction (PCR)",
+        "DNA sequencing",
+        "Gel electrophoresis"
+      ],
+      "correct_answer": "Polymerase chain reaction (PCR)",
+      "id": "BD8EE323-AE91-4FB4-A441-E53D78181E5D"
+    },
+    {
+      "question": "Which of the following statements about telomeres is incorrect?",
+      "options": [
+        "They are found at the ends of chromosomes",
+        "They consist of repeated sequences of DNA",
+        "They shorten each time a cell divides",
+        "They can be lengthened by the action of the enzyme helicase"
+      ],
+      "correct_answer": "They can be lengthened by the action of the enzyme helicase",
+      "id": "C62E8A8B-2544-4E79-BAD9-1329E7FE2CB0"
+    },
+    {
+      "question": "Which type of inheritance pattern is seen when both alleles contribute to the phenotype of the heterozygote?",
+      "options": [
+        "Dominant",
+        "Recessive",
+        "Co-dominant",
+        "Incomplete dominance"
+      ],
+      "correct_answer": "Co-dominant",
+      "id": "747CECB3-C3D0-46AA-9988-335C02C14D5D"
+    }
+  ]
+}

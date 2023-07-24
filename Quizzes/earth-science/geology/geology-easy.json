@@ -1,0 +1,116 @@
+{
+  "category": "Geology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": [
+        "Gold",
+        "Steel",
+        "Diamond",
+        "Granite"
+      ],
+      "correct_answer": "Diamond",
+      "id": "EC227977-C2FE-4AFF-B6E5-D8000A933998"
+    },
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct_answer": "Mars",
+      "id": "89AB0BC9-D4BB-4665-B5BF-EDADB8AE3B47"
+    },
+    {
+      "question": "What is the molten rock that comes out of a volcano called?",
+      "options": [
+        "Lava",
+        "Magma",
+        "Crust",
+        "Core"
+      ],
+      "correct_answer": "Lava",
+      "id": "1286106E-F6BF-4695-B2C5-D1A1EC17AE2F"
+    },
+    {
+      "question": "What kind of natural disaster is measured using the Richter scale?",
+      "options": [
+        "Hurricanes",
+        "Tornadoes",
+        "Earthquakes",
+        "Floods"
+      ],
+      "correct_answer": "Earthquakes",
+      "id": "E0DF6E06-820F-454A-A9A7-F6E636907E4E"
+    },
+    {
+      "question": "What type of rock is formed by the cooling and solidification of magma or lava?",
+      "options": [
+        "Igneous",
+        "Metamorphic",
+        "Sedimentary",
+        "Lithified"
+      ],
+      "correct_answer": "Igneous",
+      "id": "45DA9D0B-0913-47AD-BCD4-C7DACA7449A7"
+    },
+    {
+      "question": "What name is given to the study of earthquakes?",
+      "options": [
+        "Seismology",
+        "Geomorphology",
+        "Volcanology",
+        "Petrology"
+      ],
+      "correct_answer": "Seismology",
+      "id": "56CD9149-D4B8-4885-A349-B52636A3C8EC"
+    },
+    {
+      "question": "What is the primary gas present in the Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "correct_answer": "Nitrogen",
+      "id": "797CE09B-7A92-4201-9C9A-12EB6D96D7E6"
+    },
+    {
+      "question": "Which type of rock is created by the deposition and subsequent cementation of material, often in bodies of water?",
+      "options": [
+        "Sedimentary",
+        "Igneous",
+        "Metamorphic",
+        "Granite"
+      ],
+      "correct_answer": "Sedimentary",
+      "id": "2266516E-47BE-46BF-8625-AE40C0ADEBC7"
+    },
+    {
+      "question": "What is the Earth's outermost layer called?",
+      "options": [
+        "Mantle",
+        "Outer core",
+        "Crust",
+        "Inner core"
+      ],
+      "correct_answer": "Crust",
+      "id": "49634916-D216-4F09-AB90-7374CDAF2131"
+    },
+    {
+      "question": "What is the process by which rock is broken down into smaller pieces by weathering and then transported?",
+      "options": [
+        "Erosion",
+        "Solidification",
+        "Subduction",
+        "Compaction"
+      ],
+      "correct_answer": "Erosion",
+      "id": "1ED48D89-21D4-4D07-97CF-BA95A83C5FEB"
+    }
+  ]
+}

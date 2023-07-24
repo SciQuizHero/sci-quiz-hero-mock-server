@@ -1,0 +1,116 @@
+{
+  "category": "Microbiology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Which of the following terms refers to a bacterium that has lost its cell wall?",
+      "options": [
+        "Coccobacillus",
+        "Spheroplast",
+        "Endospore",
+        "Mycelium"
+      ],
+      "correct_answer": "Spheroplast",
+      "id": "A192F4DC-BF19-47AD-B910-6183C9B02C4C"
+    },
+    {
+      "question": "What is the function of penicillin-binding proteins in bacteria?",
+      "options": [
+        "DNA replication",
+        "Cell wall synthesis",
+        "Protein synthesis",
+        "Energy production"
+      ],
+      "correct_answer": "Cell wall synthesis",
+      "id": "A703C464-578A-4BD8-8175-F2F321713F2E"
+    },
+    {
+      "question": "Which enzyme is responsible for supercoiling in bacterial DNA?",
+      "options": [
+        "Helicase",
+        "DNA gyrase",
+        "DNA polymerase",
+        "Ligase"
+      ],
+      "correct_answer": "DNA gyrase",
+      "id": "0D6F4AF3-C255-478F-AD8F-9F110692A6D7"
+    },
+    {
+      "question": "Which of the following is not a characteristic of gram-negative bacteria?",
+      "options": [
+        "Presence of outer membrane",
+        "Thick peptidoglycan layer",
+        "Contain lipopolysaccharides",
+        "Stain red or pink in Gram staining"
+      ],
+      "correct_answer": "Thick peptidoglycan layer",
+      "id": "B4887C8F-A926-42C0-AEDE-1966246C6D85"
+    },
+    {
+      "question": "What type of toxins are secreted into the surrounding medium by bacteria?",
+      "options": [
+        "Exotoxins",
+        "Endotoxins",
+        "Neurotoxins",
+        "Cytotoxins"
+      ],
+      "correct_answer": "Exotoxins",
+      "id": "12C56FB1-D410-4EAD-8332-4F1C48464256"
+    },
+    {
+      "question": "What is a viroid?",
+      "options": [
+        "A type of virus",
+        "An infectious protein",
+        "A type of bacteria",
+        "An infectious piece of RNA without a capsid"
+      ],
+      "correct_answer": "An infectious piece of RNA without a capsid",
+      "id": "A650D40D-AA73-4DD4-AD16-E5EDB55DA3A7"
+    },
+    {
+      "question": "What is the concept of 'quorum sensing' in bacteria?",
+      "options": [
+        "Ability to sense nutrient levels in the environment",
+        "Regulation of gene expression in response to cell density",
+        "Ability to sense light and darkness",
+        "Ability to sense the presence of other species"
+      ],
+      "correct_answer": "Regulation of gene expression in response to cell density",
+      "id": "2899E27B-A15C-4D52-A10C-DA94D4BA7D7A"
+    },
+    {
+      "question": "Which of the following bacteria is Gram-positive?",
+      "options": [
+        "Escherichia coli",
+        "Pseudomonas aeruginosa",
+        "Staphylococcus aureus",
+        "Salmonella typhimurium"
+      ],
+      "correct_answer": "Staphylococcus aureus",
+      "id": "3E9736BE-D6A5-40E5-8FB2-B01F967924FB"
+    },
+    {
+      "question": "What is the process of transfer of genetic material from one bacterium to another through a bacteriophage called?",
+      "options": [
+        "Conjugation",
+        "Transduction",
+        "Transformation",
+        "Transposition"
+      ],
+      "correct_answer": "Transduction",
+      "id": "5371D0F4-CD5E-448A-9F00-F64475754C83"
+    },
+    {
+      "question": "Which class of antibiotics target bacterial ribosomes?",
+      "options": [
+        "Beta-lactams",
+        "Quinolones",
+        "Aminoglycosides",
+        "Sulfonamides"
+      ],
+      "correct_answer": "Aminoglycosides",
+      "id": "75E77F2B-091B-4148-8628-0E9F0093AAD9"
+    }
+  ]
+}

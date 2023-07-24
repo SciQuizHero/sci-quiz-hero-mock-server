@@ -1,0 +1,116 @@
+{
+  "category": "Pharmacology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Which class of drugs is commonly used to treat hypertension?",
+      "options": [
+        "ACE inhibitors",
+        "Antihistamines",
+        "Antacids",
+        "Antifungals"
+      ],
+      "correct_answer": "ACE inhibitors",
+      "id": "F543F0A0-B243-4738-94F8-5CE531C5FBDC"
+    },
+    {
+      "question": "Which drug is commonly used to relieve pain and reduce inflammation?",
+      "options": [
+        "Ibuprofen",
+        "Levothyroxine",
+        "Loratadine",
+        "Omeprazole"
+      ],
+      "correct_answer": "Ibuprofen",
+      "id": "DAF201AC-894F-4AB0-A47A-40938183C0C9"
+    },
+    {
+      "question": "Which drug is commonly used to treat allergic reactions?",
+      "options": [
+        "Diphenhydramine",
+        "Aspirin",
+        "Metformin",
+        "Propranolol"
+      ],
+      "correct_answer": "Diphenhydramine",
+      "id": "62DC2535-AF73-413C-ABB9-E4CDBACCBBA2"
+    },
+    {
+      "question": "Which of the following medications is a common treatment for type 2 diabetes?",
+      "options": [
+        "Metformin",
+        "Warfarin",
+        "Propranolol",
+        "Atorvastatin"
+      ],
+      "correct_answer": "Metformin",
+      "id": "630414E2-5053-4777-8CAC-18D8166B34AC"
+    },
+    {
+      "question": "What type of drug is commonly used to treat high cholesterol?",
+      "options": [
+        "Statins",
+        "Beta-blockers",
+        "Diuretics",
+        "Anticoagulants"
+      ],
+      "correct_answer": "Statins",
+      "id": "9C824443-6940-4C11-804D-4B37321D770B"
+    },
+    {
+      "question": "Which drug is commonly used as an anticoagulant to prevent blood clot formation?",
+      "options": [
+        "Warfarin",
+        "Diazepam",
+        "Albuterol",
+        "Amoxicillin"
+      ],
+      "correct_answer": "Warfarin",
+      "id": "AAE5C0CC-7B51-41A5-8319-0723ACE40EA2"
+    },
+    {
+      "question": "Which type of drug is used to treat asthma by relaxing the muscles of the airways?",
+      "options": [
+        "Bronchodilators",
+        "Antidepressants",
+        "Antivirals",
+        "Calcium channel blockers"
+      ],
+      "correct_answer": "Bronchodilators",
+      "id": "C580F9D1-7A90-4D5A-A780-9E4F0965058A"
+    },
+    {
+      "question": "Which drug is commonly used to treat bacterial infections?",
+      "options": [
+        "Amoxicillin",
+        "Acetaminophen",
+        "Lisinopril",
+        "Simvastatin"
+      ],
+      "correct_answer": "Amoxicillin",
+      "id": "E96667F7-0D69-4117-97C2-45290C256AAC"
+    },
+    {
+      "question": "What type of drug is commonly prescribed to lower blood pressure?",
+      "options": [
+        "ACE inhibitors",
+        "Statins",
+        "Antidepressants",
+        "Antivirals"
+      ],
+      "correct_answer": "ACE inhibitors",
+      "id": "D6E8881B-1D13-447A-B450-ACF14DFEADF9"
+    },
+    {
+      "question": "Which class of drugs is used to treat pain, fever, and inflammation?",
+      "options": [
+        "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+        "Antacids",
+        "Diuretics",
+        "Antifungals"
+      ],
+      "correct_answer": "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+      "id": "230D660B-9BA3-4634-B84E-EB670642C4B1"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Which data structure provides constant-time insertions, deletions, and lookups with a fixed capacity in Python?",
+      "options": [
+        "Array",
+        "Linked List",
+        "Heap",
+        "Hash Table"
+      ],
+      "correct_answer": "Array",
+      "id": "B29D8C4F-90ED-435A-A540-7C81078B9A3C"
+    },
+    {
+      "question": "Which data structure is best suited for implementing a priority queue in terms of both time complexity and efficient operations?",
+      "options": [
+        "Binary Search Tree",
+        "Heap",
+        "Stack",
+        "Linked List"
+      ],
+      "correct_answer": "Heap",
+      "id": "A02BEB02-4B16-4C97-919E-1937B0613679"
+    },
+    {
+      "question": "Which data structure is used to efficiently find the longest common prefix of a set of strings?",
+      "options": [
+        "Trie",
+        "Hash Table",
+        "Linked List",
+        "Red-Black Tree"
+      ],
+      "correct_answer": "Trie",
+      "id": "D43DB6A2-1257-4C36-B026-8839D494C856"
+    },
+    {
+      "question": "Which data structure is commonly used for implementing graph traversals like Breadth-First Search (BFS) and Depth-First Search (DFS)?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Heap",
+        "Hash Table"
+      ],
+      "correct_answer": "Stack",
+      "id": "5F2BA60A-DB7B-44F1-B7CD-925E5F820B33"
+    },
+    {
+      "question": "Which data structure is used for efficient range queries and updates in an array?",
+      "options": [
+        "Segment Tree",
+        "Heap",
+        "Hash Table",
+        "Binary Search Tree"
+      ],
+      "correct_answer": "Segment Tree",
+      "id": "8254691E-1BF3-4170-95F4-AE739B24EC53"
+    },
+    {
+      "question": "Which data structure is suitable for efficiently finding the median of a dynamic set of numbers?",
+      "options": [
+        "Binary Heap",
+        "Red-Black Tree",
+        "Trie",
+        "Skip List"
+      ],
+      "correct_answer": "Red-Black Tree",
+      "id": "9C558610-184A-41D0-9E34-375B550993FC"
+    },
+    {
+      "question": "Which data structure provides constant-time worst-case lookup, insertion, and deletion operations in Python?",
+      "options": [
+        "Hash Table",
+        "Binary Search Tree",
+        "Heap",
+        "Array"
+      ],
+      "correct_answer": "Hash Table",
+      "id": "A1A4477E-C2EC-4030-BB23-A81351D966D9"
+    },
+    {
+      "question": "Which data structure is used for quickly locating the nearest neighbors in a multi-dimensional space?",
+      "options": [
+        "KD-Tree",
+        "Radix Tree",
+        "Splay Tree",
+        "AVL Tree"
+      ],
+      "correct_answer": "KD-Tree",
+      "id": "E2599082-8CE8-4371-8D5C-83E587F0491B"
+    },
+    {
+      "question": "Which data structure is commonly used for implementing a disjoint-set data structure with efficient union and find operations?",
+      "options": [
+        "Disjoint-Set Forest",
+        "Trie",
+        "Segment Tree",
+        "B-Tree"
+      ],
+      "correct_answer": "Disjoint-Set Forest",
+      "id": "C537BD0C-A93C-4DAC-8A43-2EBE8A6F9F60"
+    },
+    {
+      "question": "Which data structure is used to efficiently find the kth largest element in an unsorted array?",
+      "options": [
+        "Min Heap",
+        "Max Heap",
+        "Binary Search Tree",
+        "Stack"
+      ],
+      "correct_answer": "Min Heap",
+      "id": "E38AF3EA-D133-4969-9E07-5E5D311166D3"
+    }
+  ]
+}

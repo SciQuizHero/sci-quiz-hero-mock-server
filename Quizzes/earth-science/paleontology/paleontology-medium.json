@@ -1,0 +1,116 @@
+{
+  "category": "Paleontology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the name for a type of fossil consisting of an impression or imprint of an organism, particularly a plant?",
+      "options": [
+        "Impression Fossil",
+        "Cast Fossil",
+        "Mold Fossil",
+        "Trace Fossil"
+      ],
+      "correct_answer": "Impression Fossil",
+      "id": "B30781B6-51AC-4854-A463-CD3500F3F84C"
+    },
+    {
+      "question": "Which dinosaur group is characterized by having a 'bird-hipped' pelvis?",
+      "options": [
+        "Sauropodomorpha",
+        "Theropoda",
+        "Ornithischia",
+        "Saurischia"
+      ],
+      "correct_answer": "Ornithischia",
+      "id": "AA2946A1-F9A5-43DE-B0CD-94330F79DFCF"
+    },
+    {
+      "question": "The Burgess Shale, a world-renowned fossil site, is located in which country?",
+      "options": [
+        "USA",
+        "UK",
+        "Australia",
+        "Canada"
+      ],
+      "correct_answer": "Canada",
+      "id": "94A5D663-FB00-49A3-9548-B73006FC6F07"
+    },
+    {
+      "question": "What is the term for a fossilized piece of dinosaur dung?",
+      "options": [
+        "Coprolite",
+        "Gastrolith",
+        "Pellet",
+        "Amber"
+      ],
+      "correct_answer": "Coprolite",
+      "id": "0FA03035-99A0-4951-AA32-8974736D1784"
+    },
+    {
+      "question": "What epoch is often referred to as the 'Ice Age'?",
+      "options": [
+        "Holocene",
+        "Eocene",
+        "Miocene",
+        "Pleistocene"
+      ],
+      "correct_answer": "Pleistocene",
+      "id": "84EDC96A-3567-4C63-9EAC-0EC6734D776D"
+    },
+    {
+      "question": "What is the primary type of rock in which fossils are found?",
+      "options": [
+        "Igneous",
+        "Metamorphic",
+        "Sedimentary",
+        "Composite"
+      ],
+      "correct_answer": "Sedimentary",
+      "id": "0A05DF53-69CE-4C68-BAA4-929203D8E8D3"
+    },
+    {
+      "question": "Which of the following types of fossils preserves the shape and surface markings, but not the internal structures, of the organism?",
+      "options": [
+        "Compression Fossils",
+        "Permineralization Fossils",
+        "Casts and Molds",
+        "Unaltered Remains"
+      ],
+      "correct_answer": "Compression Fossils",
+      "id": "DA9D4794-BA99-49F2-9F0C-619A0AE1EAF3"
+    },
+    {
+      "question": "What is the largest known species of shark in the fossil record?",
+      "options": [
+        "Great White Shark",
+        "Tiger Shark",
+        "Megalodon",
+        "Hammerhead Shark"
+      ],
+      "correct_answer": "Megalodon",
+      "id": "9EA67228-3D0F-46D5-A444-5F4DE2EBE37C"
+    },
+    {
+      "question": "The K-T boundary, a geological signature of a mass extinction event, is primarily associated with the extinction of which group of organisms?",
+      "options": [
+        "Dinosaurs",
+        "Trilobites",
+        "Ammonites",
+        "Mammals"
+      ],
+      "correct_answer": "Dinosaurs",
+      "id": "C419176E-F0D5-442A-A947-23F9816BD537"
+    },
+    {
+      "question": "Which of the following periods is part of the Mesozoic Era?",
+      "options": [
+        "Jurassic",
+        "Cambrian",
+        "Ordovician",
+        "Devonian"
+      ],
+      "correct_answer": "Jurassic",
+      "id": "CAE1B8B3-9294-466B-9FDB-F8E852FE25E2"
+    }
+  ]
+}

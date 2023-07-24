@@ -1,0 +1,116 @@
+{
+  "category": "Relativity",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the Schwarzschild radius and how is it significant in the context of black holes?",
+      "options": [
+        "The radius at which light can escape from a black hole",
+        "The radius at which the escape speed equals the speed of light",
+        "The minimum radius an object must have in order to become a black hole",
+        "The radius beyond which matter is condensed in a black hole"
+      ],
+      "correct_answer": "The radius at which the escape speed equals the speed of light",
+      "id": "467F7616-13B0-4AFC-BFD9-5D844B26F0DC"
+    },
+    {
+      "question": "What is 'Lorentz Invariance' in the context of special relativity?",
+      "options": [
+        "The constancy of the speed of light in all inertial frames",
+        "The principle that the laws of physics should look the same in all inertial frames",
+        "The invariance of physical laws under transformations between inertial frames",
+        "The fact that the spacetime interval between two events is invariant under Lorentz transformations"
+      ],
+      "correct_answer": "The fact that the spacetime interval between two events is invariant under Lorentz transformations",
+      "id": "7CCE0F00-C5C2-48EF-901D-3F57A5180DD4"
+    },
+    {
+      "question": "How does the concept of 'simultaneity' differ in special relativity from its understanding in classical physics?",
+      "options": [
+        "In special relativity, simultaneity is relative to the observer",
+        "In special relativity, simultaneity does not exist",
+        "In special relativity, all events are simultaneous",
+        "In special relativity, simultaneity is absolute"
+      ],
+      "correct_answer": "In special relativity, simultaneity is relative to the observer",
+      "id": "CDE8FBB3-7813-486E-9EDD-2F212EEA78FA"
+    },
+    {
+      "question": "What is the 'Cosmic Speed Limit'?",
+      "options": [
+        "The maximum speed at which information can travel",
+        "The speed of light in vacuum",
+        "The speed of gravity",
+        "Both A and B"
+      ],
+      "correct_answer": "Both A and B",
+      "id": "B05AC09E-C6B8-4081-BADD-5F244F739EDB"
+    },
+    {
+      "question": "What are 'world lines' in the context of relativity?",
+      "options": [
+        "Paths that light takes through spacetime",
+        "Paths that particles take through spacetime",
+        "Theoretical lines that define the boundary of the universe",
+        "Lines that connect points of the same time in different frames"
+      ],
+      "correct_answer": "Paths that particles take through spacetime",
+      "id": "D5ACB128-21BA-49EC-A0DC-ABEE2828A360"
+    },
+    {
+      "question": "What are 'Tachyons' in the context of special relativity?",
+      "options": [
+        "Particles that travel faster than light",
+        "Particles that are always at rest",
+        "Particles that have zero mass",
+        "Particles that travel backwards in time"
+      ],
+      "correct_answer": "Particles that travel faster than light",
+      "id": "51D1114D-4A33-4A83-9ED7-3BD7059ECC6F"
+    },
+    {
+      "question": "What is 'gravitational redshift' as predicted by the theory of general relativity?",
+      "options": [
+        "The shift in the frequency of light to the red end of the spectrum as it moves away from a massive body",
+        "The shift in the frequency of light to the blue end of the spectrum as it moves towards a massive body",
+        "The shift in the frequency of light to the red end of the spectrum as it moves towards a massive body",
+        "The shift in the frequency of light to the blue end of the spectrum as it moves away from a massive body"
+      ],
+      "correct_answer": "The shift in the frequency of light to the red end of the spectrum as it moves away from a massive body",
+      "id": "82FC0925-1464-4978-96EE-2ABD230F41C1"
+    },
+    {
+      "question": "In the context of special relativity, what does E=mc^2 represent?",
+      "options": [
+        "The energy contained within a certain amount of mass",
+        "The energy required to accelerate an object to the speed of light",
+        "The maximum energy that can be obtained from a mass",
+        "The energy required to create a certain amount of mass"
+      ],
+      "correct_answer": "The energy contained within a certain amount of mass",
+      "id": "2C4AA8B9-FC8A-4666-9C42-40D77AA62372"
+    },
+    {
+      "question": "What are 'gravitational waves' according to general relativity?",
+      "options": [
+        "Waves of gravity that propagate through space",
+        "Fluctuations in the density of matter",
+        "Disturbances in the curvature of spacetime",
+        "Pulses of gravitational force"
+      ],
+      "correct_answer": "Disturbances in the curvature of spacetime",
+      "id": "5741FEA1-207B-4731-BF35-A927298AB5BC"
+    },
+    {
+      "question": "What is 'time dilation' in the context of special relativity?",
+      "options": [
+        "The apparent slowing down of time in a moving frame of reference",
+        "The apparent speeding up of time in a moving frame of reference",
+        "The difference in time measurements between observers in different frames of reference",
+        "The effect of gravity on the rate of time flow"
+      ],
+      "correct_answer": "The apparent slowing down of time in a moving frame of reference",
+      "id": "BBE5B58D-BD86-43F7-813D-858FB625539E"
+    }
+  ]
+}

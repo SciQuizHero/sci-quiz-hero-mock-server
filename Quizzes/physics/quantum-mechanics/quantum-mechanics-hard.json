@@ -1,0 +1,116 @@
+{
+  "category": "Quantum Mechanics",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the 'Bell's Theorem' in the context of quantum mechanics?",
+      "options": [
+        "A theorem that disproves the concept of local hidden variables in quantum mechanics",
+        "A theorem that proves the existence of quantum entanglement",
+        "A theorem that explains the dual nature of particles",
+        "A theorem that proves the uncertainty principle"
+      ],
+      "correct_answer": "A theorem that disproves the concept of local hidden variables in quantum mechanics",
+      "id": "FFFA165A-21DE-4F01-8FFF-D73AAC1FDA13"
+    },
+    {
+      "question": "In quantum field theory, what does the 'Path Integral Formulation' do?",
+      "options": [
+        "It describes all possible histories of a quantum system",
+        "It calculates the precise location of a quantum particle",
+        "It predicts the future state of a quantum system",
+        "It describes the interaction between quantum particles"
+      ],
+      "correct_answer": "It describes all possible histories of a quantum system",
+      "id": "F7981FE6-6225-4C4D-8087-35F47C8FD88F"
+    },
+    {
+      "question": "What is the 'Aharonov–Bohm effect' in quantum mechanics?",
+      "options": [
+        "The phenomenon where quantum particles are affected by electromagnetic fields in regions where both field components are zero",
+        "The phenomenon where quantum particles change their spin state upon observation",
+        "The phenomenon where quantum particles show wave-like properties",
+        "The phenomenon where quantum particles can teleport through potential barriers"
+      ],
+      "correct_answer": "The phenomenon where quantum particles are affected by electromagnetic fields in regions where both field components are zero",
+      "id": "DF841BD6-FAFE-47DB-BE3E-9A81FF1C47D0"
+    },
+    {
+      "question": "What is the 'Quantum No-Cloning Theorem'?",
+      "options": [
+        "A theorem stating that it's impossible to create an identical copy of an arbitrary unknown quantum state",
+        "A theorem stating that all quantum states are fundamentally unique",
+        "A theorem stating that quantum states cannot be transferred",
+        "A theorem stating that quantum states can spontaneously duplicate"
+      ],
+      "correct_answer": "A theorem stating that it's impossible to create an identical copy of an arbitrary unknown quantum state",
+      "id": "524DBB1A-DEC8-47FC-A0A7-00AA38781831"
+    },
+    {
+      "question": "What is 'Renormalization' in the context of quantum field theory?",
+      "options": [
+        "The process of removing infinities from the equations by redefining quantities",
+        "The process of normalizing the wave function of a quantum system",
+        "The process of making quantum field theory compatible with general relativity",
+        "The process of resolving quantum superpositions into specific states"
+      ],
+      "correct_answer": "The process of removing infinities from the equations by redefining quantities",
+      "id": "5BF2626A-9282-4452-B0FB-0CC04DF69681"
+    },
+    {
+      "question": "What is the 'Gleason's Theorem' in the context of quantum mechanics?",
+      "options": [
+        "A theorem that provides a mathematical basis for the Born rule",
+        "A theorem that proves the existence of quantum entanglement",
+        "A theorem that explains the dual nature of particles",
+        "A theorem that proves the uncertainty principle"
+      ],
+      "correct_answer": "A theorem that provides a mathematical basis for the Born rule",
+      "id": "1239B40C-DAD6-41B9-94CC-AE855ED6EBBC"
+    },
+    {
+      "question": "What is the 'Pauli Exclusion Principle'?",
+      "options": [
+        "A principle stating that no two fermions can occupy the same quantum state simultaneously",
+        "A principle stating that particles can interfere with each other due to their wave-like properties",
+        "A principle stating that the properties of a quantum system do not exist until they are measured",
+        "A principle stating that quantum particles can exist in multiple states at the same time"
+      ],
+      "correct_answer": "A principle stating that no two fermions can occupy the same quantum state simultaneously",
+      "id": "93016D98-B5A6-4BC1-9524-9FDADE3C6B43"
+    },
+    {
+      "question": "What is the 'Casimir Effect' in quantum field theory?",
+      "options": [
+        "A phenomenon of quantum vacuum fluctuation causing an attractive force between two uncharged plates",
+        "A phenomenon causing particles to tunnel through potential barriers",
+        "A phenomenon of quantum superposition causing an interference pattern",
+        "A phenomenon causing entanglement of quantum particles"
+      ],
+      "correct_answer": "A phenomenon of quantum vacuum fluctuation causing an attractive force between two uncharged plates",
+      "id": "3117F789-3270-4D55-8AE1-53D03DE9E4FD"
+    },
+    {
+      "question": "What is 'Quantum Entropy'?",
+      "options": [
+        "The measure of uncertainty or mixedness in the state of a quantum system",
+        "The energy that is not available for work in a quantum system",
+        "The measure of the 'disorder' of a quantum system",
+        "The amount of information required to describe a quantum system"
+      ],
+      "correct_answer": "The measure of uncertainty or mixedness in the state of a quantum system",
+      "id": "FE62CF24-2DF8-4493-A3D0-C1FEFACFA2BF"
+    },
+    {
+      "question": "What does the 'Schwinger Effect' in Quantum Field Theory describe?",
+      "options": [
+        "The creation of particle-antiparticle pairs from a vacuum due to strong electric or magnetic fields",
+        "The interaction between quantum particles and gravitational fields",
+        "The statistical distribution of particles in quantum systems",
+        "The transition of a quantum system from one energy state to another"
+      ],
+      "correct_answer": "The creation of particle-antiparticle pairs from a vacuum due to strong electric or magnetic fields",
+      "id": "4EFECF74-E1B1-4E56-8D1C-B17C017D22E4"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Pharmacology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Which of the following drugs is an alkylating agent used in cancer chemotherapy?",
+      "options": [
+        "Cyclophosphamide",
+        "Paclitaxel",
+        "Doxorubicin",
+        "Cisplatin"
+      ],
+      "correct_answer": "Cyclophosphamide",
+      "id": "165B3CAB-6F49-4EAF-BE2F-2442E13848B1"
+    },
+    {
+      "question": "Which of the following medications is an antimetabolite used for treating rheumatoid arthritis and certain types of cancer?",
+      "options": [
+        "Methotrexate",
+        "Prednisone",
+        "Cyclosporine",
+        "Hydroxychloroquine"
+      ],
+      "correct_answer": "Methotrexate",
+      "id": "284AD1EF-A821-4F3F-891F-AB7F045D43B4"
+    },
+    {
+      "question": "Which of the following drugs is a proteasome inhibitor used in the treatment of multiple myeloma?",
+      "options": [
+        "Bortezomib",
+        "Lenalidomide",
+        "Cyclophosphamide",
+        "Rituximab"
+      ],
+      "correct_answer": "Bortezomib",
+      "id": "0ABABA3F-383E-428C-98E8-304F098BAE67"
+    },
+    {
+      "question": "Which of the following medications is a monoclonal antibody that targets vascular endothelial growth factor (VEGF), used for treating certain types of cancer?",
+      "options": [
+        "Bevacizumab",
+        "Cetuximab",
+        "Trastuzumab",
+        "Rituximab"
+      ],
+      "correct_answer": "Bevacizumab",
+      "id": "D3BED43E-A9A8-42CA-925A-E7A3D7E1032B"
+    },
+    {
+      "question": "Which of the following drugs is an anticoagulant that acts by inhibiting the activation of vitamin K-dependent clotting factors?",
+      "options": [
+        "Warfarin",
+        "Dabigatran",
+        "Rivaroxaban",
+        "Apixaban"
+      ],
+      "correct_answer": "Warfarin",
+      "id": "63E2FB6F-6267-4430-8587-96894B5CE656"
+    },
+    {
+      "question": "Which of the following medications is an antiretroviral drug belonging to the integrase inhibitor class?",
+      "options": [
+        "Raltegravir",
+        "Efavirenz",
+        "Emtricitabine",
+        "Darunavir"
+      ],
+      "correct_answer": "Raltegravir",
+      "id": "10927403-223D-4DF5-9C36-EE5B6D2D9089"
+    },
+    {
+      "question": "Which of the following drugs is a tyrosine kinase inhibitor used to treat chronic myeloid leukemia?",
+      "options": [
+        "Imatinib",
+        "Bortezomib",
+        "Rituximab",
+        "Bleomycin"
+      ],
+      "correct_answer": "Imatinib",
+      "id": "EA0F9ECC-D71E-43E8-9318-076ED9B3E190"
+    },
+    {
+      "question": "Which of the following medications is a monoclonal antibody targeting the CD20 antigen on B-cells, used for treating non-Hodgkin's lymphoma and rheumatoid arthritis?",
+      "options": [
+        "Rituximab",
+        "Trastuzumab",
+        "Adalimumab",
+        "Bevacizumab"
+      ],
+      "correct_answer": "Rituximab",
+      "id": "3F6651F3-3FB7-4713-A3C5-29E7A6B4ED4C"
+    },
+    {
+      "question": "Which of the following drugs is a topoisomerase I inhibitor used in the treatment of ovarian and colorectal cancer?",
+      "options": [
+        "Irinotecan",
+        "Gemcitabine",
+        "Doxorubicin",
+        "Etoposide"
+      ],
+      "correct_answer": "Irinotecan",
+      "id": "50021C6A-C7E2-44BE-8724-13582D289339"
+    },
+    {
+      "question": "Which of the following medications is an antiviral drug used to treat chronic hepatitis C infection that acts as a NS5A inhibitor?",
+      "options": [
+        "Ledipasvir",
+        "Sofosbuvir",
+        "Ribavirin",
+        "Interferon alfa"
+      ],
+      "correct_answer": "Ledipasvir",
+      "id": "C2B2524E-CDE2-4D48-BBC3-C8DE476E600E"
+    }
+  ]
+}

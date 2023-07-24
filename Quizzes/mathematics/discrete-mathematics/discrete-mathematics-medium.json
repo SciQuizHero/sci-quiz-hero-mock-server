@@ -1,0 +1,116 @@
+{
+  "category": "Discrete Mathematics",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the principle that states 'the number of ways a (finite) set can be partitioned into (non-empty) subsets'?",
+      "options": [
+        "Pigeonhole Principle",
+        "Bijection Principle",
+        "Bell's Theorem",
+        "Bell Number"
+      ],
+      "correct_answer": "Bell Number",
+      "id": "D7D3F61B-8033-49C0-8428-35A759A2F4E1"
+    },
+    {
+      "question": "In graph theory, what is the term for a walk in which no graph edges are repeated?",
+      "options": [
+        "Trail",
+        "Loop",
+        "Cycle",
+        "Dipole"
+      ],
+      "correct_answer": "Trail",
+      "id": "F2295065-42B6-4970-87F7-B63E7E9C70E9"
+    },
+    {
+      "question": "What is the number of combinations of 'n' items taken 'r' at a time, denoted by C(n, r) or 'n choose r'?",
+      "options": [
+        "n! / r!(n-r)!",
+        "(n-r)! / n!",
+        "n! / r!",
+        "r! / (n-r)!"
+      ],
+      "correct_answer": "n! / r!(n-r)!",
+      "id": "F3CD22C5-3BDF-4665-9E74-F90C33FA3672"
+    },
+    {
+      "question": "What does the 'Exclusive OR' (XOR) operation do in Boolean Algebra?",
+      "options": [
+        "Outputs true if both inputs are the same",
+        "Outputs true if both inputs are different",
+        "Outputs false if both inputs are the same",
+        "Outputs false if both inputs are different"
+      ],
+      "correct_answer": "Outputs true if both inputs are different",
+      "id": "432EB0AB-D447-4E1D-A304-232E49C224B2"
+    },
+    {
+      "question": "Which of the following best describes the function of the 'Big O notation' in Computer Science?",
+      "options": [
+        "It indicates the maximum time complexity of an algorithm",
+        "It indicates the minimum time complexity of an algorithm",
+        "It provides the exact time complexity of an algorithm",
+        "It provides the average time complexity of an algorithm"
+      ],
+      "correct_answer": "It indicates the maximum time complexity of an algorithm",
+      "id": "E90BCF37-00FD-41F4-8453-19E7C7221CE7"
+    },
+    {
+      "question": "What is the concept in set theory that describes a set with no elements?",
+      "options": [
+        "Null Set",
+        "Singleton Set",
+        "Infinite Set",
+        "Sub Set"
+      ],
+      "correct_answer": "Null Set",
+      "id": "3349E479-F33C-4F7D-8578-531C4035E4D9"
+    },
+    {
+      "question": "Which of the following is not a type of graph in Graph Theory?",
+      "options": [
+        "Digraph",
+        "Multigraph",
+        "Bipartite Graph",
+        "Multiplication Graph"
+      ],
+      "correct_answer": "Multiplication Graph",
+      "id": "5E80C0DF-5228-4A85-B234-C35AB2CAC43E"
+    },
+    {
+      "question": "If a graph G is such that every pair of vertices of G are adjacent, then the graph is called...",
+      "options": [
+        "Isolated Graph",
+        "Complete Graph",
+        "Regular Graph",
+        "Simple Graph"
+      ],
+      "correct_answer": "Complete Graph",
+      "id": "82C8245F-8FC3-40C9-A013-7BBC41502C10"
+    },
+    {
+      "question": "In Discrete Mathematics, what does 'mod' mean?",
+      "options": [
+        "Multiply",
+        "Divide",
+        "Exponential",
+        "Remainder after division"
+      ],
+      "correct_answer": "Remainder after division",
+      "id": "E716E16E-66B1-44C3-9B6D-FEA04FA7E9F3"
+    },
+    {
+      "question": "What is the base of the binary number system?",
+      "options": [
+        "2",
+        "10",
+        "16",
+        "8"
+      ],
+      "correct_answer": "2",
+      "id": "427185F3-23FA-4EBD-9206-97AC4B9F9E2F"
+    }
+  ]
+}

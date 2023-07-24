@@ -1,0 +1,116 @@
+{
+  "category": "Quantum Mechanics",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is 'quantum decoherence' in the context of quantum mechanics?",
+      "options": [
+        "It refers to the loss of information from a system into the environment",
+        "It is the measure of the unpredictability of a quantum state",
+        "It is the transition of a system from a pure state to a mixed state",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "id": "9D6C0547-1BC5-4647-87B4-E4C2D6B16F94"
+    },
+    {
+      "question": "What is 'quantum chromodynamics'?",
+      "options": [
+        "A theory of the strong interaction",
+        "A theory of the weak interaction",
+        "A theory of the electromagnetic interaction",
+        "A theory of the gravitational interaction"
+      ],
+      "correct_answer": "A theory of the strong interaction",
+      "id": "FB46537E-0307-41ED-83EE-7E4C28E1BE3C"
+    },
+    {
+      "question": "What are 'virtual particles' in quantum field theory?",
+      "options": [
+        "They are particles that exist permanently",
+        "They are particles that pop in and out of existence",
+        "They are particles that only exist in a superposition of states",
+        "They are particles that only exist when observed"
+      ],
+      "correct_answer": "They are particles that pop in and out of existence",
+      "id": "A8827249-715A-482D-A7F6-6D85B452826A"
+    },
+    {
+      "question": "What does the 'Bell's theorem' state in quantum mechanics?",
+      "options": [
+        "It states that certain predictions of quantum mechanics are incompatible with local hidden variable theories",
+        "It states that no physical theory of local hidden variables can ever reproduce all of the predictions of quantum mechanics",
+        "It states that local particle interactions cannot explain the observed correlations predicted by quantum mechanics",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "id": "BCE463D4-FD38-46AB-877D-7D0CAAC474F0"
+    },
+    {
+      "question": "What does a 'wave packet' in quantum mechanics represent?",
+      "options": [
+        "A probability distribution of particles",
+        "A continuous spectrum of wave vectors",
+        "A discrete set of possible energy levels",
+        "A combination of several waves of different wavelengths"
+      ],
+      "correct_answer": "A combination of several waves of different wavelengths",
+      "id": "0721A7EC-770B-4C1D-B0CB-2B1A7EBDE2D0"
+    },
+    {
+      "question": "What does the 'no-cloning theorem' state in quantum mechanics?",
+      "options": [
+        "It is impossible to create an identical copy of an arbitrary unknown quantum state",
+        "It is impossible to measure the state of a quantum system without disturbing it",
+        "It is impossible to determine the path taken by a particle in a double-slit experiment",
+        "It is impossible to simultaneously know the exact position and momentum of a particle"
+      ],
+      "correct_answer": "It is impossible to create an identical copy of an arbitrary unknown quantum state",
+      "id": "2E18AD4E-6865-4F43-BAB3-ADE0D186DD58"
+    },
+    {
+      "question": "What does 'quantum entanglement' imply for the properties of entangled particles?",
+      "options": [
+        "The properties of each particle are well-defined but correlated",
+        "The properties of each particle are not well-defined until they are measured",
+        "The properties of each particle can be instantly changed by manipulating the other",
+        "Both B and C"
+      ],
+      "correct_answer": "Both B and C",
+      "id": "560C7F26-CFF6-4021-9B5D-362FAAE3DA04"
+    },
+    {
+      "question": "What is 'quantum Zeno effect'?",
+      "options": [
+        "The tendency of quantum systems to remain in their initial state while they are observed",
+        "The phenomenon where the direction of a particle's spin is reversed under observation",
+        "The phenomenon where a quantum system simultaneously exists in several possible states",
+        "The phenomenon where quantum states change when they are measured"
+      ],
+      "correct_answer": "The tendency of quantum systems to remain in their initial state while they are observed",
+      "id": "11679E40-1282-44AA-8304-2839C78EBA5C"
+    },
+    {
+      "question": "In the context of quantum computing, what is a 'qubit'?",
+      "options": [
+        "The basic unit of quantum information",
+        "The basic unit of classical information",
+        "A type of quantum entanglement",
+        "A type of quantum superposition"
+      ],
+      "correct_answer": "The basic unit of quantum information",
+      "id": "260359B0-CE76-42C7-82BC-6AF23069C6BC"
+    },
+    {
+      "question": "Which phenomenon explains the interference pattern in the double-slit experiment?",
+      "options": [
+        "Wave-particle duality",
+        "Uncertainty principle",
+        "Quantum entanglement",
+        "Quantum teleportation"
+      ],
+      "correct_answer": "Wave-particle duality",
+      "id": "BDBF57DB-97D0-4941-9384-8FD308EEEB32"
+    }
+  ]
+}

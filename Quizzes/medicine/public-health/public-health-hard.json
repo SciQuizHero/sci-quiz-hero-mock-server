@@ -1,0 +1,116 @@
+{
+  "category": "Public Health",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the term for the consistent and equitable use of health services that respond to people's needs and preferences, ensuring people receive a comprehensive range of services?",
+      "options": [
+        "Universal Health Coverage",
+        "Primary Health Care",
+        "Integrated Care",
+        "Managed Care"
+      ],
+      "correct_answer": "Integrated Care",
+      "id": "9445DAD3-21D9-4566-8FB8-E4B8511F7974"
+    },
+    {
+      "question": "What does the 'O' in the WHO SDOH framework stand for?",
+      "options": [
+        "Obesity",
+        "Occupation",
+        "Organization",
+        "Determinants of Health"
+      ],
+      "correct_answer": "Determinants of Health",
+      "id": "42ADE428-C7C3-49CC-B036-29AE5D22499D"
+    },
+    {
+      "question": "Which public health principle emphasizes the notion that 'prevention is better than cure'?",
+      "options": [
+        "Health Promotion",
+        "Disease Surveillance",
+        "Health Literacy",
+        "Precautionary Principle"
+      ],
+      "correct_answer": "Precautionary Principle",
+      "id": "B26727EF-E2C7-4AF6-A475-9C2AAE56C892"
+    },
+    {
+      "question": "What is the epidemiological term for the number of new cases in a defined population over a specific time period?",
+      "options": [
+        "Prevalence",
+        "Incidence",
+        "Morbidity",
+        "Mortality"
+      ],
+      "correct_answer": "Incidence",
+      "id": "AE6303A1-7C73-4447-AE46-A4F327A3E9E1"
+    },
+    {
+      "question": "The 'Healthy Migrant Effect' is a phenomenon often observed in epidemiological studies. What does it suggest?",
+      "options": [
+        "Migrants tend to be healthier than the general population of their host country upon arrival.",
+        "Migrants tend to have a higher disease incidence than the general population.",
+        "Migrants generally have access to better healthcare services than the host country population.",
+        "The health of migrants deteriorates over time."
+      ],
+      "correct_answer": "Migrants tend to be healthier than the general population of their host country upon arrival.",
+      "id": "33087D08-6D51-4477-B015-E5A8371EC0B8"
+    },
+    {
+      "question": "The health-related Millennium Development Goals (MDGs) were succeeded by what in 2015?",
+      "options": [
+        "The Paris Agreement",
+        "The Sendai Framework for Disaster Risk Reduction",
+        "The Sustainable Development Goals (SDGs)",
+        "The Addis Ababa Action Agenda"
+      ],
+      "correct_answer": "The Sustainable Development Goals (SDGs)",
+      "id": "2EC0F961-87DF-4215-9260-682277869903"
+    },
+    {
+      "question": "What is the primary purpose of a Public Health Impact Assessment?",
+      "options": [
+        "To identify the potential health effects of a new policy, program, or project",
+        "To quantify the burden of disease in a population",
+        "To evaluate the cost-effectiveness of a health intervention",
+        "To assess the quality of care in a healthcare facility"
+      ],
+      "correct_answer": "To identify the potential health effects of a new policy, program, or project",
+      "id": "14487758-F04C-495C-9A6C-887D3968D1AE"
+    },
+    {
+      "question": "Which concept refers to the interdependence of human health, animal health, and ecosystem health?",
+      "options": [
+        "One Health",
+        "EcoHealth",
+        "Planetary Health",
+        "Global Health"
+      ],
+      "correct_answer": "One Health",
+      "id": "F80BA825-61D6-40CA-9D88-CB5E0FAE2F13"
+    },
+    {
+      "question": "What term describes a scenario where a disease increases in frequency in a population over what is expected?",
+      "options": [
+        "Pandemic",
+        "Epidemic",
+        "Outbreak",
+        "Endemic"
+      ],
+      "correct_answer": "Epidemic",
+      "id": "8D8AA16C-79B0-40E8-818C-96CC7A4A9917"
+    },
+    {
+      "question": "Which of the following is NOT a pillar of the primary health care approach?",
+      "options": [
+        "Universal health coverage",
+        "Public health emergencies",
+        "Health systems strengthening",
+        "Community engagement"
+      ],
+      "correct_answer": "Public health emergencies",
+      "id": "5098A9B1-0811-47C2-A489-1C6EE1E60B07"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Pharmacology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Which of the following drugs is a selective serotonin reuptake inhibitor (SSRI)?",
+      "options": [
+        "Diazepam",
+        "Propranolol",
+        "Fluoxetine",
+        "Amitriptyline"
+      ],
+      "correct_answer": "Fluoxetine",
+      "id": "55B11614-77D2-4D05-BE9F-9E4123804EFC"
+    },
+    {
+      "question": "Which of the following medications is a beta-blocker?",
+      "options": [
+        "Atenolol",
+        "Enalapril",
+        "Furosemide",
+        "Spironolactone"
+      ],
+      "correct_answer": "Atenolol",
+      "id": "85A7A104-2434-47EB-A2C0-E6A6B5C00F1A"
+    },
+    {
+      "question": "What is the primary mechanism of action for HMG-CoA reductase inhibitors?",
+      "options": [
+        "Blocking cholesterol absorption in the intestine",
+        "Inhibiting cholesterol synthesis in the liver",
+        "Increasing the breakdown of cholesterol",
+        "Reducing the production of bile acids"
+      ],
+      "correct_answer": "Inhibiting cholesterol synthesis in the liver",
+      "id": "26C7CA3B-0903-4D40-B825-2CB8B2E06888"
+    },
+    {
+      "question": "Which of the following drugs is a typical first-line treatment for hypertension?",
+      "options": [
+        "Angiotensin-converting enzyme (ACE) inhibitors",
+        "Beta-blockers",
+        "Calcium channel blockers",
+        "Diuretics"
+      ],
+      "correct_answer": "Angiotensin-converting enzyme (ACE) inhibitors",
+      "id": "FEF2B790-AD66-4CB4-86C6-1A488B10E424"
+    },
+    {
+      "question": "Which of the following drugs is a nonsteroidal anti-inflammatory drug (NSAID)?",
+      "options": [
+        "Ibuprofen",
+        "Acetaminophen",
+        "Aspirin",
+        "Codeine"
+      ],
+      "correct_answer": "Ibuprofen",
+      "id": "63071088-F74B-4806-855B-261C1CF55E78"
+    },
+    {
+      "question": "Which class of drugs is primarily used to treat symptoms of Parkinson's disease?",
+      "options": [
+        "Dopamine agonists",
+        "NMDA receptor antagonists",
+        "Cholinesterase inhibitors",
+        "Selective serotonin reuptake inhibitors (SSRIs)"
+      ],
+      "correct_answer": "Dopamine agonists",
+      "id": "0397625D-7A3A-4192-BBF7-92B1625D05FD"
+    },
+    {
+      "question": "Which of the following medications is a diuretic?",
+      "options": [
+        "Hydrochlorothiazide",
+        "Lisinopril",
+        "Metoprolol",
+        "Simvastatin"
+      ],
+      "correct_answer": "Hydrochlorothiazide",
+      "id": "3D17A330-D2AA-4AF8-886A-41E44458F067"
+    },
+    {
+      "question": "Which of the following drugs is used as a bronchodilator in the treatment of asthma?",
+      "options": [
+        "Albuterol",
+        "Dexamethasone",
+        "Guaifenesin",
+        "Prednisone"
+      ],
+      "correct_answer": "Albuterol",
+      "id": "B90CAE54-4F39-4C8F-A998-5A0AA8616DFA"
+    },
+    {
+      "question": "Which of the following medications is an angiotensin-converting enzyme (ACE) inhibitor?",
+      "options": [
+        "Captopril",
+        "Carvedilol",
+        "Furosemide",
+        "Verapamil"
+      ],
+      "correct_answer": "Captopril",
+      "id": "A19694EF-3AEC-4684-AE67-D8853F843756"
+    },
+    {
+      "question": "Which of the following drugs is classified as a calcium channel blocker?",
+      "options": [
+        "Diltiazem",
+        "Enalapril",
+        "Hydralazine",
+        "Propranolol"
+      ],
+      "correct_answer": "Diltiazem",
+      "id": "8B2E0145-A87B-4BBE-9C53-25CE8F8257EF"
+    }
+  ]
+}

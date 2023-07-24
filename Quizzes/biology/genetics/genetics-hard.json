@@ -1,0 +1,116 @@
+{
+  "category": "Genetics",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the term for a mutation that results in the premature stop of protein synthesis?",
+      "options": [
+        "Missense mutation",
+        "Nonsense mutation",
+        "Frameshift mutation",
+        "Silent mutation"
+      ],
+      "correct_answer": "Nonsense mutation",
+      "id": "6B162894-2C6F-4125-83EC-C0EC36F266F3"
+    },
+    {
+      "question": "What is the process by which cells repair double-strand breaks in DNA that could result in the exchange of DNA sequences?",
+      "options": [
+        "Non-homologous end joining",
+        "Mismatch repair",
+        "Nucleotide excision repair",
+        "Homologous recombination"
+      ],
+      "correct_answer": "Homologous recombination",
+      "id": "C7113EDE-3CFD-4539-A095-5A52949439BC"
+    },
+    {
+      "question": "In genetics, what does 'linkage disequilibrium' refer to?",
+      "options": [
+        "The non-random association of alleles at different loci",
+        "The breaking of linkage groups due to crossing over",
+        "The physical connection between genes on the same chromosome",
+        "The tendency of certain alleles to be inherited together"
+      ],
+      "correct_answer": "The non-random association of alleles at different loci",
+      "id": "C970511B-049A-4E01-9713-B59D4CFCB05B"
+    },
+    {
+      "question": "What type of mutation is responsible for Huntington's disease?",
+      "options": [
+        "Duplication mutation",
+        "Frameshift mutation",
+        "Nonsense mutation",
+        "Trinucleotide repeat expansion"
+      ],
+      "correct_answer": "Trinucleotide repeat expansion",
+      "id": "692B9380-13F3-40CA-9AEE-1B3EC34565DA"
+    },
+    {
+      "question": "What is the name of the phenomenon where the phenotype of the heterozygote is not intermediate between the phenotypes of the homozygotes?",
+      "options": [
+        "Incomplete dominance",
+        "Co-dominance",
+        "Pleiotropy",
+        "Epistasis"
+      ],
+      "correct_answer": "Co-dominance",
+      "id": "1427419B-26D7-426E-83C8-67F8CCC85D80"
+    },
+    {
+      "question": "Which of the following RNA types is involved in the process of translation?",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "rRNA",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "id": "9400A1F0-CF8A-4F1E-BB0D-FB4F5D0F2E52"
+    },
+    {
+      "question": "What is the term for the situation where a single gene influences more than one phenotypic trait?",
+      "options": [
+        "Epistasis",
+        "Pleiotropy",
+        "Penetrance",
+        "Linkage"
+      ],
+      "correct_answer": "Pleiotropy",
+      "id": "D010DCEB-62F0-405B-A33B-8D0EE6187AE6"
+    },
+    {
+      "question": "What is the name of the process in which an organism has two or more complete sets of chromosomes?",
+      "options": [
+        "Aneuploidy",
+        "Polyploidy",
+        "Diploidy",
+        "Monoploidy"
+      ],
+      "correct_answer": "Polyploidy",
+      "id": "1BB05378-50A1-472C-BE84-02AB7567D24F"
+    },
+    {
+      "question": "Which process leads to a change in chromosome structure, specifically the location of the gene rather than the gene sequence?",
+      "options": [
+        "Translocation",
+        "Duplication",
+        "Deletion",
+        "Inversion"
+      ],
+      "correct_answer": "Translocation",
+      "id": "537A0B11-7B55-4A98-870E-1F384343F775"
+    },
+    {
+      "question": "Which of the following is NOT a type of post-transcriptional modification in eukaryotes?",
+      "options": [
+        "5' capping",
+        "Poly-A tail addition",
+        "Intron splicing",
+        "DNA methylation"
+      ],
+      "correct_answer": "DNA methylation",
+      "id": "595758AB-2BA8-4296-8D7B-5CD5A7B10F2E"
+    }
+  ]
+}

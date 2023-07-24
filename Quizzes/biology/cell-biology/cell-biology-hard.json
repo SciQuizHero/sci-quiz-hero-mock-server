@@ -1,0 +1,116 @@
+{
+  "category": "Cell Biology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the name of the cellular structure that connects the centromere of a chromosome to the spindle fibers during cell division?",
+      "options": [
+        "Kinetochore",
+        "Centrosome",
+        "Microtubule",
+        "Nucleosome"
+      ],
+      "correct_answer": "Kinetochore",
+      "id": "472F3E66-F087-43FE-BBD4-ABE266DE0C12"
+    },
+    {
+      "question": "Which enzyme is responsible for unwinding the DNA helix during replication?",
+      "options": [
+        "DNA polymerase",
+        "RNA polymerase",
+        "Helicase",
+        "Ligase"
+      ],
+      "correct_answer": "Helicase",
+      "id": "E35E810D-0416-4982-A30F-D4071DFA5919"
+    },
+    {
+      "question": "Which type of RNA molecule carries the genetic code from DNA in the nucleus to the ribosomes in the cytoplasm?",
+      "options": [
+        "Messenger RNA (mRNA)",
+        "Ribosomal RNA (rRNA)",
+        "Transfer RNA (tRNA)",
+        "Small nuclear RNA (snRNA)"
+      ],
+      "correct_answer": "Messenger RNA (mRNA)",
+      "id": "20AB8304-52B5-4E01-987C-C58AC2763606"
+    },
+    {
+      "question": "What term describes the programmed cell death involving a series of biochemical events?",
+      "options": [
+        "Necrosis",
+        "Autophagy",
+        "Apoptosis",
+        "Cytolysis"
+      ],
+      "correct_answer": "Apoptosis",
+      "id": "6A24722F-5CED-4BF2-88FA-E98D69DEE958"
+    },
+    {
+      "question": "Which of the following is a membrane-bound enzyme complex involved in the synthesis of ATP?",
+      "options": [
+        "ATP synthase",
+        "RNA polymerase",
+        "DNA ligase",
+        "Endonuclease"
+      ],
+      "correct_answer": "ATP synthase",
+      "id": "F43E43AB-A6DF-4DD9-8410-9AEF3FCEC9CA"
+    },
+    {
+      "question": "What is the name of the cellular process that involves the degradation of unnecessary or damaged cellular components and organelles?",
+      "options": [
+        "Apoptosis",
+        "Autophagy",
+        "Endocytosis",
+        "Exocytosis"
+      ],
+      "correct_answer": "Autophagy",
+      "id": "05C4F066-8609-4785-98EC-E659D3BEE7D7"
+    },
+    {
+      "question": "Which type of endocytosis involves the non-specific uptake of extracellular fluids and solutes?",
+      "options": [
+        "Phagocytosis",
+        "Pinocytosis",
+        "Receptor-mediated endocytosis",
+        "Exocytosis"
+      ],
+      "correct_answer": "Pinocytosis",
+      "id": "2E986007-C5B3-4DFC-A484-416BCBB2ED41"
+    },
+    {
+      "question": "What is the main function of peroxisomes in eukaryotic cells?",
+      "options": [
+        "Protein synthesis",
+        "Lipid synthesis",
+        "Degradation of long-chain fatty acids",
+        "DNA replication"
+      ],
+      "correct_answer": "Degradation of long-chain fatty acids",
+      "id": "A6F3C470-3241-4AAE-8562-60113F4B8797"
+    },
+    {
+      "question": "Which protein complex plays a key role in regulating the cell cycle by activating cyclin-dependent kinases?",
+      "options": [
+        "Cyclin",
+        "Anaphase promoting complex",
+        "Proteasome",
+        "Sec61 translocon"
+      ],
+      "correct_answer": "Cyclin",
+      "id": "199897ED-8EAF-4353-ADFB-93D0401743F1"
+    },
+    {
+      "question": "What is the function of the enzyme telomerase in the cell?",
+      "options": [
+        "DNA replication",
+        "Transcription",
+        "Translation",
+        "Elongation of telomeres"
+      ],
+      "correct_answer": "Elongation of telomeres",
+      "id": "843BDDD0-9E1C-4CBC-8583-6CC39106732C"
+    }
+  ]
+}

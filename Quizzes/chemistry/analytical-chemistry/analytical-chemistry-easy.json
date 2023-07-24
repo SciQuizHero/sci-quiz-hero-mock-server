@@ -1,0 +1,116 @@
+{
+  "category": "Analytical Chemistry",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the primary objective of Analytical Chemistry?",
+      "options": [
+        "To identify what is in a sample",
+        "To determine how much of a compound is present in a sample",
+        "Both to identify what is in a sample and to determine how much of it is present",
+        "None of the above"
+      ],
+      "correct_answer": "Both to identify what is in a sample and to determine how much of it is present",
+      "id": "2959F9D5-A984-4E34-B3A6-2F56640B4D06"
+    },
+    {
+      "question": "What is a standard solution in chemistry?",
+      "options": [
+        "A solution whose concentration is accurately known",
+        "A solution used for cleaning glassware",
+        "A solution that neutralizes acids and bases",
+        "A solution that always has a pH of 7"
+      ],
+      "correct_answer": "A solution whose concentration is accurately known",
+      "id": "0DDF1346-4E79-4AD3-8235-A79697971FA2"
+    },
+    {
+      "question": "What technique uses the light absorption principle to measure the concentration of a solute in a solution?",
+      "options": [
+        "Spectrophotometry",
+        "Chromatography",
+        "Titration",
+        "Centrifugation"
+      ],
+      "correct_answer": "Spectrophotometry",
+      "id": "14FCFA7B-D5CE-4CC7-B17F-B9EFBC707169"
+    },
+    {
+      "question": "What is the purpose of using an indicator in a titration process?",
+      "options": [
+        "To change the color of the solution at the equivalence point",
+        "To increase the reaction rate",
+        "To reduce the concentration of the analyte",
+        "To precipitate the solute from the solution"
+      ],
+      "correct_answer": "To change the color of the solution at the equivalence point",
+      "id": "F4356E95-0969-48B7-9D15-CB20674CF7D1"
+    },
+    {
+      "question": "Which of the following is a commonly used analytical technique that separates components based on their different affinities towards a stationary phase and a mobile phase?",
+      "options": [
+        "Chromatography",
+        "Distillation",
+        "Crystallization",
+        "Decantation"
+      ],
+      "correct_answer": "Chromatography",
+      "id": "EA08FECE-E274-49A1-A4F6-B869C9B148E6"
+    },
+    {
+      "question": "What is the term for the substance being analyzed in Analytical Chemistry?",
+      "options": [
+        "Reagent",
+        "Analyte",
+        "Solvent",
+        "Standard"
+      ],
+      "correct_answer": "Analyte",
+      "id": "3E65D834-FEA8-4767-9367-C9AD8B2FB484"
+    },
+    {
+      "question": "What does pH measure?",
+      "options": [
+        "The concentration of H+ ions in a solution",
+        "The concentration of OH- ions in a solution",
+        "The temperature of a solution",
+        "The amount of solute in a solution"
+      ],
+      "correct_answer": "The concentration of H+ ions in a solution",
+      "id": "DB0E5D45-2003-42A4-A427-74E72EDF0F14"
+    },
+    {
+      "question": "What is the purpose of a blank solution in spectroscopic measurements?",
+      "options": [
+        "To calibrate the instrument",
+        "To dissolve the analyte",
+        "To compare with the standard solution",
+        "To detect impurities in the reagents"
+      ],
+      "correct_answer": "To calibrate the instrument",
+      "id": "BAE3A466-05C3-4100-AD65-86F1674DD429"
+    },
+    {
+      "question": "What is Gravimetric Analysis?",
+      "options": [
+        "A method of analysis based on the separation of the desired constituent",
+        "A method of analysis based on measuring the mass of a specific compound or element",
+        "A method of analysis based on the absorption of light",
+        "A method of analysis based on the neutralization reactions"
+      ],
+      "correct_answer": "A method of analysis based on measuring the mass of a specific compound or element",
+      "id": "3206FB16-AD3D-4407-B8D0-85232E9E71AB"
+    },
+    {
+      "question": "What principle is Gas Chromatography based on?",
+      "options": [
+        "The separation of compounds based on their boiling points",
+        "The separation of compounds based on their solubility in a solvent",
+        "The separation of compounds based on their reaction rates",
+        "The separation of compounds based on their color"
+      ],
+      "correct_answer": "The separation of compounds based on their boiling points",
+      "id": "619DCE48-A643-41E2-A28E-711D214FB9A7"
+    }
+  ]
+}

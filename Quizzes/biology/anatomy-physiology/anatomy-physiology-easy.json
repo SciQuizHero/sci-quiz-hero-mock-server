@@ -1,0 +1,116 @@
+{
+  "category": "Anatomy and Physiology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the basic unit of life in all living organisms?",
+      "options": [
+        "DNA",
+        "Protein",
+        "Cell",
+        "Organ"
+      ],
+      "correct_answer": "Cell",
+      "id": "0B0B1CD5-7341-40A3-AE35-75FE1A2EC342"
+    },
+    {
+      "question": "Which body system is responsible for breaking down food into absorbable nutrients?",
+      "options": [
+        "Respiratory System",
+        "Nervous System",
+        "Digestive System",
+        "Circulatory System"
+      ],
+      "correct_answer": "Digestive System",
+      "id": "2F7AC46E-B42F-455B-8A57-056BEC02B011"
+    },
+    {
+      "question": "What is the main function of red blood cells?",
+      "options": [
+        "Fight infection",
+        "Carry oxygen",
+        "Clot blood",
+        "Carry nutrients"
+      ],
+      "correct_answer": "Carry oxygen",
+      "id": "51616F10-70FD-48C8-A6DE-66AF125B5C96"
+    },
+    {
+      "question": "What is the largest organ of the human body?",
+      "options": [
+        "Liver",
+        "Skin",
+        "Lungs",
+        "Brain"
+      ],
+      "correct_answer": "Skin",
+      "id": "2F9832D4-6B3B-4A01-9491-C51AB2FFC74A"
+    },
+    {
+      "question": "Which body system controls and coordinates body activities?",
+      "options": [
+        "Nervous System",
+        "Endocrine System",
+        "Circulatory System",
+        "Muscular System"
+      ],
+      "correct_answer": "Nervous System",
+      "id": "5531A4CF-F05B-41CA-AD18-F85D66657514"
+    },
+    {
+      "question": "What is the role of the skeletal system?",
+      "options": [
+        "Production of blood cells",
+        "Regulation of body temperature",
+        "Removal of waste products",
+        "Absorption of nutrients"
+      ],
+      "correct_answer": "Production of blood cells",
+      "id": "8C8160B4-5CE3-4ED5-8CC5-055D60E934DC"
+    },
+    {
+      "question": "Which of the following is a part of the central nervous system?",
+      "options": [
+        "Spinal Cord",
+        "Sciatic Nerve",
+        "Facial Nerve",
+        "Radial Nerve"
+      ],
+      "correct_answer": "Spinal Cord",
+      "id": "C72E636E-A2AC-4C37-8530-783769C615EA"
+    },
+    {
+      "question": "What is the smallest bone in the human body?",
+      "options": [
+        "Stapes",
+        "Femur",
+        "Humerus",
+        "Scapula"
+      ],
+      "correct_answer": "Stapes",
+      "id": "77F7F46E-211A-47F6-BDBE-14C403B7EA7C"
+    },
+    {
+      "question": "Which organ is responsible for detoxification in the human body?",
+      "options": [
+        "Liver",
+        "Lungs",
+        "Kidneys",
+        "Heart"
+      ],
+      "correct_answer": "Liver",
+      "id": "990DBC19-EF76-48D5-B8CB-9DDC67840FB3"
+    },
+    {
+      "question": "What is the largest bone in the human body?",
+      "options": [
+        "Femur",
+        "Tibia",
+        "Humerus",
+        "Spine"
+      ],
+      "correct_answer": "Femur",
+      "id": "BD3C67CA-2576-4A2F-B7E6-009434C68400"
+    }
+  ]
+}

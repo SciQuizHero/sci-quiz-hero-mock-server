@@ -1,0 +1,116 @@
+{
+  "category": "Zoology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is 'Phascolarctos cinereus' more commonly known as?",
+      "options": [
+        "Koala",
+        "Wombat",
+        "Tasmanian Devil",
+        "Wallaby"
+      ],
+      "correct_answer": "Koala",
+      "id": "B676F08D-141A-47B4-B8E7-41A2E777F383"
+    },
+    {
+      "question": "Which animal is known as 'Varanus komodoensis' in Latin?",
+      "options": [
+        "Komodo Dragon",
+        "Monitor Lizard",
+        "Gila Monster",
+        "Iguana"
+      ],
+      "correct_answer": "Komodo Dragon",
+      "id": "7AECF3B1-E11B-481C-B431-6667374AF070"
+    },
+    {
+      "question": "'Eunectes murinus' is the scientific name for which species?",
+      "options": [
+        "Green Anaconda",
+        "Boa Constrictor",
+        "Python",
+        "Coral Snake"
+      ],
+      "correct_answer": "Green Anaconda",
+      "id": "3E2EA2C1-3B9F-47B5-994D-83E7E1CAFD81"
+    },
+    {
+      "question": "What is 'Balaenoptera musculus' commonly known as?",
+      "options": [
+        "Blue Whale",
+        "Fin Whale",
+        "Humpback Whale",
+        "Orca"
+      ],
+      "correct_answer": "Blue Whale",
+      "id": "8C6507EB-6338-4DF5-BE46-49C0FE10D970"
+    },
+    {
+      "question": "Which creature is known as 'Pongo pygmaeus' in Latin?",
+      "options": [
+        "Bornean Orangutan",
+        "Sumatran Orangutan",
+        "Gorilla",
+        "Chimpanzee"
+      ],
+      "correct_answer": "Bornean Orangutan",
+      "id": "8096A33D-3D44-4835-98B8-A907F615CF77"
+    },
+    {
+      "question": "'Panthera onca' is the Latin name for which creature?",
+      "options": [
+        "Jaguar",
+        "Leopard",
+        "Lion",
+        "Tiger"
+      ],
+      "correct_answer": "Jaguar",
+      "id": "23CC0BC1-7824-4858-ADE4-DD78CCDB2C3B"
+    },
+    {
+      "question": "What is 'Struthio camelus' commonly known as?",
+      "options": [
+        "Ostrich",
+        "Emu",
+        "Cassowary",
+        "Kiwi"
+      ],
+      "correct_answer": "Ostrich",
+      "id": "AE5B78C7-1C28-49AA-8CCD-395A58D5F1E6"
+    },
+    {
+      "question": "'Ornithorhynchus anatinus' is the Latin name for which creature?",
+      "options": [
+        "Platypus",
+        "Echidna",
+        "Koala",
+        "Wombat"
+      ],
+      "correct_answer": "Platypus",
+      "id": "F2C5903A-DD1E-433C-A8F5-A6D8F8A6CA47"
+    },
+    {
+      "question": "What is 'Ailuropoda melanoleuca' commonly known as?",
+      "options": [
+        "Giant Panda",
+        "Red Panda",
+        "Grizzly Bear",
+        "Polar Bear"
+      ],
+      "correct_answer": "Giant Panda",
+      "id": "95D41B92-6C30-4D46-A7AC-CDF856048C86"
+    },
+    {
+      "question": "Which creature is known as 'Dasypus novemcinctus' in Latin?",
+      "options": [
+        "Nine-banded Armadillo",
+        "Three-banded Armadillo",
+        "Giant Armadillo",
+        "Pichi"
+      ],
+      "correct_answer": "Nine-banded Armadillo",
+      "id": "72D35299-0132-4265-8ECC-23F08622B456"
+    }
+  ]
+}

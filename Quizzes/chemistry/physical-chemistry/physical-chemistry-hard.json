@@ -1,0 +1,116 @@
+{
+  "category": "Physical Chemistry",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the principle quantum number of an electron in the 4d orbital?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "4",
+      "id": "F144C871-346D-47EC-BFC3-542003DDD2EB"
+    },
+    {
+      "question": "Which of the following describes the change in the Gibbs free energy for a spontaneous process at constant temperature and pressure?",
+      "options": [
+        "Zero",
+        "Positive",
+        "Negative",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Negative",
+      "id": "2DBF83F3-5040-4D27-9EE5-AB4B60947BD1"
+    },
+    {
+      "question": "What does the Laplace equation ∇²ψ = 0 imply in the context of quantum mechanics?",
+      "options": [
+        "The system is in a state of minimum energy",
+        "The system is in a state of maximum uncertainty",
+        "The system is in a stable state",
+        "The system is in a state of zero potential energy"
+      ],
+      "correct_answer": "The system is in a state of minimum energy",
+      "id": "2D81B50E-B9D7-4FD9-BE3B-CFE851CDEAF3"
+    },
+    {
+      "question": "What is the role of a 'spectator ion' in a chemical reaction?",
+      "options": [
+        "It increases the rate of reaction",
+        "It decreases the rate of reaction",
+        "It appears in the reactants and products, but does not participate in the reaction",
+        "It does not appear in the reactants or products"
+      ],
+      "correct_answer": "It appears in the reactants and products, but does not participate in the reaction",
+      "id": "AE6BE9BA-E4D0-48EC-91F7-F3458EAA0DCA"
+    },
+    {
+      "question": "What does the Born-Oppenheimer approximation in quantum mechanics assume?",
+      "options": [
+        "The motion of the electrons and nuclei in a molecule can be separated",
+        "The wavefunction of a system does not change over time",
+        "The energies of electrons in a molecule are quantized",
+        "The position of a particle can be known with infinite precision"
+      ],
+      "correct_answer": "The motion of the electrons and nuclei in a molecule can be separated",
+      "id": "16BA9D3E-AAC6-47A8-9856-E4E52E52F36A"
+    },
+    {
+      "question": "In statistical mechanics, what does the 'partition function' give you?",
+      "options": [
+        "The total number of particles in a system",
+        "The total energy of a system",
+        "A measure of the number of states available to a system",
+        "The total entropy of a system"
+      ],
+      "correct_answer": "A measure of the number of states available to a system",
+      "id": "F4053856-171E-44EC-875E-459A8DCA962C"
+    },
+    {
+      "question": "What is the name of the phenomenon where the rate of evaporation of a liquid increases under reduced pressure?",
+      "options": [
+        "Flash Evaporation",
+        "Vapor Pressure",
+        "Triple Point",
+        "Critical Point"
+      ],
+      "correct_answer": "Flash Evaporation",
+      "id": "3C29FCE7-C615-479A-8BE7-6901ECB75711"
+    },
+    {
+      "question": "What is the concept of 'chemical potential' used to explain?",
+      "options": [
+        "The tendency of a substance to react",
+        "The tendency of a substance to change phase",
+        "The tendency of a substance to undergo a change in its physical or chemical state",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "id": "02C8E111-BCB2-4591-9447-76EB8BBCE655"
+    },
+    {
+      "question": "Which of the following is an example of a non-equilibrium process?",
+      "options": [
+        "A reaction reaching equilibrium",
+        "Diffusion of a solute into a solvent",
+        "Melting of ice at a constant temperature",
+        "Rapid expansion of a gas"
+      ],
+      "correct_answer": "Rapid expansion of a gas",
+      "id": "FE1E3A4B-70CE-4810-ABD2-442D0EBB1E06"
+    },
+    {
+      "question": "What is the effect of temperature on the rate constant of a reaction according to the Arrhenius equation?",
+      "options": [
+        "As temperature increases, the rate constant decreases",
+        "As temperature increases, the rate constant increases",
+        "Temperature has no effect on the rate constant",
+        "The rate constant is inversely proportional to the square of the temperature"
+      ],
+      "correct_answer": "As temperature increases, the rate constant increases",
+      "id": "B1FDEF49-B38B-4018-B36B-E26AA32D6DF0"
+    }
+  ]
+}

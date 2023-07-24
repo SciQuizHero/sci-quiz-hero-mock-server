@@ -1,0 +1,116 @@
+{
+  "category": "Anatomy and Physiology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the Latin term for the structure that separates the thoracic cavity from the abdominal cavity?",
+      "options": [
+        "Sternum",
+        "Diaphragm",
+        "Pericardium",
+        "Mesentery"
+      ],
+      "correct_answer": "Diaphragm",
+      "id": "140E89E8-122B-44D7-B319-6DFCFB0E926F"
+    },
+    {
+      "question": "What is the primary function of the 'Hypothalamus' in the human body?",
+      "options": [
+        "Regulating hormones and maintaining homeostasis",
+        "Controlling voluntary muscle movements",
+        "Processing sensory information",
+        "Storing memories"
+      ],
+      "correct_answer": "Regulating hormones and maintaining homeostasis",
+      "id": "36089F32-C8DB-4ADD-BF84-4314B0D18549"
+    },
+    {
+      "question": "What is the Latin term for the 'Voice Box'?",
+      "options": [
+        "Larynx",
+        "Pharynx",
+        "Trachea",
+        "Esophagus"
+      ],
+      "correct_answer": "Larynx",
+      "id": "E803A535-78D9-4441-8C8F-BDA97322C30F"
+    },
+    {
+      "question": "What is the primary function of the 'Axon' in a neuron?",
+      "options": [
+        "To transmit electrical signals from the cell body to other neurons",
+        "To receive signals from other neurons",
+        "To provide structural support to the neuron",
+        "To insulate the neuron"
+      ],
+      "correct_answer": "To transmit electrical signals from the cell body to other neurons",
+      "id": "998DBB44-D30D-47E2-A6FA-3BE6F0280CA6"
+    },
+    {
+      "question": "What is the Latin term for the region between the chest and the hips that contains the reproductive organs?",
+      "options": [
+        "Abdomen",
+        "Thorax",
+        "Pelvis",
+        "Lumbus"
+      ],
+      "correct_answer": "Pelvis",
+      "id": "59468541-C65A-492E-9A6A-617967A90634"
+    },
+    {
+      "question": "What is the primary function of 'Hemoglobin' in the human body?",
+      "options": [
+        "Transporting oxygen from the lungs to the body's tissues",
+        "Regulating body temperature",
+        "Promoting clotting of blood",
+        "Fighting infections"
+      ],
+      "correct_answer": "Transporting oxygen from the lungs to the body's tissues",
+      "id": "72427C46-896F-4EB6-87D5-B58F75FCE5A9"
+    },
+    {
+      "question": "What is the Latin term for the structure that connects muscles to bones?",
+      "options": [
+        "Ligament",
+        "Tendon",
+        "Cartilage",
+        "Fascia"
+      ],
+      "correct_answer": "Tendon",
+      "id": "46F7DD08-5987-42AB-AA8B-E7FEF32163E0"
+    },
+    {
+      "question": "What is the primary function of the 'Cerebellum' in the human body?",
+      "options": [
+        "Coordinating voluntary movements and balance",
+        "Regulating hormones",
+        "Processing sensory information",
+        "Controlling breathing and heart rate"
+      ],
+      "correct_answer": "Coordinating voluntary movements and balance",
+      "id": "B587828B-6F1C-4CC4-AEA6-793D40BFBF12"
+    },
+    {
+      "question": "What is the Latin term for the 'Windpipe'?",
+      "options": [
+        "Pharynx",
+        "Larynx",
+        "Trachea",
+        "Esophagus"
+      ],
+      "correct_answer": "Trachea",
+      "id": "6DFA79FB-1256-4A01-A765-2CD46902779D"
+    },
+    {
+      "question": "What is the primary function of 'Platelets' in the human body?",
+      "options": [
+        "Clotting blood",
+        "Fighting infections",
+        "Carrying oxygen",
+        "Regulating body temperature"
+      ],
+      "correct_answer": "Clotting blood",
+      "id": "CB24EDCA-4CE1-412F-B069-BE813030152F"
+    }
+  ]
+}

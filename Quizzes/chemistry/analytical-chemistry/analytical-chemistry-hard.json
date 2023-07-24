@@ -1,0 +1,116 @@
+{
+  "category": "Analytical Chemistry",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "For a monoprotic acid, HA, titrated with a strong base, at what pH is the buffer capacity at its maximum?",
+      "options": [
+        "pH = pKa",
+        "pH = pKb",
+        "pH = pKa + 1",
+        "pH = pKb + 1"
+      ],
+      "correct_answer": "pH = pKa",
+      "id": "D64BA900-A028-4ACE-B8FD-5A705EDADBF6"
+    },
+    {
+      "question": "In liquid chromatography, what factor primarily influences the retention time of a compound?",
+      "options": [
+        "The boiling point of the compound",
+        "The pH of the mobile phase",
+        "The polarity of the compound and the stationary phase",
+        "The molecular weight of the compound"
+      ],
+      "correct_answer": "The polarity of the compound and the stationary phase",
+      "id": "29B830D3-A7BC-43EE-A10B-E8CFA0BA3EB1"
+    },
+    {
+      "question": "Which of the following methods would be the most appropriate for determining trace amounts of metal ions in a water sample?",
+      "options": [
+        "Atomic absorption spectroscopy (AAS)",
+        "UV-Vis spectroscopy",
+        "Fourier-transform infrared spectroscopy (FTIR)",
+        "Nuclear magnetic resonance spectroscopy (NMR)"
+      ],
+      "correct_answer": "Atomic absorption spectroscopy (AAS)",
+      "id": "4B685B54-7622-4287-88DC-DF01F2209355"
+    },
+    {
+      "question": "What effect does increasing the temperature have on the equilibrium constant (K) for an exothermic reaction?",
+      "options": [
+        "Increases K",
+        "Decreases K",
+        "Does not change K",
+        "The effect cannot be predicted without additional information"
+      ],
+      "correct_answer": "Decreases K",
+      "id": "D4DDE1BE-E351-44DB-A4E7-394B1AA24B1F"
+    },
+    {
+      "question": "Using the Nernst equation, what would be the effect on the electrode potential if the concentration of ions in the solution was increased?",
+      "options": [
+        "The electrode potential would increase",
+        "The electrode potential would decrease",
+        "The electrode potential would remain the same",
+        "The effect cannot be predicted without additional information"
+      ],
+      "correct_answer": "The electrode potential would decrease",
+      "id": "48820A21-FEAE-4389-AC0B-F8FF53543742"
+    },
+    {
+      "question": "In the mass spectroscopy of organic molecules, what does the base peak in the mass spectrum represent?",
+      "options": [
+        "The molecular ion",
+        "The heaviest fragment ion",
+        "The lightest fragment ion",
+        "The most abundant fragment ion"
+      ],
+      "correct_answer": "The most abundant fragment ion",
+      "id": "22B91A11-BD05-47F6-B9CD-32FBFB768B4A"
+    },
+    {
+      "question": "What kind of chromatography relies on the attraction of solute molecules to the stationary phase to separate the mixture?",
+      "options": [
+        "Size-exclusion chromatography",
+        "Ion-exchange chromatography",
+        "Affinity chromatography",
+        "Reverse-phase chromatography"
+      ],
+      "correct_answer": "Affinity chromatography",
+      "id": "04F745FB-488C-4294-85D9-0599B5D608DB"
+    },
+    {
+      "question": "When using the Beer-Lambert Law, A = εlc, what does 'c' stand for?",
+      "options": [
+        "The concentration of the analyte",
+        "The path length",
+        "The molar absorptivity",
+        "The absorbance"
+      ],
+      "correct_answer": "The concentration of the analyte",
+      "id": "7739555D-ED0A-41E9-81D5-B14AFAAE2189"
+    },
+    {
+      "question": "What technique would you use to identify different elements in an unknown crystalline compound?",
+      "options": [
+        "X-ray diffraction",
+        "Nuclear magnetic resonance",
+        "Infrared spectroscopy",
+        "Mass spectroscopy"
+      ],
+      "correct_answer": "X-ray diffraction",
+      "id": "D8A78621-8A31-43B8-9062-3EBA14D2C0EA"
+    },
+    {
+      "question": "For an exothermic reaction, if the pressure is increased, what will happen to the equilibrium according to Le Chatelier's principle?",
+      "options": [
+        "The equilibrium will shift to the left",
+        "The equilibrium will shift to the right",
+        "The equilibrium will not shift",
+        "Cannot be determined without additional information"
+      ],
+      "correct_answer": "The equilibrium will shift to the left",
+      "id": "2FB9CD07-8B8D-4EE2-AAFC-2346C643B48B"
+    }
+  ]
+}

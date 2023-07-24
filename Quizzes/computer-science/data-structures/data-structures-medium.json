@@ -1,0 +1,116 @@
+{
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the time complexity of inserting an element at the end of an array?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "correct_answer": "O(1)",
+      "id": "BC336923-5A9F-4431-95ED-EC5C61F4E23B"
+    },
+    {
+      "question": "Which data structure is typically used for implementing LRU (Least Recently Used) cache?",
+      "options": [
+        "Array",
+        "Stack",
+        "Queue",
+        "Linked List"
+      ],
+      "correct_answer": "Linked List",
+      "id": "13169026-E1E1-471D-9309-D14DC43E6F1C"
+    },
+    {
+      "question": "What is the worst-case time complexity of searching for an element in a balanced binary search tree?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "correct_answer": "O(log n)",
+      "id": "219688BB-5FE4-4822-A522-2168E92EFD6F"
+    },
+    {
+      "question": "Which data structure is best suited for implementing a hash table?",
+      "options": [
+        "Array",
+        "Stack",
+        "Queue",
+        "Linked List"
+      ],
+      "correct_answer": "Array",
+      "id": "6BB79B8F-D1F4-4CD2-8B10-9DA1C950E1A0"
+    },
+    {
+      "question": "What is the space complexity of a binary heap with n elements?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "correct_answer": "O(n)",
+      "id": "9777DC48-F84B-422D-A827-CCF34DD3820C"
+    },
+    {
+      "question": "What is the time complexity of inserting an element at the front of a linked list?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "correct_answer": "O(1)",
+      "id": "69B87644-8445-4F38-9C11-211C8E6A1A7D"
+    },
+    {
+      "question": "Which data structure is typically used for implementing a breadth-first search (BFS) algorithm?",
+      "options": [
+        "Array",
+        "Stack",
+        "Queue",
+        "Linked List"
+      ],
+      "correct_answer": "Queue",
+      "id": "1E05C6DC-BE7C-4536-91BF-1FBA239325AD"
+    },
+    {
+      "question": "What is the worst-case time complexity of searching for an element in a hash table with a good hash function?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "correct_answer": "O(1)",
+      "id": "E51972E9-7FFB-49B0-9971-078CCE047646"
+    },
+    {
+      "question": "Which data structure is best suited for maintaining a collection of unique elements with efficient insertion and deletion operations?",
+      "options": [
+        "Array",
+        "Stack",
+        "Queue",
+        "Set"
+      ],
+      "correct_answer": "Set",
+      "id": "A4263AAE-FD5B-429F-9B65-2399E2F91388"
+    },
+    {
+      "question": "What is the space complexity of a binary search tree with n elements?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "correct_answer": "O(n)",
+      "id": "ABBD699E-7755-4009-BD31-121C3AA21753"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Geometry",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "d0ee3c83-ad36-41c0-889c-2c805e877110",
+      "question": "A cube has a total surface area of 54 square units. What is the volume of the cube?",
+      "options": [
+        "9 cubic units",
+        "18 cubic units",
+        "27 cubic units",
+        "36 cubic units"
+      ],
+      "correct_answer": "27 cubic units"
+    },
+    {
+      "id": "ebbd35a4-2312-4c42-8afa-7d344ac28038",
+      "question": "A regular tetrahedron has an edge length of 6 units. What is its volume?",
+      "options": [
+        "18√2 cubic units",
+        "36√2 cubic units",
+        "54√2 cubic units",
+        "72√2 cubic units"
+      ],
+      "correct_answer": "18√2 cubic units"
+    },
+    {
+      "id": "14cfaace-716d-4943-a61d-561e68e0cc45",
+      "question": "A right-angled triangle has sides of length 7 units, 24 units, and 25 units. What is the area of the triangle?",
+      "options": [
+        "84 square units",
+        "168 square units",
+        "336 square units",
+        "504 square units"
+      ],
+      "correct_answer": "84 square units"
+    },
+    {
+      "id": "f73919d2-6c13-4d5f-ba3e-1c41b5e70f39",
+      "question": "A cone has a radius of 4 units and a height of 3 units. What is the volume of the cone?",
+      "options": [
+        "16π cubic units",
+        "24π cubic units",
+        "32π cubic units",
+        "48π cubic units"
+      ],
+      "correct_answer": "16π cubic units"
+    },
+    {
+      "id": "423481c5-90fc-46be-9291-e05cb4fcd446",
+      "question": "An isosceles trapezoid has bases of length 10 units and 20 units, and legs of length 5√5 units. What is the area of the trapezoid?",
+      "options": [
+        "50 square units",
+        "75 square units",
+        "100 square units",
+        "125 square units"
+      ],
+      "correct_answer": "75 square units"
+    },
+    {
+      "id": "b74f8c3e-8179-4aab-8170-32a951037a1b",
+      "question": "A sphere has a volume of 36π cubic units. What is its surface area?",
+      "options": [
+        "12π square units",
+        "24π square units",
+        "36π square units",
+        "48π square units"
+      ],
+      "correct_answer": "36π square units"
+    },
+    {
+      "id": "fed69220-3e63-427a-94b9-2d0e9b2e2326",
+      "question": "A right circular cylinder has a height of 10 units and a volume of 80π cubic units. What is the radius of the cylinder?",
+      "options": [
+        "1 unit",
+        "2 units",
+        "3 units",
+        "4 units"
+      ],
+      "correct_answer": "2 units"
+    },
+    {
+      "id": "c5c8bb2c-5583-4656-b68a-b5d9ff07655d",
+      "question": "A square pyramid has a base side length of 8 units and a slant height of 10 units. What is the volume of the pyramid?",
+      "options": [
+        "64 cubic units",
+        "128 cubic units",
+        "192 cubic units",
+        "256 cubic units"
+      ],
+      "correct_answer": "128 cubic units"
+    },
+    {
+      "id": "fd609e4c-7a7c-4c53-aeab-70d604ac6ff6",
+      "question": "The diagonals of a rhombus have lengths of 12 units and 16 units. What is the area of the rhombus?",
+      "options": [
+        "48 square units",
+        "96 square units",
+        "144 square units",
+        "192 square units"
+      ],
+      "correct_answer": "96 square units"
+    },
+    {
+      "id": "187c132a-a7bc-415e-a7b5-44a361d88f75",
+      "question": "An equilateral triangle has a side length of 6 units. What is the length of an altitude of the triangle?",
+      "options": [
+        "3√3 units",
+        "6 units",
+        "3√2 units",
+        "9 units"
+      ],
+      "correct_answer": "3√3 units"
+    }
+  ]
+}

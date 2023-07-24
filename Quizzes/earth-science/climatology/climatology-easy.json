@@ -1,0 +1,116 @@
+{
+  "category": "Climatology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the study of weather patterns averaged over a long period of time called?",
+      "options": [
+        "Geography",
+        "Geology",
+        "Climatology",
+        "Meteorology"
+      ],
+      "correct_answer": "Climatology",
+      "id": "935F7660-02F0-4FAD-8D2D-00AAEEA01103"
+    },
+    {
+      "question": "Which layer of Earth's atmosphere is closest to the surface of the planet?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Exosphere"
+      ],
+      "correct_answer": "Troposphere",
+      "id": "692E9E14-4A2A-416E-9024-0E2AA58CE797"
+    },
+    {
+      "question": "What is the name of the climate zone that is located around the equator?",
+      "options": [
+        "Polar",
+        "Temperate",
+        "Tropical",
+        "Desert"
+      ],
+      "correct_answer": "Tropical",
+      "id": "C93B3D57-DD34-4713-A76A-FED790E36A7D"
+    },
+    {
+      "question": "What is the term used to describe long-term weather patterns in a specific area?",
+      "options": [
+        "Climate",
+        "Weather",
+        "Atmosphere",
+        "Environment"
+      ],
+      "correct_answer": "Climate",
+      "id": "A08C7816-EB33-4F64-B656-DD59E52DAD8C"
+    },
+    {
+      "question": "What term refers to the amount of water vapor present in air?",
+      "options": [
+        "Humidity",
+        "Precipitation",
+        "Condensation",
+        "Evaporation"
+      ],
+      "correct_answer": "Humidity",
+      "id": "7D34F196-8277-412C-BFA9-E56DC0133392"
+    },
+    {
+      "question": "Which gas is the most abundant in the Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "correct_answer": "Nitrogen",
+      "id": "9B7FE5D8-9D7D-4725-A867-17BDC2844D40"
+    },
+    {
+      "question": "Which of the following is NOT a greenhouse gas?",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Oxygen",
+        "Water vapor"
+      ],
+      "correct_answer": "Oxygen",
+      "id": "3A5ED898-3D1F-413F-8329-D31D93129F35"
+    },
+    {
+      "question": "What is the main reason for the seasons on Earth?",
+      "options": [
+        "The Earth's distance from the sun",
+        "The tilt of the Earth's axis",
+        "The rotation of the Earth",
+        "The Earth's orbit around the sun"
+      ],
+      "correct_answer": "The tilt of the Earth's axis",
+      "id": "866973E7-AEA9-48ED-BB48-A6A423C6E9C8"
+    },
+    {
+      "question": "What is the name for a large-scale cycle of warm and cold sea surface temperatures in the Pacific Ocean?",
+      "options": [
+        "Atlantic Multidecadal Oscillation",
+        "El Niño-Southern Oscillation",
+        "Indian Ocean Dipole",
+        "Pacific Decadal Oscillation"
+      ],
+      "correct_answer": "El Niño-Southern Oscillation",
+      "id": "650821D2-2DD9-42EB-9CD7-A4A4E45BDBEB"
+    },
+    {
+      "question": "What is the name given to the zone of the Earth located between the Tropic of Cancer and the Tropic of Capricorn?",
+      "options": [
+        "The Tropical Zone",
+        "The Temperate Zone",
+        "The Polar Zone",
+        "The Equatorial Zone"
+      ],
+      "correct_answer": "The Tropical Zone",
+      "id": "82148D6D-074F-45DE-B3F8-209563AFAC06"
+    }
+  ]
+}

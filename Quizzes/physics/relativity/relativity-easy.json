@@ -1,0 +1,116 @@
+{
+  "category": "Relativity",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Who is primarily credited with developing the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Max Planck"
+      ],
+      "correct_answer": "Albert Einstein",
+      "id": "7CBC6978-C220-44A0-830C-2FE19928213B"
+    },
+    {
+      "question": "The theory of relativity consists of two parts: the special theory of relativity and what other theory?",
+      "options": [
+        "General theory of relativity",
+        "Quantum theory of relativity",
+        "Classical theory of relativity",
+        "Mechanical theory of relativity"
+      ],
+      "correct_answer": "General theory of relativity",
+      "id": "1C008A8E-0341-41DE-B4E0-4C7DAE44FDAB"
+    },
+    {
+      "question": "According to Einstein's theory of relativity, what does E=mc^2 mean?",
+      "options": [
+        "Energy equals mass times the speed of light squared",
+        "Energy equals mass times the speed of light",
+        "Energy equals mass times the square root of the speed of light",
+        "Energy equals mass times the square of the speed of light"
+      ],
+      "correct_answer": "Energy equals mass times the speed of light squared",
+      "id": "34ABB551-8441-4E9D-953A-4757096D055E"
+    },
+    {
+      "question": "In the special theory of relativity, what is considered constant for all observers?",
+      "options": [
+        "Speed of sound",
+        "Speed of light",
+        "Gravity",
+        "Time"
+      ],
+      "correct_answer": "Speed of light",
+      "id": "C907046F-1113-401A-BC5F-387E8BA8B4BE"
+    },
+    {
+      "question": "What does the general theory of relativity primarily deal with?",
+      "options": [
+        "Quantum mechanics",
+        "Gravity",
+        "Thermodynamics",
+        "Electromagnetism"
+      ],
+      "correct_answer": "Gravity",
+      "id": "4D41329F-BC4C-425B-90BD-1F01FEE93CAA"
+    },
+    {
+      "question": "According to relativity, as an object approaches the speed of light, its mass will...",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain the same",
+        "Disappear"
+      ],
+      "correct_answer": "Increase",
+      "id": "8E91FE25-EAFD-4B35-9EA5-C41DCBF1A435"
+    },
+    {
+      "question": "What does 'spacetime' refer to in the context of relativity?",
+      "options": [
+        "A model that fuses the three dimensions of space and the one dimension of time into a four-dimensional continuum",
+        "The space within an atom",
+        "The distance between galaxies",
+        "The process of time dilation and length contraction"
+      ],
+      "correct_answer": "A model that fuses the three dimensions of space and the one dimension of time into a four-dimensional continuum",
+      "id": "B1710C72-3816-4BFE-B5A3-70788C028A6B"
+    },
+    {
+      "question": "According to the theory of relativity, what happens to time as an object approaches the speed of light?",
+      "options": [
+        "It speeds up",
+        "It slows down",
+        "It remains the same",
+        "It reverses"
+      ],
+      "correct_answer": "It slows down",
+      "id": "2202D9BB-FE0F-449F-B006-63158CA2825C"
+    },
+    {
+      "question": "What is 'time dilation' in the context of relativity?",
+      "options": [
+        "The process by which time speeds up in stronger gravitational fields",
+        "The process by which time slows down in stronger gravitational fields",
+        "The process by which time speeds up as one moves faster",
+        "The process by which time slows down as one moves faster"
+      ],
+      "correct_answer": "The process by which time slows down as one moves faster",
+      "id": "7AA4F477-0C83-40B0-9905-E9C0560D4C05"
+    },
+    {
+      "question": "What is 'length contraction' in the context of relativity?",
+      "options": [
+        "The process by which objects shorten in their direction of motion as they approach the speed of light",
+        "The process by which objects lengthen in their direction of motion as they approach the speed of light",
+        "The process by which objects shorten in their direction of motion as they slow down",
+        "The process by which objects lengthen in their direction of motion as they slow down"
+      ],
+      "correct_answer": "The process by which objects shorten in their direction of motion as they approach the speed of light",
+      "id": "25063A6A-6F3E-4E21-BB4B-D43A7CAA7E8B"
+    }
+  ]
+}

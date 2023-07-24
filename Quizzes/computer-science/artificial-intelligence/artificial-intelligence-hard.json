@@ -1,0 +1,116 @@
+{
+  "category": "Artificial Intelligence",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What are the assumptions made in the Naive Bayes algorithm?",
+      "options": [
+        "Features are mutually exclusive",
+        "Features are dependent on each other",
+        "Features are independent given the output",
+        "Features are not required for the output"
+      ],
+      "correct_answer": "Features are independent given the output",
+      "id": "784CC388-05C0-415E-A927-264F90C8F58E"
+    },
+    {
+      "question": "In reinforcement learning, what do 'exploitation' and 'exploration' mean?",
+      "options": [
+        "'Exploitation' is about finding new strategies, while 'exploration' is about using known strategies",
+        "'Exploitation' is about using known strategies, while 'exploration' is about finding new strategies",
+        "'Exploitation' and 'exploration' both mean using known strategies",
+        "'Exploitation' and 'exploration' both mean finding new strategies"
+      ],
+      "correct_answer": "'Exploitation' is about using known strategies, while 'exploration' is about finding new strategies",
+      "id": "ED7DD086-5D9E-4D81-963B-177E85777CA8"
+    },
+    {
+      "question": "In the context of recurrent neural networks (RNNs), what is the vanishing gradient problem?",
+      "options": [
+        "The problem of losing the gradient during backward propagation due to activation functions",
+        "The problem of exploding gradients in deep networks causing the learning process to diverge",
+        "The problem of the gradient being too large causing instability in learning",
+        "The problem of weight initialization causing poor learning performance"
+      ],
+      "correct_answer": "The problem of losing the gradient during backward propagation due to activation functions",
+      "id": "9A503AA5-E4E3-4DB6-83E0-BA4AB6877152"
+    },
+    {
+      "question": "What is the purpose of dropout regularization in neural networks?",
+      "options": [
+        "To prevent the model from overfitting",
+        "To increase the size of the model",
+        "To decrease the computational cost",
+        "To improve the model's performance on unseen data"
+      ],
+      "correct_answer": "To prevent the model from overfitting",
+      "id": "A6AFD7DB-4E06-47C7-8886-CDFA446384EA"
+    },
+    {
+      "question": "In a decision tree, what is information gain?",
+      "options": [
+        "The expected amount of information that would be needed to specify whether a new instance should be classified yes or no, given that the example reached that node",
+        "The information that the decision tree gives us about the data",
+        "The reduction in entropy or surprise from learning the value of a random variable",
+        "None of the above"
+      ],
+      "correct_answer": "The reduction in entropy or surprise from learning the value of a random variable",
+      "id": "BE23B98E-0930-4F3F-9ABD-FF5959C3C25E"
+    },
+    {
+      "question": "What is the main difference between generative and discriminative models in machine learning?",
+      "options": [
+        "Generative models predict the output directly, while discriminative models learn the joint probability distribution",
+        "Discriminative models predict the output directly, while generative models learn the joint probability distribution",
+        "Generative models can only be used for unsupervised learning, while discriminative models can be used for both supervised and unsupervised learning",
+        "Discriminative models can only be used for supervised learning, while generative models can be used for both supervised and unsupervised learning"
+      ],
+      "correct_answer": "Discriminative models predict the output directly, while generative models learn the joint probability distribution",
+      "id": "00982F15-B96F-4E16-8FB4-58EE04B005AC"
+    },
+    {
+      "question": "What is a key benefit of using the Rectified Linear Unit (ReLU) activation function in a neural network, compared to sigmoid or tanh functions?",
+      "options": [
+        "ReLU helps to mitigate the vanishing gradient problem",
+        "ReLU generates negative output values, which improves model accuracy",
+        "ReLU reduces the computational complexity of the model",
+        "ReLU introduces non-linearity into the model without requiring expensive computational operations"
+      ],
+      "correct_answer": "ReLU helps to mitigate the vanishing gradient problem",
+      "id": "C0F43B61-C321-4EE1-A222-96F75ED701C3"
+    },
+    {
+      "question": "What is the key concept behind 'Transfer Learning' in the context of machine learning and AI?",
+      "options": [
+        "Transferring the model from one programming language to another",
+        "Applying the knowledge gained from solving one problem to a different but related problem",
+        "Changing the learning rate during the training process",
+        "Moving the data from one database to another for model training"
+      ],
+      "correct_answer": "Applying the knowledge gained from solving one problem to a different but related problem",
+      "id": "B6E59454-0CEA-4FA1-BDC6-70AA88EF8F7B"
+    },
+    {
+      "question": "In machine learning, how does L1 regularization (Lasso) differ from L2 regularization (Ridge)?",
+      "options": [
+        "L1 can lead to zero coefficients, whereas L2 only minimizes them",
+        "L2 can lead to zero coefficients, whereas L1 only minimizes them",
+        "L1 regularization is more computationally expensive than L2",
+        "L2 regularization is more computationally expensive than L1"
+      ],
+      "correct_answer": "L1 can lead to zero coefficients, whereas L2 only minimizes them",
+      "id": "5B142813-C372-4FFE-A88F-C28D42819D16"
+    },
+    {
+      "question": "What are the differences between Bagging and Boosting techniques?",
+      "options": [
+        "Bagging reduces variance, Boosting reduces bias",
+        "Boosting reduces variance, Bagging reduces bias",
+        "Bagging generates multiple models in parallel, Boosting generates multiple models sequentially",
+        "Both A and C"
+      ],
+      "correct_answer": "Both A and C",
+      "id": "61F0DF2F-BDBA-45C5-A6C3-87094A5C9498"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Ecology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the term for the total genetic information contained within all individuals of a population?",
+      "options": [
+        "Genetic reservoir",
+        "Genetic diversity",
+        "Gene pool",
+        "Allele frequency"
+      ],
+      "correct_answer": "Gene pool",
+      "id": "E55A7BD4-0CDC-4973-B8B9-F467CA671D1D"
+    },
+    {
+      "question": "What is the term for the area where an organism lives and reproduces?",
+      "options": [
+        "Biome",
+        "Ecosystem",
+        "Habitat",
+        "Biosphere"
+      ],
+      "correct_answer": "Habitat",
+      "id": "EAF49C4E-FA6B-47CE-80AD-AD9E1548EE9E"
+    },
+    {
+      "question": "Which type of succession occurs on a surface where no ecosystem existed before, such as on bare rock exposed after a volcanic eruption?",
+      "options": [
+        "Secondary succession",
+        "Tertiary succession",
+        "Primary succession",
+        "Climax succession"
+      ],
+      "correct_answer": "Primary succession",
+      "id": "1E4193AE-A0F1-4D7C-A03B-C231438633F8"
+    },
+    {
+      "question": "In population ecology, what is the term for a group of individuals of the same species that live in the same area and interbreed?",
+      "options": [
+        "Biosphere",
+        "Community",
+        "Population",
+        "Ecosystem"
+      ],
+      "correct_answer": "Population",
+      "id": "643049EF-FFFD-488F-9F50-04A933DBE057"
+    },
+    {
+      "question": "Which of the following is not a category of environmental factors affecting distribution of organisms?",
+      "options": [
+        "Biotic factors",
+        "Abiotic factors",
+        "Genetic factors",
+        "Climatic factors"
+      ],
+      "correct_answer": "Genetic factors",
+      "id": "BC30F002-C519-4593-8133-DB8271B26E5E"
+    },
+    {
+      "question": "In ecology, which term refers to the total amount of living tissue within a given trophic level?",
+      "options": [
+        "Biomass",
+        "Biotic potential",
+        "Ecological footprint",
+        "Gross primary productivity"
+      ],
+      "correct_answer": "Biomass",
+      "id": "9CC1C9EE-1A23-4CB1-AE5B-52C351689637"
+    },
+    {
+      "question": "What is the term for the role a species plays in its ecosystem, including its habitat, nutritional needs, and behavior?",
+      "options": [
+        "Ecological niche",
+        "Biotic potential",
+        "Carrying capacity",
+        "Ecological pyramid"
+      ],
+      "correct_answer": "Ecological niche",
+      "id": "E6E75B36-9924-4934-A7F9-B45995C429EF"
+    },
+    {
+      "question": "In ecology, what term is used to describe the relationship where one organism benefits at the expense of another organism?",
+      "options": [
+        "Mutualism",
+        "Commensalism",
+        "Parasitism",
+        "Symbiosis"
+      ],
+      "correct_answer": "Parasitism",
+      "id": "EF3B225E-D3CC-42CC-9E4B-47D1C1F7CB16"
+    },
+    {
+      "question": "What is the name of the phenomenon in ecology where two species have a high degree of niche overlap, leading to competition?",
+      "options": [
+        "Competitive exclusion",
+        "Resource partitioning",
+        "Mutualistic symbiosis",
+        "Ecological succession"
+      ],
+      "correct_answer": "Competitive exclusion",
+      "id": "77E94A01-D93B-4F1B-AB4D-6C35B57E0754"
+    },
+    {
+      "question": "What term refers to a characteristic or state whereby the needs of the present and local population can be met without compromising the ability of future generations or populations in other locations to meet their needs?",
+      "options": [
+        "Biodiversity",
+        "Sustainability",
+        "Eutrophication",
+        "Ecological footprint"
+      ],
+      "correct_answer": "Sustainability",
+      "id": "9BBD5904-1F95-4FF4-B9F6-4DAF082525E6"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Inorganic Chemistry",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Which of the following elements is considered a transition metal?",
+      "options": [
+        "Iron (Fe)",
+        "Calcium (Ca)",
+        "Sodium (Na)",
+        "Silicon (Si)"
+      ],
+      "correct_answer": "Iron (Fe)",
+      "id": "F697CC13-652B-4D31-8164-DDC988F8DE59"
+    },
+    {
+      "question": "What is the oxidation state of oxygen in water?",
+      "options": [
+        "-1",
+        "-2",
+        "+1",
+        "+2"
+      ],
+      "correct_answer": "-2",
+      "id": "A72D095C-4946-4D8A-ACF2-737A7143F573"
+    },
+    {
+      "question": "Which type of bond is present in a molecule of Sodium Chloride (NaCl)?",
+      "options": [
+        "Covalent",
+        "Ionic",
+        "Metallic",
+        "Hydrogen"
+      ],
+      "correct_answer": "Ionic",
+      "id": "80C207E2-3193-4D01-89F6-570CCE8BFAB7"
+    },
+    {
+      "question": "What is the term for an atom or molecule with a net electric charge due to the loss or gain of one or more electrons?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Ion"
+      ],
+      "correct_answer": "Ion",
+      "id": "7DAFBA81-CCD6-4480-A675-3202751A4EEB"
+    },
+    {
+      "question": "What is the hybridization of the central atom in the methane molecule (CH4)?",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "dsp3"
+      ],
+      "correct_answer": "sp3",
+      "id": "4704957E-09B3-461C-AB05-D59D134578F4"
+    },
+    {
+      "question": "Which element is considered a halogen?",
+      "options": [
+        "Oxygen (O)",
+        "Chlorine (Cl)",
+        "Aluminium (Al)",
+        "Silicon (Si)"
+      ],
+      "correct_answer": "Chlorine (Cl)",
+      "id": "E2286F90-2629-4EC2-900B-9A3CF131909B"
+    },
+    {
+      "question": "What type of bond occurs when two atoms share electrons?",
+      "options": [
+        "Ionic bond",
+        "Covalent bond",
+        "Hydrogen bond",
+        "Metallic bond"
+      ],
+      "correct_answer": "Covalent bond",
+      "id": "87703064-B5A6-4FA8-B731-AA8D1A7EFEA6"
+    },
+    {
+      "question": "What is the oxidation state of sulfur in sulfate ion (SO4^-2)?",
+      "options": [
+        "+2",
+        "+4",
+        "+6",
+        "+8"
+      ],
+      "correct_answer": "+6",
+      "id": "989A8702-7E6F-4331-B12A-C1DCB0C9002F"
+    },
+    {
+      "question": "Which compound has a tetrahedral molecular geometry?",
+      "options": [
+        "Methane (CH4)",
+        "Carbon dioxide (CO2)",
+        "Water (H2O)",
+        "Ammonia (NH3)"
+      ],
+      "correct_answer": "Methane (CH4)",
+      "id": "C31723F0-FA54-4A76-8E71-2E99239C5195"
+    },
+    {
+      "question": "Which of the following elements is a noble gas?",
+      "options": [
+        "Neon (Ne)",
+        "Nitrogen (N)",
+        "Nickel (Ni)",
+        "Neptunium (Np)"
+      ],
+      "correct_answer": "Neon (Ne)",
+      "id": "C92B7EFD-87AA-4A42-84E8-58ECAA67991D"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Number Theory",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Which theorem in number theory says that every natural number can be represented as a sum of four integer squares?",
+      "options": [
+        "Lagrange's Four-Square Theorem",
+        "Fermat's Last Theorem",
+        "The Fundamental Theorem of Arithmetic",
+        "Wilson's Theorem"
+      ],
+      "correct_answer": "Lagrange's Four-Square Theorem",
+      "id": "414F882D-27D6-4097-888F-D738B6F8DCCC"
+    },
+    {
+      "question": "What is the name for the property in number theory where the gcd(a, b) is the smallest positive integer that can be written as ax + by where x, y are integers?",
+      "options": [
+        "Euclid's Property",
+        "Fermat's Property",
+        "Bezout's Identity",
+        "Wilson's Property"
+      ],
+      "correct_answer": "Bezout's Identity",
+      "id": "197CAA01-EE97-4C85-BA87-B49F0FA353FF"
+    },
+    {
+      "question": "Which theorem states that if n is a positive integer and a is an integer coprime with n, then a^(φ(n)) ≡ 1 (mod n), where φ(n) is Euler's totient function?",
+      "options": [
+        "Fermat's Little Theorem",
+        "Euler's Totient Theorem",
+        "Chinese Remainder Theorem",
+        "Wilson's Theorem"
+      ],
+      "correct_answer": "Euler's Totient Theorem",
+      "id": "5BF8691D-B106-43E5-9136-BBAF8DB4A24C"
+    },
+    {
+      "question": "What is the smallest Carmichael number?",
+      "options": [
+        "561",
+        "1105",
+        "1729",
+        "2465"
+      ],
+      "correct_answer": "561",
+      "id": "E67D9735-EAC7-4439-B7F2-BBF9E19B8F46"
+    },
+    {
+      "question": "In the context of Diophantine approximation, what theorem provides a precise formulation of the intuitive idea that 'almost all' real numbers are 'very well approximable'?",
+      "options": [
+        "Thue-Siegel-Roth Theorem",
+        "Dirichlet's Approximation Theorem",
+        "Liouville's Approximation Theorem",
+        "Hurwitz's Theorem"
+      ],
+      "correct_answer": "Thue-Siegel-Roth Theorem",
+      "id": "CF46FED5-4B6C-43C6-974A-3EDE404CD815"
+    },
+    {
+      "question": "What is the least positive integer n for which φ(n) = 12, where φ is the Euler's Totient Function?",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correct_answer": "13",
+      "id": "9EC63F1C-9F0E-4508-A871-E4F2F62041A5"
+    },
+    {
+      "question": "The number 1729 is known as a taxicab number. It is also known by what other name, which refers to its property of being the smallest number expressible as the sum of two positive cubes in two different ways?",
+      "options": [
+        "Mersenne Number",
+        "Fermat Number",
+        "Ramanujan Number",
+        "Carmichael Number"
+      ],
+      "correct_answer": "Ramanujan Number",
+      "id": "24D4AA1E-843D-4A48-8F84-2C4DEA0258DA"
+    },
+    {
+      "question": "What is the highest power of a prime number p that divides n! (n factorial)?",
+      "options": [
+        "[n/p] + [n/p^2] + [n/p^3] + ...",
+        "[n/p] - [n/p^2] + [n/p^3] - ...",
+        "[n/p^2] + [n/p^3] + [n/p^4] + ...",
+        "[n/p^2] - [n/p^3] + [n/p^4] - ..."
+      ],
+      "correct_answer": "[n/p] + [n/p^2] + [n/p^3] + ...",
+      "id": "C3F152F9-4D57-40A0-825D-311F1A5571FD"
+    },
+    {
+      "question": "How many positive integers less than 1000 are relatively prime to 1000?",
+      "options": [
+        "400",
+        "500",
+        "600",
+        "800"
+      ],
+      "correct_answer": "400",
+      "id": "27B04BB1-7702-443F-94B0-49FEF676ABFF"
+    },
+    {
+      "question": "What is the minimum number of colours required to colour the integers in such a way that no two integers a and b exist where a - b and a + b are both of the same colour?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "Impossible to determine"
+      ],
+      "correct_answer": "3",
+      "id": "3454319E-9C38-464C-B862-EFBB0AEE421D"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Electrical Engineering",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the unit of electrical resistance?",
+      "options": [
+        "Ampere",
+        "Ohm",
+        "Volt",
+        "Watt"
+      ],
+      "correct_answer": "Ohm",
+      "id": "63AED395-8431-4E12-92B5-DACF8E5EE762"
+    },
+    {
+      "question": "Which component is used to store an electric charge in a circuit?",
+      "options": [
+        "Resistor",
+        "Inductor",
+        "Capacitor",
+        "Transistor"
+      ],
+      "correct_answer": "Capacitor",
+      "id": "0C57F709-950F-4C0D-9548-1BBF70A63760"
+    },
+    {
+      "question": "What does AC stand for in Electrical Engineering?",
+      "options": [
+        "Alternating Current",
+        "Automatic Control",
+        "Amplifier Circuit",
+        "Active Component"
+      ],
+      "correct_answer": "Alternating Current",
+      "id": "A905C0C5-212B-4DD9-9EAD-0E7F6DDF3A86"
+    },
+    {
+      "question": "What does DC stand for in Electrical Engineering?",
+      "options": [
+        "Direct Circuit",
+        "Direct Current",
+        "Digital Control",
+        "Dynamic Circuit"
+      ],
+      "correct_answer": "Direct Current",
+      "id": "387A1724-9758-4EE6-AEF8-66D066A9C61F"
+    },
+    {
+      "question": "What component is used to convert electrical energy into mechanical energy?",
+      "options": [
+        "Motor",
+        "Transformer",
+        "Resistor",
+        "Inductor"
+      ],
+      "correct_answer": "Motor",
+      "id": "C33858B4-B18B-4904-925A-4237D71166C2"
+    },
+    {
+      "question": "Which law states that the current through a conductor between two points is directly proportional to the voltage across the two points?",
+      "options": [
+        "Faraday's Law",
+        "Gauss's Law",
+        "Ohm's Law",
+        "Kirchhoff's Law"
+      ],
+      "correct_answer": "Ohm's Law",
+      "id": "F91A1381-198E-478A-B2BD-265790700434"
+    },
+    {
+      "question": "What is the function of a transformer?",
+      "options": [
+        "Convert DC to AC",
+        "Step-up or step-down voltage",
+        "Increase the current",
+        "Store electrical energy"
+      ],
+      "correct_answer": "Step-up or step-down voltage",
+      "id": "C1DD80BF-028F-47BD-AF6F-8F92A1C78687"
+    },
+    {
+      "question": "What is the unit of electrical power?",
+      "options": [
+        "Ampere",
+        "Ohm",
+        "Volt",
+        "Watt"
+      ],
+      "correct_answer": "Watt",
+      "id": "61992D8F-F54D-44A1-A6E3-6E34B6EFE896"
+    },
+    {
+      "question": "What device is used to measure current in a circuit?",
+      "options": [
+        "Ammeter",
+        "Voltmeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "correct_answer": "Ammeter",
+      "id": "A74AC078-0A7F-4BEF-87B7-28D4FEFD05BC"
+    },
+    {
+      "question": "What is the unit of frequency?",
+      "options": [
+        "Ampere",
+        "Hertz",
+        "Watt",
+        "Ohm"
+      ],
+      "correct_answer": "Hertz",
+      "id": "B6F75782-8113-4139-92A9-4555ADD7FC5B"
+    }
+  ]
+}

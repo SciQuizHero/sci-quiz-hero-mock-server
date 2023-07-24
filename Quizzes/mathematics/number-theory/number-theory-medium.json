@@ -1,0 +1,116 @@
+{
+  "category": "Number Theory",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What are the prime factors of 56?",
+      "options": [
+        "2, 7",
+        "2, 3",
+        "2, 5",
+        "3, 7"
+      ],
+      "correct_answer": "2, 7",
+      "id": "B82338BC-986A-488F-8943-E71833F0C5C6"
+    },
+    {
+      "question": "Which number is the next in the sequence of square numbers after 16?",
+      "options": [
+        "20",
+        "21",
+        "24",
+        "25"
+      ],
+      "correct_answer": "25",
+      "id": "7797FE3A-D61E-4A7C-ADEF-9F4BA3E4E630"
+    },
+    {
+      "question": "What is the least common multiple (LCM) of 5 and 15?",
+      "options": [
+        "15",
+        "30",
+        "45",
+        "60"
+      ],
+      "correct_answer": "15",
+      "id": "0890185F-B0FF-4CC1-BCC7-018B47673C8B"
+    },
+    {
+      "question": "Which of the following numbers is not a perfect square?",
+      "options": [
+        "49",
+        "64",
+        "81",
+        "92"
+      ],
+      "correct_answer": "92",
+      "id": "585ABCF4-4897-4C5A-85A4-AEF7D8FEDDA4"
+    },
+    {
+      "question": "What is the remainder when 47 is divided by 5?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "2",
+      "id": "DC7D241B-48D5-4134-AB6E-E5125FE5B856"
+    },
+    {
+      "question": "What is the largest prime number less than 20?",
+      "options": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "correct_answer": "19",
+      "id": "910AFE54-CD56-4E0B-A1CB-22CD94945205"
+    },
+    {
+      "question": "How many distinct prime factors does 210 have?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "4",
+      "id": "B142C05E-4FBB-4776-BE24-3838463F717C"
+    },
+    {
+      "question": "What is the smallest positive integer that has exactly five distinct positive divisors?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "16"
+      ],
+      "correct_answer": "16",
+      "id": "1CCD9540-E74F-40E5-9498-AB489BD5412B"
+    },
+    {
+      "question": "Which number completes the sequence: 2, 3, 5, 7, __?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "13"
+      ],
+      "correct_answer": "11",
+      "id": "1F43D58F-487B-4762-8CFF-193366F7D764"
+    },
+    {
+      "question": "The numbers 1, 4, 9, 16, and 25 are all examples of what type of number?",
+      "options": [
+        "Prime numbers",
+        "Composite numbers",
+        "Perfect squares",
+        "Even numbers"
+      ],
+      "correct_answer": "Perfect squares",
+      "id": "81620CC6-59C6-4D7E-BB0A-D5888C26767D"
+    }
+  ]
+}

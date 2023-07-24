@@ -1,0 +1,116 @@
+{
+  "category": "Physical Chemistry",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the study of energy and its transformation in chemical systems called?",
+      "options": [
+        "Thermodynamics",
+        "Kinetics",
+        "Quantum Mechanics",
+        "Spectroscopy"
+      ],
+      "correct_answer": "Thermodynamics",
+      "id": "D0176C3C-E3AE-43CA-841F-DCBC0DF3FFEA"
+    },
+    {
+      "question": "What is the unit of pressure commonly used in chemistry?",
+      "options": [
+        "Pascal (Pa)",
+        "Newton (N)",
+        "Joule (J)",
+        "Celsius (°C)"
+      ],
+      "correct_answer": "Pascal (Pa)",
+      "id": "C3C38B3E-BD2A-4B25-8540-318FEC3B45E7"
+    },
+    {
+      "question": "What is the name given to the study of the rates of chemical reactions?",
+      "options": [
+        "Kinetics",
+        "Equilibrium",
+        "Energetics",
+        "Quantum Mechanics"
+      ],
+      "correct_answer": "Kinetics",
+      "id": "6586F2BD-B928-4DCC-8339-5DA4F9BC0B7C"
+    },
+    {
+      "question": "Which of the following is an example of an exothermic process?",
+      "options": [
+        "Burning of wood",
+        "Melting of ice",
+        "Evaporation of water",
+        "Photosynthesis"
+      ],
+      "correct_answer": "Burning of wood",
+      "id": "B1466313-C98A-4F1D-B892-C299A6BB78A7"
+    },
+    {
+      "question": "What is the name given to the study of the interaction between light and matter?",
+      "options": [
+        "Spectroscopy",
+        "Thermodynamics",
+        "Quantum Mechanics",
+        "Kinetics"
+      ],
+      "correct_answer": "Spectroscopy",
+      "id": "E8DB9CBA-50F4-4904-B9D7-4B7A3A0B2CFF"
+    },
+    {
+      "question": "Which of the following statements describes the behavior of an ideal gas?",
+      "options": [
+        "The gas molecules occupy no volume and have no intermolecular forces",
+        "The gas molecules have a definite volume and strong intermolecular forces",
+        "The gas molecules have a definite volume and weak intermolecular forces",
+        "The gas molecules occupy no volume but have weak intermolecular forces"
+      ],
+      "correct_answer": "The gas molecules occupy no volume and have no intermolecular forces",
+      "id": "4916E027-617B-43B2-8743-35BF0D0EB2DC"
+    },
+    {
+      "question": "What is the name given to the study of the movement of heat?",
+      "options": [
+        "Thermodynamics",
+        "Kinetics",
+        "Quantum Mechanics",
+        "Spectroscopy"
+      ],
+      "correct_answer": "Thermodynamics",
+      "id": "2936ADAD-9A1A-4C54-8572-CB5515FA76C2"
+    },
+    {
+      "question": "What is the name given to the maximum amount of solute that can dissolve in a solvent at a given temperature?",
+      "options": [
+        "Solubility",
+        "Equilibrium",
+        "Entropy",
+        "Enthalpy"
+      ],
+      "correct_answer": "Solubility",
+      "id": "D0BB7159-67F4-4196-97E9-80B93B4548F5"
+    },
+    {
+      "question": "Which of the following is an example of a physical change?",
+      "options": [
+        "Boiling water",
+        "Burning paper",
+        "Digesting food",
+        "Rusting of iron"
+      ],
+      "correct_answer": "Boiling water",
+      "id": "28B91BAF-1657-47FB-8537-F032179121D0"
+    },
+    {
+      "question": "Which of the following statements describes the behavior of an endothermic process?",
+      "options": [
+        "Heat is absorbed from the surroundings",
+        "Heat is released to the surroundings",
+        "There is no change in heat",
+        "There is no change in temperature"
+      ],
+      "correct_answer": "Heat is absorbed from the surroundings",
+      "id": "A6843879-6FF4-4891-A673-7695C800B431"
+    }
+  ]
+}

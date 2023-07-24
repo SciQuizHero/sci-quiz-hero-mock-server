@@ -1,0 +1,116 @@
+{
+  "category": "Physical Chemistry",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the name given to the study of the behavior of gases and their properties?",
+      "options": [
+        "Gas Laws",
+        "Thermodynamics",
+        "Quantum Mechanics",
+        "Chemical Kinetics"
+      ],
+      "correct_answer": "Gas Laws",
+      "id": "44269DDB-E13A-4F08-BA4F-C022327201CC"
+    },
+    {
+      "question": "Which scientist is known for the development of the concept of activity in solutions?",
+      "options": [
+        "Arrhenius",
+        "Debye-Hückel",
+        "Nernst",
+        "Henderson-Hasselbalch"
+      ],
+      "correct_answer": "Debye-Hückel",
+      "id": "57864017-A56A-47B5-90C1-729F979269A3"
+    },
+    {
+      "question": "What is the name given to the study of the rates at which chemical reactions occur?",
+      "options": [
+        "Chemical Kinetics",
+        "Spectroscopy",
+        "Electrochemistry",
+        "Quantum Mechanics"
+      ],
+      "correct_answer": "Chemical Kinetics",
+      "id": "04CA4C27-FC56-4374-A950-8FF668B14A66"
+    },
+    {
+      "question": "Which of the following is an example of a catalyst in a chemical reaction?",
+      "options": [
+        "Enzyme",
+        "Substrate",
+        "Product",
+        "Reactant"
+      ],
+      "correct_answer": "Enzyme",
+      "id": "9DD0F396-7A32-451C-A639-FE16DB9B9155"
+    },
+    {
+      "question": "What is the name given to the process of a substance changing directly from a solid to a gas without becoming a liquid first?",
+      "options": [
+        "Sublimation",
+        "Condensation",
+        "Evaporation",
+        "Vaporization"
+      ],
+      "correct_answer": "Sublimation",
+      "id": "49266BA1-E602-4E22-924A-D733735CAA67"
+    },
+    {
+      "question": "Who is known for the development of the concept of redox reactions?",
+      "options": [
+        "Carl Friedrich Gauss",
+        "J. Willard Gibbs",
+        "Fritz Haber",
+        "Antoine Lavoisier"
+      ],
+      "correct_answer": "Antoine Lavoisier",
+      "id": "AFAEFECB-0DC7-4601-982E-5DE33452F7D0"
+    },
+    {
+      "question": "What is the name given to the study of the movement of ions in solution under the influence of an electric field?",
+      "options": [
+        "Electrolysis",
+        "Electrodeposition",
+        "Electrophoresis",
+        "Electromigration"
+      ],
+      "correct_answer": "Electrophoresis",
+      "id": "4AAEF6CA-E14A-4B3C-82AA-B5A0EC01E429"
+    },
+    {
+      "question": "Which of the following is an example of a non-ideal gas behavior?",
+      "options": [
+        "Van der Waals equation",
+        "Ideal Gas Law",
+        "Avogadro's Law",
+        "Boyle's Law"
+      ],
+      "correct_answer": "Van der Waals equation",
+      "id": "03E7C0A3-49C0-465E-A1A7-B2C1AB910F5E"
+    },
+    {
+      "question": "What is the name given to the energy required to remove an electron from an atom in a gaseous state?",
+      "options": [
+        "Ionization Energy",
+        "Electron Affinity",
+        "Electronegativity",
+        "Atomic Radius"
+      ],
+      "correct_answer": "Ionization Energy",
+      "id": "A914DF27-F35A-4AEF-B830-BD173EC4A054"
+    },
+    {
+      "question": "Who is known for the development of the concept of entropy in thermodynamics?",
+      "options": [
+        "Svante Arrhenius",
+        "J. Willard Gibbs",
+        "Friedrich Hund",
+        "Gilbert N. Lewis"
+      ],
+      "correct_answer": "J. Willard Gibbs",
+      "id": "E761AC17-FED6-459D-806E-E8350D7EFF14"
+    }
+  ]
+}

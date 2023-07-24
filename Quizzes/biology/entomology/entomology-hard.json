@@ -1,0 +1,116 @@
+{
+  "category": "Entomology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Which species is the vector of Chagas disease, also known as American trypanosomiasis?",
+      "options": [
+        "Aedes aegypti",
+        "Anopheles gambiae",
+        "Triatoma infestans",
+        "Glossina morsitans"
+      ],
+      "correct_answer": "Triatoma infestans",
+      "id": "A7EEE213-2144-40C7-9569-F1ED9A4335AD"
+    },
+    {
+      "question": "What is the significance of the holometabolous life cycle in insects?",
+      "options": [
+        "It involves complete metamorphosis with distinct egg, larval, pupal, and adult stages.",
+        "It involves incomplete metamorphosis with egg, nymph, and adult stages.",
+        "It involves multiple generations within a year.",
+        "It involves the development of resistance to pesticides."
+      ],
+      "correct_answer": "It involves complete metamorphosis with distinct egg, larval, pupal, and adult stages.",
+      "id": "8FCBB1B7-4831-47FB-9E1E-2F64D4F05EEA"
+    },
+    {
+      "question": "Which insect order's name originates from the Greek words meaning 'half' and 'wing', referring to the forewings that are hardened or leathery at the base and membranous at the tip?",
+      "options": [
+        "Hemiptera",
+        "Hymenoptera",
+        "Lepidoptera",
+        "Diptera"
+      ],
+      "correct_answer": "Hemiptera",
+      "id": "7BB278B5-F3E4-482C-8A2F-AB4394B0CD7D"
+    },
+    {
+      "question": "What is the largest known species of butterfly, belonging to the Swallowtail family?",
+      "options": [
+        "Monarch Butterfly",
+        "Atlas Moth",
+        "Queen Alexandra's Birdwing",
+        "Eastern Black Swallowtail"
+      ],
+      "correct_answer": "Queen Alexandra's Birdwing",
+      "id": "2DAAAED9-5BD5-4780-AE94-630BE4A6A147"
+    },
+    {
+      "question": "Which insect order includes insects commonly known as 'silverfish'?",
+      "options": [
+        "Thysanura",
+        "Orthoptera",
+        "Coleoptera",
+        "Lepidoptera"
+      ],
+      "correct_answer": "Thysanura",
+      "id": "0F8C87D2-C78E-4394-BBCC-D195194AD79C"
+    },
+    {
+      "question": "What term describes a type of mimicry in which two or more harmful species, that may or may not closely resemble each other, gain an advantage from being confused with each other by predators?",
+      "options": [
+        "Batesian mimicry",
+        "Müllerian mimicry",
+        "Peckhamian mimicry",
+        "Wasmannian mimicry"
+      ],
+      "correct_answer": "Müllerian mimicry",
+      "id": "F65699A8-C576-40F3-BC2D-83C92C35B938"
+    },
+    {
+      "question": "What insect order is known for having aquatic larvae and terrestrial adults, most of which are predators?",
+      "options": [
+        "Odonata",
+        "Orthoptera",
+        "Lepidoptera",
+        "Coleoptera"
+      ],
+      "correct_answer": "Odonata",
+      "id": "84AED836-F5E9-47B3-B7AC-43B7709F785B"
+    },
+    {
+      "question": "Which family of flies is best known for its role in forensic entomology, due to its preference for laying eggs on decaying organic material?",
+      "options": [
+        "Tachinidae",
+        "Calliphoridae",
+        "Muscidae",
+        "Drosophilidae"
+      ],
+      "correct_answer": "Calliphoridae",
+      "id": "B579B2B8-61B9-4924-AFB1-DDC2E854F119"
+    },
+    {
+      "question": "What is the scientific term for a resting stage that occurs in the life cycle of some insects, usually as part of the transition between larval and adult forms?",
+      "options": [
+        "Instar",
+        "Nymph",
+        "Pupa",
+        "Imago"
+      ],
+      "correct_answer": "Pupa",
+      "id": "3EB465EF-2CB4-4C5F-B69C-A13933099538"
+    },
+    {
+      "question": "Which of the following orders contains insects commonly referred to as 'stoneflies'?",
+      "options": [
+        "Plecoptera",
+        "Orthoptera",
+        "Blattodea",
+        "Isoptera"
+      ],
+      "correct_answer": "Plecoptera",
+      "id": "43FBC998-6294-43E8-AF6F-A41446D76700"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Electromagnetism",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the unit of electric current?",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "correct_answer": "Ampere",
+      "id": "1DFB41E3-2D67-4145-882F-6747F56EC7C8"
+    },
+    {
+      "question": "Who discovered the law of electromagnetic induction?",
+      "options": [
+        "James Clerk Maxwell",
+        "Isaac Newton",
+        "Albert Einstein",
+        "Michael Faraday"
+      ],
+      "correct_answer": "Michael Faraday",
+      "id": "07E4A69A-0C4F-4759-B3EF-D3ABA04A4B2C"
+    },
+    {
+      "question": "What is the force between two parallel wires carrying current called?",
+      "options": [
+        "Gravitational Force",
+        "Frictional Force",
+        "Ampere's Force",
+        "Coulomb's Force"
+      ],
+      "correct_answer": "Ampere's Force",
+      "id": "621BD8B3-4F11-4910-8386-C52790382EDC"
+    },
+    {
+      "question": "In an electrical circuit, the device used to resist the flow of electric charges is called what?",
+      "options": [
+        "Capacitor",
+        "Resistor",
+        "Inductor",
+        "Diode"
+      ],
+      "correct_answer": "Resistor",
+      "id": "C1A4EFF6-35E1-4D2B-8BFC-9DFD1D06621B"
+    },
+    {
+      "question": "What type of material does not allow electric current to pass through it?",
+      "options": [
+        "Conductor",
+        "Semiconductor",
+        "Superconductor",
+        "Insulator"
+      ],
+      "correct_answer": "Insulator",
+      "id": "F607065D-7EE4-40BD-9F5F-D1D6F8A0F69E"
+    },
+    {
+      "question": "What device is used to store electrical charge?",
+      "options": [
+        "Inductor",
+        "Resistor",
+        "Capacitor",
+        "Transformer"
+      ],
+      "correct_answer": "Capacitor",
+      "id": "AF87507E-68ED-4B4D-A63A-089B5980C9FF"
+    },
+    {
+      "question": "Which law states that the induced electromotive force in any closed circuit is equal to the negative of the time rate of change of the magnetic flux through the circuit?",
+      "options": [
+        "Faraday's Law",
+        "Gauss's Law",
+        "Ampere's Law",
+        "Ohm's Law"
+      ],
+      "correct_answer": "Faraday's Law",
+      "id": "BC2AFBF0-F3CB-4F7B-BFC9-201EB277E47D"
+    },
+    {
+      "question": "What phenomenon occurs when a changing magnetic field in a coil induces an electromotive force in a neighboring coil?",
+      "options": [
+        "Mutual Induction",
+        "Self Induction",
+        "Electromagnetic Induction",
+        "Magnetic Resonance"
+      ],
+      "correct_answer": "Mutual Induction",
+      "id": "C7D60E3B-25BD-4C8A-B2F5-60638C5263C4"
+    },
+    {
+      "question": "What does a transformer primarily use to function?",
+      "options": [
+        "Electrical Resistance",
+        "Mechanical Vibration",
+        "Electromagnetic Induction",
+        "Thermal Expansion"
+      ],
+      "correct_answer": "Electromagnetic Induction",
+      "id": "2491466A-6D92-4AAC-9A21-D0C2DE019DAB"
+    },
+    {
+      "question": "What is the property of a material to oppose the flow of electric current, resulting in the generation of heat?",
+      "options": [
+        "Capacitance",
+        "Resistance",
+        "Inductance",
+        "Reactance"
+      ],
+      "correct_answer": "Resistance",
+      "id": "45121FC3-EC00-4145-B88D-0DCDD8BCB279"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Microbiology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the smallest living microorganism?",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Fungi",
+        "Protozoa"
+      ],
+      "correct_answer": "Virus",
+      "id": "22FF327B-6442-4330-88BB-02D09131070D"
+    },
+    {
+      "question": "What type of cells lack a nucleus?",
+      "options": [
+        "Eukaryotic cells",
+        "Prokaryotic cells",
+        "Animal cells",
+        "Plant cells"
+      ],
+      "correct_answer": "Prokaryotic cells",
+      "id": "FC9BEB28-57E7-4C1A-84D8-6B8DFB8094DD"
+    },
+    {
+      "question": "Which microorganism is used in the making of bread and beer?",
+      "options": [
+        "Yeast",
+        "Algae",
+        "Protozoa",
+        "Virus"
+      ],
+      "correct_answer": "Yeast",
+      "id": "E1009C07-C84C-4D66-B7C2-3D3410723B1E"
+    },
+    {
+      "question": "Which of the following is not a type of bacteria?",
+      "options": [
+        "Spirilla",
+        "Bacilli",
+        "Cocci",
+        "Fungi"
+      ],
+      "correct_answer": "Fungi",
+      "id": "D5015089-0D6F-461C-8417-E5ED307AB18E"
+    },
+    {
+      "question": "What causes diseases like malaria and sleeping sickness?",
+      "options": [
+        "Protozoa",
+        "Bacteria",
+        "Virus",
+        "Fungi"
+      ],
+      "correct_answer": "Protozoa",
+      "id": "7E7C9659-71EF-4420-9C3B-12E47FA16DF6"
+    },
+    {
+      "question": "Which of these is not a part of the bacterial cell structure?",
+      "options": [
+        "Cell Wall",
+        "Mitochondria",
+        "Plasmids",
+        "Ribosomes"
+      ],
+      "correct_answer": "Mitochondria",
+      "id": "0201FA47-6CA0-4590-A7BF-1151DB136DF8"
+    },
+    {
+      "question": "What is the primary role of bacteria in the nitrogen cycle?",
+      "options": [
+        "They convert atmospheric nitrogen to a usable form for plants",
+        "They convert nitrogen into atmospheric oxygen",
+        "They help in the decomposition of plants and animals",
+        "They prevent the over accumulation of nitrogen in the atmosphere"
+      ],
+      "correct_answer": "They convert atmospheric nitrogen to a usable form for plants",
+      "id": "65042F22-5121-454F-89F9-C4F360EF394E"
+    },
+    {
+      "question": "What is the name of the process in bacteria that involves the transfer of genetic material from one bacterium to another?",
+      "options": [
+        "Fission",
+        "Conjugation",
+        "Transduction",
+        "Translation"
+      ],
+      "correct_answer": "Conjugation",
+      "id": "A302A577-984C-4B28-AA67-33F886574D39"
+    },
+    {
+      "question": "Which disease is caused by the bacterium 'Yersinia pestis'?",
+      "options": [
+        "Plague",
+        "Typhoid",
+        "Tuberculosis",
+        "Cholera"
+      ],
+      "correct_answer": "Plague",
+      "id": "1C63BE34-B609-431E-9179-8F3E8038EE77"
+    },
+    {
+      "question": "Which of these is used to classify bacteria?",
+      "options": [
+        "Gram staining",
+        "Ink staining",
+        "Acid-fast staining",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "id": "BEB0CD99-F9CA-4B9F-B97A-FE0EF1BCD36C"
+    }
+  ]
+}

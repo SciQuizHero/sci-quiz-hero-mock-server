@@ -1,0 +1,116 @@
+{
+  "category": "Biochemistry",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What type of enzyme inhibition can be overcome by increasing the substrate concentration?",
+      "options": [
+        "Competitive inhibition",
+        "Non-competitive inhibition",
+        "Uncompetitive inhibition",
+        "Allosteric inhibition"
+      ],
+      "correct_answer": "Competitive inhibition",
+      "id": "A7094047-0C7F-402C-9642-F5330828D780"
+    },
+    {
+      "question": "What is the term used for a protein that helps other proteins fold correctly?",
+      "options": [
+        "Chaperone protein",
+        "Folding protein",
+        "Assistive protein",
+        "Helper protein"
+      ],
+      "correct_answer": "Chaperone protein",
+      "id": "46CD6E31-A8E3-4D22-8C02-F248F28B14B4"
+    },
+    {
+      "question": "Which metabolic pathway is used to generate energy in the absence of oxygen?",
+      "options": [
+        "Glycolysis",
+        "Krebs cycle",
+        "Electron transport chain",
+        "Fermentation"
+      ],
+      "correct_answer": "Fermentation",
+      "id": "378A0D6E-8AD7-4154-AEB0-81E60B87DF00"
+    },
+    {
+      "question": "What is the name of the coenzyme that transfers acyl groups in metabolism?",
+      "options": [
+        "NAD+",
+        "FAD",
+        "Coenzyme A",
+        "Coenzyme Q"
+      ],
+      "correct_answer": "Coenzyme A",
+      "id": "7A9329D1-6444-4202-BE12-A5EEF5CBEA9E"
+    },
+    {
+      "question": "Which of the following is a key intermediate in both glycolysis and gluconeogenesis?",
+      "options": [
+        "Fructose-1,6-bisphosphate",
+        "Fructose-6-phosphate",
+        "Glucose-6-phosphate",
+        "3-Phosphoglycerate"
+      ],
+      "correct_answer": "Glucose-6-phosphate",
+      "id": "CA337B9C-EA73-4EC2-A3D7-8562971323AE"
+    },
+    {
+      "question": "Which amino acid contains a sulfur atom in its side chain?",
+      "options": [
+        "Cysteine",
+        "Serine",
+        "Threonine",
+        "Asparagine"
+      ],
+      "correct_answer": "Cysteine",
+      "id": "54E7E82F-5236-4E0C-B80F-56DCB91CF053"
+    },
+    {
+      "question": "Which process converts pyruvate to acetyl-CoA in the mitochondria?",
+      "options": [
+        "Glycolysis",
+        "Pyruvate decarboxylation",
+        "Citric acid cycle",
+        "Oxidative phosphorylation"
+      ],
+      "correct_answer": "Pyruvate decarboxylation",
+      "id": "89C02CC1-B7B8-4403-8677-1EB590020F1F"
+    },
+    {
+      "question": "What is the enzyme responsible for the synthesis of RNA from a DNA template?",
+      "options": [
+        "DNA polymerase",
+        "RNA polymerase",
+        "Reverse transcriptase",
+        "Helicase"
+      ],
+      "correct_answer": "RNA polymerase",
+      "id": "71B7B15D-C8AB-4AC4-A41E-B47AA1511855"
+    },
+    {
+      "question": "Which molecule serves as a coenzyme in many redox reactions, such as glycolysis and the citric acid cycle?",
+      "options": [
+        "NAD+",
+        "FAD",
+        "ATP",
+        "Coenzyme A"
+      ],
+      "correct_answer": "NAD+",
+      "id": "FDD2F86A-138B-43B4-B9D1-5CFFFBA111C2"
+    },
+    {
+      "question": "What type of enzyme catalyzes the transfer of phosphate groups?",
+      "options": [
+        "Phosphatase",
+        "Kinase",
+        "Dehydrogenase",
+        "Isomerase"
+      ],
+      "correct_answer": "Kinase",
+      "id": "2A1E3020-09E7-4988-98B1-C06588FA3C01"
+    }
+  ]
+}

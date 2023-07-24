@@ -1,0 +1,116 @@
+{
+  "category": "Pathology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Which organ is typically affected in cirrhosis?",
+      "options": [
+        "Liver",
+        "Heart",
+        "Lungs",
+        "Kidneys"
+      ],
+      "correct_answer": "Liver",
+      "id": "3A0ED102-44E2-472D-BBFD-D4C40D605540"
+    },
+    {
+      "question": "Which type of cells are cancer cells?",
+      "options": [
+        "Erythrocytes",
+        "Leukocytes",
+        "Neurons",
+        "Abnormal cells"
+      ],
+      "correct_answer": "Abnormal cells",
+      "id": "13FA2428-6890-4C01-8DB1-4D350E42A161"
+    },
+    {
+      "question": "What is the name for the process of cancer cells spreading from one part of the body to another?",
+      "options": [
+        "Metastasis",
+        "Hypertrophy",
+        "Hyperplasia",
+        "Neoplasia"
+      ],
+      "correct_answer": "Metastasis",
+      "id": "4BDAB8C0-DDE7-48A9-A828-F08C4D22B0D4"
+    },
+    {
+      "question": "Which type of biopsy involves removing a small piece of tissue for examination?",
+      "options": [
+        "Excisional biopsy",
+        "Incisional biopsy",
+        "Core needle biopsy",
+        "Fine needle aspiration"
+      ],
+      "correct_answer": "Incisional biopsy",
+      "id": "24BAE0EC-7063-4B8A-A4C1-46DC9C1C51A1"
+    },
+    {
+      "question": "What is the term for cell death caused by disease or injury?",
+      "options": [
+        "Apoptosis",
+        "Necrosis",
+        "Metaplasia",
+        "Dysplasia"
+      ],
+      "correct_answer": "Necrosis",
+      "id": "CD9799F7-757B-4ABB-942B-F782EF24A7A0"
+    },
+    {
+      "question": "Which type of diabetes is typically diagnosed in children and teenagers?",
+      "options": [
+        "Type 1 diabetes",
+        "Type 2 diabetes",
+        "Gestational diabetes",
+        "Prediabetes"
+      ],
+      "correct_answer": "Type 1 diabetes",
+      "id": "B7490C83-A18D-431E-BF2C-92B06ABEE8D6"
+    },
+    {
+      "question": "What type of pathogen causes influenza?",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Fungi",
+        "Protozoa"
+      ],
+      "correct_answer": "Virus",
+      "id": "346F8B30-4E30-4B21-B59A-EA1EF0F0B7CC"
+    },
+    {
+      "question": "What is another name for a malignant tumor?",
+      "options": [
+        "Cyst",
+        "Polyp",
+        "Cancer",
+        "Adenoma"
+      ],
+      "correct_answer": "Cancer",
+      "id": "D87AF3F1-7ACD-4D5A-AB55-5A4A8D5F6DDC"
+    },
+    {
+      "question": "What does the 'C' in the ABCDE rule of skin cancer stand for?",
+      "options": [
+        "Color",
+        "Circumference",
+        "Curl",
+        "Consistency"
+      ],
+      "correct_answer": "Color",
+      "id": "5BAF14CD-CB40-439A-BAE5-A825032BB615"
+    },
+    {
+      "question": "What type of blood cells are responsible for clotting?",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma cells"
+      ],
+      "correct_answer": "Platelets",
+      "id": "BDE9B5B1-A2C9-4476-AB8A-D836D8B8DE5E"
+    }
+  ]
+}

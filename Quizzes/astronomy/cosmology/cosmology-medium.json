@@ -1,0 +1,116 @@
+{
+  "category": "Cosmology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the name of the apparent paradox that arises from the question of why the night sky is dark if there are so many stars in the universe?",
+      "options": [
+        "Hubble's Paradox",
+        "Fermi's Paradox",
+        "Schrodinger's Paradox",
+        "Olbers' Paradox"
+      ],
+      "correct_answer": "Olbers' Paradox",
+      "id": "1ECD04CF-A6F9-43F4-84ED-44875D72214B"
+    },
+    {
+      "question": "What evidence led to the current acceptance of the Big Bang theory over the Steady State theory?",
+      "options": [
+        "The discovery of cosmic microwave background radiation",
+        "The detection of dark matter",
+        "The observation of planetary motion",
+        "The measurement of stellar parallax"
+      ],
+      "correct_answer": "The discovery of cosmic microwave background radiation",
+      "id": "2DA15765-D3C6-4D6F-B6F4-E9C172B4AD0E"
+    },
+    {
+      "question": "Who first proposed the concept of dark matter?",
+      "options": [
+        "Albert Einstein",
+        "James Clerk Maxwell",
+        "Fritz Zwicky",
+        "Edwin Hubble"
+      ],
+      "correct_answer": "Fritz Zwicky",
+      "id": "7717BAB0-2D42-452B-8378-083992BE6FCB"
+    },
+    {
+      "question": "What is the term for the study of the universe's large-scale structure, including the distribution of galaxies and galaxy clusters?",
+      "options": [
+        "Galactic astronomy",
+        "Cosmography",
+        "Astrobiology",
+        "Extragalactic astronomy"
+      ],
+      "correct_answer": "Cosmography",
+      "id": "087D7BB2-B10A-4FA7-AB9E-0C146910C1E1"
+    },
+    {
+      "question": "What hypothetical form of energy is theorized to permeate all of space and cause the acceleration of the expansion of the universe?",
+      "options": [
+        "Dark energy",
+        "Quantum energy",
+        "Magnetic energy",
+        "Kinetic energy"
+      ],
+      "correct_answer": "Dark energy",
+      "id": "7BA8EC43-E373-41EB-94A2-90A6A2FC09FF"
+    },
+    {
+      "question": "What is the current estimate for the age of the universe, according to the ΛCDM concordance model?",
+      "options": [
+        "Approximately 4.6 billion years",
+        "Approximately 13.8 billion years",
+        "Approximately 100 billion years",
+        "Approximately 1 trillion years"
+      ],
+      "correct_answer": "Approximately 13.8 billion years",
+      "id": "A4BA7F3D-8E82-4B9A-A88E-05B24109065A"
+    },
+    {
+      "question": "Which of the following is not a possible end scenario for our universe according to current cosmological theories?",
+      "options": [
+        "Big Freeze",
+        "Big Crunch",
+        "Big Rip",
+        "Big Bang"
+      ],
+      "correct_answer": "Big Bang",
+      "id": "C53C1B7A-FE63-44D7-8448-0D969EE2336D"
+    },
+    {
+      "question": "What does the cosmological principle state about the universe?",
+      "options": [
+        "The universe is finite",
+        "The universe is infinite and isotropic",
+        "The universe is homogeneous and isotropic when viewed on a large enough scale",
+        "The universe is cyclic in nature"
+      ],
+      "correct_answer": "The universe is homogeneous and isotropic when viewed on a large enough scale",
+      "id": "0D7D84BC-7993-4A19-86D3-380CC35E20B7"
+    },
+    {
+      "question": "What does the Flatness Problem refer to in the context of cosmology?",
+      "options": [
+        "The question of why the observable universe appears to be close to spatially flat",
+        "The mystery of why galaxies are mostly flat",
+        "The challenge of explaining the absence of curvature in spacetime",
+        "The problem of why the Earth appears flat from the human perspective"
+      ],
+      "correct_answer": "The question of why the observable universe appears to be close to spatially flat",
+      "id": "7ACE8D5D-03FF-42B2-93A5-1404226B6AA2"
+    },
+    {
+      "question": "What's the main difference between the WMAP and Planck satellite missions?",
+      "options": [
+        "WMAP measured cosmic microwave background radiation, Planck measured infrared radiation",
+        "Planck provided a higher resolution and more accurate measurements than WMAP",
+        "WMAP measured the curvature of the universe, Planck measured the flatness",
+        "Planck was a follow-up mission to confirm WMAP's discovery of gravitational waves"
+      ],
+      "correct_answer": "Planck provided a higher resolution and more accurate measurements than WMAP",
+      "id": "2F9B21C9-EDDC-4C6D-B05B-EF157B9800C6"
+    }
+  ]
+}

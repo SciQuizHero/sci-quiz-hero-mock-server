@@ -1,0 +1,116 @@
+{
+  "category": "Artificial Intelligence",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the role of the activation function in a neural network?",
+      "options": [
+        "Determining the output of each neuron",
+        "Connecting different layers of the network",
+        "Training the network using backpropagation",
+        "Initializing the weights of the network"
+      ],
+      "correct_answer": "Determining the output of each neuron",
+      "id": "AA1A7E7F-21A6-41F1-BD6E-EB2C585116EB"
+    },
+    {
+      "question": "Which of the following machine learning models is primarily used for time series prediction?",
+      "options": [
+        "Convolutional Neural Networks",
+        "Random Forest",
+        "Recurrent Neural Networks",
+        "Support Vector Machines"
+      ],
+      "correct_answer": "Recurrent Neural Networks",
+      "id": "B94D063A-5B02-439B-9F80-F1054B80DB12"
+    },
+    {
+      "question": "What is the purpose of the hidden layers in a deep neural network?",
+      "options": [
+        "To interact with the input data directly",
+        "To make the network deeper",
+        "To output the final prediction",
+        "To learn complex patterns from the input data"
+      ],
+      "correct_answer": "To learn complex patterns from the input data",
+      "id": "BBC92C27-8740-4DE3-88D4-6CE22A73E796"
+    },
+    {
+      "question": "In reinforcement learning, what is the 'exploration vs exploitation' trade-off?",
+      "options": [
+        "Balancing the learning rate with the discount factor",
+        "Choosing between learning new knowledge and using existing knowledge to make decisions",
+        "Deciding when to update the policy and the value function",
+        "Balancing the size of the network with its computational complexity"
+      ],
+      "correct_answer": "Choosing between learning new knowledge and using existing knowledge to make decisions",
+      "id": "C03029CB-7336-479E-9FAD-A26A54F0EDB4"
+    },
+    {
+      "question": "What is the primary function of the 'loss function' in a machine learning algorithm?",
+      "options": [
+        "To measure the accuracy of the model's predictions",
+        "To update the weights and biases in the model",
+        "To prevent the model from overfitting",
+        "To calculate the distance between the model's predictions and the true values"
+      ],
+      "correct_answer": "To calculate the distance between the model's predictions and the true values",
+      "id": "08C43604-2A39-4114-9CE5-02BDC483DB14"
+    },
+    {
+      "question": "In the context of machine learning, what does 'bias' refer to?",
+      "options": [
+        "The amount of error introduced by approximating a real-world problem",
+        "The tendency of a model to consistently learn the same wrong thing",
+        "The model's ability to maximise reward in reinforcement learning",
+        "The difference between the average prediction of the model and the correct value"
+      ],
+      "correct_answer": "The tendency of a model to consistently learn the same wrong thing",
+      "id": "749B5F8A-14AC-4D4A-B69A-46585F886A0D"
+    },
+    {
+      "question": "What is the purpose of a 'validation set' in machine learning?",
+      "options": [
+        "To train the model",
+        "To test the model after training",
+        "To provide an unbiased evaluation of a model fit on the training dataset while tuning model hyperparameters",
+        "To adjust the weights of the model during backpropagation"
+      ],
+      "correct_answer": "To provide an unbiased evaluation of a model fit on the training dataset while tuning model hyperparameters",
+      "id": "D0FE7306-5A0A-4AFF-9800-D0CF7B3546D8"
+    },
+    {
+      "question": "In the context of AI, what is 'transfer learning'?",
+      "options": [
+        "A technique where a pre-trained model is used on a new, similar problem",
+        "Transferring knowledge from one machine learning model to another",
+        "A technique to ensure that the AI can understand human transfer of information",
+        "The process of updating the weights in a neural network during backpropagation"
+      ],
+      "correct_answer": "A technique where a pre-trained model is used on a new, similar problem",
+      "id": "DE9EFF7C-2E21-4699-9638-92418EA43B6B"
+    },
+    {
+      "question": "Which of the following is a widely used method for dimensionality reduction?",
+      "options": [
+        "Principal Component Analysis (PCA)",
+        "Hyperparameter tuning",
+        "Cost function minimization",
+        "Transfer learning"
+      ],
+      "correct_answer": "Principal Component Analysis (PCA)",
+      "id": "7F52D919-EF91-4C95-B644-C32C179725EA"
+    },
+    {
+      "question": "In the context of natural language processing, what is 'sentiment analysis'?",
+      "options": [
+        "Analyzing the structure of sentences",
+        "Analyzing the meaning of words",
+        "Determining the mood or subjective opinions within large amounts of text",
+        "Translating text from one language to another"
+      ],
+      "correct_answer": "Determining the mood or subjective opinions within large amounts of text",
+      "id": "998E5049-29E9-498E-A14C-233F9085653F"
+    }
+  ]
+}

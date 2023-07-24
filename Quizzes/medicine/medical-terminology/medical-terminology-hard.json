@@ -1,0 +1,116 @@
+{
+  "category": "Medical Terminology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What does 'Oliguria' refer to?",
+      "options": [
+        "No urination",
+        "Frequent urination",
+        "Painful urination",
+        "Reduced urination"
+      ],
+      "correct_answer": "Reduced urination",
+      "id": "A30C9074-818B-48FC-B5D4-2020297CCFF7"
+    },
+    {
+      "question": "What is 'Pyrosis' commonly known as?",
+      "options": [
+        "Heartburn",
+        "Headache",
+        "Stomach ache",
+        "Back pain"
+      ],
+      "correct_answer": "Heartburn",
+      "id": "3AA4C8F6-E01F-4537-A5C8-81F026014DD7"
+    },
+    {
+      "question": "What is the medical term for 'low blood pressure'?",
+      "options": [
+        "Hypertension",
+        "Hypotension",
+        "Hyperglycemia",
+        "Hypoglycemia"
+      ],
+      "correct_answer": "Hypotension",
+      "id": "E1230B54-366B-491D-9F0F-EDD20DCFDD64"
+    },
+    {
+      "question": "What does 'Splenomegaly' mean?",
+      "options": [
+        "Enlarged spleen",
+        "Inflamed spleen",
+        "Shrunken spleen",
+        "Ruptured spleen"
+      ],
+      "correct_answer": "Enlarged spleen",
+      "id": "1CD02274-7B17-48C6-82B4-47EA760EC0F0"
+    },
+    {
+      "question": "What is the medical term for 'Yellow skin'?",
+      "options": [
+        "Melanosis",
+        "Cyanosis",
+        "Jaundice",
+        "Albinism"
+      ],
+      "correct_answer": "Jaundice",
+      "id": "9E9697B7-63EF-4C77-BC18-BE6778A18DC8"
+    },
+    {
+      "question": "What is the medical term for 'White blood cells'?",
+      "options": [
+        "Erythrocytes",
+        "Thrombocytes",
+        "Leukocytes",
+        "Platelets"
+      ],
+      "correct_answer": "Leukocytes",
+      "id": "618EED98-57FE-4705-B5AE-144C436A72EC"
+    },
+    {
+      "question": "Which term describes the absence of the sense of smell?",
+      "options": [
+        "Anosmia",
+        "Aphasia",
+        "Agnosia",
+        "Anopia"
+      ],
+      "correct_answer": "Anosmia",
+      "id": "43BB6DD0-B04A-46BB-87D0-8DF2D8803A46"
+    },
+    {
+      "question": "What does 'Polydipsia' refer to?",
+      "options": [
+        "Excessive hunger",
+        "Excessive thirst",
+        "Excessive urination",
+        "Excessive salivation"
+      ],
+      "correct_answer": "Excessive thirst",
+      "id": "0DA8CD3C-2FEB-4F9F-A114-1A8071F06FEF"
+    },
+    {
+      "question": "What is the medical term for 'Pertaining to the kidneys'?",
+      "options": [
+        "Hepatic",
+        "Cardiac",
+        "Renal",
+        "Gastric"
+      ],
+      "correct_answer": "Renal",
+      "id": "D8554ABC-C8C6-4CDB-A352-676B302BCF53"
+    },
+    {
+      "question": "What does 'Hemiplegia' refer to?",
+      "options": [
+        "Paralysis of one side of the body",
+        "Paralysis of the lower body",
+        "Paralysis of all four limbs",
+        "Complete paralysis"
+      ],
+      "correct_answer": "Paralysis of one side of the body",
+      "id": "128D15A1-4BE7-413A-ACF4-815BD76C8F2B"
+    }
+  ]
+}

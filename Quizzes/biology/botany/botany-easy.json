@@ -1,0 +1,116 @@
+{
+  "category": "Botany",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the process by which plants make their own food?",
+      "options": [
+        "Respiration",
+        "Digestion",
+        "Photosynthesis",
+        "Transpiration"
+      ],
+      "correct_answer": "Photosynthesis",
+      "id": "BF6BDDDF-9416-4671-BC10-7F02C6DD6033"
+    },
+    {
+      "question": "What is the primary function of a plant's roots?",
+      "options": [
+        "Absorb water and nutrients",
+        "Carry out photosynthesis",
+        "Produce flowers",
+        "Support the leaves"
+      ],
+      "correct_answer": "Absorb water and nutrients",
+      "id": "3EC978AB-321F-4879-AB7E-6D224F253771"
+    },
+    {
+      "question": "What part of the plant is responsible for photosynthesis?",
+      "options": [
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Flower"
+      ],
+      "correct_answer": "Leaves",
+      "id": "3F487F48-9839-4669-852A-6F1616C94F2D"
+    },
+    {
+      "question": "What are seed-bearing plants called?",
+      "options": [
+        "Ferns",
+        "Mosses",
+        "Algae",
+        "Spermatophytes"
+      ],
+      "correct_answer": "Spermatophytes",
+      "id": "E898745E-0E21-4E97-9BBC-22D194DC9EFB"
+    },
+    {
+      "question": "What is the primary role of a plant's stem?",
+      "options": [
+        "Conduct water, minerals, and nutrients",
+        "Absorb sunlight for photosynthesis",
+        "Produce seeds",
+        "Control the opening and closing of stomata"
+      ],
+      "correct_answer": "Conduct water, minerals, and nutrients",
+      "id": "9C4F86B2-0AF5-4FE2-B758-C59555BD9742"
+    },
+    {
+      "question": "What term refers to the loss of water from a plant's surface?",
+      "options": [
+        "Perspiration",
+        "Respiration",
+        "Transpiration",
+        "Exhalation"
+      ],
+      "correct_answer": "Transpiration",
+      "id": "43F98841-3DBC-4593-A819-EBA2E3C1ACE2"
+    },
+    {
+      "question": "What is the name of the pigment that makes plants green?",
+      "options": [
+        "Melanin",
+        "Carotene",
+        "Chlorophyll",
+        "Hemoglobin"
+      ],
+      "correct_answer": "Chlorophyll",
+      "id": "5C54DBCC-1512-4480-A1D9-5E3F4B649FE8"
+    },
+    {
+      "question": "Which part of the plant produces seeds?",
+      "options": [
+        "Root",
+        "Leaf",
+        "Flower",
+        "Stem"
+      ],
+      "correct_answer": "Flower",
+      "id": "204AA737-4407-47EE-B37F-93BB8BBB261C"
+    },
+    {
+      "question": "Which plant structure contains the plant's reproductive organs?",
+      "options": [
+        "Stem",
+        "Leaf",
+        "Root",
+        "Flower"
+      ],
+      "correct_answer": "Flower",
+      "id": "D988586A-7DF2-4372-BC00-51C175957829"
+    },
+    {
+      "question": "Which type of plant lives for more than two years?",
+      "options": [
+        "Annual",
+        "Biennial",
+        "Perennial",
+        "Deciduous"
+      ],
+      "correct_answer": "Perennial",
+      "id": "7274C9E0-3E79-48C1-9930-06F924C22F21"
+    }
+  ]
+}

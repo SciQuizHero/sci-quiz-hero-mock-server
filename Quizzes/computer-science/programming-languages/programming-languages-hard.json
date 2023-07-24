@@ -1,0 +1,116 @@
+{
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "In Prolog, what does the cut operator (!) do when used in a rule?",
+      "options": [
+        "It removes all choice points created since the parent goal was called",
+        "It prevents backtracking in the current rule",
+        "It stops the execution of the current rule and starts the next one",
+        "It removes all choice points created in the current rule"
+      ],
+      "correct_answer": "It removes all choice points created since the parent goal was called",
+      "id": "FE93500D-A2CD-4227-B192-3B9048BB119D"
+    },
+    {
+      "question": "What is the primary purpose of the 'GIL' (Global Interpreter Lock) in CPython?",
+      "options": [
+        "To prevent deadlocks in multithreaded programs",
+        "To allow multiple threads to execute Python bytecode concurrently",
+        "To enforce a single point of entry to the interpreter",
+        "To synchronize access to Python objects, preventing multiple threads from executing Python bytecodes concurrently"
+      ],
+      "correct_answer": "To synchronize access to Python objects, preventing multiple threads from executing Python bytecodes concurrently",
+      "id": "469D152D-5A3C-405D-B36C-B71A026858E7"
+    },
+    {
+      "question": "In the Scala programming language, what is an 'implicit class' primarily used for?",
+      "options": [
+        "To automatically add new methods to existing classes",
+        "To define a class with a private constructor",
+        "To create a class that can be implicitly converted to another class",
+        "To define a class that is only visible within its own scope"
+      ],
+      "correct_answer": "To automatically add new methods to existing classes",
+      "id": "8E0DAA2B-6B63-425E-9752-D448C606D611"
+    },
+    {
+      "question": "What does the term 'homoiconicity' mean in the context of programming languages?",
+      "options": [
+        "The ability of a language to have a single representation for both code and data",
+        "The ability of a language to use the same syntax for different constructs",
+        "The ability of a language to treat functions as first-class citizens",
+        "The ability of a language to implement its own interpreter"
+      ],
+      "correct_answer": "The ability of a language to have a single representation for both code and data",
+      "id": "5DAD7A37-D924-49C0-A982-725F029D5EA1"
+    },
+    {
+      "question": "Which of the following programming languages is NOT garbage collected?",
+      "options": [
+        "Go",
+        "Java",
+        "Rust",
+        "Ruby"
+      ],
+      "correct_answer": "Rust",
+      "id": "ACFE85ED-21BD-498B-A424-15F52DED0310"
+    },
+    {
+      "question": "What is the primary difference between a 'green thread' and a native operating system thread?",
+      "options": [
+        "Green threads are managed by the language runtime, while native threads are managed by the operating system",
+        "Green threads can only be used with languages that support garbage collection, while native threads can be used with any language",
+        "Green threads are lighter weight and have lower overhead, while native threads are more scalable",
+        "Green threads can only run on a single core, while native threads can run on multiple cores"
+      ],
+      "correct_answer": "Green threads are managed by the language runtime, while native threads are managed by the operating system",
+      "id": "33DE3547-CCEF-4C50-AAF8-F974F3040BF4"
+    },
+    {
+      "question": "In the context of Haskell, what is 'lazy evaluation'?",
+      "options": [
+        "An evaluation strategy that only evaluates expressions when their values are needed",
+        "An evaluation strategy that evaluates all expressions before they are used",
+        "An evaluation strategy that delays evaluation of an expression until it is used multiple times",
+        "An evaluation strategy that only evaluates expressions when they are used in a conditional statement"
+      ],
+      "correct_answer": "An evaluation strategy that only evaluates expressions when their values are needed",
+      "id": "94EF0448-FEFE-43BB-9856-389A29C334D2"
+    },
+    {
+      "question": "In the programming language Erlang, what is the main purpose of the 'OTP' (Open Telecom Platform)?",
+      "options": [
+        "To provide a set of libraries for telecommunications applications",
+        "To provide a framework and set of libraries for building highly concurrent, fault-tolerant systems",
+        "To provide an interface to the operating system for low-level network programming",
+        "To provide a set of tools for optimizing and profiling Erlang code"
+      ],
+      "correct_answer": "To provide a framework and set of libraries for building highly concurrent, fault-tolerant systems",
+      "id": "38CC129B-76F8-442C-86A3-F9F694B9A737"
+    },
+    {
+      "question": "Which of the following languages uses 'pattern matching' as a fundamental control structure?",
+      "options": [
+        "Java",
+        "C++",
+        "Elixir",
+        "JavaScript"
+      ],
+      "correct_answer": "Elixir",
+      "id": "3CF59111-0796-4863-91F7-B4FB1761AF7A"
+    },
+    {
+      "question": "What does the Y Combinator, a fixed-point combinator, achieve in lambda calculus?",
+      "options": [
+        "It allows the definition of recursive functions without explicit recursion",
+        "It is used to implement type checking in the lambda calculus",
+        "It is used to create new lambda expressions from existing ones",
+        "It is used to optimize the evaluation of lambda expressions"
+      ],
+      "correct_answer": "It allows the definition of recursive functions without explicit recursion",
+      "id": "C7BC02E8-AF34-45E5-A699-9BD5F5578BED"
+    }
+  ]
+}

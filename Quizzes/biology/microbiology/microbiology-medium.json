@@ -1,0 +1,116 @@
+{
+  "category": "Microbiology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the term for the relationship where both species benefit from the association?",
+      "options": [
+        "Commensalism",
+        "Mutualism",
+        "Parasitism",
+        "Amensalism"
+      ],
+      "correct_answer": "Mutualism",
+      "id": "4A4C3F70-6AA4-45BE-A563-14C6E5D99A23"
+    },
+    {
+      "question": "Which type of bacteria are known to have a thick peptidoglycan layer in their cell wall?",
+      "options": [
+        "Gram-positive bacteria",
+        "Gram-negative bacteria",
+        "Mycoplasmas",
+        "Spirochetes"
+      ],
+      "correct_answer": "Gram-positive bacteria",
+      "id": "334C468E-B9ED-4B83-A3D2-DF02628C0A2E"
+    },
+    {
+      "question": "Which bacteria is commonly associated with food poisoning due to consumption of improperly canned foods?",
+      "options": [
+        "Clostridium botulinum",
+        "Staphylococcus aureus",
+        "Salmonella typhi",
+        "Escherichia coli"
+      ],
+      "correct_answer": "Clostridium botulinum",
+      "id": "02029F4B-53AD-4FA1-94BB-DDFA1D615F64"
+    },
+    {
+      "question": "What is the process called when a bacteriophage acquires a piece of bacterial DNA and transfers it to another bacterium?",
+      "options": [
+        "Transformation",
+        "Transduction",
+        "Conjugation",
+        "Replication"
+      ],
+      "correct_answer": "Transduction",
+      "id": "7330F24D-A9BC-4B9E-9BF0-6CC65067BF1B"
+    },
+    {
+      "question": "What is the function of an endospore in bacteria?",
+      "options": [
+        "Nutrient absorption",
+        "Movement",
+        "Survival under harsh conditions",
+        "Reproduction"
+      ],
+      "correct_answer": "Survival under harsh conditions",
+      "id": "9F577C4C-B09D-4256-A242-98253B7111DB"
+    },
+    {
+      "question": "What is the structure that allows some bacteria to adhere to surfaces and resist phagocytosis?",
+      "options": [
+        "Flagella",
+        "Capsule",
+        "Pili",
+        "Cell Wall"
+      ],
+      "correct_answer": "Capsule",
+      "id": "D5CD9A5F-DA5B-4426-B934-BB92DA227E97"
+    },
+    {
+      "question": "Which type of bacterial DNA transfer involves direct contact between two bacteria through a sex pilus?",
+      "options": [
+        "Conjugation",
+        "Transduction",
+        "Transformation",
+        "Replication"
+      ],
+      "correct_answer": "Conjugation",
+      "id": "F3E4B099-9240-4807-A8A8-3BF79A3736E4"
+    },
+    {
+      "question": "Which type of microscopy would be most appropriate for viewing the detailed internal structure of a microbe?",
+      "options": [
+        "Light Microscopy",
+        "Fluorescence Microscopy",
+        "Transmission Electron Microscopy",
+        "Dark Field Microscopy"
+      ],
+      "correct_answer": "Transmission Electron Microscopy",
+      "id": "61E5778F-F153-44A8-9869-8BE6BE038676"
+    },
+    {
+      "question": "What type of microorganism is responsible for causing malaria?",
+      "options": [
+        "Bacteria",
+        "Fungus",
+        "Virus",
+        "Protozoa"
+      ],
+      "correct_answer": "Protozoa",
+      "id": "BE79B7CA-2948-4671-A006-9C63FCE1C1D2"
+    },
+    {
+      "question": "What term is used to describe bacteria that can survive and grow in the presence or absence of oxygen?",
+      "options": [
+        "Anaerobes",
+        "Aerobes",
+        "Facultative Anaerobes",
+        "Microaerophiles"
+      ],
+      "correct_answer": "Facultative Anaerobes",
+      "id": "207D0820-0EF2-4FC4-AB53-C8FBA589F5E3"
+    }
+  ]
+}

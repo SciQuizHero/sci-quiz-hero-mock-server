@@ -1,0 +1,116 @@
+{
+  "category": "Pathology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the term for the condition characterized by a rapid increase in the number of immature white blood cells due to a malignancy in the bone marrow?",
+      "options": [
+        "Leukemia",
+        "Thrombocytopenia",
+        "Polycythemia",
+        "Eosinophilia"
+      ],
+      "correct_answer": "Leukemia",
+      "id": "96393638-B8B9-41C5-84E8-DCA529B6E79F"
+    },
+    {
+      "question": "Which disease is a genetic disorder that affects the body's connective tissues and results in extremely flexible joints and stretchy skin?",
+      "options": [
+        "Marfan syndrome",
+        "Ehlers-Danlos syndrome",
+        "Turner syndrome",
+        "Klinefelter syndrome"
+      ],
+      "correct_answer": "Ehlers-Danlos syndrome",
+      "id": "BC4C0DB0-A08E-494B-BDE0-732AB40736DE"
+    },
+    {
+      "question": "What is the term for the disease characterized by the replacement of normal bone marrow with fibrous tissue, leading to severe anemia?",
+      "options": [
+        "Aplastic anemia",
+        "Myelofibrosis",
+        "Myelodysplastic syndrome",
+        "Polycythemia vera"
+      ],
+      "correct_answer": "Myelofibrosis",
+      "id": "B74A14C1-8098-4BC0-B9FB-0C673CFEFEF4"
+    },
+    {
+      "question": "Which condition is a chronic lung disease where the airways in the lungs are permanently enlarged and damaged, often due to severe bronchitis or emphysema?",
+      "options": [
+        "Chronic obstructive pulmonary disease",
+        "Asthma",
+        "Pneumonia",
+        "Bronchiectasis"
+      ],
+      "correct_answer": "Bronchiectasis",
+      "id": "7A9C629B-C301-4D87-9DAE-9152C38183CF"
+    },
+    {
+      "question": "What is the term for a hereditary condition characterized by an abnormal sensitivity to sunlight, leading to skin damage?",
+      "options": [
+        "Albinism",
+        "Porphyria",
+        "Xeroderma pigmentosum",
+        "Epidermolysis bullosa"
+      ],
+      "correct_answer": "Xeroderma pigmentosum",
+      "id": "DB269D01-1233-4983-A054-650C8D61CDE6"
+    },
+    {
+      "question": "Which condition is an autoimmune disorder that primarily affects the skin, but may also involve other organs, leading to hardening and tightening of the skin?",
+      "options": [
+        "Psoriasis",
+        "Systemic lupus erythematosus",
+        "Scleroderma",
+        "Dermatomyositis"
+      ],
+      "correct_answer": "Scleroderma",
+      "id": "170BB88A-5DE2-41AD-9183-16905627D7FE"
+    },
+    {
+      "question": "What is the term for a group of rare diseases that involve the buildup of certain substances in various body tissues, which can damage these tissues and cause a variety of health problems?",
+      "options": [
+        "Metabolic syndrome",
+        "Lysosomal storage disorders",
+        "Glycogen storage diseases",
+        "Mitochondrial diseases"
+      ],
+      "correct_answer": "Lysosomal storage disorders",
+      "id": "149CDDEE-0264-4C4C-A4CB-21813F1FE919"
+    },
+    {
+      "question": "Which condition is a rare genetic disorder characterized by the premature fusion of certain skull bones, altering the shape of the skull and affecting the shape and alignment of the face?",
+      "options": [
+        "Cleidocranial dysplasia",
+        "Apert syndrome",
+        "Crouzon syndrome",
+        "Craniosynostosis"
+      ],
+      "correct_answer": "Craniosynostosis",
+      "id": "C8711619-3E80-41A3-9A0B-6DEC98963606"
+    },
+    {
+      "question": "What is the term for a chronic autoimmune condition characterized by the inflammation of various tissues of the body including the skin, joints, blood vessels, and kidneys?",
+      "options": [
+        "Systemic lupus erythematosus",
+        "Scleroderma",
+        "Rheumatoid arthritis",
+        "Psoriatic arthritis"
+      ],
+      "correct_answer": "Systemic lupus erythematosus",
+      "id": "788ADCFF-DA16-41CB-8D7D-312531494BD9"
+    },
+    {
+      "question": "Which disease is a genetic disorder that affects the body's ability to make collagen, leading to extremely flexible joints and stretchy, fragile skin?",
+      "options": [
+        "Ehlers-Danlos syndrome",
+        "Marfan syndrome",
+        "Osteogenesis imperfecta",
+        "Turner syndrome"
+      ],
+      "correct_answer": "Ehlers-Danlos syndrome",
+      "id": "F751EF0A-24DB-4232-A2DE-961669A424BE"
+    }
+  ]
+}

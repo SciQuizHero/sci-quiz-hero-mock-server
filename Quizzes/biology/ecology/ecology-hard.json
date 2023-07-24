@@ -1,0 +1,116 @@
+{
+  "category": "Ecology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the primary difference between a K-strategist species and an r-strategist species?",
+      "options": [
+        "K-strategist species are typically larger in size, while r-strategist species are smaller",
+        "K-strategist species reproduce rapidly, while r-strategist species reproduce slowly",
+        "K-strategist species tend to inhabit unstable environments, while r-strategist species inhabit stable environments",
+        "K-strategist species produce fewer offspring with a high survival rate, while r-strategist species produce many offspring with a low survival rate"
+      ],
+      "correct_answer": "K-strategist species produce fewer offspring with a high survival rate, while r-strategist species produce many offspring with a low survival rate",
+      "id": "45EDB709-DB08-44D3-9264-68D046F301CC"
+    },
+    {
+      "question": "What is the term for the type of mimicry where a non-harmful species mimics the warning signals of a harmful species to avoid predation?",
+      "options": [
+        "Batesian mimicry",
+        "Müllerian mimicry",
+        "Aggressive mimicry",
+        "Automimicry"
+      ],
+      "correct_answer": "Batesian mimicry",
+      "id": "F67122B1-C920-434E-B01E-73683C0CA528"
+    },
+    {
+      "question": "What's the concept of an 'Ecotone' in ecology?",
+      "options": [
+        "It refers to a transition area between two biomes",
+        "It refers to an area within an ecosystem where all species are in equilibrium",
+        "It refers to an area within an ecosystem that is devoid of life",
+        "It refers to the boundary of an ecosystem beyond which species cannot survive"
+      ],
+      "correct_answer": "It refers to a transition area between two biomes",
+      "id": "E6E5FE9E-A0D0-42A0-B3BD-A82476D05E09"
+    },
+    {
+      "question": "What is the 'Allee effect' in population ecology?",
+      "options": [
+        "It refers to a positive correlation between population size or density and the mean individual fitness",
+        "It refers to a negative correlation between population size or density and the mean individual fitness",
+        "It refers to a phenomenon where predators preferentially hunt individuals in larger groups",
+        "It refers to the phenomenon where individuals in smaller populations are more susceptible to disease"
+      ],
+      "correct_answer": "It refers to a positive correlation between population size or density and the mean individual fitness",
+      "id": "0D35DFF0-A619-4063-B13B-F03D61C9A248"
+    },
+    {
+      "question": "What is the term for the study of the ecological and evolutionary consequences of the timing of events in an organism's life?",
+      "options": [
+        "Chronobiology",
+        "Phenology",
+        "Serendipity",
+        "Etiology"
+      ],
+      "correct_answer": "Phenology",
+      "id": "AAACD5D1-0771-4CD5-9883-E33BE300467E"
+    },
+    {
+      "question": "What term describes the global sum of all ecosystems on Earth?",
+      "options": [
+        "Biosphere",
+        "Lithosphere",
+        "Hydrosphere",
+        "Atmosphere"
+      ],
+      "correct_answer": "Biosphere",
+      "id": "E08DCEE5-36D6-426D-805E-5563D284E19A"
+    },
+    {
+      "question": "Which of the following is not one of the primary mechanisms of speciation?",
+      "options": [
+        "Allopatric speciation",
+        "Parapatric speciation",
+        "Sympatric speciation",
+        "Heterotrophic speciation"
+      ],
+      "correct_answer": "Heterotrophic speciation",
+      "id": "E0C17F72-CD0A-4AE0-8D1D-6FB22B050660"
+    },
+    {
+      "question": "What term describes the relationship between two species in which one species benefits while the other is neither helped nor harmed?",
+      "options": [
+        "Mutualism",
+        "Commensalism",
+        "Amensalism",
+        "Parasitism"
+      ],
+      "correct_answer": "Commensalism",
+      "id": "1029B02C-1ED1-4254-B2FE-8205692E365B"
+    },
+    {
+      "question": "In which ecological pyramid are the levels always roughly the same size?",
+      "options": [
+        "Pyramid of energy",
+        "Pyramid of biomass",
+        "Pyramid of numbers",
+        "None of the above"
+      ],
+      "correct_answer": "None of the above",
+      "id": "EEFC02AE-2B2A-436E-975F-34DB7F48AD06"
+    },
+    {
+      "question": "What is the term for the change in species composition that takes place after a severe disturbance in an area?",
+      "options": [
+        "Ecological succession",
+        "Climax community",
+        "Ecological disturbance",
+        "Ecological resilience"
+      ],
+      "correct_answer": "Ecological succession",
+      "id": "447CF9BE-A979-4DB0-9478-099083A0DBAF"
+    }
+  ]
+}

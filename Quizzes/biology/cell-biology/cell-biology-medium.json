@@ -1,0 +1,116 @@
+{
+  "category": "Cell Biology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Which type of endocytosis involves the formation of small vesicles to take in molecules?",
+      "options": [
+        "Phagocytosis",
+        "Pinocytosis",
+        "Exocytosis",
+        "Receptor-mediated endocytosis"
+      ],
+      "correct_answer": "Pinocytosis",
+      "id": "2893F5EB-B9F8-4D72-9AE9-3CB05F0F4392"
+    },
+    {
+      "question": "Which cellular organelle plays a role in the synthesis of lipids and detoxification of harmful substances?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Mitochondria"
+      ],
+      "correct_answer": "Smooth endoplasmic reticulum",
+      "id": "D851BDD9-550F-4CB6-97F4-5902310E4395"
+    },
+    {
+      "question": "Which process enables bacteria to exchange genetic material?",
+      "options": [
+        "Conjugation",
+        "Transformation",
+        "Transduction",
+        "Binary fission"
+      ],
+      "correct_answer": "Conjugation",
+      "id": "E3A542DE-7724-4440-930D-66A121581F8A"
+    },
+    {
+      "question": "What type of cell junction allows direct communication between the cytoplasm of adjacent cells?",
+      "options": [
+        "Tight junctions",
+        "Desmosomes",
+        "Gap junctions",
+        "Plasmodesmata"
+      ],
+      "correct_answer": "Gap junctions",
+      "id": "DDD68BB1-A5F2-4345-9544-AD67B3A969CD"
+    },
+    {
+      "question": "Which cellular structure is responsible for the separation of chromosomes during cell division?",
+      "options": [
+        "Centrosome",
+        "Nucleolus",
+        "Mitochondria",
+        "Golgi apparatus"
+      ],
+      "correct_answer": "Centrosome",
+      "id": "885944B4-223C-4A41-88AD-87F8F0E94D47"
+    },
+    {
+      "question": "Which type of RNA brings amino acids to the ribosome during protein synthesis?",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "rRNA",
+        "snRNA"
+      ],
+      "correct_answer": "tRNA",
+      "id": "B1586B41-E5DC-47E6-8FC4-A926B24F2915"
+    },
+    {
+      "question": "What is the role of chaperone proteins in a cell?",
+      "options": [
+        "DNA replication",
+        "Protein degradation",
+        "Protein folding",
+        "Lipid synthesis"
+      ],
+      "correct_answer": "Protein folding",
+      "id": "D12677CC-331B-417D-B9F1-E04341C401C6"
+    },
+    {
+      "question": "Which stage of the cell cycle is characterized by cell growth and DNA replication?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "correct_answer": "S phase",
+      "id": "3A3BCFC5-5176-4A4B-B798-AF3D15A14F6E"
+    },
+    {
+      "question": "What are the two main types of endocytosis?",
+      "options": [
+        "Phagocytosis and pinocytosis",
+        "Exocytosis and phagocytosis",
+        "Pinocytosis and exocytosis",
+        "Autophagy and phagocytosis"
+      ],
+      "correct_answer": "Phagocytosis and pinocytosis",
+      "id": "7B6B744B-1F34-493F-BD31-A0B00651C87F"
+    },
+    {
+      "question": "What is the role of the smooth endoplasmic reticulum?",
+      "options": [
+        "Protein synthesis",
+        "Lipid synthesis and detoxification",
+        "Energy production",
+        "Packaging and sorting proteins"
+      ],
+      "correct_answer": "Lipid synthesis and detoxification",
+      "id": "8B460C83-E190-4116-A6FC-3EAA172CC786"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Medical Terminology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What does the prefix 'brady-' mean in medical terminology?",
+      "options": [
+        "Fast",
+        "Slow",
+        "Pain",
+        "Swelling"
+      ],
+      "correct_answer": "Slow",
+      "id": "538DF9C4-128F-43C3-9031-706ECAB4E3A2"
+    },
+    {
+      "question": "What does the suffix '-itis' mean in medical terminology?",
+      "options": [
+        "Inflammation",
+        "Tumor",
+        "Swelling",
+        "Disease"
+      ],
+      "correct_answer": "Inflammation",
+      "id": "B919AB3B-BD09-4C1F-873E-FE0E277367CC"
+    },
+    {
+      "question": "Which term refers to the study of the heart?",
+      "options": [
+        "Neurology",
+        "Cardiology",
+        "Nephrology",
+        "Pulmonology"
+      ],
+      "correct_answer": "Cardiology",
+      "id": "09FB67F7-EF75-414C-BC5A-BDB17EA4872F"
+    },
+    {
+      "question": "What does the prefix 'hyper-' mean in medical terminology?",
+      "options": [
+        "Below",
+        "Above",
+        "Between",
+        "Within"
+      ],
+      "correct_answer": "Above",
+      "id": "D394E535-5931-4E48-9791-FA79520C300B"
+    },
+    {
+      "question": "What does the prefix 'hypo-' mean in medical terminology?",
+      "options": [
+        "Below",
+        "Above",
+        "Between",
+        "Within"
+      ],
+      "correct_answer": "Below",
+      "id": "8BB2ED96-7B8D-4732-934F-EA9596F9403C"
+    },
+    {
+      "question": "Which term refers to a doctor who specializes in treating skin disorders?",
+      "options": [
+        "Dermatologist",
+        "Cardiologist",
+        "Gastroenterologist",
+        "Endocrinologist"
+      ],
+      "correct_answer": "Dermatologist",
+      "id": "A28C7F52-7479-4360-AFEE-D373C3D8D4E7"
+    },
+    {
+      "question": "What does the term 'hematology' refer to?",
+      "options": [
+        "The study of the nervous system",
+        "The study of the digestive system",
+        "The study of blood and blood-forming tissues",
+        "The study of hormones and glands"
+      ],
+      "correct_answer": "The study of blood and blood-forming tissues",
+      "id": "031E06BC-FDD1-42FC-B3F5-1BCF587701EF"
+    },
+    {
+      "question": "What does the prefix 'tachy-' mean in medical terminology?",
+      "options": [
+        "Fast",
+        "Slow",
+        "Pain",
+        "Swelling"
+      ],
+      "correct_answer": "Fast",
+      "id": "DF12CB17-3223-446F-B783-54196516D3BC"
+    },
+    {
+      "question": "What does the medical term 'bradycardia' mean?",
+      "options": [
+        "Slow heart rate",
+        "Fast heart rate",
+        "Irregular heart rate",
+        "Strong heart rate"
+      ],
+      "correct_answer": "Slow heart rate",
+      "id": "C2B3A430-8300-4988-897D-6C85AFBD3045"
+    },
+    {
+      "question": "Which term refers to the surgical removal of the appendix?",
+      "options": [
+        "Appendectomy",
+        "Tonsillectomy",
+        "Hysterectomy",
+        "Mastectomy"
+      ],
+      "correct_answer": "Appendectomy",
+      "id": "E30A4A33-73AD-4EE1-970B-D6D0C22ED812"
+    }
+  ]
+}

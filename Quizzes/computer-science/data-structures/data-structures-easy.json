@@ -1,0 +1,116 @@
+{
+  "category": "Data Structures",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is an Array?",
+      "options": [
+        "A linear data structure that stores a collection of elements of the same type",
+        "A data structure that represents a hierarchical relationship between elements",
+        "A data structure that maintains a collection of elements with no specific order",
+        "A data structure that allows efficient insertion, deletion, and retrieval of elements"
+      ],
+      "correct_answer": "A linear data structure that stores a collection of elements of the same type",
+      "id": "B41438E0-38C6-4596-A4F8-7C81FADD728C"
+    },
+    {
+      "question": "What is a Linked List?",
+      "options": [
+        "A data structure that represents a hierarchical relationship between elements",
+        "A linear data structure that stores a collection of elements of the same type",
+        "A data structure that maintains a collection of elements with no specific order",
+        "A data structure that allows efficient insertion, deletion, and retrieval of elements"
+      ],
+      "correct_answer": "A data structure that represents a hierarchical relationship between elements",
+      "id": "F8901B0B-5BA4-408D-B0CA-BC0F10D4E275"
+    },
+    {
+      "question": "What is a Stack?",
+      "options": [
+        "A data structure that represents a hierarchical relationship between elements",
+        "A linear data structure that stores a collection of elements of the same type",
+        "A data structure that maintains a collection of elements with no specific order",
+        "A data structure that follows the Last-In-First-Out (LIFO) principle"
+      ],
+      "correct_answer": "A data structure that follows the Last-In-First-Out (LIFO) principle",
+      "id": "0C5D267E-232E-49C6-87BB-E3BBEF9B4862"
+    },
+    {
+      "question": "What is a Queue?",
+      "options": [
+        "A data structure that represents a hierarchical relationship between elements",
+        "A linear data structure that stores a collection of elements of the same type",
+        "A data structure that maintains a collection of elements with no specific order",
+        "A data structure that follows the First-In-First-Out (FIFO) principle"
+      ],
+      "correct_answer": "A data structure that follows the First-In-First-Out (FIFO) principle",
+      "id": "D1D133ED-8ABC-479B-8F50-C28D5A3A1BB8"
+    },
+    {
+      "question": "What is a Hash Table?",
+      "options": [
+        "A data structure that represents a hierarchical relationship between elements",
+        "A linear data structure that stores a collection of elements of the same type",
+        "A data structure that maintains a collection of elements with no specific order",
+        "A data structure that uses a hash function to map keys to their associated values"
+      ],
+      "correct_answer": "A data structure that uses a hash function to map keys to their associated values",
+      "id": "045DFE16-84C8-4790-AAC3-1280F93EDA16"
+    },
+    {
+      "question": "What is a Binary Search Tree?",
+      "options": [
+        "A data structure that represents a hierarchical relationship between elements",
+        "A linear data structure that stores a collection of elements of the same type",
+        "A data structure that maintains a collection of elements with no specific order",
+        "A data structure that allows efficient search, insertion, and deletion of elements, maintaining a sorted order"
+      ],
+      "correct_answer": "A data structure that allows efficient search, insertion, and deletion of elements, maintaining a sorted order",
+      "id": "8CFF750D-8F99-4302-9F44-5B66B8986B86"
+    },
+    {
+      "question": "What is a Graph?",
+      "options": [
+        "A data structure that represents a hierarchical relationship between elements",
+        "A linear data structure that stores a collection of elements of the same type",
+        "A data structure that maintains a collection of elements with no specific order",
+        "A data structure that consists of a set of vertices and a set of edges that connect those vertices"
+      ],
+      "correct_answer": "A data structure that consists of a set of vertices and a set of edges that connect those vertices",
+      "id": "9BC44CAA-531C-46F8-8E07-CE7CCB9F6CBE"
+    },
+    {
+      "question": "What is a Hash Table?",
+      "options": [
+        "A linear data structure that follows the First-In-First-Out (FIFO) principle",
+        "A data structure that represents a hierarchical relationship between elements",
+        "A data structure that stores a collection of elements of the same type",
+        "A data structure that uses a hash function to map keys to their associated values"
+      ],
+      "correct_answer": "A data structure that uses a hash function to map keys to their associated values",
+      "id": "65A16EA7-985C-43D0-87F9-10A36D367ACB"
+    },
+    {
+      "question": "What is a Binary Search Tree?",
+      "options": [
+        "A linear data structure that follows the First-In-First-Out (FIFO) principle",
+        "A data structure that represents a hierarchical relationship between elements",
+        "A data structure that stores a collection of elements of the same type",
+        "A data structure that allows efficient search, insertion, and deletion of elements, maintaining a sorted order"
+      ],
+      "correct_answer": "A data structure that allows efficient search, insertion, and deletion of elements, maintaining a sorted order",
+      "id": "15E68824-6DEE-4705-81DE-647049A179CD"
+    },
+    {
+      "question": "What is a Graph?",
+      "options": [
+        "A linear data structure that follows the First-In-First-Out (FIFO) principle",
+        "A data structure that represents a hierarchical relationship between elements",
+        "A data structure that stores a collection of elements of the same type",
+        "A data structure that consists of a set of vertices and a set of edges that connect those vertices"
+      ],
+      "correct_answer": "A data structure that consists of a set of vertices and a set of edges that connect those vertices",
+      "id": "E2FBB5B6-4F99-4A14-B1FE-F4AB9971BFD5"
+    }
+  ]
+}

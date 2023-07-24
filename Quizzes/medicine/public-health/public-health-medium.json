@@ -1,0 +1,106 @@
+{
+  "category": "Public Health",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the purpose of a needs assessment in public health?",
+      "options": [
+        "To identify gaps in healthcare service delivery",
+        "To provide medical treatments",
+        "To manage healthcare facilities",
+        "To promote healthy behaviors"
+      ],
+      "correct_answer": "To identify gaps in healthcare service delivery"
+    },
+    {
+      "question": "What are the key components of a public health intervention?",
+      "options": [
+        "Assessment, planning, implementation, and evaluation",
+        "Diagnosis, treatment, and follow-up",
+        "Admission, discharge, and recovery",
+        "Observation, analysis, and conclusion"
+      ],
+      "correct_answer": "Assessment, planning, implementation, and evaluation"
+    },
+    {
+      "question": "What is the role of epidemiology in public health?",
+      "options": [
+        "To study the patterns, causes, and effects of diseases in populations",
+        "To provide medical treatments",
+        "To manage healthcare facilities",
+        "To promote healthy behaviors"
+      ],
+      "correct_answer": "To study the patterns, causes, and effects of diseases in populations"
+    },
+    {
+      "question": "What is the concept of herd immunity?",
+      "options": [
+        "When a high proportion of the population is immune to a disease, providing indirect protection to those who are not immune",
+        "When an individual develops immunity after receiving a vaccine",
+        "When a disease spreads rapidly within a population",
+        "When a disease is limited to a specific geographic region"
+      ],
+      "correct_answer": "When a high proportion of the population is immune to a disease, providing indirect protection to those who are not immune"
+    },
+    {
+      "question": "What is the primary goal of outbreak investigation in public health?",
+      "options": [
+        "To identify the source and control the spread of a disease outbreak",
+        "To provide medical treatments",
+        "To manage healthcare facilities",
+        "To promote healthy behaviors"
+      ],
+      "correct_answer": "To identify the source and control the spread of a disease outbreak"
+    },
+    {
+      "question": "What is the significance of the Social Ecological Model in public health?",
+      "options": [
+        "It recognizes that health is influenced by multiple interconnected factors",
+        "It focuses solely on individual behaviors",
+        "It emphasizes medical interventions",
+        "It disregards social and environmental determinants of health"
+      ],
+      "correct_answer": "It recognizes that health is influenced by multiple interconnected factors"
+    },
+    {
+      "question": "What is the role of health education in public health?",
+      "options": [
+        "To empower individuals to make informed health decisions",
+        "To provide medical treatments",
+        "To manage healthcare facilities",
+        "To promote healthy behaviors"
+      ],
+      "correct_answer": "To empower individuals to make informed health decisions"
+    },
+    {
+      "question": "What is the purpose of health promotion campaigns?",
+      "options": [
+        "To raise awareness and encourage healthy behaviors",
+        "To provide medical treatments",
+        "To manage healthcare facilities",
+        "To diagnose and treat diseases"
+      ],
+      "correct_answer": "To raise awareness and encourage healthy behaviors"
+    },
+    {
+      "question": "What is the role of surveillance in public health?",
+      "options": [
+        "To monitor and track the occurrence of diseases and health-related events",
+        "To provide medical treatments",
+        "To manage healthcare facilities",
+        "To promote healthy behaviors"
+      ],
+      "correct_answer": "To monitor and track the occurrence of diseases and health-related events"
+    },
+    {
+      "question": "What is the purpose of a health impact assessment?",
+      "options": [
+        "To evaluate the potential health effects of policies, programs, and projects",
+        "To provide medical treatments",
+        "To manage healthcare facilities",
+        "To promote healthy behaviors"
+      ],
+      "correct_answer": "To evaluate the potential health effects of policies, programs, and projects"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Trigonometry",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the value of sine 90 degrees?",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "0.5"
+      ],
+      "correct_answer": "1",
+      "id": "695F8FDA-97A4-4526-9AC4-DC8C18F2DD56"
+    },
+    {
+      "question": "What is the value of cosine 0 degrees?",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "0.5"
+      ],
+      "correct_answer": "1",
+      "id": "41C9C02A-709E-4920-8136-D53A901C4091"
+    },
+    {
+      "question": "Which trigonometric function is also known as the reciprocal of Cosine?",
+      "options": [
+        "Sine",
+        "Tangent",
+        "Cosecant",
+        "Secant"
+      ],
+      "correct_answer": "Secant",
+      "id": "F95ABAD7-F67B-4BA3-AD9C-5FD43E1AC174"
+    },
+    {
+      "question": "In a right triangle, what is the tangent of an angle defined as?",
+      "options": [
+        "Opposite over adjacent",
+        "Adjacent over hypotenuse",
+        "Opposite over hypotenuse",
+        "Adjacent over opposite"
+      ],
+      "correct_answer": "Opposite over adjacent",
+      "id": "4BD57C8F-6144-4C6F-86FB-724EFA92BB4B"
+    },
+    {
+      "question": "Which of the following is not a Pythagorean triplet?",
+      "options": [
+        "3, 4, 5",
+        "5, 12, 13",
+        "6, 8, 10",
+        "7, 10, 12"
+      ],
+      "correct_answer": "7, 10, 12",
+      "id": "5F0DCA92-2C73-4191-A6F5-62E83D98A510"
+    },
+    {
+      "question": "What is the value of tangent 45 degrees?",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "0.5"
+      ],
+      "correct_answer": "1",
+      "id": "22BAB5FE-891A-4028-93BF-E264DE7A4919"
+    },
+    {
+      "question": "Which trigonometric function is also known as the reciprocal of Sine?",
+      "options": [
+        "Cosine",
+        "Tangent",
+        "Cosecant",
+        "Secant"
+      ],
+      "correct_answer": "Cosecant",
+      "id": "76AC578E-D670-446D-A742-71A77DAADB5A"
+    },
+    {
+      "question": "What is the value of cotangent of 90 degrees?",
+      "options": [
+        "0",
+        "1",
+        "Infinity",
+        "Undefined"
+      ],
+      "correct_answer": "Undefined",
+      "id": "DA9CE08E-C0BA-4093-B017-5EB0CB0CD6A5"
+    },
+    {
+      "question": "What is the hypotenuse in a right triangle with sides of length 6 and 8?",
+      "options": [
+        "10",
+        "14",
+        "12",
+        "9"
+      ],
+      "correct_answer": "10",
+      "id": "1008501F-3C91-4E9C-8041-CDEEB5ECC86C"
+    },
+    {
+      "question": "Which of the following angles in degrees is an acute angle?",
+      "options": [
+        "90",
+        "45",
+        "180",
+        "270"
+      ],
+      "correct_answer": "45",
+      "id": "DE60A52B-A4A3-4FD1-96F7-4FEEC47816DA"
+    }
+  ]
+}

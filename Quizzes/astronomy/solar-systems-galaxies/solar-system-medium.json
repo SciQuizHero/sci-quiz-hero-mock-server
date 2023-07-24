@@ -1,0 +1,116 @@
+{
+  "category": "Solar System",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the term for the point in a planet's orbit when it is closest to the Sun?",
+      "options": [
+        "Aphelion",
+        "Perihelion",
+        "Apogee",
+        "Perigee"
+      ],
+      "correct_answer": "Perihelion",
+      "id": "1B55983C-E6F2-4891-A7FD-FF8F464F1270"
+    },
+    {
+      "question": "Which moon in our solar system is considered the most likely candidate for extraterrestrial life due to its subsurface ocean?",
+      "options": [
+        "Europa",
+        "Ganymede",
+        "Callisto",
+        "Titan"
+      ],
+      "correct_answer": "Europa",
+      "id": "81072853-BE77-451E-B5A3-CDB8CC4BB26D"
+    },
+    {
+      "question": "Which two elements make up the majority of the Sun's composition?",
+      "options": [
+        "Helium and Oxygen",
+        "Hydrogen and Helium",
+        "Hydrogen and Oxygen",
+        "Carbon and Nitrogen"
+      ],
+      "correct_answer": "Hydrogen and Helium",
+      "id": "118CCF32-12EA-4948-A1F5-23FF8C81223B"
+    },
+    {
+      "question": "What is the primary cause of auroras on Earth?",
+      "options": [
+        "Solar flares",
+        "Solar wind",
+        "Cosmic rays",
+        "Moon's gravitational pull"
+      ],
+      "correct_answer": "Solar wind",
+      "id": "26E68A44-6216-4AFD-BAEC-EEC5A19A16EF"
+    },
+    {
+      "question": "Which planet in our solar system has the shortest year?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "correct_answer": "Mercury",
+      "id": "4B3676F7-C4F1-4C79-BB12-37F14AAF3DDF"
+    },
+    {
+      "question": "What is the term for a small celestial object composed of ice and dust that orbits the Sun?",
+      "options": [
+        "Meteor",
+        "Asteroid",
+        "Comet",
+        "Dwarf planet"
+      ],
+      "correct_answer": "Comet",
+      "id": "83412EE8-6DBF-4CC5-97A9-71A1D2DA4127"
+    },
+    {
+      "question": "What is the name of the phenomenon in which a planet appears to reverse its direction of motion temporarily?",
+      "options": [
+        "Axial tilt",
+        "Orbital resonance",
+        "Retrograde motion",
+        "Inferior conjunction"
+      ],
+      "correct_answer": "Retrograde motion",
+      "id": "38417C84-2C41-4F75-A19B-4624BFF06F88"
+    },
+    {
+      "question": "What is the main reason for the reddish appearance of Mars?",
+      "options": [
+        "High levels of carbon dioxide",
+        "Abundance of water ice",
+        "Iron oxide in the soil",
+        "Strong magnetic field"
+      ],
+      "correct_answer": "Iron oxide in the soil",
+      "id": "7A808D34-D331-44EC-87CA-3A292A668652"
+    },
+    {
+      "question": "What is the term used to describe the point in a planet's orbit when it is closest to the Sun?",
+      "options": [
+        "Perihelion",
+        "Aphelion",
+        "Perigee",
+        "Apogee"
+      ],
+      "correct_answer": "Perihelion",
+      "id": "8FBE5BC3-9D2C-495C-8126-C5D9BD488B6A"
+    },
+    {
+      "question": "Which planet has the lowest density in our solar system?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Saturn",
+        "Neptune"
+      ],
+      "correct_answer": "Saturn",
+      "id": "CC4511A6-F024-4E87-984A-ACA8F1CF408B"
+    }
+  ]
+}

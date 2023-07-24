@@ -1,0 +1,116 @@
+{
+  "category": "Geology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the term for the measure of the total amount of dissolved solids in ocean water?",
+      "options": [
+        "Density",
+        "Salinity",
+        "Conductivity",
+        "Acidity"
+      ],
+      "correct_answer": "Salinity",
+      "id": "2AB52C3F-42EB-4A32-8C64-0C1927544D0F"
+    },
+    {
+      "question": "Which mineral group makes up more than 60% of the Earth's crust?",
+      "options": [
+        "Quartz",
+        "Feldspars",
+        "Carbonates",
+        "Micas"
+      ],
+      "correct_answer": "Feldspars",
+      "id": "3ED05098-A1ED-4568-ADE4-FE78830EF233"
+    },
+    {
+      "question": "What is the principle that states 'the present is the key to the past'?",
+      "options": [
+        "Law of Superposition",
+        "Principle of Cross-Cutting Relationships",
+        "Principle of Original Horizontality",
+        "Principle of Uniformitarianism"
+      ],
+      "correct_answer": "Principle of Uniformitarianism",
+      "id": "663909CF-A821-4C80-B79B-1B5120BCD30A"
+    },
+    {
+      "question": "Which era is often referred to as the 'age of fishes'?",
+      "options": [
+        "Paleozoic",
+        "Mesozoic",
+        "Cenozoic",
+        "Precambrian"
+      ],
+      "correct_answer": "Paleozoic",
+      "id": "3AE8AA92-A03B-4EA7-93A4-E5D96A0D07E4"
+    },
+    {
+      "question": "What are 'varves'?",
+      "options": [
+        "Layers of sediment in a glacier",
+        "Annual layers of sediment in a lake",
+        "Annual growth rings in trees",
+        "Layers of wind-deposited sand"
+      ],
+      "correct_answer": "Annual layers of sediment in a lake",
+      "id": "3EC40559-C6F0-4CD5-B52B-2F96B3C01A96"
+    },
+    {
+      "question": "What does the 'Mohs scale' measure?",
+      "options": [
+        "The density of a mineral",
+        "The hardness of a mineral",
+        "The temperature of a mineral",
+        "The brightness of a mineral"
+      ],
+      "correct_answer": "The hardness of a mineral",
+      "id": "5F7ED7AE-0D42-4C92-99FC-30AF74E23326"
+    },
+    {
+      "question": "Which tectonic plate does not border the Pacific Plate?",
+      "options": [
+        "North American Plate",
+        "Nazca Plate",
+        "Australian Plate",
+        "African Plate"
+      ],
+      "correct_answer": "African Plate",
+      "id": "72DD7E03-DB14-423C-B876-CFE928984940"
+    },
+    {
+      "question": "What is the term for a rapidly rotating storm system characterized by a low-pressure center, strong winds, and a spiral arrangement of thunderstorms that produce heavy rain, especially over tropical oceans?",
+      "options": [
+        "Cyclone",
+        "Tornado",
+        "Hurricane",
+        "Typhoon"
+      ],
+      "correct_answer": "Cyclone",
+      "id": "C8900FDE-8732-459D-B5F3-8C076436196E"
+    },
+    {
+      "question": "What is the name given to the phenomenon where certain minerals will glow when subjected to ultraviolet light?",
+      "options": [
+        "Bioluminescence",
+        "Iridescence",
+        "Fluorescence",
+        "Phosphorescence"
+      ],
+      "correct_answer": "Fluorescence",
+      "id": "ADEB83C6-3EE2-4296-8C52-B718CC95DDD6"
+    },
+    {
+      "question": "Which layer of the Earth lies directly below the crust?",
+      "options": [
+        "Outer core",
+        "Inner core",
+        "Mantle",
+        "Asthenosphere"
+      ],
+      "correct_answer": "Mantle",
+      "id": "1E8D688C-6F16-4050-B958-77E7D6D6A3A1"
+    }
+  ]
+}

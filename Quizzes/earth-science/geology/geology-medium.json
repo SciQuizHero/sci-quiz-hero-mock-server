@@ -1,0 +1,116 @@
+{
+  "category": "Geology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Which type of coal has the highest carbon content?",
+      "options": [
+        "Peat",
+        "Lignite",
+        "Bituminous",
+        "Anthracite"
+      ],
+      "correct_answer": "Anthracite",
+      "id": "4ABD0034-AA76-470B-BBCD-154E9055C5CA"
+    },
+    {
+      "question": "Which geological era is known as the 'Age of Reptiles'?",
+      "options": [
+        "Paleozoic",
+        "Mesozoic",
+        "Cenozoic",
+        "Proterozoic"
+      ],
+      "correct_answer": "Mesozoic",
+      "id": "F5C2A29C-66DB-45C4-ABE7-0D07242E2A72"
+    },
+    {
+      "question": "What term refers to a large, long-lasting mass of ice which moves over land?",
+      "options": [
+        "Glacier",
+        "Iceberg",
+        "Crevasse",
+        "Ice Shelf"
+      ],
+      "correct_answer": "Glacier",
+      "id": "AA6337F2-1327-4D7B-BB92-6FE95619EE6E"
+    },
+    {
+      "question": "What is the term for a scientist who studies the Earth using gravity, magnetic, electrical, and seismic methods?",
+      "options": [
+        "Seismologist",
+        "Geophysicist",
+        "Paleontologist",
+        "Geodesist"
+      ],
+      "correct_answer": "Geophysicist",
+      "id": "B4AA1305-F27A-45FE-BB66-02A4DDB7E4BD"
+    },
+    {
+      "question": "What type of rock forms when magma cools and solidifies within the Earth's crust?",
+      "options": [
+        "Extrusive igneous rock",
+        "Intrusive igneous rock",
+        "Metamorphic rock",
+        "Sedimentary rock"
+      ],
+      "correct_answer": "Intrusive igneous rock",
+      "id": "5C76535C-1D5F-4091-9053-AEBFAA983689"
+    },
+    {
+      "question": "What term describes a sudden movement of the Earth's lithosphere (crust and upper mantle)?",
+      "options": [
+        "Volcano",
+        "Tsunami",
+        "Landslide",
+        "Earthquake"
+      ],
+      "correct_answer": "Earthquake",
+      "id": "677B3E71-0592-43C4-A102-4511484D7886"
+    },
+    {
+      "question": "What type of rock is formed by the accumulation of sediment deposited on the Earth's surface?",
+      "options": [
+        "Igneous",
+        "Metamorphic",
+        "Sedimentary",
+        "Basalt"
+      ],
+      "correct_answer": "Sedimentary",
+      "id": "8FC0F988-A396-4506-A24C-173FD891CE4D"
+    },
+    {
+      "question": "Which of the following minerals is the hardest according to Mohs hardness scale?",
+      "options": [
+        "Talc",
+        "Quartz",
+        "Diamond",
+        "Feldspar"
+      ],
+      "correct_answer": "Diamond",
+      "id": "C56B3173-6091-414D-9385-131DBAA06C2A"
+    },
+    {
+      "question": "What term refers to a large body of salt water that is smaller than an ocean?",
+      "options": [
+        "Lake",
+        "River",
+        "Sea",
+        "Pond"
+      ],
+      "correct_answer": "Sea",
+      "id": "D478DAFF-7702-41C4-BF7F-9B47FC5263B1"
+    },
+    {
+      "question": "What is the process by which rocks are broken down by the actions of wind, water, and temperature changes?",
+      "options": [
+        "Erosion",
+        "Weathering",
+        "Metamorphism",
+        "Lithification"
+      ],
+      "correct_answer": "Weathering",
+      "id": "F520D053-7808-40BA-982B-550034969084"
+    }
+  ]
+}

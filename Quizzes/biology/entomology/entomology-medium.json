@@ -1,0 +1,116 @@
+{
+  "category": "Entomology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the name of the protective case that a pupa of a moth or butterfly develops in?",
+      "options": [
+        "Pupa case",
+        "Chrysalis",
+        "Larval shell",
+        "Cocoon"
+      ],
+      "correct_answer": "Cocoon",
+      "id": "C6D2C929-85AA-46BE-A382-8327609F6E71"
+    },
+    {
+      "question": "Which insect is the primary pollinator of the vanilla orchid?",
+      "options": [
+        "Melipona bee",
+        "Monarch butterfly",
+        "European honey bee",
+        "Bumblebee"
+      ],
+      "correct_answer": "Melipona bee",
+      "id": "89170265-6453-40F0-A456-6E2C8FD12DEC"
+    },
+    {
+      "question": "What is the name of the insect order that includes dragonflies and damselflies?",
+      "options": [
+        "Coleoptera",
+        "Lepidoptera",
+        "Diptera",
+        "Odonata"
+      ],
+      "correct_answer": "Odonata",
+      "id": "1B3310BC-F8D6-474B-AE4A-DE1DCFA4372A"
+    },
+    {
+      "question": "Which insect has the longest migration of any insect?",
+      "options": [
+        "Monarch Butterfly",
+        "Migratory locust",
+        "Painted Lady Butterfly",
+        "Dragonfly"
+      ],
+      "correct_answer": "Dragonfly",
+      "id": "FA91A6EE-17F2-4518-96CB-997FDE07BCD9"
+    },
+    {
+      "question": "What is the term for an insect's shedding of its exoskeleton?",
+      "options": [
+        "Metamorphosis",
+        "Ecdysis",
+        "Instar",
+        "Molting"
+      ],
+      "correct_answer": "Ecdysis",
+      "id": "62E3BA5B-E51E-43AB-9948-E135F556433A"
+    },
+    {
+      "question": "Which insect is known for carrying the bubonic plague, also known as the Black Death?",
+      "options": [
+        "Mosquito",
+        "Flea",
+        "Louse",
+        "Tick"
+      ],
+      "correct_answer": "Flea",
+      "id": "13EA3EA7-2A88-49EE-AEA1-43F6EB1F8F02"
+    },
+    {
+      "question": "What is the largest species of beetle in the world?",
+      "options": [
+        "Stag Beetle",
+        "Atlas Beetle",
+        "Titan Beetle",
+        "Goliath Beetle"
+      ],
+      "correct_answer": "Titan Beetle",
+      "id": "3AB52035-F818-4892-AA70-19749BE59299"
+    },
+    {
+      "question": "Which insect is known for its ability to glow in the dark, a trait known as bioluminescence?",
+      "options": [
+        "Firefly",
+        "Dragonfly",
+        "Moth",
+        "Beetle"
+      ],
+      "correct_answer": "Firefly",
+      "id": "360137E5-418C-4B83-9CDD-481FA0687FDD"
+    },
+    {
+      "question": "What insect group is characterized by having their wings covered in scales?",
+      "options": [
+        "Coleoptera",
+        "Lepidoptera",
+        "Orthoptera",
+        "Hymenoptera"
+      ],
+      "correct_answer": "Lepidoptera",
+      "id": "2180083E-D352-47F3-9E5F-4411AFF1DF33"
+    },
+    {
+      "question": "Which insect is known for its unique life cycle of living as a nymph underwater before emerging as a flying adult?",
+      "options": [
+        "Dragonfly",
+        "Mosquito",
+        "Butterfly",
+        "Grasshopper"
+      ],
+      "correct_answer": "Dragonfly",
+      "id": "DACA0FC3-393D-4308-8FC5-F8697270C035"
+    }
+  ]
+}

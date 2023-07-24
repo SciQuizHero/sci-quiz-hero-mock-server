@@ -1,0 +1,116 @@
+{
+  "category": "Programming Languages",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Which of the following programming languages is an object-oriented language developed by James Gosling at Sun Microsystems?",
+      "options": [
+        "Java",
+        "Python",
+        "C++",
+        "JavaScript"
+      ],
+      "correct_answer": "Java",
+      "id": "EA5E20E0-A86C-4273-A5B6-B376D7F2BB66"
+    },
+    {
+      "question": "Which programming language was created by Guido van Rossum and emphasizes code readability?",
+      "options": [
+        "Ruby",
+        "Java",
+        "Python",
+        "C"
+      ],
+      "correct_answer": "Python",
+      "id": "DA2179E4-0D9E-4339-A662-7A6BCB5DF824"
+    },
+    {
+      "question": "Which of the following is a popular language for web development and often runs on the server-side?",
+      "options": [
+        "C",
+        "Scala",
+        "PHP",
+        "Swift"
+      ],
+      "correct_answer": "PHP",
+      "id": "4C48C810-4A4B-4653-AF67-C3C5CF12728A"
+    },
+    {
+      "question": "Which programming language is primarily used for iOS and macOS app development?",
+      "options": [
+        "Kotlin",
+        "Swift",
+        "Haskell",
+        "Rust"
+      ],
+      "correct_answer": "Swift",
+      "id": "2588D47E-2B9E-4DF5-9D6A-7AFF4DD6CE48"
+    },
+    {
+      "question": "What language was developed by Microsoft and is commonly used for Windows application development?",
+      "options": [
+        "Java",
+        "C#",
+        "Python",
+        "C++"
+      ],
+      "correct_answer": "C#",
+      "id": "32CAD75B-1761-4DC2-B410-7C326B4AD7A3"
+    },
+    {
+      "question": "Which of the following languages is a superset of JavaScript and adds optional static typing?",
+      "options": [
+        "TypeScript",
+        "CoffeeScript",
+        "Dart",
+        "Python"
+      ],
+      "correct_answer": "TypeScript",
+      "id": "CA6A58BB-73D5-4D49-B822-4C79E17E0B79"
+    },
+    {
+      "question": "Which of the following languages is commonly used for creating web page interactivity and is executed on the client-side?",
+      "options": [
+        "Python",
+        "Java",
+        "C++",
+        "JavaScript"
+      ],
+      "correct_answer": "JavaScript",
+      "id": "4BFE6618-CAAE-4BDB-A0E8-3644F9B332DA"
+    },
+    {
+      "question": "Which programming language was developed by Yukihiro Matsumoto and is often used for web development?",
+      "options": [
+        "Python",
+        "Ruby",
+        "Perl",
+        "PHP"
+      ],
+      "correct_answer": "Ruby",
+      "id": "008B7E0E-6BB3-47BF-B283-E756796B9924"
+    },
+    {
+      "question": "Which of the following languages is a functional programming language, particularly popular for concurrent programming and distributed systems?",
+      "options": [
+        "Erlang",
+        "Go",
+        "Objective-C",
+        "Rust"
+      ],
+      "correct_answer": "Erlang",
+      "id": "05DEDA01-4B70-42D9-83B9-3216E0AFFF80"
+    },
+    {
+      "question": "Which programming language, developed by Google, is known for its simplicity and efficient performance, often used in systems programming and server side applications?",
+      "options": [
+        "Kotlin",
+        "Go",
+        "Dart",
+        "Rust"
+      ],
+      "correct_answer": "Go",
+      "id": "B4567DA2-A0FE-46C1-B958-03F114685A95"
+    }
+  ]
+}

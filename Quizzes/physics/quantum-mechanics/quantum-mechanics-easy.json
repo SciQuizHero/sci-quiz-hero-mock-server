@@ -1,0 +1,116 @@
+{
+  "category": "Quantum Mechanics",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Who is considered the father of quantum mechanics?",
+      "options": [
+        "Albert Einstein",
+        "Max Planck",
+        "Isaac Newton",
+        "Niels Bohr"
+      ],
+      "correct_answer": "Max Planck",
+      "id": "B0FAD816-8DE4-4B7A-BDAF-756651B358F1"
+    },
+    {
+      "question": "Which principle states that it is impossible to know both the exact position and momentum of a particle at the same time?",
+      "options": [
+        "Uncertainty Principle",
+        "Superposition Principle",
+        "Pauli Exclusion Principle",
+        "Hubble's Law"
+      ],
+      "correct_answer": "Uncertainty Principle",
+      "id": "1A9AD15C-C9ED-4D47-AAA4-1D9A10A6EE7D"
+    },
+    {
+      "question": "What is a quantum of light called?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Photon"
+      ],
+      "correct_answer": "Photon",
+      "id": "68BEDCC0-1558-425F-8706-4DFB5ED55C75"
+    },
+    {
+      "question": "What is the name of the theory that combines quantum mechanics and special relativity?",
+      "options": [
+        "Quantum Field Theory",
+        "General Theory of Relativity",
+        "String Theory",
+        "Quantum Gravity"
+      ],
+      "correct_answer": "Quantum Field Theory",
+      "id": "3D88B079-617A-4F49-A69B-D122A094DEF9"
+    },
+    {
+      "question": "What does the 'wave-particle duality' principle state?",
+      "options": [
+        "Particles can behave as waves and particles can behave as particles",
+        "Particles can behave as waves and waves can behave as particles",
+        "Only particles can behave as waves",
+        "Only waves can behave as particles"
+      ],
+      "correct_answer": "Particles can behave as waves and waves can behave as particles",
+      "id": "160BFE74-85CB-4A53-9C3B-9F3DE74BC5C1"
+    },
+    {
+      "question": "What is the name of the smallest possible unit or 'packet' in quantum mechanics?",
+      "options": [
+        "Quantum",
+        "Atom",
+        "Molecule",
+        "Photon"
+      ],
+      "correct_answer": "Quantum",
+      "id": "669F158C-82FB-449E-98A3-5B9B24E24A41"
+    },
+    {
+      "question": "What does the Schrödinger equation describe in quantum mechanics?",
+      "options": [
+        "The behavior of quantum systems over time",
+        "The speed of light",
+        "The force of gravity",
+        "The structure of atoms"
+      ],
+      "correct_answer": "The behavior of quantum systems over time",
+      "id": "31665F7B-B125-43E0-8B0C-D0B649DE4DFB"
+    },
+    {
+      "question": "In quantum mechanics, what is the principle that states no two fermions can occupy the same quantum state simultaneously?",
+      "options": [
+        "Heisenberg's Uncertainty Principle",
+        "Pauli Exclusion Principle",
+        "Schrödinger's Cat",
+        "Maxwell's Equations"
+      ],
+      "correct_answer": "Pauli Exclusion Principle",
+      "id": "AD92A77B-178B-4456-BDDB-5D2D09433A66"
+    },
+    {
+      "question": "What does 'quantum superposition' refer to?",
+      "options": [
+        "The ability of a quantum system to be in multiple states at the same time",
+        "The position of a quantum particle",
+        "The force exerted by a quantum particle",
+        "The speed of a quantum particle"
+      ],
+      "correct_answer": "The ability of a quantum system to be in multiple states at the same time",
+      "id": "91DB04DC-7DEB-42BA-96D3-CE5677CEABDF"
+    },
+    {
+      "question": "Which experiment demonstrated the wave-particle duality of quantum particles?",
+      "options": [
+        "The double-slit experiment",
+        "The Michelson-Morley experiment",
+        "The Stern-Gerlach experiment",
+        "The Millikan oil drop experiment"
+      ],
+      "correct_answer": "The double-slit experiment",
+      "id": "448F8543-CB60-466E-A8C1-CEC5631BDEE2"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Networking",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "In the context of IP networking, what does 'CIDR' stand for?",
+      "options": [
+        "Classful Inter-Domain Routing",
+        "Classless Inter-Domain Routing",
+        "Classful Intra-Domain Routing",
+        "Classless Intra-Domain Routing"
+      ],
+      "correct_answer": "Classless Inter-Domain Routing",
+      "id": "479CD8E1-8EBE-4E0B-9F9B-B986CC06E228"
+    },
+    {
+      "question": "Which Internet protocol uses port 22 by default?",
+      "options": [
+        "FTP",
+        "HTTP",
+        "SSH",
+        "SMTP"
+      ],
+      "correct_answer": "SSH",
+      "id": "AF97AF96-D533-4DE3-B2E8-2BE24EFAA26C"
+    },
+    {
+      "question": "What is 'windowing' in the context of TCP?",
+      "options": [
+        "A technique used for controlling packet flow in a network",
+        "A method for reducing data redundancy",
+        "A technique for splitting data into packets",
+        "A method for encrypting data"
+      ],
+      "correct_answer": "A technique used for controlling packet flow in a network",
+      "id": "9D638C55-F4AB-4C4B-89F3-85B40E17A346"
+    },
+    {
+      "question": "Which of these is not a valid IPv6 address?",
+      "options": [
+        "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+        "1200::AB00:1234::2552:7777:1313",
+        "::1",
+        "FE80::0202:B3FF:FE1E:8329"
+      ],
+      "correct_answer": "1200::AB00:1234::2552:7777:1313",
+      "id": "3EAE420B-272B-4CE7-9A2E-532EE0492D12"
+    },
+    {
+      "question": "What is the primary function of BGP (Border Gateway Protocol)?",
+      "options": [
+        "Path vector protocol for routing within an autonomous system",
+        "Distance vector protocol for routing between autonomous systems",
+        "Path vector protocol for routing between autonomous systems",
+        "Distance vector protocol for routing within an autonomous system"
+      ],
+      "correct_answer": "Path vector protocol for routing between autonomous systems",
+      "id": "45EB23E4-0D3F-4CEC-9DFB-4203869856F6"
+    },
+    {
+      "question": "What is 'Maximum Transmission Unit' (MTU) in the context of computer networking?",
+      "options": [
+        "The maximum data payload size in a single network layer protocol data unit",
+        "The maximum number of devices that can be connected to a single network segment",
+        "The maximum length of a network cable",
+        "The maximum speed at which data can be transmitted over a network"
+      ],
+      "correct_answer": "The maximum data payload size in a single network layer protocol data unit",
+      "id": "4F926920-CDE0-4C61-A3B6-4AFFAD3A055C"
+    },
+    {
+      "question": "Which protocol operates at the Transport layer and provides connection-oriented data transfer services?",
+      "options": [
+        "ICMP",
+        "TCP",
+        "IGMP",
+        "ARP"
+      ],
+      "correct_answer": "TCP",
+      "id": "86A8F8F5-355A-45FF-B49D-D8697FF89240"
+    },
+    {
+      "question": "In the OSI model, which layer is responsible for providing end-to-end connection with reliable data transfer?",
+      "options": [
+        "Network Layer",
+        "Transport Layer",
+        "Data Link Layer",
+        "Application Layer"
+      ],
+      "correct_answer": "Transport Layer",
+      "id": "503D9A29-E865-4B5A-9C35-847549F4A2A2"
+    },
+    {
+      "question": "What does 'RTO' stand for in the context of TCP?",
+      "options": [
+        "Retransmission TimeOut",
+        "Recovery Time Objective",
+        "Return To Origin",
+        "Real-Time Operation"
+      ],
+      "correct_answer": "Retransmission TimeOut",
+      "id": "0B2BB01F-4FBC-4EDE-9C57-40182D4E50CC"
+    },
+    {
+      "question": "What is the default subnet mask for a class B IP address?",
+      "options": [
+        "255.255.0.0",
+        "255.255.255.0",
+        "255.0.0.0",
+        "255.255.255.255"
+      ],
+      "correct_answer": "255.255.0.0",
+      "id": "6AE7C8AA-8916-4DBE-BB09-7E42CA78EF80"
+    }
+  ]
+}

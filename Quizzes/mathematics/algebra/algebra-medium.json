@@ -1,0 +1,116 @@
+{
+  "category": "Algebra",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Solve the equation: 4x - 3(2x - 7) = 14",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "2",
+      "id": "EEF82DBC-DF20-432A-AC58-2BE2CAFF4CDB"
+    },
+    {
+      "question": "If 3x + 5y = 13 and x - 2y = 3, what is the value of x?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "3",
+      "id": "34D8E98A-0578-4B50-AC71-FD844D6AB987"
+    },
+    {
+      "question": "Which of the following is the simplified form of the expression (2x^2 - 3x + 4) - (x^2 + 2x - 5)?",
+      "options": [
+        "x^2 - 5x + 9",
+        "x^2 - x + 9",
+        "3x^2 - x - 1",
+        "x^2 - 5x - 1"
+      ],
+      "correct_answer": "x^2 - 5x + 9",
+      "id": "F1B19B05-CCB2-4510-BADA-71D9782767DE"
+    },
+    {
+      "question": "Solve for x: (4x - 6)/(2x + 4) = 2",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "1",
+      "id": "DFB2138F-44DC-4425-B5BC-FD916E8BE1E4"
+    },
+    {
+      "question": "What is the value of x in the equation 5x - 3(2x + 1) = 7?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "1",
+      "id": "9F9ED58D-ADFE-4B1C-A7E9-21D6FB116B0B"
+    },
+    {
+      "question": "Which of the following is the simplified form of the expression (3x^2 - 2x + 1) + (2x^2 + x - 3)?",
+      "options": [
+        "5x^2 - x - 2",
+        "5x^2 + 3x - 2",
+        "x^2 - x + 4",
+        "5x^2 - 3x + 4"
+      ],
+      "correct_answer": "5x^2 - x - 2",
+      "id": "943C078D-8F6C-48A5-B661-9A5EDC5F8B33"
+    },
+    {
+      "question": "Solve the equation: 2x - (3x - 4) = 8",
+      "options": [
+        "-4",
+        "-2",
+        "2",
+        "4"
+      ],
+      "correct_answer": "4",
+      "id": "D008A44D-4970-4F15-B920-2772D8DD134E"
+    },
+    {
+      "question": "What is the value of x in the equation 4x - 3(2x - 7) = 14?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "2",
+      "id": "69264860-3B35-416F-A49B-8F6489020F61"
+    },
+    {
+      "question": "Find the value of x in the equation: 2x^2 - 5x = 3",
+      "options": [
+        "1, 1.5",
+        "-1, 2",
+        "1, -1.5",
+        "1.5, -2"
+      ],
+      "correct_answer": "-1, 2",
+      "id": "37F72AF9-DE6B-469B-A7F9-6821532F03D7"
+    },
+    {
+      "question": "Which of the following is the factored form of the quadratic expression 3x^2 - 12x?",
+      "options": [
+        "3x(x - 4)",
+        "3x(x + 4)",
+        "x(3x - 12)",
+        "x(3x + 12)"
+      ],
+      "correct_answer": "3x(x - 4)",
+      "id": "22C2035D-C25E-4B69-BB40-5CFEB2C7CE91"
+    }
+  ]
+}

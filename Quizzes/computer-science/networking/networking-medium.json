@@ -1,0 +1,116 @@
+{
+  "category": "Networking",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Which protocol does Ping use?",
+      "options": [
+        "ICMP",
+        "IGMP",
+        "UDP",
+        "TCP"
+      ],
+      "correct_answer": "ICMP",
+      "id": "F1A6DB4A-5C54-4DA5-AF6F-CFD9E19977F9"
+    },
+    {
+      "question": "What does the 'S' stand for in HTTPS?",
+      "options": [
+        "Secure",
+        "Socket",
+        "Service",
+        "Session"
+      ],
+      "correct_answer": "Secure",
+      "id": "2E39810B-AC3B-479A-8955-E94D0E4EE383"
+    },
+    {
+      "question": "Which device is used to segment a network into different broadcast domains?",
+      "options": [
+        "Hub",
+        "Switch",
+        "Router",
+        "Repeater"
+      ],
+      "correct_answer": "Router",
+      "id": "7CBD4EB8-6819-4ABC-B0BD-5046883A545C"
+    },
+    {
+      "question": "What is the maximum length (in meters) of a UTP CAT5 cable in an Ethernet network?",
+      "options": [
+        "100",
+        "120",
+        "150",
+        "200"
+      ],
+      "correct_answer": "100",
+      "id": "4AC31D70-6EB2-4716-A005-658635FCB4B0"
+    },
+    {
+      "question": "What is the subnet mask for a network with a CIDR notation of /24?",
+      "options": [
+        "255.255.255.0",
+        "255.255.0.0",
+        "255.0.0.0",
+        "255.255.255.255"
+      ],
+      "correct_answer": "255.255.255.0",
+      "id": "EA810E8F-C19D-4C73-8713-E37CBDBC5033"
+    },
+    {
+      "question": "In a network using IPv6, what is the size of an address in bits?",
+      "options": [
+        "32",
+        "64",
+        "128",
+        "256"
+      ],
+      "correct_answer": "128",
+      "id": "1D5F880D-21EE-492F-BE3F-91C311833963"
+    },
+    {
+      "question": "In the OSI model, which layer is responsible for error-free data delivery with flow control, segmentation/desegmentation, and error checking?",
+      "options": [
+        "Network Layer",
+        "Transport Layer",
+        "Data Link Layer",
+        "Session Layer"
+      ],
+      "correct_answer": "Transport Layer",
+      "id": "DFBA9D6D-5873-404D-8D57-42649C7540C4"
+    },
+    {
+      "question": "Which protocol is used by DHCP to provide IP addresses automatically to hosts on a network?",
+      "options": [
+        "IP",
+        "UDP",
+        "TCP",
+        "ICMP"
+      ],
+      "correct_answer": "UDP",
+      "id": "80119CC4-7E2E-4A47-B41A-7A6605A86F94"
+    },
+    {
+      "question": "Which routing protocol uses cost as its metric?",
+      "options": [
+        "OSPF",
+        "RIP",
+        "BGP",
+        "IGRP"
+      ],
+      "correct_answer": "OSPF",
+      "id": "38CF99A5-2510-40B4-AFE7-7AC6E2FDB495"
+    },
+    {
+      "question": "What is the primary function of a firewall in network security?",
+      "options": [
+        "Malware detection",
+        "Controlling incoming and outgoing network traffic",
+        "Data encryption",
+        "Password protection"
+      ],
+      "correct_answer": "Controlling incoming and outgoing network traffic",
+      "id": "1D396602-55C7-45CA-96B4-CBD8B5EFF771"
+    }
+  ]
+}

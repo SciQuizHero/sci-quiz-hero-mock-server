@@ -1,0 +1,116 @@
+{
+  "category": "Renewable Energy",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "In a photovoltaic cell, which material is typically used for its semiconducting properties?",
+      "options": [
+        "Silicon",
+        "Copper",
+        "Iron",
+        "Aluminum"
+      ],
+      "correct_answer": "Silicon",
+      "id": "FC14BB87-C7F5-4252-939B-ADACDA1B21BE"
+    },
+    {
+      "question": "What is the Betz limit in the context of wind energy conversion?",
+      "options": [
+        "The maximum possible kinetic energy conversion efficiency",
+        "The minimum wind speed required for power generation",
+        "The optimal angle for wind turbine blade installation",
+        "The optimal height for wind turbine installation"
+      ],
+      "correct_answer": "The maximum possible kinetic energy conversion efficiency",
+      "id": "5391BF84-00D8-4BBA-957D-C268D6CA6CDB"
+    },
+    {
+      "question": "Which renewable energy source uses the Organic Rankine Cycle (ORC) to generate electricity?",
+      "options": [
+        "Geothermal Energy",
+        "Solar Energy",
+        "Wind Energy",
+        "Hydroelectric Energy"
+      ],
+      "correct_answer": "Geothermal Energy",
+      "id": "931C331C-1238-4221-88E0-728DF399ABF1"
+    },
+    {
+      "question": "Which device converts direct current (DC) electricity produced by solar panels into alternating current (AC)?",
+      "options": [
+        "Inverter",
+        "Rectifier",
+        "Transformer",
+        "Regulator"
+      ],
+      "correct_answer": "Inverter",
+      "id": "C21ACF74-E669-43BB-8AFF-5A29CA8EB734"
+    },
+    {
+      "question": "In a hydroelectric power plant, what function does the penstock serve?",
+      "options": [
+        "Channels the flow of water to the turbine",
+        "Stores excess water",
+        "Generates the electricity",
+        "Regulates the flow of electricity"
+      ],
+      "correct_answer": "Channels the flow of water to the turbine",
+      "id": "8814D828-7055-4B5F-9180-221A47300465"
+    },
+    {
+      "question": "Which type of solar power system concentrates sunlight to heat a liquid that drives a steam turbine?",
+      "options": [
+        "Concentrated Solar Power (CSP)",
+        "Photovoltaic Solar Power",
+        "Passive Solar Power",
+        "Active Solar Power"
+      ],
+      "correct_answer": "Concentrated Solar Power (CSP)",
+      "id": "6247BD3D-FDAA-49A9-9D69-48676508F82A"
+    },
+    {
+      "question": "What is the formula to calculate the power output of a wind turbine?",
+      "options": [
+        "0.5 x Air Density x Rotor Area x (Wind Speed)^3",
+        "0.5 x Air Density x Rotor Area x (Wind Speed)^2",
+        "Air Density x Rotor Area x (Wind Speed)^3",
+        "Air Density x Rotor Area x (Wind Speed)^2"
+      ],
+      "correct_answer": "0.5 x Air Density x Rotor Area x (Wind Speed)^3",
+      "id": "FF6043DA-1CAC-4B66-AD5E-9CEADBFBD507"
+    },
+    {
+      "question": "Which renewable energy source utilizes a parabolic trough?",
+      "options": [
+        "Solar Power",
+        "Wind Power",
+        "Hydroelectric Power",
+        "Geothermal Power"
+      ],
+      "correct_answer": "Solar Power",
+      "id": "15E21103-452E-4C88-B72D-02856FE8CCE7"
+    },
+    {
+      "question": "What type of renewable energy harnesses the temperature differences between ocean surface waters and deep waters?",
+      "options": [
+        "Ocean Thermal Energy Conversion (OTEC)",
+        "Tidal Power",
+        "Wave Power",
+        "Hydroelectric Power"
+      ],
+      "correct_answer": "Ocean Thermal Energy Conversion (OTEC)",
+      "id": "93F016A0-F08C-4825-AC62-453C8947B5AD"
+    },
+    {
+      "question": "What is the name of the heat-exchange device that captures waste heat from industrial processes for use in district heating?",
+      "options": [
+        "Cogeneration Unit",
+        "Heat Pump",
+        "Furnace",
+        "Boiler"
+      ],
+      "correct_answer": "Cogeneration Unit",
+      "id": "EC587D10-1A85-433B-B376-B2F18389D98F"
+    }
+  ]
+}

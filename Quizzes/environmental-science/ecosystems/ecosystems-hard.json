@@ -1,0 +1,116 @@
+{
+  "category": "Ecosystems",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Which of these biogeochemical cycles does NOT have a gaseous phase?",
+      "options": [
+        "Carbon cycle",
+        "Nitrogen cycle",
+        "Phosphorus cycle",
+        "Sulfur cycle"
+      ],
+      "correct_answer": "Phosphorus cycle",
+      "id": "A1B343D8-8E6A-46B2-8611-B0B17661B57D"
+    },
+    {
+      "question": "Which of the following is the primary reason for high productivity in estuaries?",
+      "options": [
+        "High nutrient availability",
+        "High light availability",
+        "High species diversity",
+        "Low predation rates"
+      ],
+      "correct_answer": "High nutrient availability",
+      "id": "E8FF7DBE-65AB-403C-AC34-DAC27948AE59"
+    },
+    {
+      "question": "Which type of ecosystem is characterized by having the highest primary productivity per unit area?",
+      "options": [
+        "Tropical rainforest",
+        "Temperate grassland",
+        "Coral reef",
+        "Algal bed"
+      ],
+      "correct_answer": "Algal bed",
+      "id": "35ACA17E-877D-439A-8389-CD0A7D37297E"
+    },
+    {
+      "question": "Which of the following organisms are capable of fixing atmospheric nitrogen?",
+      "options": [
+        "Cyanobacteria",
+        "Green algae",
+        "Fungi",
+        "Lichens"
+      ],
+      "correct_answer": "Cyanobacteria",
+      "id": "99265FA0-CF6F-429B-A8BE-F5794226F759"
+    },
+    {
+      "question": "Which of the following is an example of an ecosystem with an inverted biomass pyramid?",
+      "options": [
+        "Tropical rainforest",
+        "Grassland",
+        "Coral reef",
+        "Deciduous forest"
+      ],
+      "correct_answer": "Coral reef",
+      "id": "C6B7511A-BFC0-4A5A-9F8C-1A0295B46243"
+    },
+    {
+      "question": "What is the term for the movement of organisms or materials between ecosystems?",
+      "options": [
+        "Trophic transfer",
+        "Ecosystem exchange",
+        "Biological migration",
+        "Ecological connectivity"
+      ],
+      "correct_answer": "Ecological connectivity",
+      "id": "8DAD4AD1-0D3D-46DA-BBA5-E29C19460450"
+    },
+    {
+      "question": "Which of the following is a type of mutualistic interaction between plants and fungi?",
+      "options": [
+        "Mycorrhiza",
+        "Lichen",
+        "Endophyte",
+        "Epiphyte"
+      ],
+      "correct_answer": "Mycorrhiza",
+      "id": "FC5DE6A5-FC72-4333-B7F8-BE8E93C863D2"
+    },
+    {
+      "question": "Which type of ecosystem typically has the lowest rate of primary productivity?",
+      "options": [
+        "Desert",
+        "Tundra",
+        "Grassland",
+        "Temperate forest"
+      ],
+      "correct_answer": "Desert",
+      "id": "BEFFE1BA-8E63-4651-B0BD-337B01C670F1"
+    },
+    {
+      "question": "Which of the following elements is a limiting nutrient in marine ecosystems?",
+      "options": [
+        "Phosphorus",
+        "Iron",
+        "Calcium",
+        "Potassium"
+      ],
+      "correct_answer": "Iron",
+      "id": "7F96AA5A-E554-4522-A11F-4F08DB937484"
+    },
+    {
+      "question": "Which of the following best describes the process of eutrophication?",
+      "options": [
+        "The gradual warming of an ecosystem due to human activities",
+        "The enrichment of an ecosystem with excess nutrients, leading to algal blooms and low oxygen levels",
+        "The introduction of non-native species to an ecosystem, leading to a decline in native species",
+        "The process of an ecosystem returning to its original state following a disturbance"
+      ],
+      "correct_answer": "The enrichment of an ecosystem with excess nutrients, leading to algal blooms and low oxygen levels",
+      "id": "3E3D3B96-68C5-4341-B6BB-5BFDA4596382"
+    }
+  ]
+}

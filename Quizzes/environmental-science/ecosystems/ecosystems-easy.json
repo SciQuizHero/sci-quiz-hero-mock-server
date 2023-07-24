@@ -1,0 +1,116 @@
+{
+  "category": "Ecosystems",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the term for a community of living organisms and their physical environment?",
+      "options": [
+        "Habitat",
+        "Ecosystem",
+        "Biosphere",
+        "Biome"
+      ],
+      "correct_answer": "Ecosystem",
+      "id": "04FE4D1F-2EB0-44C2-A8FA-BA8363766CF4"
+    },
+    {
+      "question": "Which of the following is an abiotic factor in an ecosystem?",
+      "options": [
+        "Plants",
+        "Animals",
+        "Temperature",
+        "Bacteria"
+      ],
+      "correct_answer": "Temperature",
+      "id": "A87F9B36-0941-40CD-8FE9-2D2F2F68FA16"
+    },
+    {
+      "question": "What is the process by which plants produce food using sunlight, carbon dioxide, and water?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation",
+        "Transpiration"
+      ],
+      "correct_answer": "Photosynthesis",
+      "id": "E6923751-CDAD-4D6C-9A01-B93064FD3F81"
+    },
+    {
+      "question": "Which of the following is a biotic factor in an ecosystem?",
+      "options": [
+        "Soil",
+        "Sunlight",
+        "Plants",
+        "Rainfall"
+      ],
+      "correct_answer": "Plants",
+      "id": "9818C6AF-82D7-4938-8E20-C35AE822A78E"
+    },
+    {
+      "question": "What do we call organisms that break down dead or decaying organisms to obtain nutrients?",
+      "options": [
+        "Producers",
+        "Consumers",
+        "Decomposers",
+        "Carnivores"
+      ],
+      "correct_answer": "Decomposers",
+      "id": "82BEF57E-A606-429B-8EAC-5B871C685F55"
+    },
+    {
+      "question": "Which level of an energy pyramid contains the most energy?",
+      "options": [
+        "Top",
+        "Middle",
+        "Bottom",
+        "All levels have equal energy"
+      ],
+      "correct_answer": "Bottom",
+      "id": "DE726DCE-0492-48C0-B212-A11F287CDC5B"
+    },
+    {
+      "question": "What is the term for the process of water evaporating from the surface of plant leaves?",
+      "options": [
+        "Transpiration",
+        "Condensation",
+        "Evaporation",
+        "Precipitation"
+      ],
+      "correct_answer": "Transpiration",
+      "id": "8A3C16E0-45D3-45E1-A659-30C527F2592C"
+    },
+    {
+      "question": "What is the term for animals that eat plants?",
+      "options": [
+        "Carnivores",
+        "Herbivores",
+        "Omnivores",
+        "Detritivores"
+      ],
+      "correct_answer": "Herbivores",
+      "id": "459493C9-E55A-45C8-A086-83F8F17D6393"
+    },
+    {
+      "question": "Which of the following organisms is considered a primary consumer?",
+      "options": [
+        "Grass",
+        "Rabbit",
+        "Wolf",
+        "Mushroom"
+      ],
+      "correct_answer": "Rabbit",
+      "id": "A631042F-6A78-4AC9-8599-05AE2A0787F2"
+    },
+    {
+      "question": "What is the term for a group of organisms of the same species living in the same area?",
+      "options": [
+        "Community",
+        "Population",
+        "Ecosystem",
+        "Habitat"
+      ],
+      "correct_answer": "Population",
+      "id": "2E645029-49BB-4DFC-AC8E-445541C5485D"
+    }
+  ]
+}

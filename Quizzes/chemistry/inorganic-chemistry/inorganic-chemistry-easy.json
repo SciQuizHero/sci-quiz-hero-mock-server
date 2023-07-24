@@ -1,0 +1,116 @@
+{
+  "category": "Inorganic Chemistry",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the number of protons in an atom called?",
+      "options": [
+        "Atomic weight",
+        "Isotope",
+        "Atomic number",
+        "Valency"
+      ],
+      "correct_answer": "Atomic number",
+      "id": "0121F1CC-DE74-443E-9639-67932B1D3D84"
+    },
+    {
+      "question": "Which element is known as the 'King of Chemicals'?",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Sulphur",
+        "Sodium"
+      ],
+      "correct_answer": "Sulphur",
+      "id": "D46E86BE-A0AE-44DD-AEEB-79EFC2E5D04A"
+    },
+    {
+      "question": "What type of bond is formed by the transfer of electrons?",
+      "options": [
+        "Covalent bond",
+        "Ionic bond",
+        "Hydrogen bond",
+        "Van der Waals bond"
+      ],
+      "correct_answer": "Ionic bond",
+      "id": "62F3487C-861A-46CB-96F8-B04066DE63F2"
+    },
+    {
+      "question": "What does the 'Periodic Law' state?",
+      "options": [
+        "Elements in the same group have similar chemical properties",
+        "Elements in the same period have similar chemical properties",
+        "All elements are made up of atoms",
+        "All elements are unique and different from each other"
+      ],
+      "correct_answer": "Elements in the same group have similar chemical properties",
+      "id": "C9C0A11C-0F71-4EDA-9A84-B856752EFF04"
+    },
+    {
+      "question": "What is the most abundant element in the Earth's crust?",
+      "options": [
+        "Iron",
+        "Oxygen",
+        "Carbon",
+        "Hydrogen"
+      ],
+      "correct_answer": "Oxygen",
+      "id": "38D4749A-BE48-4679-A893-723743F9E345"
+    },
+    {
+      "question": "Which group of elements in the periodic table are known as 'Noble Gases'?",
+      "options": [
+        "Group 1",
+        "Group 2",
+        "Group 17",
+        "Group 18"
+      ],
+      "correct_answer": "Group 18",
+      "id": "CCBEFDE3-3240-487A-9CB9-B64225CE2D12"
+    },
+    {
+      "question": "What is the primary component of natural gas?",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Ethane",
+        "Propane"
+      ],
+      "correct_answer": "Methane",
+      "id": "1B29C3EF-4F40-4C1D-AA08-125636257640"
+    },
+    {
+      "question": "What is the common name for the compound H2O?",
+      "options": [
+        "Hydrogen peroxide",
+        "Water",
+        "Oxygen dihydride",
+        "Dihydrogen monoxide"
+      ],
+      "correct_answer": "Water",
+      "id": "7C258CE8-42B2-4816-9CCC-E9BF02A7BBDB"
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "options": [
+        "NaOH",
+        "NaCl",
+        "HCl",
+        "H2SO4"
+      ],
+      "correct_answer": "NaCl",
+      "id": "B3B281B2-68A6-49FA-A0D4-7446165FC6CC"
+    },
+    {
+      "question": "Which element is necessary for the proper functioning of the thyroid gland?",
+      "options": [
+        "Iodine",
+        "Iron",
+        "Calcium",
+        "Magnesium"
+      ],
+      "correct_answer": "Iodine",
+      "id": "DDC5DFDF-CB16-4F0E-9439-A8F300C2B8DE"
+    }
+  ]
+}

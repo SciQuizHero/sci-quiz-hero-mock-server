@@ -1,0 +1,116 @@
+{
+  "category": "Thermodynamics",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What are the two types of processes defined in the First Law of Thermodynamics?",
+      "options": [
+        "Adiabatic and isothermal",
+        "Cyclic and non-cyclic",
+        "Irreversible and reversible",
+        "Isochoric and isobaric"
+      ],
+      "correct_answer": "Adiabatic and isothermal",
+      "id": "94E4414E-A3C8-47BF-93D4-05A7E5B71EDF"
+    },
+    {
+      "question": "Which statement best describes an isochoric process in thermodynamics?",
+      "options": [
+        "It involves a constant volume",
+        "It involves a constant pressure",
+        "It involves a constant temperature",
+        "It involves no exchange of heat"
+      ],
+      "correct_answer": "It involves a constant volume",
+      "id": "6126E588-F892-46C9-92C8-91708AE92907"
+    },
+    {
+      "question": "Which principle is used to derive the Carnot efficiency?",
+      "options": [
+        "Zeroth Law of Thermodynamics",
+        "First Law of Thermodynamics",
+        "Second Law of Thermodynamics",
+        "Third Law of Thermodynamics"
+      ],
+      "correct_answer": "Second Law of Thermodynamics",
+      "id": "EE9DA931-088B-4689-8E80-48BA86065C80"
+    },
+    {
+      "question": "What does the concept of entropy represent in the Second Law of Thermodynamics?",
+      "options": [
+        "The total amount of energy in a system",
+        "The degree of randomness or disorder in a system",
+        "The pressure-volume product of a system",
+        "The measure of heat transferred per unit of time"
+      ],
+      "correct_answer": "The degree of randomness or disorder in a system",
+      "id": "AA5EA4A8-9A7B-4301-8F81-953D163F3C56"
+    },
+    {
+      "question": "In a thermodynamic process, what does the area under the curve of a PV diagram (Pressure-Volume diagram) typically represent?",
+      "options": [
+        "Change in temperature",
+        "Change in pressure",
+        "Change in volume",
+        "Work done by or on the system"
+      ],
+      "correct_answer": "Work done by or on the system",
+      "id": "35AA2BC8-B5CB-47BF-A1E0-5BEEEC2580EF"
+    },
+    {
+      "question": "Which thermodynamic cycle is typically associated with refrigeration systems?",
+      "options": [
+        "Carnot cycle",
+        "Brayton cycle",
+        "Rankine cycle",
+        "Refrigeration cycle"
+      ],
+      "correct_answer": "Refrigeration cycle",
+      "id": "F04A21C0-1717-4801-9640-FA6DADA13A01"
+    },
+    {
+      "question": "What is the change in internal energy of a system for a cyclic process?",
+      "options": [
+        "Zero",
+        "Positive",
+        "Negative",
+        "Infinite"
+      ],
+      "correct_answer": "Zero",
+      "id": "EF33ED44-ED08-4DAB-9457-0849A106B13A"
+    },
+    {
+      "question": "What does the Joule-Thomson effect describe?",
+      "options": [
+        "The change in temperature of a gas when it expands or compresses at constant enthalpy",
+        "The change in volume of a gas when it is heated or cooled at constant pressure",
+        "The change in pressure of a gas when it is heated or cooled at constant volume",
+        "The change in entropy of a gas when it expands or compresses at constant temperature"
+      ],
+      "correct_answer": "The change in temperature of a gas when it expands or compresses at constant enthalpy",
+      "id": "ADBB4ED5-6CE8-44E4-9043-5C857AB152D0"
+    },
+    {
+      "question": "Which thermodynamic quantity remains constant during an adiabatic process?",
+      "options": [
+        "Pressure",
+        "Temperature",
+        "Volume",
+        "Entropy"
+      ],
+      "correct_answer": "Entropy",
+      "id": "3A41BA72-21E1-49CE-BB34-996C62BC1F9C"
+    },
+    {
+      "question": "In the context of thermodynamics, what is 'hysteresis'?",
+      "options": [
+        "The inability of a system to return to its original state after a change in temperature",
+        "The inability of a system to return to its original state after a change in pressure",
+        "The difference between the amount of heat added to a system and the amount of work done by the system",
+        "The difference between the path taken by a system to reach a certain state and the path taken to return to the original state"
+      ],
+      "correct_answer": "The difference between the path taken by a system to reach a certain state and the path taken to return to the original state",
+      "id": "4AC2F605-8276-42D0-BDC1-4C4555007EF0"
+    }
+  ]
+}

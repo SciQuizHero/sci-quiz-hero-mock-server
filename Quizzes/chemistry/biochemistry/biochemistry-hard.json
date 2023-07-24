@@ -1,0 +1,116 @@
+{
+  "category": "Biochemistry",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the name of the chemical group that is attached to the 5' end of a DNA molecule?",
+      "options": [
+        "Methyl group",
+        "Phosphate group",
+        "Hydroxyl group",
+        "Amino group"
+      ],
+      "correct_answer": "Phosphate group",
+      "id": "33FFA046-FD3C-43F4-9177-C89C10788162"
+    },
+    {
+      "question": "Which of the following amino acids is considered both glucogenic and ketogenic?",
+      "options": [
+        "Leucine",
+        "Isoleucine",
+        "Phenylalanine",
+        "Valine"
+      ],
+      "correct_answer": "Isoleucine",
+      "id": "877CE752-B49B-4BE2-9739-DC12BC407510"
+    },
+    {
+      "question": "Which enzyme catalyzes the formation of a peptide bond between two amino acids during protein synthesis?",
+      "options": [
+        "Aminoacyl-tRNA synthetase",
+        "Ribosome",
+        "Peptidyl transferase",
+        "Elongation factor"
+      ],
+      "correct_answer": "Peptidyl transferase",
+      "id": "6231A887-8FD9-47F9-B772-CE63EAEC9510"
+    },
+    {
+      "question": "Which of the following cofactors is derived from vitamin B6?",
+      "options": [
+        "Thiamine pyrophosphate",
+        "FAD",
+        "NAD+",
+        "Pyridoxal phosphate"
+      ],
+      "correct_answer": "Pyridoxal phosphate",
+      "id": "FF9FB183-9110-4DD1-9784-C8BF16BEA2DA"
+    },
+    {
+      "question": "What is the name of the enzyme responsible for the addition of a 5' cap to eukaryotic pre-mRNA molecules?",
+      "options": [
+        "Spliceosome",
+        "Polyadenylate polymerase",
+        "RNA polymerase II",
+        "Guanylyl transferase"
+      ],
+      "correct_answer": "Guanylyl transferase",
+      "id": "99177991-A6E7-459D-981D-31FFF013B1F1"
+    },
+    {
+      "question": "What is the process by which introns are removed from a pre-mRNA molecule?",
+      "options": [
+        "Capping",
+        "Polyadenylation",
+        "Splicing",
+        "RNA editing"
+      ],
+      "correct_answer": "Splicing",
+      "id": "5C113E12-2847-4331-8B64-A1BE34EE292F"
+    },
+    {
+      "question": "Which protein domain is responsible for binding calcium ions and regulating a variety of cellular processes?",
+      "options": [
+        "SH2 domain",
+        "PH domain",
+        "EF-hand domain",
+        "Zinc finger domain"
+      ],
+      "correct_answer": "EF-hand domain",
+      "id": "93322EFB-B7A2-4BB5-848E-7A620163820E"
+    },
+    {
+      "question": "What is the name of the cycle in which glucose is converted into pyruvate, generating energy and reducing power for the cell?",
+      "options": [
+        "Citric acid cycle",
+        "Glyoxylate cycle",
+        "Glycolysis",
+        "Pentose phosphate pathway"
+      ],
+      "correct_answer": "Glycolysis",
+      "id": "AE95B451-34D6-45EF-A835-111D0558F378"
+    },
+    {
+      "question": "Which of the following coenzymes is involved in the transfer of one-carbon units during various metabolic reactions?",
+      "options": [
+        "Tetrahydrofolate (THF)",
+        "Nicotinamide adenine dinucleotide (NAD+)",
+        "Flavin adenine dinucleotide (FAD)",
+        "Coenzyme A (CoA)"
+      ],
+      "correct_answer": "Tetrahydrofolate (THF)",
+      "id": "B6344D0A-EBDE-417D-9EEF-2DD084D877D4"
+    },
+    {
+      "question": "What is the name of the metabolic pathway that generates glucose from non-carbohydrate precursors?",
+      "options": [
+        "Gluconeogenesis",
+        "Glycolysis",
+        "Pentose phosphate pathway",
+        "Glycogenesis"
+      ],
+      "correct_answer": "Gluconeogenesis",
+      "id": "49B0BFD6-03CD-4D91-9BD2-2C35937743AA"
+    }
+  ]
+}

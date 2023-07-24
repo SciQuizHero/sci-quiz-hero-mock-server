@@ -1,0 +1,116 @@
+{
+  "category": "Meteorology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the name of the scale used to measure the strength of tornadoes?",
+      "options": [
+        "Fujita Scale",
+        "Beaufort Scale",
+        "Richter Scale",
+        "Saffir-Simpson Scale"
+      ],
+      "correct_answer": "Fujita Scale",
+      "id": "804D9DA5-4465-4FA9-8231-401C4AE3EDDB"
+    },
+    {
+      "question": "What is the term for the study of weather?",
+      "options": [
+        "Geology",
+        "Oceanography",
+        "Meteorology",
+        "Astronomy"
+      ],
+      "correct_answer": "Meteorology",
+      "id": "69347678-0F1B-4F5D-983E-E7C2290A409C"
+    },
+    {
+      "question": "What type of cloud is typically associated with thunderstorms?",
+      "options": [
+        "Cirrus",
+        "Stratus",
+        "Cumulus",
+        "Cumulonimbus"
+      ],
+      "correct_answer": "Cumulonimbus",
+      "id": "48FBB05D-4F9C-453B-94A2-B621FD85DD2C"
+    },
+    {
+      "question": "What instrument is used to measure air pressure?",
+      "options": [
+        "Anemometer",
+        "Barometer",
+        "Thermometer",
+        "Hygrometer"
+      ],
+      "correct_answer": "Barometer",
+      "id": "3A6F1170-2864-4856-B4BD-D867D05C7F60"
+    },
+    {
+      "question": "Which of the following is a measure of the amount of moisture in the air?",
+      "options": [
+        "Air pressure",
+        "Temperature",
+        "Wind speed",
+        "Humidity"
+      ],
+      "correct_answer": "Humidity",
+      "id": "B93A789B-2F69-48C2-967B-09E6FF459A5F"
+    },
+    {
+      "question": "Which of the following is the boundary between two different air masses?",
+      "options": [
+        "Front",
+        "Jet stream",
+        "Trough",
+        "High-pressure system"
+      ],
+      "correct_answer": "Front",
+      "id": "AC15A9A4-B7E6-43A3-9AA3-BDE1A2C6434B"
+    },
+    {
+      "question": "What is the name of the line on a weather map that connects points of equal air pressure?",
+      "options": [
+        "Isobar",
+        "Isotherm",
+        "Isohyet",
+        "Isogon"
+      ],
+      "correct_answer": "Isobar",
+      "id": "A80F19D2-487F-4867-8794-2052DC56CF2E"
+    },
+    {
+      "question": "Which type of precipitation is formed by ice crystals joining together?",
+      "options": [
+        "Rain",
+        "Snow",
+        "Sleet",
+        "Hail"
+      ],
+      "correct_answer": "Snow",
+      "id": "A9CE79DA-C77F-4A3C-BC08-954730F165E5"
+    },
+    {
+      "question": "What is the name of the prevailing winds that blow from the west in the mid-latitudes?",
+      "options": [
+        "Trade Winds",
+        "Westerlies",
+        "Polar Easterlies",
+        "Doldrums"
+      ],
+      "correct_answer": "Westerlies",
+      "id": "F8F873A2-1BDE-4A50-B3F0-040F0BF83D85"
+    },
+    {
+      "question": "What is the term for a prolonged period of abnormally low rainfall, leading to a water shortage?",
+      "options": [
+        "Flood",
+        "Drought",
+        "Monsoon",
+        "Blizzard"
+      ],
+      "correct_answer": "Drought",
+      "id": "0E741EE7-D9C1-4B78-BE32-2DDD7375F321"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Chemical Engineering",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the main purpose of a chemical reactor in chemical engineering?",
+      "options": [
+        "To store chemicals",
+        "To filter impurities from chemicals",
+        "To control chemical reactions",
+        "To measure the properties of chemicals"
+      ],
+      "correct_answer": "To control chemical reactions",
+      "id": "A9DFD9CA-3DEF-476F-8C95-F8E4B71886F2"
+    },
+    {
+      "question": "What is a 'mole' in chemical engineering?",
+      "options": [
+        "A small rodent",
+        "A unit of measurement in chemistry",
+        "A type of chemical",
+        "A tool used in the laboratory"
+      ],
+      "correct_answer": "A unit of measurement in chemistry",
+      "id": "A73ACE03-7344-4F5F-A24E-A477738715B7"
+    },
+    {
+      "question": "What is the principle of conservation of mass?",
+      "options": [
+        "The total mass of the reactants equals the total mass of the products",
+        "The mass of an object is always conserved",
+        "Mass cannot be converted into energy",
+        "Mass can be neither created nor destroyed"
+      ],
+      "correct_answer": "The total mass of the reactants equals the total mass of the products",
+      "id": "206A10F7-9816-4D2F-AB60-1848000B6166"
+    },
+    {
+      "question": "What does the 'ideal gas law' relate?",
+      "options": [
+        "Pressure, volume, temperature and number of moles of a gas",
+        "Pressure and volume of a gas",
+        "Temperature and pressure of a gas",
+        "Volume and temperature of a gas"
+      ],
+      "correct_answer": "Pressure, volume, temperature and number of moles of a gas",
+      "id": "B90E00FA-B090-40E5-B7A1-3AB5FDF8A5CB"
+    },
+    {
+      "question": "What does a 'catalyst' do in a chemical reaction?",
+      "options": [
+        "Increases the reaction temperature",
+        "Decreases the reaction temperature",
+        "Speeds up the reaction rate",
+        "Slows down the reaction rate"
+      ],
+      "correct_answer": "Speeds up the reaction rate",
+      "id": "62783DD0-AEE7-41F7-AE89-29CF6C8CDE64"
+    },
+    {
+      "question": "What is 'stoichiometry' in chemical engineering?",
+      "options": [
+        "The study of chemical reactions",
+        "The calculation of quantities in chemical reactions",
+        "The study of the structure of chemicals",
+        "The measurement of the energy in chemical reactions"
+      ],
+      "correct_answer": "The calculation of quantities in chemical reactions",
+      "id": "877017C0-30B6-4313-87E1-D1BBBB669D34"
+    },
+    {
+      "question": "What is the name of the diagram that shows the phases of a substance as a function of temperature and pressure?",
+      "options": [
+        "Phase diagram",
+        "Venn diagram",
+        "Flow diagram",
+        "Pie chart"
+      ],
+      "correct_answer": "Phase diagram",
+      "id": "77D91AA1-4E59-4CB7-B761-CABFC66563B7"
+    },
+    {
+      "question": "What is the process of separating a mixture of liquids with different boiling points called?",
+      "options": [
+        "Filtration",
+        "Decantation",
+        "Distillation",
+        "Crystallization"
+      ],
+      "correct_answer": "Distillation",
+      "id": "7B6CE049-0EA5-4DE4-8A92-2FFB13FA67EA"
+    },
+    {
+      "question": "In chemical engineering, what does 'CSTR' stand for?",
+      "options": [
+        "Continuous Stirred Tank Reactor",
+        "Chemical Stirred Tank Reactor",
+        "Continuous Stable Temperature Reactor",
+        "Chemical Stable Temperature Reactor"
+      ],
+      "correct_answer": "Continuous Stirred Tank Reactor",
+      "id": "C458D463-5300-4220-AA7E-2C135802BAFE"
+    },
+    {
+      "question": "What is the term for a liquid or a solution that can conduct electricity?",
+      "options": [
+        "Insulator",
+        "Electrolyte",
+        "Solute",
+        "Solvent"
+      ],
+      "correct_answer": "Electrolyte",
+      "id": "F59F782E-B2BE-4559-98E3-1522E908715C"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Pollution",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Find the arc length of the curve y = ln(cos(x)), from x = 0 to x = π/4.",
+      "options": [
+        "ln(2)",
+        "ln(√2)",
+        "√2",
+        "None of the above"
+      ],
+      "correct_answer": "None of the above",
+      "id": "4223597F-1CDD-4E6C-8F53-5C1C84EBEA72"
+    },
+    {
+      "question": "Suppose f is a function defined and continuous for all x. If the integral from a to b of f(x) dx = 0 for every choice of a and b, what must be true about f?",
+      "options": [
+        "f(x) = 0 for all x",
+        "f is not integrable",
+        "The integral from 0 to x of f(t) dt is a constant for all x",
+        "f has no maxima or minima"
+      ],
+      "correct_answer": "f(x) = 0 for all x",
+      "id": "1C80EA9B-3D6D-4BAF-88A4-BF72F930A5C0"
+    },
+    {
+      "question": "What is the radius of convergence of the power series ∑ (from n=0 to ∞) ((2^n*x^n) / (n!))?",
+      "options": [
+        "1/2",
+        "1",
+        "2",
+        "∞"
+      ],
+      "correct_answer": "∞",
+      "id": "91D42301-E916-4903-8D60-9F5A066268FE"
+    },
+    {
+      "question": "The line tangent to the curve y = f(x) = x^3 at the point (1,1) intersects the x-axis at what point?",
+      "options": [
+        "(1, 0)",
+        "(0, 1)",
+        "(-1/2, 0)",
+        "(2, 0)"
+      ],
+      "correct_answer": "(-1/2, 0)",
+      "id": "92AF62A2-8EF3-46ED-AD8F-712F192AB67D"
+    },
+    {
+      "question": "Calculate the surface area of a solid obtained by revolving the curve y = x^2, 0 ≤ x ≤ 1 about the x-axis.",
+      "options": [
+        "4π",
+        "π",
+        "2π",
+        "π/2"
+      ],
+      "correct_answer": "4π",
+      "id": "03FD8B9E-D414-46EF-AE43-BD11C0565EE1"
+    },
+    {
+      "question": "The integral from -∞ to ∞ of e^(-x^2) dx is equal to:",
+      "options": [
+        "√π",
+        "√2π",
+        "π",
+        "2π"
+      ],
+      "correct_answer": "√π",
+      "id": "BDB4BC2F-A6FE-4DB2-9E74-30552540C7D9"
+    },
+    {
+      "question": "What type of pollution results from excessive light produced by human activities at night that interferes with wildlife?",
+      "options": [
+        "Light pollution",
+        "Air pollution",
+        "Water pollution",
+        "Noise pollution"
+      ],
+      "correct_answer": "Light pollution",
+      "id": "EA5C1D0E-50B6-43CD-8519-77EB17BDF46B"
+    },
+    {
+      "question": "What type of pollution is produced by loud sounds in the environment such as construction or heavy traffic?",
+      "options": [
+        "Noise pollution",
+        "Water pollution",
+        "Air pollution",
+        "Soil pollution"
+      ],
+      "correct_answer": "Noise pollution",
+      "id": "6A8772A9-4542-4763-B196-DE5ACB79C9FE"
+    },
+    {
+      "question": "Which of the following materials, when improperly disposed of, can contribute to soil pollution?",
+      "options": [
+        "Plastic waste",
+        "Organic food waste",
+        "Glass bottles",
+        "Paper products"
+      ],
+      "correct_answer": "Plastic waste",
+      "id": "3457C477-B833-419D-B32D-0851CD117DBA"
+    },
+    {
+      "question": "Which pollutant, when released into the atmosphere, can contribute to the depletion of the ozone layer?",
+      "options": [
+        "Carbon Dioxide",
+        "Chlorofluorocarbons (CFCs)",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "correct_answer": "Chlorofluorocarbons (CFCs)",
+      "id": "8DBF4911-9A46-4713-A424-6EFA7F93212F"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Analytical Chemistry",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "The change in the equilibrium constant with temperature is described by which equation?",
+      "options": [
+        "Van't Hoff equation",
+        "Henderson-Hasselbalch equation",
+        "Nernst equation",
+        "Arrhenius equation"
+      ],
+      "correct_answer": "Van't Hoff equation",
+      "id": "B4C24EAA-7852-4610-B182-5764EB459923"
+    },
+    {
+      "question": "What does the Beer-Lambert law relate in spectrophotometry?",
+      "options": [
+        "Concentration of a solution to its absorbance",
+        "Temperature of a solution to its absorbance",
+        "pH of a solution to its absorbance",
+        "Conductivity of a solution to its absorbance"
+      ],
+      "correct_answer": "Concentration of a solution to its absorbance",
+      "id": "5F63D7C7-0AA5-4FAB-9FF5-1B83F755C4F8"
+    },
+    {
+      "question": "What is the formula for calculating the standard deviation?",
+      "options": [
+        "Square root of (sum of (x - mean)^2 / n)",
+        "Square root of (sum of (x - mean) / n)",
+        "Square root of (sum of (x - mean)^2 / (n - 1))",
+        "Square root of (sum of (x - mean) / (n - 1))"
+      ],
+      "correct_answer": "Square root of (sum of (x - mean)^2 / (n - 1))",
+      "id": "C8A40514-52DC-4091-A59D-C9CE57C96D59"
+    },
+    {
+      "question": "What does the term 'limit of detection' mean in analytical chemistry?",
+      "options": [
+        "The highest concentration that can be accurately measured",
+        "The lowest concentration that can be accurately measured",
+        "The maximum amount of sample that can be analyzed",
+        "The minimum amount of sample that can be analyzed"
+      ],
+      "correct_answer": "The lowest concentration that can be accurately measured",
+      "id": "2C123519-D671-4907-92D0-F61C05826664"
+    },
+    {
+      "question": "What is the principle of 'stoichiometry' in a chemical reaction?",
+      "options": [
+        "It refers to the mass relationships between reactants and products in a chemical reaction",
+        "It refers to the volume relationships between reactants and products in a chemical reaction",
+        "It refers to the energy relationships between reactants and products in a chemical reaction",
+        "It refers to the temperature relationships between reactants and products in a chemical reaction"
+      ],
+      "correct_answer": "It refers to the mass relationships between reactants and products in a chemical reaction",
+      "id": "DAC11496-893B-47B2-B4FD-BC07A81D85B4"
+    },
+    {
+      "question": "In chromatography, what is the stationary phase?",
+      "options": [
+        "The phase that moves along with the sample",
+        "The phase that remains fixed and interacts with the sample",
+        "The phase that changes the sample properties",
+        "The phase that does not interact with the sample"
+      ],
+      "correct_answer": "The phase that remains fixed and interacts with the sample",
+      "id": "1EE904F1-4DAE-40D4-8E0B-F7ECBB21F7C7"
+    },
+    {
+      "question": "What does the 'specific rotation' of a compound refer to in polarimetry?",
+      "options": [
+        "The degree of rotation of plane-polarized light by a solution of the compound",
+        "The speed of rotation of plane-polarized light by a solution of the compound",
+        "The direction of rotation of plane-polarized light by a solution of the compound",
+        "The intensity of rotation of plane-polarized light by a solution of the compound"
+      ],
+      "correct_answer": "The degree of rotation of plane-polarized light by a solution of the compound",
+      "id": "52779140-09DE-4622-923B-C81C9D453401"
+    },
+    {
+      "question": "What is the definition of 'pKa' in the context of acid-base equilibria?",
+      "options": [
+        "It is the logarithm of the acid dissociation constant",
+        "It is the logarithm of the base dissociation constant",
+        "It is the pH at which the acid is half-dissociated",
+        "It is the pH at which the base is half-dissociated"
+      ],
+      "correct_answer": "It is the logarithm of the acid dissociation constant",
+      "id": "028677D9-0BC2-4C5B-BA18-40C3BD4E01DA"
+    },
+    {
+      "question": "What is the color change for phenolphthalein in an acid and a base?",
+      "options": [
+        "In acid: colorless, in base: pink",
+        "In acid: pink, in base: colorless",
+        "In acid: blue, in base: yellow",
+        "In acid: yellow, in base: blue"
+      ],
+      "correct_answer": "In acid: colorless, in base: pink",
+      "id": "4D9E1C38-4B0B-45FD-97E9-AD3B72A19620"
+    },
+    {
+      "question": "What is the role of an indicator in a titration process?",
+      "options": [
+        "It accelerates the reaction between the analyte and the titrant",
+        "It slows down the reaction between the analyte and the titrant",
+        "It signals the end point of the titration by a color change",
+        "It provides a medium for the reaction to take place"
+      ],
+      "correct_answer": "It signals the end point of the titration by a color change",
+      "id": "CAFBE5BC-21A4-43D1-A568-CABD085D69BE"
+    }
+  ]
+}

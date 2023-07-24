@@ -1,0 +1,116 @@
+{
+  "category": "Mechanics",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "55e16a6b-19ca-459c-9426-459dc8e49d29",
+      "question": "What is the principle that states that the total mechanical energy of an isolated system remains constant in time, as long as the system is free of external forces?",
+      "options": [
+        "Conservation of mechanical energy",
+        "Conservation of linear momentum",
+        "Conservation of angular momentum",
+        "Conservation of mass"
+      ],
+      "correct_answer": "Conservation of mechanical energy"
+    },
+    {
+      "id": "63c87764-47c1-4fbd-b1af-29c093d7a08c",
+      "question": "In an Atwood machine, which of the following factors affect the acceleration of the system?",
+      "options": [
+        "Mass and gravitational acceleration",
+        "Moment of inertia and radius",
+        "Tension and moment of inertia",
+        "Radius and friction"
+      ],
+      "correct_answer": "Mass and gravitational acceleration"
+    },
+    {
+      "id": "92d9bfee-46b3-4696-bc61-142efbbd92ac",
+      "question": "What is the term for the point through which the resultant torque due to gravity on a body always acts?",
+      "options": [
+        "Center of gravity",
+        "Center of mass",
+        "Center of rotation",
+        "Center of force"
+      ],
+      "correct_answer": "Center of gravity"
+    },
+    {
+      "id": "296b2574-5459-471b-9827-c8f28e96fbc8",
+      "question": "What is the term for the oscillatory motion of solid materials under periodic shear stress, often described as a wave motion?",
+      "options": [
+        "Elastic wave",
+        "Transverse wave",
+        "Longitudinal wave",
+        "Mechanical wave"
+      ],
+      "correct_answer": "Elastic wave"
+    },
+    {
+      "id": "95a31672-5d51-4d33-bd9f-861f94114471",
+      "question": "In an ideal gas, what is the constant that appears in the equation of state, relating pressure, temperature, and volume?",
+      "options": [
+        "Boltzmann constant",
+        "Gas constant",
+        "Planck constant",
+        "Avogadro constant"
+      ],
+      "correct_answer": "Gas constant"
+    },
+    {
+      "id": "af1ce656-94ae-4f77-bcdb-12fa5c2f7e83",
+      "question": "What is the phenomenon that occurs when the frequency of forced vibrations on an object matches the object's natural frequency, resulting in a large amplitude of vibration?",
+      "options": [
+        "Resonance",
+        "Harmonic motion",
+        "Interference",
+        "Reflection"
+      ],
+      "correct_answer": "Resonance"
+    },
+    {
+      "id": "6737d83f-0055-47fd-9491-307304cd74f9",
+      "question": "Which of the following statements about a simple harmonic oscillator is true?",
+      "options": [
+        "The potential energy is maximum when the kinetic energy is minimum",
+        "The potential energy is maximum when the kinetic energy is maximum",
+        "The potential energy is constant",
+        "The kinetic energy is constant"
+      ],
+      "correct_answer": "The potential energy is maximum when the kinetic energy is minimum"
+    },
+    {
+      "id": "de307e11-2241-4c7b-89ef-ae1596c0c4a9",
+      "question": "Which of the following forces is responsible for the tidal effects observed on Earth?",
+      "options": [
+        "Centripetal force",
+        "Gravitational force",
+        "Electromagnetic force",
+        "Nuclear force"
+      ],
+      "correct_answer": "Gravitational force"
+    },
+    {
+      "id": "d0b89815-0aea-47bc-88ee-29fd0e5de7b5",
+      "question": "Which of the following quantities is conserved in an inelastic collision?",
+      "options": [
+        "Kinetic energy",
+        "Potential energy",
+        "Mechanical energy",
+        "Linear momentum"
+      ],
+      "correct_answer": "Linear momentum"
+    },
+    {
+      "id": "8e808b9a-5363-4ac0-9fd0-464d1630eb30",
+      "question": "For a satellite in a geostationary orbit, what is the time period of one revolution around the Earth?",
+      "options": [
+        "12 hours",
+        "24 hours",
+        "36 hours",
+        "48 hours"
+      ],
+      "correct_answer": "24 hours"
+    }
+  ]
+}

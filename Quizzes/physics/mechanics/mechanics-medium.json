@@ -1,0 +1,116 @@
+{
+  "category": "Mechanics",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "id": "5d327ec9-1f53-42ae-8423-30a981f3d117",
+      "question": "What is the term for the rate of change of velocity with respect to time?",
+      "options": [
+        "Velocity",
+        "Acceleration",
+        "Displacement",
+        "Momentum"
+      ],
+      "correct_answer": "Acceleration"
+    },
+    {
+      "id": "a4324334-a70d-44b2-be55-e8239b506ea2",
+      "question": "What is the product of an object's mass and its velocity called?",
+      "options": [
+        "Momentum",
+        "Force",
+        "Impulse",
+        "Energy"
+      ],
+      "correct_answer": "Momentum"
+    },
+    {
+      "id": "f0d3cc60-09f3-41e5-a628-f309d55b09ce",
+      "question": "What is the principle stating that the pressure in a fluid decreases as the fluid's speed increases?",
+      "options": [
+        "Archimedes' principle",
+        "Pascal's principle",
+        "Bernoulli's principle",
+        "Hooke's Law"
+      ],
+      "correct_answer": "Bernoulli's principle"
+    },
+    {
+      "id": "d8f9f994-4ebe-47d3-96b7-a416b7d8e176",
+      "question": "What is the term for the energy an object possesses due to its position or condition?",
+      "options": [
+        "Kinetic energy",
+        "Potential energy",
+        "Mechanical energy",
+        "Thermal energy"
+      ],
+      "correct_answer": "Potential energy"
+    },
+    {
+      "id": "d13adbf8-93f8-4978-bb5b-567e70ebda6c",
+      "question": "What is the term for the apparent outward force that draws a rotating body away from the center of rotation?",
+      "options": [
+        "Centripetal force",
+        "Centrifugal force",
+        "Gravitational force",
+        "Normal force"
+      ],
+      "correct_answer": "Centrifugal force"
+    },
+    {
+      "id": "dd11bd05-33a3-4da7-9611-965427e1b66c",
+      "question": "Which of the following is a measure of an object's resistance to rotational acceleration?",
+      "options": [
+        "Mass",
+        "Inertia",
+        "Torque",
+        "Moment of inertia"
+      ],
+      "correct_answer": "Moment of inertia"
+    },
+    {
+      "id": "b269c860-20d7-4648-86d2-ab69cec01e91",
+      "question": "What is the term for the motion of an object in two dimensions under the influence of gravity?",
+      "options": [
+        "Projectile motion",
+        "Simple harmonic motion",
+        "Circular motion",
+        "Linear motion"
+      ],
+      "correct_answer": "Projectile motion"
+    },
+    {
+      "id": "7ca73a4d-6df4-4291-97f3-b4bfecf91d30",
+      "question": "What is the name of the principle that states that the total mechanical energy of an isolated system remains constant?",
+      "options": [
+        "Conservation of energy",
+        "Conservation of momentum",
+        "Newton's first law",
+        "Newton's second law"
+      ],
+      "correct_answer": "Conservation of energy"
+    },
+    {
+      "id": "6a0d7413-67a9-4149-8074-094c8c8af8c8",
+      "question": "What is the term for the phenomenon in which the amplitude of oscillation increases when a periodic force is applied at the natural frequency of the system?",
+      "options": [
+        "Resonance",
+        "Harmonic motion",
+        "Damping",
+        "Interference"
+      ],
+      "correct_answer": "Resonance"
+    },
+    {
+      "id": "a48c9e20-4bf0-4247-bac6-4ad48d521d1d",
+      "question": "Which of the following best describes the principle of conservation of angular momentum?",
+      "options": [
+        "The total angular momentum of a closed system remains constant",
+        "The angular momentum of an object changes only when a net external torque is applied",
+        "Angular momentum is always conserved in the absence of external forces",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    }
+  ]
+}

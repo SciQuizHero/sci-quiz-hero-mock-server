@@ -1,0 +1,116 @@
+{
+  "category": "Cosmology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the name of our galaxy?",
+      "options": [
+        "Andromeda",
+        "Milky Way",
+        "Whirlpool",
+        "Spiral"
+      ],
+      "correct_answer": "Milky Way",
+      "id": "DCC393A6-6B25-4409-B1DD-977369007076"
+    },
+    {
+      "question": "What is a supernova?",
+      "options": [
+        "A small, dense star",
+        "A massive explosion that occurs when a star dies",
+        "The process of a star being born",
+        "A collection of billions of stars, gas, and dust"
+      ],
+      "correct_answer": "A massive explosion that occurs when a star dies",
+      "id": "A4A54353-CDB3-440E-AE7A-47BB21ECAD46"
+    },
+    {
+      "question": "What is the Big Bang Theory?",
+      "options": [
+        "A TV show about scientists",
+        "The theory that the Universe has always existed",
+        "The theory that the Universe started from a singularity and has been expanding ever since",
+        "The theory that the Universe is gradually shrinking"
+      ],
+      "correct_answer": "The theory that the Universe started from a singularity and has been expanding ever since",
+      "id": "6BCA98B9-6D5F-4CE7-A611-A19412FD11C2"
+    },
+    {
+      "question": "What does the term 'light-year' measure?",
+      "options": [
+        "Time",
+        "Speed",
+        "Distance",
+        "Weight"
+      ],
+      "correct_answer": "Distance",
+      "id": "FF639628-C6E3-430A-A31B-78F1AF87412D"
+    },
+    {
+      "question": "What is a black hole?",
+      "options": [
+        "A region in space where gravity is so strong that nothing can escape, not even light",
+        "A star that has exploded",
+        "The empty space between stars",
+        "A region in space where there is no gravity"
+      ],
+      "correct_answer": "A region in space where gravity is so strong that nothing can escape, not even light",
+      "id": "24E94951-91DB-4B1B-AF68-C5A03BD9388A"
+    },
+    {
+      "question": "What is a nebula?",
+      "options": [
+        "A dense region of gas and dust where stars are born",
+        "A giant star",
+        "A black hole",
+        "A galaxy far away from the Milky Way"
+      ],
+      "correct_answer": "A dense region of gas and dust where stars are born",
+      "id": "53554E4B-B011-4032-85B0-150F5E33C8DA"
+    },
+    {
+      "question": "What is a constellation?",
+      "options": [
+        "A group of stars that form a recognizable pattern",
+        "A type of star",
+        "A region in space with no stars",
+        "A galaxy other than the Milky Way"
+      ],
+      "correct_answer": "A group of stars that form a recognizable pattern",
+      "id": "0A3367C4-5CDD-44D4-B2D7-C01A1BB3FD34"
+    },
+    {
+      "question": "Which of the following is used to describe the 'age' of the universe?",
+      "options": [
+        "13.8 billion years",
+        "4.6 billion years",
+        "200,000 years",
+        "93 billion light years"
+      ],
+      "correct_answer": "13.8 billion years",
+      "id": "9F33116A-022D-4BEB-9E39-66A49BEA0E55"
+    },
+    {
+      "question": "What does the term 'cosmic microwave background radiation' refer to?",
+      "options": [
+        "Heat from the Sun",
+        "Radiation from nuclear power plants",
+        "Radiation left over from the Big Bang",
+        "Radiation from the Earth's core"
+      ],
+      "correct_answer": "Radiation left over from the Big Bang",
+      "id": "6E2A47D0-F13F-4EE9-9D29-E196A277AF30"
+    },
+    {
+      "question": "What is dark matter?",
+      "options": [
+        "A type of matter that interacts with normal matter",
+        "A type of matter that absorbs all light",
+        "A type of matter that does not interact with light and is therefore invisible",
+        "A type of matter that is very dense and heavy"
+      ],
+      "correct_answer": "A type of matter that does not interact with light and is therefore invisible",
+      "id": "2F3376AA-1CF3-437C-896E-6F471CEBC74C"
+    }
+  ]
+}

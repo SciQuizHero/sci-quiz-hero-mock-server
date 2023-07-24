@@ -1,0 +1,116 @@
+{
+  "category": "Oceanography",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correct_answer": "Pacific Ocean",
+      "id": "B5087338-9FE7-4D56-88D7-3A6DD84C208F"
+    },
+    {
+      "question": "What term is used to describe the study of the physical and biological aspects of the ocean?",
+      "options": [
+        "Astronomy",
+        "Geology",
+        "Meteorology",
+        "Oceanography"
+      ],
+      "correct_answer": "Oceanography",
+      "id": "F53CC321-9B72-41D3-846E-EC7FA7099C8E"
+    },
+    {
+      "question": "What is the term for the top layer of the ocean surface, where sunlight penetrates sufficiently for photosynthesis to occur?",
+      "options": [
+        "Epipelagic Zone",
+        "Bathypelagic Zone",
+        "Mesopelagic Zone",
+        "Abyssopelagic Zone"
+      ],
+      "correct_answer": "Epipelagic Zone",
+      "id": "A72FCE1E-372D-4A6D-BF91-2B9A242902D0"
+    },
+    {
+      "question": "What is the name of the deepest point in the world's oceans?",
+      "options": [
+        "Mariana Trench",
+        "Puerto Rico Trench",
+        "Java Trench",
+        "Kuril–Kamchatka Trench"
+      ],
+      "correct_answer": "Mariana Trench",
+      "id": "583D00F5-3448-420D-93ED-331BCCB3F1C6"
+    },
+    {
+      "question": "What term describes the rising of deep, nutrient-rich water to the surface?",
+      "options": [
+        "Downwelling",
+        "Upwelling",
+        "Transpiration",
+        "Evaporation"
+      ],
+      "correct_answer": "Upwelling",
+      "id": "8E0E3335-519E-4869-BAA0-66CB5F335D70"
+    },
+    {
+      "question": "What term is used to describe a large body of salt water partially enclosed by land?",
+      "options": [
+        "River",
+        "Lake",
+        "Sea",
+        "Lagoon"
+      ],
+      "correct_answer": "Sea",
+      "id": "A49F32A0-F586-465C-9B6B-0AAC1CAA79FF"
+    },
+    {
+      "question": "What is the major salt found in the ocean?",
+      "options": [
+        "Sodium Chloride",
+        "Potassium Chloride",
+        "Calcium Carbonate",
+        "Magnesium Sulphate"
+      ],
+      "correct_answer": "Sodium Chloride",
+      "id": "79713DEE-6C62-46BC-8D12-C7D9F9D47DFF"
+    },
+    {
+      "question": "What term is used to describe the regular rise and fall of the sea level, usually caused by the gravitational pull of the Moon and Sun?",
+      "options": [
+        "Current",
+        "Wave",
+        "Tide",
+        "Ripple"
+      ],
+      "correct_answer": "Tide",
+      "id": "85A7B93B-049A-43C8-82DD-C22E383286EA"
+    },
+    {
+      "question": "What term is used to describe a large, flat area of the sea floor?",
+      "options": [
+        "Seamount",
+        "Trench",
+        "Abyssal Plain",
+        "Continental Slope"
+      ],
+      "correct_answer": "Abyssal Plain",
+      "id": "0BE436A7-8590-41DD-BA4E-C52540303655"
+    },
+    {
+      "question": "What is the name for a steep descent of the sea floor from the continental shelf to the abyssal zone?",
+      "options": [
+        "Continental Rise",
+        "Continental Drift",
+        "Continental Slope",
+        "Continental Divide"
+      ],
+      "correct_answer": "Continental Slope",
+      "id": "9A037519-7FEA-4996-BA8F-C844166E151E"
+    }
+  ]
+}

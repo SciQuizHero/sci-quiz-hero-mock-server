@@ -1,0 +1,116 @@
+{
+  "category": "Zoology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the process by which butterflies and moths develop from eggs to adults called?",
+      "options": [
+        "Metamorphosis",
+        "Germination",
+        "Ossification",
+        "Transpiration"
+      ],
+      "correct_answer": "Metamorphosis",
+      "id": "D9C33DA0-7C6C-4AC4-A6D2-CE5AE2C3A603"
+    },
+    {
+      "question": "What type of bird is known for stealing shiny objects?",
+      "options": [
+        "Crow",
+        "Magpie",
+        "Parrot",
+        "Pigeon"
+      ],
+      "correct_answer": "Magpie",
+      "id": "CA306146-931E-44D5-8504-552F65E3CCBD"
+    },
+    {
+      "question": "What is the world's smallest mammal?",
+      "options": [
+        "Pygmy Mouse",
+        "Bumblebee Bat",
+        "Etruscan Shrew",
+        "Pygmy Marmoset"
+      ],
+      "correct_answer": "Bumblebee Bat",
+      "id": "F06DBEF9-FF80-480C-BE53-19CEB7C41699"
+    },
+    {
+      "question": "What type of animal is a komodo dragon?",
+      "options": [
+        "Lizard",
+        "Dinosaur",
+        "Bird",
+        "Mammal"
+      ],
+      "correct_answer": "Lizard",
+      "id": "8B2AD36B-9AFA-4319-90CB-2814A3568B44"
+    },
+    {
+      "question": "What type of animal is a 'nudibranch'?",
+      "options": [
+        "Bird",
+        "Reptile",
+        "Sea Slug",
+        "Rodent"
+      ],
+      "correct_answer": "Sea Slug",
+      "id": "2FFEDDC3-460A-4AF9-B542-8766D1D30EB0"
+    },
+    {
+      "question": "Which of the following animals does not undergo metamorphosis?",
+      "options": [
+        "Frog",
+        "Butterfly",
+        "Bee",
+        "Turtle"
+      ],
+      "correct_answer": "Turtle",
+      "id": "0FFC97DE-7816-4301-932D-C13F85A0AA33"
+    },
+    {
+      "question": "What is the largest species of shark?",
+      "options": [
+        "Great White Shark",
+        "Tiger Shark",
+        "Whale Shark",
+        "Hammerhead Shark"
+      ],
+      "correct_answer": "Whale Shark",
+      "id": "ED0D14EC-164C-48AF-AFFF-E27214F06AF1"
+    },
+    {
+      "question": "What is the study of insects called?",
+      "options": [
+        "Herpetology",
+        "Entomology",
+        "Ornithology",
+        "Ichthyology"
+      ],
+      "correct_answer": "Entomology",
+      "id": "3AA9A643-59FD-4771-9767-AB143C042DEC"
+    },
+    {
+      "question": "Which of these animals is a marsupial?",
+      "options": [
+        "Platypus",
+        "Kangaroo",
+        "Beaver",
+        "Badger"
+      ],
+      "correct_answer": "Kangaroo",
+      "id": "5AE3F235-9E2C-4A6B-942F-821AC0EF7989"
+    },
+    {
+      "question": "Which animal is 'Panthera leo' in Latin?",
+      "options": [
+        "Tiger",
+        "Leopard",
+        "Lion",
+        "Jaguar"
+      ],
+      "correct_answer": "Lion",
+      "id": "F3FF7D3A-20AB-4A9E-A684-0ACA0F6D6584"
+    }
+  ]
+}

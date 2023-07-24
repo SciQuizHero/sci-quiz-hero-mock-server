@@ -1,0 +1,116 @@
+{
+  "category": "Algorithms",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What type of algorithm finds the shortest path between two nodes in a graph?",
+      "options": [
+        "Dijkstra's Algorithm",
+        "Prim's Algorithm",
+        "Depth-First Search",
+        "Bubble Sort"
+      ],
+      "correct_answer": "Dijkstra's Algorithm",
+      "id": "5BCB5524-C775-4CE7-8DD0-2594BD0E5709"
+    },
+    {
+      "question": "What type of algorithm is Bubble Sort?",
+      "options": [
+        "Searching Algorithm",
+        "Sorting Algorithm",
+        "Optimization Algorithm",
+        "Compression Algorithm"
+      ],
+      "correct_answer": "Sorting Algorithm",
+      "id": "5D74007A-031B-46F5-A2D1-BFB6D2FB60DB"
+    },
+    {
+      "question": "What algorithm would you use to search for a specific value in a sorted array?",
+      "options": [
+        "Breadth-First Search",
+        "Binary Search",
+        "Bubble Sort",
+        "Sequential Search"
+      ],
+      "correct_answer": "Binary Search",
+      "id": "AF11CBD5-99CD-4F72-AB2B-DF5E3D0125B9"
+    },
+    {
+      "question": "What is the time complexity of the Quick Sort algorithm in the worst case scenario?",
+      "options": [
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)",
+        "O(log n)"
+      ],
+      "correct_answer": "O(n^2)",
+      "id": "E1620C04-5CBB-41AB-970B-F527F4477BC0"
+    },
+    {
+      "question": "Which of the following data structures is typically used in Breadth First Search?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Priority Queue",
+        "Hash Table"
+      ],
+      "correct_answer": "Queue",
+      "id": "6151050D-1349-438F-9D0F-F3E77165B802"
+    },
+    {
+      "question": "Which of the following is a type of divide and conquer algorithm?",
+      "options": [
+        "Bubble Sort",
+        "Breadth-First Search",
+        "Merge Sort",
+        "Sequential Search"
+      ],
+      "correct_answer": "Merge Sort",
+      "id": "26988D9C-3A46-4F70-B6A9-15B56CF7A555"
+    },
+    {
+      "question": "What is the term for the highest amount of resources that an algorithm might possibly use?",
+      "options": [
+        "Best Case Complexity",
+        "Average Case Complexity",
+        "Worst Case Complexity",
+        "Space Complexity"
+      ],
+      "correct_answer": "Worst Case Complexity",
+      "id": "3092F135-E57A-4AFF-A596-B0DA9F2773EC"
+    },
+    {
+      "question": "In computer science, what does DFS stand for?",
+      "options": [
+        "Data File System",
+        "Depth-First Search",
+        "Data Function Size",
+        "Dynamic Function Sort"
+      ],
+      "correct_answer": "Depth-First Search",
+      "id": "2BAFA2CF-26A9-4CFD-915B-0AB9788FF4E5"
+    },
+    {
+      "question": "Which sorting algorithm repeatedly divides the list to be sorted into two halves and then merges them back after sorting?",
+      "options": [
+        "Quick Sort",
+        "Bubble Sort",
+        "Merge Sort",
+        "Insertion Sort"
+      ],
+      "correct_answer": "Merge Sort",
+      "id": "A9B8EC4E-820B-4FBD-AB85-718CD0E2CD9C"
+    },
+    {
+      "question": "Which of the following algorithms uses a priority queue?",
+      "options": [
+        "Dijkstra's Algorithm",
+        "Binary Search",
+        "Bubble Sort",
+        "Insertion Sort"
+      ],
+      "correct_answer": "Dijkstra's Algorithm",
+      "id": "EF2758AB-B4B4-41E0-8C1B-D40B31D0DC6C"
+    }
+  ]
+}

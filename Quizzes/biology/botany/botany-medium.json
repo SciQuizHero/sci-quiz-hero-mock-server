@@ -1,0 +1,116 @@
+{
+  "category": "Botany",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What do you call a plant that completes its lifecycle in two years, growing vegetative structures the first year and flowering the second year?",
+      "options": [
+        "Annual",
+        "Biennial",
+        "Perennial",
+        "Deciduous"
+      ],
+      "correct_answer": "Biennial",
+      "id": "1C4506D6-608E-4557-BA81-5065F36B7266"
+    },
+    {
+      "question": "What is the name of the protein that plays a key role in the closing and opening of stomata in response to light and water availability?",
+      "options": [
+        "Chlorophyll",
+        "RuBisCO",
+        "Auxin",
+        "Phytochrome"
+      ],
+      "correct_answer": "Phytochrome",
+      "id": "E9B6349A-DF40-4FE5-B40F-303D959AEDE5"
+    },
+    {
+      "question": "What are the two types of vascular tissue in plants?",
+      "options": [
+        "Xylem and Phloem",
+        "Epidermis and Endodermis",
+        "Periderm and Pith",
+        "Cortex and Cambium"
+      ],
+      "correct_answer": "Xylem and Phloem",
+      "id": "BD256CC5-2DB0-4EAB-81C0-9E1E48D713EC"
+    },
+    {
+      "question": "What is the term for a flower that contains both male and female reproductive structures?",
+      "options": [
+        "Monoecious",
+        "Dioecious",
+        "Perfect",
+        "Imperfect"
+      ],
+      "correct_answer": "Perfect",
+      "id": "65538987-0A87-41CB-86AE-8435156BE443"
+    },
+    {
+      "question": "What is the term for the study of plant diseases?",
+      "options": [
+        "Ethnobotany",
+        "Dendrology",
+        "Phytopathology",
+        "Palynology"
+      ],
+      "correct_answer": "Phytopathology",
+      "id": "5977C7B9-FAE6-47F1-BE53-C1CA256A468D"
+    },
+    {
+      "question": "What are the plant hormones responsible for cell elongation, among other roles?",
+      "options": [
+        "Gibberellins",
+        "Abscisic acid",
+        "Ethylene",
+        "Cytokinins"
+      ],
+      "correct_answer": "Gibberellins",
+      "id": "80C4A6BC-4934-4C39-BC54-0DD8C1C8AB27"
+    },
+    {
+      "question": "What is the term for the symbiotic associations between fungi and plant roots?",
+      "options": [
+        "Mycorrhizae",
+        "Epiphytes",
+        "Rhizomes",
+        "Stolons"
+      ],
+      "correct_answer": "Mycorrhizae",
+      "id": "42FE3DC1-6902-4F46-B892-DEC0F2753414"
+    },
+    {
+      "question": "What is the term for the outer protective layer of cells of a plant?",
+      "options": [
+        "Epidermis",
+        "Endodermis",
+        "Mesophyll",
+        "Cortex"
+      ],
+      "correct_answer": "Epidermis",
+      "id": "FD3FFA66-FAFF-4FDC-8D80-FE9E2710637D"
+    },
+    {
+      "question": "Which of the following is the correct order of cell layers in a leaf, from the upper surface down?",
+      "options": [
+        "Upper epidermis, palisade mesophyll, spongy mesophyll, lower epidermis",
+        "Upper epidermis, spongy mesophyll, palisade mesophyll, lower epidermis",
+        "Lower epidermis, spongy mesophyll, palisade mesophyll, upper epidermis",
+        "Lower epidermis, palisade mesophyll, spongy mesophyll, upper epidermis"
+      ],
+      "correct_answer": "Upper epidermis, palisade mesophyll, spongy mesophyll, lower epidermis",
+      "id": "62297668-F05A-437F-8221-4517ED7F110E"
+    },
+    {
+      "question": "Which of the following is the correct order of cell layers in a leaf, from the upper surface down?",
+      "options": [
+        "Upper epidermis, palisade mesophyll, spongy mesophyll, lower epidermis",
+        "Upper epidermis, spongy mesophyll, palisade mesophyll, lower epidermis",
+        "Lower epidermis, spongy mesophyll, palisade mesophyll, upper epidermis",
+        "Lower epidermis, palisade mesophyll, spongy mesophyll, upper epidermis"
+      ],
+      "correct_answer": "Upper epidermis, palisade mesophyll, spongy mesophyll, lower epidermis",
+      "id": "BA26B274-BC06-4997-8FAB-1A1C4A18E403"
+    }
+  ]
+}

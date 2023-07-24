@@ -1,0 +1,116 @@
+{
+  "category": "Relativity",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "In the context of Special Relativity, what is 'time dilation'?",
+      "options": [
+        "The phenomenon where time appears to slow down for a moving observer",
+        "The phenomenon where time appears to speed up for a moving observer",
+        "The phenomenon where time appears to stop for a moving observer",
+        "The phenomenon where time appears to reverse for a moving observer"
+      ],
+      "correct_answer": "The phenomenon where time appears to slow down for a moving observer",
+      "id": "20ACC3B2-A389-455E-BB36-705F511BA955"
+    },
+    {
+      "question": "What are 'worldlines' in the context of Relativity?",
+      "options": [
+        "They represent the path of a particle in space-time",
+        "They represent the boundary of the observable universe",
+        "They represent the edge of a black hole",
+        "They represent the speed of light"
+      ],
+      "correct_answer": "They represent the path of a particle in space-time",
+      "id": "F20FD466-1756-49C3-8658-EB20238E2278"
+    },
+    {
+      "question": "In Einstein's theory of General Relativity, what does the 'equivalence principle' state?",
+      "options": [
+        "Gravity and acceleration are indistinguishable",
+        "Gravity and inertia are indistinguishable",
+        "Gravity and velocity are indistinguishable",
+        "Gravity and mass are indistinguishable"
+      ],
+      "correct_answer": "Gravity and acceleration are indistinguishable",
+      "id": "C6894D29-BABE-4ACB-B3E4-D46FEA136B42"
+    },
+    {
+      "question": "What is a 'light cone' in the context of Relativity?",
+      "options": [
+        "A hypothetical shape describing the possible paths of light",
+        "A tool used to measure the speed of light",
+        "A device used in laser technology",
+        "A term used to describe the intensity of light"
+      ],
+      "correct_answer": "A hypothetical shape describing the possible paths of light",
+      "id": "55B0ED84-E6A8-4E3C-86F3-0709A5ADB237"
+    },
+    {
+      "question": "What is the main impact of Special Relativity on the concept of simultaneity?",
+      "options": [
+        "It confirms that simultaneity is absolute",
+        "It disproves the concept of simultaneity",
+        "It suggests that simultaneity is relative to the observer",
+        "It has no impact on the concept of simultaneity"
+      ],
+      "correct_answer": "It suggests that simultaneity is relative to the observer",
+      "id": "66EDE233-2490-4803-B72D-EE4FC3A923DE"
+    },
+    {
+      "question": "What did Einstein's General Relativity predict about light passing close to a massive object?",
+      "options": [
+        "It will speed up",
+        "It will slow down",
+        "Its path will be curved",
+        "Its frequency will change"
+      ],
+      "correct_answer": "Its path will be curved",
+      "id": "9464F76D-5B6D-40C9-B1D9-1E5644647600"
+    },
+    {
+      "question": "In the context of General Relativity, what does 'geodesic' mean?",
+      "options": [
+        "The shortest path between two points in space",
+        "The curved path of an object under the influence of gravity",
+        "The curvature of space-time due to mass and energy",
+        "The path of light in the presence of gravity"
+      ],
+      "correct_answer": "The shortest path between two points in space",
+      "id": "2E380040-62A9-463D-9AAA-D19742602437"
+    },
+    {
+      "question": "What does the 'cosmological constant' in Einstein's field equations represent?",
+      "options": [
+        "The average density of matter in the universe",
+        "The speed of light",
+        "The energy density of the vacuum of space",
+        "The rate of expansion of the universe"
+      ],
+      "correct_answer": "The energy density of the vacuum of space",
+      "id": "A06D73A2-0786-4B4F-99F5-CD72D5F8405A"
+    },
+    {
+      "question": "Which experiment confirmed the prediction of General Relativity about light being deflected by gravity?",
+      "options": [
+        "The double-slit experiment",
+        "The Eddington experiment during the 1919 solar eclipse",
+        "The Michelson-Morley experiment",
+        "The Pound-Rebka experiment"
+      ],
+      "correct_answer": "The Eddington experiment during the 1919 solar eclipse",
+      "id": "839BAF1F-E158-4388-9F7B-5711E2DE2D15"
+    },
+    {
+      "question": "What term is used in special relativity to describe the new way of combining space and time into a four-dimensional structure?",
+      "options": [
+        "Quantum Field",
+        "Minkowski Space",
+        "Einstein Field",
+        "Newtonian Space-Time"
+      ],
+      "correct_answer": "Minkowski Space",
+      "id": "8D265929-019F-4EBA-85FD-295EDC30CB08"
+    }
+  ]
+}

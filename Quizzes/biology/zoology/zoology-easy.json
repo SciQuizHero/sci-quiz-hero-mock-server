@@ -1,0 +1,116 @@
+{
+  "category": "Zoology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Which group of animals do frogs belong to?",
+      "options": [
+        "Mammals",
+        "Birds",
+        "Reptiles",
+        "Amphibians"
+      ],
+      "correct_answer": "Amphibians",
+      "id": "9FCA19D9-E5DA-423C-8369-51B12CD1B77F"
+    },
+    {
+      "question": "What do we call a group of lions?",
+      "options": [
+        "Flock",
+        "Herd",
+        "Pride",
+        "Pod"
+      ],
+      "correct_answer": "Pride",
+      "id": "4E333E77-CA78-454A-BD59-52199C3E2373"
+    },
+    {
+      "question": "Which of these animals is a marsupial?",
+      "options": [
+        "Rabbit",
+        "Elephant",
+        "Kangaroo",
+        "Hippopotamus"
+      ],
+      "correct_answer": "Kangaroo",
+      "id": "849D1493-6800-46EE-9693-5E0936E31E6A"
+    },
+    {
+      "question": "What is the largest species of shark?",
+      "options": [
+        "Great White Shark",
+        "Tiger Shark",
+        "Whale Shark",
+        "Hammerhead Shark"
+      ],
+      "correct_answer": "Whale Shark",
+      "id": "81484871-F3FB-4FC4-B6D4-B3674EB5FB6F"
+    },
+    {
+      "question": "Which bird is known for its elaborate courtship dance?",
+      "options": [
+        "Peacock",
+        "Penguin",
+        "Eagle",
+        "Parrot"
+      ],
+      "correct_answer": "Peacock",
+      "id": "843F850D-1704-457D-88FC-D61DBB02508B"
+    },
+    {
+      "question": "What is the largest land animal?",
+      "options": [
+        "Elephant",
+        "Giraffe",
+        "White Rhinoceros",
+        "Hippopotamus"
+      ],
+      "correct_answer": "Elephant",
+      "id": "19194445-2E38-45AC-9708-9D20C4D22EF3"
+    },
+    {
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "options": [
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Leopard"
+      ],
+      "correct_answer": "Lion",
+      "id": "5E3FB79E-D65B-4753-B07D-137F7A1FD083"
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "options": [
+        "Cheetah",
+        "Leopard",
+        "Lion",
+        "Tiger"
+      ],
+      "correct_answer": "Cheetah",
+      "id": "8E029474-5F46-494E-9FE2-B03EFD603413"
+    },
+    {
+      "question": "What do we call the process by which caterpillars transform into butterflies?",
+      "options": [
+        "Fermentation",
+        "Metamorphosis",
+        "Photosynthesis",
+        "Pollination"
+      ],
+      "correct_answer": "Metamorphosis",
+      "id": "D1A89C1A-EA7F-4621-8BDF-296A4BCE368A"
+    },
+    {
+      "question": "Which animal is known for carrying its young in a pouch?",
+      "options": [
+        "Elephant",
+        "Lion",
+        "Kangaroo",
+        "Hippopotamus"
+      ],
+      "correct_answer": "Kangaroo",
+      "id": "A7398818-F956-4C00-B8A4-696ED82D792E"
+    }
+  ]
+}

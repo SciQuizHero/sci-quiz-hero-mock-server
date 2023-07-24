@@ -1,0 +1,116 @@
+{
+  "category": "Pollution",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Which of the following is not a greenhouse gas?",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Ozone",
+        "Nitrogen"
+      ],
+      "correct_answer": "Nitrogen",
+      "id": "ABD09467-AA48-4A62-98DE-FD347357FCDE"
+    },
+    {
+      "question": "What is biomagnification?",
+      "options": [
+        "Decrease of pollution concentration up the food chain",
+        "Increase of pollution concentration up the food chain",
+        "Decrease of pollution concentration in an ecosystem over time",
+        "Increase of pollution concentration in an ecosystem over time"
+      ],
+      "correct_answer": "Increase of pollution concentration up the food chain",
+      "id": "C6B3F428-AAE7-490F-8B5F-BFE85ED03766"
+    },
+    {
+      "question": "What is the term for rain that has been made acidic by pollutants in the air?",
+      "options": [
+        "Acid rain",
+        "Polluted rain",
+        "Dissolved rain",
+        "Contaminated rain"
+      ],
+      "correct_answer": "Acid rain",
+      "id": "1B02EE60-6098-4569-B927-B6E45C8F869F"
+    },
+    {
+      "question": "Which type of pollution can cause eutrophication in bodies of water?",
+      "options": [
+        "Air pollution",
+        "Noise pollution",
+        "Soil pollution",
+        "Nutrient pollution"
+      ],
+      "correct_answer": "Nutrient pollution",
+      "id": "7C19557B-5A37-4CA6-ABBF-9B23F5052743"
+    },
+    {
+      "question": "Which human activity is a major source of mercury pollution in water bodies?",
+      "options": [
+        "Deforestation",
+        "Burning of fossil fuels",
+        "Artisanal and small-scale gold mining",
+        "Overfishing"
+      ],
+      "correct_answer": "Artisanal and small-scale gold mining",
+      "id": "41DA9B1C-1341-422D-A7CB-595DDBA4B032"
+    },
+    {
+      "question": "What is the main cause of oil pollution in the oceans?",
+      "options": [
+        "Oil spills from tankers",
+        "Natural seepage from the ocean floor",
+        "Waste discharge from industries",
+        "Runoff from agriculture"
+      ],
+      "correct_answer": "Oil spills from tankers",
+      "id": "26F35237-1A3E-4BC0-A918-B22E86B2AE27"
+    },
+    {
+      "question": "What is the difference between primary and secondary pollutants?",
+      "options": [
+        "Primary pollutants are directly emitted, while secondary pollutants form in the air",
+        "Primary pollutants come from natural sources, while secondary pollutants come from human activities",
+        "Primary pollutants are less harmful than secondary pollutants",
+        "Primary pollutants can be seen, while secondary pollutants are invisible"
+      ],
+      "correct_answer": "Primary pollutants are directly emitted, while secondary pollutants form in the air",
+      "id": "5445C66B-9EB7-4F65-8A58-35196703D3C4"
+    },
+    {
+      "question": "Which pollutant is primarily responsible for the creation of smog?",
+      "options": [
+        "Carbon monoxide",
+        "Sulfur dioxide",
+        "Ground-level ozone",
+        "Lead"
+      ],
+      "correct_answer": "Ground-level ozone",
+      "id": "162871F5-55F5-45EA-A4E1-C33D4044DF64"
+    },
+    {
+      "question": "What is the effect of thermal pollution on aquatic ecosystems?",
+      "options": [
+        "Increases the reproductive rate of fish",
+        "Decreases the oxygen supply",
+        "Improves water clarity",
+        "Enhances the growth of aquatic plants"
+      ],
+      "correct_answer": "Decreases the oxygen supply",
+      "id": "8A0D18F0-1C4F-4924-89BB-E8D14A0FC353"
+    },
+    {
+      "question": "Which type of pollution primarily causes the depletion of the ozone layer?",
+      "options": [
+        "Noise pollution",
+        "Radioactive pollution",
+        "Plastic pollution",
+        "Chemical pollution"
+      ],
+      "correct_answer": "Chemical pollution",
+      "id": "70197493-E653-468F-BC87-EC58FF3BCF74"
+    }
+  ]
+}

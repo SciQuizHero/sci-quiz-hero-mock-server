@@ -1,0 +1,116 @@
+{
+  "category": "Mechanical Engineering",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Which of the following gear trains has a gear ratio greater than 1?",
+      "options": [
+        "Simple gear train",
+        "Compound gear train",
+        "Reverted gear train",
+        "Planetary gear train"
+      ],
+      "correct_answer": "Compound gear train",
+      "id": "EB3644D9-12AF-446E-AB5F-E05F4C0601DB"
+    },
+    {
+      "question": "What is the term for the point on a phase diagram where all three phases of a substance coexist?",
+      "options": [
+        "Critical point",
+        "Triple point",
+        "Freezing point",
+        "Boiling point"
+      ],
+      "correct_answer": "Triple point",
+      "id": "ABFF52AA-40FA-4769-B1D3-035F7F96333C"
+    },
+    {
+      "question": "Which of the following is NOT a type of welding process?",
+      "options": [
+        "TIG welding",
+        "MIG welding",
+        "Friction welding",
+        "Extrusion welding"
+      ],
+      "correct_answer": "Extrusion welding",
+      "id": "644BE614-6A3B-40C0-858E-C9249F6CDBF7"
+    },
+    {
+      "question": "Which type of fluid flow has a velocity profile that is fully developed and does not change as the fluid moves along?",
+      "options": [
+        "Laminar flow",
+        "Turbulent flow",
+        "Steady flow",
+        "Unsteady flow"
+      ],
+      "correct_answer": "Steady flow",
+      "id": "E1E89577-1C96-430C-83EC-278325AEC7BE"
+    },
+    {
+      "question": "Which of the following is an example of a positive displacement pump?",
+      "options": [
+        "Centrifugal pump",
+        "Axial flow pump",
+        "Gear pump",
+        "Turbine pump"
+      ],
+      "correct_answer": "Gear pump",
+      "id": "5FCA438F-E474-4E83-B02A-DE86B9BF79CF"
+    },
+    {
+      "question": "What is the primary purpose of a flywheel in an internal combustion engine?",
+      "options": [
+        "To cool the engine",
+        "To maintain constant speed",
+        "To lubricate the engine",
+        "To transfer power to the transmission"
+      ],
+      "correct_answer": "To maintain constant speed",
+      "id": "542A80B3-25A2-4141-A7A5-D2EEE9369781"
+    },
+    {
+      "question": "Which type of heat exchanger has a shell and a series of tubes?",
+      "options": [
+        "Plate heat exchanger",
+        "Shell and tube heat exchanger",
+        "Double pipe heat exchanger",
+        "Air cooled heat exchanger"
+      ],
+      "correct_answer": "Shell and tube heat exchanger",
+      "id": "1A7AC9AD-92A8-4EBD-9465-B484FB4CFBCC"
+    },
+    {
+      "question": "Which of the following is a dimensionless number used in fluid mechanics to characterize the behavior of fluid flow?",
+      "options": [
+        "Mach number",
+        "Prandtl number",
+        "Reynolds number",
+        "Nusselt number"
+      ],
+      "correct_answer": "Reynolds number",
+      "id": "D2C533C6-40C1-49D6-A955-7BE7A07F3F19"
+    },
+    {
+      "question": "Which of the following mechanisms converts rotary motion to linear motion?",
+      "options": [
+        "Crankshaft",
+        "Camshaft",
+        "Rack and pinion",
+        "Bevel gear"
+      ],
+      "correct_answer": "Rack and pinion",
+      "id": "73C89D11-684F-4324-B308-FC23B39E7561"
+    },
+    {
+      "question": "What is the common term for the mechanical advantage obtained by a system of gears?",
+      "options": [
+        "Torque ratio",
+        "Gear ratio",
+        "Power ratio",
+        "Speed ratio"
+      ],
+      "correct_answer": "Gear ratio",
+      "id": "5AB6ABC5-4BFE-4751-8127-93080C7FDF60"
+    }
+  ]
+}

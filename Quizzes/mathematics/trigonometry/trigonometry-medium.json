@@ -1,0 +1,116 @@
+{
+  "category": "Trigonometry",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the period of the function y = sin(x)?",
+      "options": [
+        "2π",
+        "π",
+        "4π",
+        "π/2"
+      ],
+      "correct_answer": "2π",
+      "id": "F111AA46-5C0F-4969-A079-28BA9A3165A8"
+    },
+    {
+      "question": "What is the value of cos(2π/3)?",
+      "options": [
+        "-1/2",
+        "1/2",
+        "-√3/2",
+        "√3/2"
+      ],
+      "correct_answer": "-1/2",
+      "id": "172A3B0C-8596-437A-BE1F-636894CE0563"
+    },
+    {
+      "question": "What is the phase shift of the function y = sin(x - π/2)?",
+      "options": [
+        "π/2 units to the right",
+        "π/2 units to the left",
+        "π units to the right",
+        "π units to the left"
+      ],
+      "correct_answer": "π/2 units to the right",
+      "id": "45A9BB68-9368-4122-9689-90B033FD4EF6"
+    },
+    {
+      "question": "In the unit circle, what are the coordinates of the point that represents an angle of π/4?",
+      "options": [
+        "(√2/2, √2/2)",
+        "(1/2, √3/2)",
+        "(√3/2, 1/2)",
+        "(1/2, 1/2)"
+      ],
+      "correct_answer": "(√2/2, √2/2)",
+      "id": "58538577-1026-4712-92FE-8AF6C0159F3F"
+    },
+    {
+      "question": "What are the solutions of the equation 2sin(x) = 1 for x in the interval [0, 2π]?",
+      "options": [
+        "π/6, 5π/6",
+        "π/4, 3π/4",
+        "π/3, 2π/3",
+        "π/2, π"
+      ],
+      "correct_answer": "π/6, 5π/6",
+      "id": "BFFE8791-5B05-46E0-9A13-1049635FD4DD"
+    },
+    {
+      "question": "What is the value of cot(π/4)?",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "Undefined"
+      ],
+      "correct_answer": "1",
+      "id": "8C64C032-3EF8-4BAB-886C-F9E0A72C80C4"
+    },
+    {
+      "question": "Which of the following is an identity for secant?",
+      "options": [
+        "sec(x) = 1/cos(x)",
+        "sec(x) = 1/sin(x)",
+        "sec(x) = 1/tan(x)",
+        "sec(x) = 1/cot(x)"
+      ],
+      "correct_answer": "sec(x) = 1/cos(x)",
+      "id": "8BEE0FF7-8E20-46CB-9786-7FC1E271105A"
+    },
+    {
+      "question": "What are the solutions of the equation cos^2(x) - sin^2(x) = 0 for x in the interval [0, 2π]?",
+      "options": [
+        "π/4, 3π/4, 5π/4, 7π/4",
+        "π/3, 2π/3, 4π/3, 5π/3",
+        "π/2, 3π/2",
+        "π, 2π"
+      ],
+      "correct_answer": "π/4, 3π/4, 5π/4, 7π/4",
+      "id": "9D568C70-CF2A-47D2-BCED-F2CAF405ED49"
+    },
+    {
+      "question": "What is the period of the function y = cos(2x)?",
+      "options": [
+        "2π",
+        "π",
+        "4π",
+        "π/2"
+      ],
+      "correct_answer": "π",
+      "id": "AE4F5C16-2FB3-4320-841E-23AEB8F2ED92"
+    },
+    {
+      "question": "What is the phase shift of the function y = tan(x + π)?",
+      "options": [
+        "π units to the right",
+        "π units to the left",
+        "π/2 units to the right",
+        "π/2 units to the left"
+      ],
+      "correct_answer": "π units to the left",
+      "id": "3A18FB0B-47EE-4154-9A70-21B6D7367D66"
+    }
+  ]
+}

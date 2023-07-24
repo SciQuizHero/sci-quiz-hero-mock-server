@@ -1,0 +1,116 @@
+{
+  "category": "Mechanics",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "id": "b0a9b0d7-93a6-4a25-b6c0-1b6e23b6a2a6",
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Pascal",
+        "Joule",
+        "Watt"
+      ],
+      "correct_answer": "Newton"
+    },
+    {
+      "id": "9a4a7e25-1a50-4a54-a37e-24a7e25d539f",
+      "question": "Which of the following is not a scalar quantity?",
+      "options": [
+        "Speed",
+        "Velocity",
+        "Distance",
+        "Energy"
+      ],
+      "correct_answer": "Velocity"
+    },
+    {
+      "id": "4d4f4a8d-4b7d-4c5e-a7f4-4aa8d7a6c1e6",
+      "question": "What is the acceleration due to gravity on Earth's surface?",
+      "options": [
+        "9.8 m/s^2",
+        "6.674 m/s^2",
+        "3.14 m/s^2",
+        "1.6 m/s^2"
+      ],
+      "correct_answer": "9.8 m/s^2"
+    },
+    {
+      "id": "e326c712-8de8-47a3-abc6-126c7128dea9",
+      "question": "Which law states that for every action, there is an equal and opposite reaction?",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Newton's Law of Gravitation"
+      ],
+      "correct_answer": "Newton's Third Law"
+    },
+    {
+      "id": "c453d12f-9fa9-4a7d-3d12-ff9a9a7d3d67",
+      "question": "What is the formula for calculating kinetic energy?",
+      "options": [
+        "KE = 1/2 mv^2",
+        "KE = mgh",
+        "KE = Fd",
+        "KE = W/t"
+      ],
+      "correct_answer": "KE = 1/2 mv^2"
+    },
+    {
+      "id": "11a8e2f0-1ee2-45f9-8e2f-01ee245f98ce",
+      "question": "Which of the following is not a type of friction?",
+      "options": [
+        "Static friction",
+        "Kinetic friction",
+        "Rolling friction",
+        "Magnetic friction"
+      ],
+      "correct_answer": "Magnetic friction"
+    },
+    {
+      "id": "4a4e4c31-3a3c-4c1e-4e4c-313a3c4c1e7f",
+      "question": "What is the term for the rate of change of velocity?",
+      "options": [
+        "Speed",
+        "Acceleration",
+        "Momentum",
+        "Displacement"
+      ],
+      "correct_answer": "Acceleration"
+    },
+    {
+      "id": "6f5d6b73-8d8a-4b68-d6b7-38d8a4b68d7a",
+      "question": "Which of the following is a vector quantity?",
+      "options": [
+        "Time",
+        "Mass",
+        "Temperature",
+        "Displacement"
+      ],
+      "correct_answer": "Displacement"
+    },
+    {
+      "id": "e78c8129-2a2d-4123-8c81-292a2d412387",
+      "question": "What is the term for the total path covered by an object?",
+      "options": [
+        "Distance",
+        "Displacement",
+        "Speed",
+        "Velocity"
+      ],
+      "correct_answer": "Distance"
+    },
+    {
+      "id": "f98a9d7f-1b1a-4398-8a9d-7f1b1a4398c6",
+      "question": "What is the formula for calculating work?",
+      "options": [
+        "W = Fd",
+        "W = 1/2 mv^2",
+        "W = mgh",
+        "W = ma"
+      ],
+      "correct_answer": "W = Fd"
+    }
+  ]
+}

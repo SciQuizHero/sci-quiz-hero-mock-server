@@ -1,0 +1,116 @@
+{
+  "category": "Meteorology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the term for the change in atmospheric pressure over a given horizontal distance?",
+      "options": [
+        "Pressure gradient",
+        "Isobar",
+        "Baroclinic zone",
+        "Pressure tendency"
+      ],
+      "correct_answer": "Pressure gradient",
+      "id": "B28FF9AF-9CD2-48CF-A7AD-BB0EA81B4F78"
+    },
+    {
+      "question": "Which of the following is an example of a synoptic-scale weather system?",
+      "options": [
+        "Microburst",
+        "Tornado",
+        "Dust devil",
+        "Extratropical cyclone"
+      ],
+      "correct_answer": "Extratropical cyclone",
+      "id": "A38D918C-A945-4E9C-B8E5-749117AB2E79"
+    },
+    {
+      "question": "What is the term for the area in the atmosphere where the environmental lapse rate is less than the dry adiabatic lapse rate?",
+      "options": [
+        "Temperature inversion",
+        "Isothermal layer",
+        "Absolute instability",
+        "Conditional instability"
+      ],
+      "correct_answer": "Conditional instability",
+      "id": "E6E56E55-BAE1-4BFA-9C92-E4AD7D7862CC"
+    },
+    {
+      "question": "Which parameter is used to describe the potential for thunderstorm development?",
+      "options": [
+        "Convective Available Potential Energy (CAPE)",
+        "Convective Inhibition (CIN)",
+        "Lifted Index (LI)",
+        "K Index (KI)"
+      ],
+      "correct_answer": "Convective Available Potential Energy (CAPE)",
+      "id": "846BFD5C-A0A5-4877-B77D-5B34FFF48CD5"
+    },
+    {
+      "question": "What term is used to describe the change in wind speed or direction with increasing altitude?",
+      "options": [
+        "Wind shear",
+        "Jet stream",
+        "Wind gradient",
+        "Pressure gradient"
+      ],
+      "correct_answer": "Wind shear",
+      "id": "B3670307-9BD0-4D11-94EA-63F97DA8AF72"
+    },
+    {
+      "question": "In the Köppen climate classification system, what is the symbol for a Mediterranean climate?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "C",
+      "id": "F3487773-80BD-4C3C-8628-E6AEA6DD4538"
+    },
+    {
+      "question": "Which of the following is a boundary between two air masses with different temperatures and humidity, but with no movement?",
+      "options": [
+        "Stationary front",
+        "Occluded front",
+        "Cold front",
+        "Warm front"
+      ],
+      "correct_answer": "Stationary front",
+      "id": "B1AA830E-9C13-4CEE-97FD-3F2F25D8B04B"
+    },
+    {
+      "question": "Which of the following is a type of mesoscale convective system characterized by a bow-shaped line of storms?",
+      "options": [
+        "Derecho",
+        "Supercell",
+        "Squall line",
+        "Multicell storm"
+      ],
+      "correct_answer": "Derecho",
+      "id": "8D9AF52A-EEFA-4F38-B70A-A2DA89A5C75D"
+    },
+    {
+      "question": "What is the process by which a liquid, such as water, is transformed into a vapor without reaching its boiling point?",
+      "options": [
+        "Sublimation",
+        "Evaporation",
+        "Condensation",
+        "Deposition"
+      ],
+      "correct_answer": "Evaporation",
+      "id": "2D0F9DFA-6B3C-45AA-AA0C-D2B3BE6AB1AB"
+    },
+    {
+      "question": "What is the name of the region in the Earth's atmosphere where temperature increases with altitude, caused by the absorption of ultraviolet radiation?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct_answer": "Stratosphere",
+      "id": "1D215BCF-DF18-4603-AE41-878440644A8C"
+    }
+  ]
+}

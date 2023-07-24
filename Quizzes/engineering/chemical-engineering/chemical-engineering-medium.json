@@ -1,0 +1,116 @@
+{
+  "category": "Chemical Engineering",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the purpose of a 'packed bed' in a chemical reactor?",
+      "options": [
+        "To increase the contact surface area between reactants and catalysts",
+        "To reduce the contact surface area between reactants and catalysts",
+        "To prevent reactants from coming into contact with each other",
+        "To control the temperature inside the reactor"
+      ],
+      "correct_answer": "To increase the contact surface area between reactants and catalysts",
+      "id": "B6E59BC9-D91E-4283-9353-A41C7ADD2126"
+    },
+    {
+      "question": "What is 'viscosity' in chemical engineering?",
+      "options": [
+        "The measure of a fluid's resistance to flow",
+        "The measure of a fluid's ability to conduct heat",
+        "The measure of a fluid's ability to transfer mass",
+        "The measure of a fluid's volatility"
+      ],
+      "correct_answer": "The measure of a fluid's resistance to flow",
+      "id": "D61FB6D3-C41C-4DC6-87FF-6AC299BC476D"
+    },
+    {
+      "question": "What is the purpose of a 'heat exchanger' in chemical engineering?",
+      "options": [
+        "To transfer heat between two fluids at different temperatures",
+        "To mix two different fluids together",
+        "To remove impurities from a fluid",
+        "To control the pressure inside a system"
+      ],
+      "correct_answer": "To transfer heat between two fluids at different temperatures",
+      "id": "247DD5D8-861C-4974-85C3-69D0A542B186"
+    },
+    {
+      "question": "What is 'reflux' in distillation?",
+      "options": [
+        "The process of vaporizing a liquid and condensing it back into a liquid",
+        "The process of heating a liquid to its boiling point",
+        "The process of cooling a vapor to its condensation point",
+        "The process of recycling a fraction of the distillate back into the column"
+      ],
+      "correct_answer": "The process of recycling a fraction of the distillate back into the column",
+      "id": "59666A96-13C2-4A7A-82EE-BEE71D466377"
+    },
+    {
+      "question": "What is the 'Arrhenius equation' used for?",
+      "options": [
+        "To calculate the rate of a chemical reaction",
+        "To calculate the activation energy of a chemical reaction",
+        "To calculate the equilibrium constant of a chemical reaction",
+        "To calculate the enthalpy change of a chemical reaction"
+      ],
+      "correct_answer": "To calculate the rate of a chemical reaction",
+      "id": "3110B8F3-C9F3-4B6D-9493-2D74B93E2D85"
+    },
+    {
+      "question": "What is 'pressure swing adsorption' (PSA) used for in chemical engineering?",
+      "options": [
+        "To separate gases from a gas mixture based on their different adsorption characteristics",
+        "To separate liquids from a liquid mixture based on their different boiling points",
+        "To separate solids from a solid mixture based on their different densities",
+        "To separate gases from a gas mixture based on their different boiling points"
+      ],
+      "correct_answer": "To separate gases from a gas mixture based on their different adsorption characteristics",
+      "id": "DEF0663D-83F8-42E9-BFE3-B943649EADAB"
+    },
+    {
+      "question": "What is 'fractional distillation' used for in chemical engineering?",
+      "options": [
+        "To separate a mixture of liquids with different boiling points",
+        "To separate a mixture of solids with different densities",
+        "To separate a mixture of gases with different solubilities",
+        "To separate a mixture of solids with different melting points"
+      ],
+      "correct_answer": "To separate a mixture of liquids with different boiling points",
+      "id": "4F105C2F-1B79-477D-A28F-3F7DFBBFD0D8"
+    },
+    {
+      "question": "What is the 'stoichiometric ratio' in chemical engineering?",
+      "options": [
+        "The ratio of reactants required for a complete chemical reaction",
+        "The ratio of products obtained from a complete chemical reaction",
+        "The ratio of reactants that yield the highest product yield",
+        "The ratio of products that yield the highest reactant conversion"
+      ],
+      "correct_answer": "The ratio of reactants required for a complete chemical reaction",
+      "id": "3D6E55CA-9D4E-4FAD-96BC-48DBD76F14BB"
+    },
+    {
+      "question": "What is 'coalescence' in chemical engineering?",
+      "options": [
+        "The process of combining small droplets into larger ones",
+        "The process of separating large droplets into smaller ones",
+        "The process of converting liquid droplets into solid particles",
+        "The process of converting solid particles into liquid droplets"
+      ],
+      "correct_answer": "The process of combining small droplets into larger ones",
+      "id": "004D03F9-7307-417D-BE03-F01653AE1482"
+    },
+    {
+      "question": "What is 'Hazard and Operability Study' (HAZOP) used for in chemical engineering?",
+      "options": [
+        "To identify and evaluate potential hazards and operability issues in a process plant",
+        "To determine the economic feasibility of a chemical process",
+        "To optimize the design and operation of a chemical reactor",
+        "To ensure compliance with environmental regulations"
+      ],
+      "correct_answer": "To identify and evaluate potential hazards and operability issues in a process plant",
+      "id": "4F2E7C1C-85E4-4A6A-99B1-58893D5579F6"
+    }
+  ]
+}

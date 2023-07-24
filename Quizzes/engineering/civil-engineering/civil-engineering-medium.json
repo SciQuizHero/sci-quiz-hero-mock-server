@@ -1,0 +1,116 @@
+{
+  "category": "Civil Engineering",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What does the 'L' stand for in the L-Pile software commonly used in geotechnical engineering?",
+      "options": [
+        "Load",
+        "Length",
+        "Lateral",
+        "Layer"
+      ],
+      "correct_answer": "Lateral",
+      "id": "A7442F87-7F60-4697-B779-37CD75290B03"
+    },
+    {
+      "question": "What is the primary function of a 'Curtain Wall' in a building structure?",
+      "options": [
+        "To provide structural support to the building",
+        "To divide interior spaces",
+        "To prevent water and wind infiltration",
+        "To enhance the aesthetic appearance of the building"
+      ],
+      "correct_answer": "To prevent water and wind infiltration",
+      "id": "77C03532-A25E-4FCD-B000-6F6AC345B7A4"
+    },
+    {
+      "question": "What term is used to describe the potential of soil to decrease in volume when subjected to load?",
+      "options": [
+        "Plasticity",
+        "Permeability",
+        "Compressibility",
+        "Consolidation"
+      ],
+      "correct_answer": "Compressibility",
+      "id": "164EE2CB-CA24-49E8-9C50-401AEB8D0DFD"
+    },
+    {
+      "question": "In reinforced concrete, what is the purpose of providing 'stirrups'?",
+      "options": [
+        "To resist longitudinal shear",
+        "To resist lateral torsion",
+        "To increase bending strength",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "id": "44F6BE78-5D6A-41B3-AD38-124A23BF497A"
+    },
+    {
+      "question": "What does the 'K' value represent in road design?",
+      "options": [
+        "The coefficient of friction between the tires and the road",
+        "The ratio of horizontal to vertical curve length",
+        "The maximum grade of the road",
+        "The vertical curve length required for a specified sight distance"
+      ],
+      "correct_answer": "The ratio of horizontal to vertical curve length",
+      "id": "0CA999CC-1935-4262-8C63-C0393185C229"
+    },
+    {
+      "question": "What is the term for the study of the mechanical properties of rocks?",
+      "options": [
+        "Geology",
+        "Rock mechanics",
+        "Soil mechanics",
+        "Geoengineering"
+      ],
+      "correct_answer": "Rock mechanics",
+      "id": "0888F7E9-49F5-4100-B95B-2155CFC89DFF"
+    },
+    {
+      "question": "What type of soil has the smallest particle size?",
+      "options": [
+        "Sand",
+        "Silt",
+        "Clay",
+        "Gravel"
+      ],
+      "correct_answer": "Clay",
+      "id": "CF12942A-F05F-4A7D-8307-EB7B7CDD2445"
+    },
+    {
+      "question": "In the context of structural analysis, what does 'SLR' stand for?",
+      "options": [
+        "Simple Load Resistance",
+        "Shear Line Rotation",
+        "Slope Load Resistance",
+        "Simply Supported Load Resistance"
+      ],
+      "correct_answer": "Shear Line Rotation",
+      "id": "24C702A7-F875-4CAB-BF79-64DF2AC3E2D9"
+    },
+    {
+      "question": "What is the principle behind the 'Boussinesq’s theory'?",
+      "options": [
+        "Describing the behavior of saturated soil under load",
+        "Predicting elastic settlement of a soil under load",
+        "Determining the load carrying capacity of soil",
+        "Analyzing the lateral earth pressure on retaining walls"
+      ],
+      "correct_answer": "Predicting elastic settlement of a soil under load",
+      "id": "602B751B-AF81-49EF-A01B-AB54FCAF98D1"
+    },
+    {
+      "question": "Which type of surveying is used for large areas and high precision?",
+      "options": [
+        "Chain Surveying",
+        "Plane Table Surveying",
+        "Geodetic Surveying",
+        "Levelling"
+      ],
+      "correct_answer": "Geodetic Surveying",
+      "id": "E2BF07FA-E99B-4C60-9B99-78B363B8FFCC"
+    }
+  ]
+}

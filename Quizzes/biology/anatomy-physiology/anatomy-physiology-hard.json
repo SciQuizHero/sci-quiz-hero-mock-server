@@ -1,0 +1,116 @@
+{
+  "category": "Anatomy and Physiology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the term for the process by which new red blood cells are produced?",
+      "options": [
+        "Erythropoiesis",
+        "Hemolysis",
+        "Phagocytosis",
+        "Hematopoiesis"
+      ],
+      "correct_answer": "Erythropoiesis",
+      "id": "24FC66E5-EE87-45EB-8B4A-FC366886A5D5"
+    },
+    {
+      "question": "Which of the following cells are primarily responsible for the production of antibodies?",
+      "options": [
+        "T lymphocytes",
+        "B lymphocytes",
+        "Macrophages",
+        "Neutrophils"
+      ],
+      "correct_answer": "B lymphocytes",
+      "id": "89DD4B0D-B1AD-4A6E-9471-BE4B9841F8FB"
+    },
+    {
+      "question": "What is the scientific term for the process of bone tissue formation?",
+      "options": [
+        "Osteoclastogenesis",
+        "Osteogenesis",
+        "Chondrogenesis",
+        "Myogenesis"
+      ],
+      "correct_answer": "Osteogenesis",
+      "id": "73B79D03-333A-4470-BD36-FFDEA1119654"
+    },
+    {
+      "question": "What is the anatomical name for the space between the lungs that houses the heart, major blood vessels, and other structures?",
+      "options": [
+        "Pleural cavity",
+        "Pericardial cavity",
+        "Thoracic cavity",
+        "Mediastinum"
+      ],
+      "correct_answer": "Mediastinum",
+      "id": "618AE3E2-1CCA-4C60-B5CC-29A82FBFD487"
+    },
+    {
+      "question": "What is the main function of the 'Bartholin's glands' in the female reproductive system?",
+      "options": [
+        "Produce ova",
+        "Produce estrogen",
+        "Produce progesterone",
+        "Lubricate the vagina"
+      ],
+      "correct_answer": "Lubricate the vagina",
+      "id": "070B9722-D32F-4F5C-AE8D-EE4DF9058F70"
+    },
+    {
+      "question": "In fetal circulation, what is the name of the opening between the right and left atria?",
+      "options": [
+        "Foramen ovale",
+        "Ductus arteriosus",
+        "Ductus venosus",
+        "Foramen magnum"
+      ],
+      "correct_answer": "Foramen ovale",
+      "id": "B1D51378-517D-4ECA-8B5D-7D6E23D46D6F"
+    },
+    {
+      "question": "Which of the following hormones primarily regulates the 'Fight or Flight' response?",
+      "options": [
+        "Cortisol",
+        "Insulin",
+        "Adrenaline (Epinephrine)",
+        "Melatonin"
+      ],
+      "correct_answer": "Adrenaline (Epinephrine)",
+      "id": "C7C45BCE-0219-4FC0-A58A-7B72CC3CA7D4"
+    },
+    {
+      "question": "Which of the following is a characteristic feature of 'Type I muscle fibers'?",
+      "options": [
+        "High oxidative capacity and fatigue resistance",
+        "High glycolytic capacity and rapid contraction",
+        "Low myoglobin content and poor blood supply",
+        "Poor mitochondrial density and anaerobic metabolism"
+      ],
+      "correct_answer": "High oxidative capacity and fatigue resistance",
+      "id": "DA8A4DFB-D8E6-4A24-9EA1-67F9A4CD53FA"
+    },
+    {
+      "question": "Which part of the brain is primarily responsible for regulating balance and coordination?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Pons"
+      ],
+      "correct_answer": "Cerebellum",
+      "id": "72AC0309-22BD-423C-BA36-DC7510765CE9"
+    },
+    {
+      "question": "What is the anatomical term for the 'Tailbone'?",
+      "options": [
+        "Coccyx",
+        "Sacrum",
+        "Ischium",
+        "Pubis"
+      ],
+      "correct_answer": "Coccyx",
+      "id": "D419836C-564A-49E2-9D86-ECE55DD09AD2"
+    }
+  ]
+}

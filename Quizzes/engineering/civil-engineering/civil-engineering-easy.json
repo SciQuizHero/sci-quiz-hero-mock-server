@@ -1,0 +1,116 @@
+{
+  "category": "Civil Engineering",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Which one of the following materials is commonly used for the construction of roads?",
+      "options": [
+        "Steel",
+        "Glass",
+        "Asphalt",
+        "Wood"
+      ],
+      "correct_answer": "Asphalt",
+      "id": "DFEC5DE7-B054-4634-A1A7-29569A858B51"
+    },
+    {
+      "question": "What is the primary purpose of a foundation in a building?",
+      "options": [
+        "Increase the height of the building",
+        "Distribute the load of the building to the ground",
+        "Provide insulation",
+        "Improve the aesthetic appearance of the building"
+      ],
+      "correct_answer": "Distribute the load of the building to the ground",
+      "id": "903182F2-2D2F-43FF-9AF8-47ED5B98A7CA"
+    },
+    {
+      "question": "Which of the following is an example of a green building material?",
+      "options": [
+        "Plastic",
+        "Bamboo",
+        "Lead",
+        "Asbestos"
+      ],
+      "correct_answer": "Bamboo",
+      "id": "3978C661-465A-40BA-9FCF-D460DA2D4902"
+    },
+    {
+      "question": "What is the role of a civil engineer in the construction of a bridge?",
+      "options": [
+        "Painting the bridge",
+        "Decorating the bridge",
+        "Designing and overseeing the construction of the bridge",
+        "Cleaning the bridge"
+      ],
+      "correct_answer": "Designing and overseeing the construction of the bridge",
+      "id": "71DA4616-6F9F-4F9C-87D9-1A2CDDB911FD"
+    },
+    {
+      "question": "Which of the following types of surveying is typically conducted to determine boundaries, easements, and land ownership?",
+      "options": [
+        "Construction surveying",
+        "Hydrographic surveying",
+        "Cadastral surveying",
+        "Topographic surveying"
+      ],
+      "correct_answer": "Cadastral surveying",
+      "id": "7E16DB1F-46AE-4059-9C6D-368DFB7D5F6B"
+    },
+    {
+      "question": "What term refers to the measure of consistency or relative ability of fresh concrete to flow?",
+      "options": [
+        "Hardening",
+        "Curing",
+        "Workability",
+        "Densification"
+      ],
+      "correct_answer": "Workability",
+      "id": "506CD0FF-D157-4A65-ADCE-2653FFB5BD6F"
+    },
+    {
+      "question": "What does the term 'slump' refer to in concrete?",
+      "options": [
+        "The color of the concrete",
+        "The weight of the concrete",
+        "The hardness of the concrete",
+        "The measure of the consistency of the concrete"
+      ],
+      "correct_answer": "The measure of the consistency of the concrete",
+      "id": "497BAC44-56F5-4620-B351-280FF5A8895F"
+    },
+    {
+      "question": "Which of the following structures would typically be built using a cantilever design?",
+      "options": [
+        "A highway bridge",
+        "A skyscraper",
+        "A dam",
+        "A tunnel"
+      ],
+      "correct_answer": "A highway bridge",
+      "id": "63F22A93-FF18-42EB-B85C-2CEDC00B5FEE"
+    },
+    {
+      "question": "What is one of the main reasons for adding reinforcement to concrete?",
+      "options": [
+        "To change its color",
+        "To make it waterproof",
+        "To increase its tensile strength",
+        "To make it cheaper"
+      ],
+      "correct_answer": "To increase its tensile strength",
+      "id": "7F98B9E6-8D92-4152-99C1-22DFB97A9F78"
+    },
+    {
+      "question": "What is the primary function of a 'footing' in a building foundation?",
+      "options": [
+        "Decoration",
+        "To reduce the total weight of the building",
+        "To distribute the load over a larger area",
+        "Insulation"
+      ],
+      "correct_answer": "To distribute the load over a larger area",
+      "id": "62569BE0-F6C0-4457-919D-EA8ECFB461D1"
+    }
+  ]
+}

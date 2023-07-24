@@ -1,0 +1,116 @@
+{
+  "category": "Mechanical Engineering",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Which of the following theories is used to predict the failure of ductile materials under combined stress?",
+      "options": [
+        "Maximum normal stress theory",
+        "Mohr's circle theory",
+        "Von Mises stress theory",
+        "Maximum shear stress theory"
+      ],
+      "correct_answer": "Von Mises stress theory",
+      "id": "C3F6C22B-1F35-4F1A-B39A-72D857F3E6F5"
+    },
+    {
+      "question": "Which of the following is not a type of gear?",
+      "options": [
+        "Hypoid gear",
+        "Worm gear",
+        "Rack and pinion gear",
+        "Spline gear"
+      ],
+      "correct_answer": "Spline gear",
+      "id": "70DC0707-70CB-4A48-BAA1-76FD3473B24D"
+    },
+    {
+      "question": "In a Rankine cycle, what is the primary purpose of a regenerator?",
+      "options": [
+        "To increase the efficiency of the cycle",
+        "To decrease the heat transfer rate",
+        "To increase the pressure of the working fluid",
+        "To decrease the temperature of the working fluid"
+      ],
+      "correct_answer": "To increase the efficiency of the cycle",
+      "id": "161999ED-9EBD-4CBD-B274-BEE4ABBB507D"
+    },
+    {
+      "question": "Which of the following materials exhibits the highest damping capacity?",
+      "options": [
+        "Aluminum",
+        "Steel",
+        "Magnesium",
+        "Cast iron"
+      ],
+      "correct_answer": "Cast iron",
+      "id": "693A0931-7BF8-40FF-BEEF-6FC90AF2111B"
+    },
+    {
+      "question": "What is the name of the phenomenon where the elastic modulus of a material decreases with increasing temperature?",
+      "options": [
+        "Thermoelasticity",
+        "Thermal hysteresis",
+        "Thermal softening",
+        "Thermal expansion"
+      ],
+      "correct_answer": "Thermal softening",
+      "id": "AAA749B7-6351-4F20-B090-6B7CC38E622F"
+    },
+    {
+      "question": "Which of the following is a thermodynamic process in which no heat is exchanged between the system and its surroundings?",
+      "options": [
+        "Isothermal process",
+        "Isentropic process",
+        "Adiabatic process",
+        "Isobaric process"
+      ],
+      "correct_answer": "Adiabatic process",
+      "id": "F709DE9B-5F67-4ABA-B84B-02A1D35AAE9E"
+    },
+    {
+      "question": "Which type of turbine is most commonly used in a gas turbine engine?",
+      "options": [
+        "Impulse turbine",
+        "Reaction turbine",
+        "Axial-flow turbine",
+        "Radial-flow turbine"
+      ],
+      "correct_answer": "Axial-flow turbine",
+      "id": "6DAB2E5C-213D-4898-8F65-D88ACC974DE2"
+    },
+    {
+      "question": "In a truss structure, which of the following loads results in the maximum axial force?",
+      "options": [
+        "Concentrated load at the midpoint",
+        "Uniformly distributed load",
+        "Triangular distributed load",
+        "Parabolic distributed load"
+      ],
+      "correct_answer": "Concentrated load at the midpoint",
+      "id": "3101004F-AB55-454E-B2D3-260ACDCBBBD7"
+    },
+    {
+      "question": "Which of the following welding processes involves the use of a non-consumable electrode?",
+      "options": [
+        "Gas metal arc welding (GMAW)",
+        "Shielded metal arc welding (SMAW)",
+        "Gas tungsten arc welding (GTAW)",
+        "Submerged arc welding (SAW)"
+      ],
+      "correct_answer": "Gas tungsten arc welding (GTAW)",
+      "id": "4175FE3E-293F-476F-9280-81ED12C1B2A1"
+    },
+    {
+      "question": "Which of the following is NOT a type of rolling contact bearing?",
+      "options": [
+        "Deep groove ball bearing",
+        "Tapered roller bearing",
+        "Thrust ball bearing",
+        "Journal bearing"
+      ],
+      "correct_answer": "Journal bearing",
+      "id": "10D3D448-7AE3-4F18-9AA4-1F02448365D9"
+    }
+  ]
+}

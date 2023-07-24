@@ -1,0 +1,116 @@
+{
+  "category": "Chemical Engineering",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is 'fluidized bed combustion' in chemical engineering?",
+      "options": [
+        "A process where a bed of solid particles is suspended and combusted in a stream of air or gas",
+        "A process where a liquid fuel is combusted in a reactor under high pressure",
+        "A process where gaseous fuel is burned in a confined space with limited oxygen supply",
+        "A process where a solid fuel is burned in a fixed bed with controlled airflow"
+      ],
+      "correct_answer": "A process where a bed of solid particles is suspended and combusted in a stream of air or gas",
+      "id": "D482EB25-5907-4A88-8E0C-9A8371D628F9"
+    },
+    {
+      "question": "What is 'isothermal reactor design' in chemical engineering?",
+      "options": [
+        "The design of a reactor where the temperature remains constant throughout the process",
+        "The design of a reactor where the temperature changes linearly with time",
+        "The design of a reactor where the temperature varies with the reaction rate",
+        "The design of a reactor where the temperature increases exponentially with time"
+      ],
+      "correct_answer": "The design of a reactor where the temperature remains constant throughout the process",
+      "id": "1729F38B-B620-4F4F-B230-C6BEC2B888E6"
+    },
+    {
+      "question": "What is 'heterogeneous catalysis' in chemical engineering?",
+      "options": [
+        "A catalytic process where the reactants and catalyst are in different phases",
+        "A catalytic process where the reactants and catalyst are in the same phase",
+        "A catalytic process where multiple catalysts are used",
+        "A catalytic process where the catalyst is continuously regenerated"
+      ],
+      "correct_answer": "A catalytic process where the reactants and catalyst are in different phases",
+      "id": "5761F8E5-DC19-485E-A277-3465B6F9BEBF"
+    },
+    {
+      "question": "What is 'isomerization' in chemical engineering?",
+      "options": [
+        "A process that converts one isomer into another",
+        "A process that converts a compound into its isotope",
+        "A process that converts a mixture of isomers into a pure compound",
+        "A process that converts a mixture of compounds into isomers"
+      ],
+      "correct_answer": "A process that converts one isomer into another",
+      "id": "5614287D-195E-4BF5-84D6-96A9B009F1EC"
+    },
+    {
+      "question": "What is 'catalytic cracking' in chemical engineering?",
+      "options": [
+        "A process that uses a catalyst to break down large hydrocarbon molecules into smaller ones",
+        "A process that uses a catalyst to convert a gas into a liquid",
+        "A process that uses a catalyst to convert a liquid into a gas",
+        "A process that uses a catalyst to convert a solid into a gas"
+      ],
+      "correct_answer": "A process that uses a catalyst to break down large hydrocarbon molecules into smaller ones",
+      "id": "04CE4A9A-7633-4318-B566-B9CCCD7EB3BB"
+    },
+    {
+      "question": "What is 'diffusion coefficient' in chemical engineering?",
+      "options": [
+        "A measure of the rate at which a substance diffuses through a medium",
+        "A measure of the concentration gradient of a substance in a medium",
+        "A measure of the temperature dependence of diffusion in a medium",
+        "A measure of the molecular weight of a substance in a medium"
+      ],
+      "correct_answer": "A measure of the rate at which a substance diffuses through a medium",
+      "id": "D1F7CC7A-67BA-4213-B44F-166ED6457AB5"
+    },
+    {
+      "question": "What is 'reactor residence time' in chemical engineering?",
+      "options": [
+        "The average time that a reactant spends inside a reactor",
+        "The time required for a reaction to reach completion in a reactor",
+        "The time required for a reactor to reach steady state conditions",
+        "The time interval between two consecutive reactor startup procedures"
+      ],
+      "correct_answer": "The average time that a reactant spends inside a reactor",
+      "id": "F3F4B2EB-4F6C-4D0C-9E6E-361EE339FA0E"
+    },
+    {
+      "question": "What is 'non-ideal reactor behavior' in chemical engineering?",
+      "options": [
+        "The deviation of reactor performance from ideal conditions due to various factors",
+        "The consistent and predictable behavior of a reactor under all operating conditions",
+        "The tendency of a reactor to reach equilibrium quickly",
+        "The inability of a reactor to achieve high conversion of reactants"
+      ],
+      "correct_answer": "The deviation of reactor performance from ideal conditions due to various factors",
+      "id": "9DE6266A-586B-43ED-9B44-3AD956818102"
+    },
+    {
+      "question": "What is 'fluidized bed drying' in chemical engineering?",
+      "options": [
+        "A process where solid particles are dried by passing a gas through a bed of particles in a fluidized state",
+        "A process where a liquid is evaporated by applying heat to a fluidized bed of particles",
+        "A process where a gas is cooled by passing it through a fluidized bed of particles",
+        "A process where solid particles are heated by passing a gas through a fluidized bed of particles"
+      ],
+      "correct_answer": "A process where solid particles are dried by passing a gas through a bed of particles in a fluidized state",
+      "id": "296627A4-E60F-44FF-BA13-0D787CA69BAA"
+    },
+    {
+      "question": "What is 'combustion efficiency' in chemical engineering?",
+      "options": [
+        "A measure of how effectively a fuel is burned and converted into heat energy",
+        "A measure of how effectively a fuel is converted into chemical energy",
+        "A measure of how effectively a fuel is converted into electrical energy",
+        "A measure of how effectively a fuel is converted into mechanical energy"
+      ],
+      "correct_answer": "A measure of how effectively a fuel is burned and converted into heat energy",
+      "id": "26A76AC0-A20E-402F-9381-BDBB84642EE7"
+    }
+  ]
+}

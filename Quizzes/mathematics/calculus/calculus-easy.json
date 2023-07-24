@@ -1,0 +1,116 @@
+{
+  "category": "Calculus",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the derivative of a constant?",
+      "options": [
+        "1",
+        "0",
+        "The constant itself",
+        "Undefined"
+      ],
+      "correct_answer": "0",
+      "id": "2D9581CF-A3E4-4B2E-9A83-50C8D18F4820"
+    },
+    {
+      "question": "What does the Power Rule in calculus state?",
+      "options": [
+        "The derivative of x to the power n is nx to the power (n-1)",
+        "The derivative of a function is equal to the function times the natural logarithm of the base",
+        "The integral of a function from a to b is the same as the integral from b to a",
+        "The derivative of the sum of two functions is equal to the sum of their derivatives"
+      ],
+      "correct_answer": "The derivative of x to the power n is nx to the power (n-1)",
+      "id": "355A1A30-A21B-441A-B10C-BE705BEF5990"
+    },
+    {
+      "question": "What does the integral of a function represent?",
+      "options": [
+        "The rate of change of the function",
+        "The slope of the function at a given point",
+        "The area under the curve of the function",
+        "The maximum value of the function"
+      ],
+      "correct_answer": "The area under the curve of the function",
+      "id": "A06BA478-662A-400D-B1C7-7DDAC1DE388B"
+    },
+    {
+      "question": "If f(x) = x^3, what is f'(x)?",
+      "options": [
+        "1",
+        "3x^2",
+        "x^2",
+        "3x"
+      ],
+      "correct_answer": "3x^2",
+      "id": "B67AA40F-A046-4ED5-AFE5-B03EE7DAD1B5"
+    },
+    {
+      "question": "What is the fundamental theorem of calculus?",
+      "options": [
+        "It states that differentiation and integration are inverse operations",
+        "It states that any continuous function has an antiderivative",
+        "It states that every polynomial of degree n has n roots",
+        "It states that the derivative of a product of two functions is the product of their derivatives"
+      ],
+      "correct_answer": "It states that differentiation and integration are inverse operations",
+      "id": "CFA90748-45BC-4442-98AB-F05A11E5B7DF"
+    },
+    {
+      "question": "What is the integral of 1/x dx from 1 to e?",
+      "options": [
+        "1",
+        "e",
+        "2",
+        "Undefined"
+      ],
+      "correct_answer": "1",
+      "id": "3D7C6DBC-F5BF-4BF7-B759-9F03DF39F584"
+    },
+    {
+      "question": "What is the second derivative of a function known as?",
+      "options": [
+        "The rate of change of the rate of change",
+        "The inverse of the derivative",
+        "The double integral",
+        "The anti-derivative"
+      ],
+      "correct_answer": "The rate of change of the rate of change",
+      "id": "4FE611F6-9758-4340-AACE-172AE34637C5"
+    },
+    {
+      "question": "If f(x) = e^x, what is f'(x)?",
+      "options": [
+        "e^x",
+        "x*e^(x-1)",
+        "1",
+        "ln(x)"
+      ],
+      "correct_answer": "e^x",
+      "id": "20E3C968-2C6D-4672-8A99-6F64108CF111"
+    },
+    {
+      "question": "What is the integral of cos(x) dx from 0 to π/2?",
+      "options": [
+        "0",
+        "1",
+        "π/2",
+        "-1"
+      ],
+      "correct_answer": "1",
+      "id": "BA3B3036-19E1-4D36-A391-FB95ED45415F"
+    },
+    {
+      "question": "What rule do we use to find the derivative of a product of two functions?",
+      "options": [
+        "Quotient Rule",
+        "Power Rule",
+        "Product Rule",
+        "Chain Rule"
+      ],
+      "correct_answer": "Product Rule",
+      "id": "F340D6E9-1AAB-4777-A0F5-5407C7E60456"
+    }
+  ]
+}

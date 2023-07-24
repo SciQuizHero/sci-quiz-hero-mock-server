@@ -1,0 +1,116 @@
+{
+  "category": "Solar System",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Which element, detected in the Sun's spectrum, was named after the Greek word for the Sun?",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Neon",
+        "Krypton"
+      ],
+      "correct_answer": "Helium",
+      "id": "82AA578D-5D5D-4D6A-9C95-A8A2C4EA0164"
+    },
+    {
+      "question": "What is the term for the boundary where the solar wind slows down to subsonic speeds?",
+      "options": [
+        "Heliopause",
+        "Termination Shock",
+        "Bow Shock",
+        "Magnetopause"
+      ],
+      "correct_answer": "Termination Shock",
+      "id": "C2D39194-8A90-4D79-8D28-E3653920DC69"
+    },
+    {
+      "question": "Which two elements make up the majority of the Sun's mass?",
+      "options": [
+        "Hydrogen and Helium",
+        "Helium and Oxygen",
+        "Hydrogen and Oxygen",
+        "Carbon and Nitrogen"
+      ],
+      "correct_answer": "Hydrogen and Helium",
+      "id": "FD5455DF-329A-4F83-9624-71DDE309D66B"
+    },
+    {
+      "question": "Which mission was the first to land a rover on Mars?",
+      "options": [
+        "Mars Pathfinder",
+        "Viking 1",
+        "Mars Exploration Rover",
+        "Mars Science Laboratory"
+      ],
+      "correct_answer": "Mars Pathfinder",
+      "id": "9FB69AA2-1CC0-4019-B87B-0604B31D6E32"
+    },
+    {
+      "question": "Which moon has a surface feature known as 'chaos terrain'?",
+      "options": [
+        "Europa",
+        "Ganymede",
+        "Io",
+        "Callisto"
+      ],
+      "correct_answer": "Europa",
+      "id": "2D03D780-3DA8-4C5B-B468-D8DFE4327CE3"
+    },
+    {
+      "question": "What is the name of the largest impact basin on Mercury?",
+      "options": [
+        "Caloris Basin",
+        "Borealis Basin",
+        "Hellas Basin",
+        "Argyre Basin"
+      ],
+      "correct_answer": "Caloris Basin",
+      "id": "F96288D1-A40F-4410-9122-3A790177F0D4"
+    },
+    {
+      "question": "What is the term for the hypothetical sphere around a star within which a planet's surface temperature allows for the existence of liquid water?",
+      "options": [
+        "Habitable zone",
+        "Goldilocks zone",
+        "Life zone",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "id": "8C33F26F-87FC-43D4-8051-E37B2171E5C5"
+    },
+    {
+      "question": "Which planet's orbit is the most tilted with respect to the plane of the Solar System?",
+      "options": [
+        "Uranus",
+        "Mercury",
+        "Pluto",
+        "Mars"
+      ],
+      "correct_answer": "Pluto",
+      "id": "3F7964A5-D8D5-4910-A89A-4052EDE2C99E"
+    },
+    {
+      "question": "What term is used to describe the cloud of icy objects that is believed to surround the Solar System?",
+      "options": [
+        "Oort Cloud",
+        "Kuiper Belt",
+        "Asteroid Belt",
+        "Protoplanetary Disk"
+      ],
+      "correct_answer": "Oort Cloud",
+      "id": "FD54AA4F-C3A5-4AA4-86E3-ABA98ED8F94C"
+    },
+    {
+      "question": "What type of celestial body is Haumea, located beyond Neptune's orbit?",
+      "options": [
+        "Dwarf planet",
+        "Asteroid",
+        "Comet",
+        "Moon"
+      ],
+      "correct_answer": "Dwarf planet",
+      "id": "B2F1B4B5-A297-4F4A-A10F-5FD381838599"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Biochemistry",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the most basic unit of a living organism?",
+      "options": [
+        "Tissue",
+        "Organ",
+        "Cell",
+        "System"
+      ],
+      "correct_answer": "Cell",
+      "id": "5B7CDA41-C161-45BE-B6B8-34C59119CC16"
+    },
+    {
+      "question": "Which type of molecule is primarily responsible for encoding genetic information?",
+      "options": [
+        "Lipid",
+        "Carbohydrate",
+        "Protein",
+        "Nucleic acid"
+      ],
+      "correct_answer": "Nucleic acid",
+      "id": "206026E3-454D-4DB7-A1F1-BACDE3EB3E4F"
+    },
+    {
+      "question": "What is the main energy source for cells?",
+      "options": [
+        "Glucose",
+        "Fructose",
+        "Sucrose",
+        "Maltose"
+      ],
+      "correct_answer": "Glucose",
+      "id": "01E2E242-72A9-4678-A411-7D701B47EA20"
+    },
+    {
+      "question": "Which molecule carries oxygen in red blood cells?",
+      "options": [
+        "Hemoglobin",
+        "Myoglobin",
+        "Collagen",
+        "Insulin"
+      ],
+      "correct_answer": "Hemoglobin",
+      "id": "0F3DC55D-1B5C-4F0D-B5BA-466B51768729"
+    },
+    {
+      "question": "Which type of bond connects amino acids to form proteins?",
+      "options": [
+        "Ionic bond",
+        "Covalent bond",
+        "Hydrogen bond",
+        "Peptide bond"
+      ],
+      "correct_answer": "Peptide bond",
+      "id": "88CDFF71-7D59-4710-BB1F-EA31411670C9"
+    },
+    {
+      "question": "Which organelle is responsible for producing energy in the form of ATP in cells?",
+      "options": [
+        "Golgi apparatus",
+        "Endoplasmic reticulum",
+        "Mitochondria",
+        "Nucleus"
+      ],
+      "correct_answer": "Mitochondria",
+      "id": "870A5482-B3CA-40B7-8B55-6C9A7EECAA29"
+    },
+    {
+      "question": "What is the primary function of enzymes?",
+      "options": [
+        "Store energy",
+        "Catalyze chemical reactions",
+        "Transport materials",
+        "Provide structural support"
+      ],
+      "correct_answer": "Catalyze chemical reactions",
+      "id": "7F0A8259-726D-47FD-803B-6DE943B9E60F"
+    },
+    {
+      "question": "What are the building blocks of nucleic acids?",
+      "options": [
+        "Nucleotides",
+        "Amino acids",
+        "Fatty acids",
+        "Monosaccharides"
+      ],
+      "correct_answer": "Nucleotides",
+      "id": "F415FC7B-9EA7-4FB8-B181-5FEDF8CA4A33"
+    },
+    {
+      "question": "What is the primary function of carbohydrates in living organisms?",
+      "options": [
+        "Energy storage and supply",
+        "Catalyzing reactions",
+        "Encoding genetic information",
+        "Transporting materials"
+      ],
+      "correct_answer": "Energy storage and supply",
+      "id": "7C4A8217-C1A4-4B5D-AD27-3034609D9B55"
+    },
+    {
+      "question": "Which of these is a disaccharide?",
+      "options": [
+        "Glucose",
+        "Fructose",
+        "Sucrose",
+        "Ribose"
+      ],
+      "correct_answer": "Sucrose",
+      "id": "79CFC1D5-2BA9-4914-B4E4-0017D2D648CF"
+    }
+  ]
+}

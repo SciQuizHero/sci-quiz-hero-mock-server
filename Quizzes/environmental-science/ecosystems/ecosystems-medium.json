@@ -1,0 +1,116 @@
+{
+  "category": "Ecosystems",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the primary cause of increased eutrophication in freshwater ecosystems?",
+      "options": [
+        "Deforestation",
+        "Urbanization",
+        "Climate change",
+        "Nutrient pollution"
+      ],
+      "correct_answer": "Nutrient pollution",
+      "id": "74DB8D0A-EB96-4A3B-BE81-2BD297DC3B39"
+    },
+    {
+      "question": "Which of the following is an example of an ecosystem engineer?",
+      "options": [
+        "Beaver",
+        "Lion",
+        "Shark",
+        "Hummingbird"
+      ],
+      "correct_answer": "Beaver",
+      "id": "9063A167-B060-4080-BEFA-B4BA4E2198FF"
+    },
+    {
+      "question": "Which of the following factors contribute to the decline of coral reef ecosystems?",
+      "options": [
+        "Ocean acidification",
+        "Overfishing",
+        "Coral bleaching",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "id": "114BFC4D-2CD1-4615-8776-0A8982F58B45"
+    },
+    {
+      "question": "Which of the following best describes the process of ecological succession?",
+      "options": [
+        "A series of changes in species composition over time",
+        "A rapid decline in species diversity",
+        "The cyclical patterns of species migration",
+        "The seasonal changes in an ecosystem"
+      ],
+      "correct_answer": "A series of changes in species composition over time",
+      "id": "A3D53506-E384-4157-9624-29401737B7E3"
+    },
+    {
+      "question": "What is the main difference between primary and secondary succession?",
+      "options": [
+        "Primary succession occurs after a natural disaster",
+        "Secondary succession begins with the formation of soil",
+        "Primary succession begins on bare rock",
+        "Secondary succession occurs faster than primary succession"
+      ],
+      "correct_answer": "Primary succession begins on bare rock",
+      "id": "CE2FB387-BB6D-47E8-A34D-80053D9FC577"
+    },
+    {
+      "question": "Which of the following best describes the concept of carrying capacity?",
+      "options": [
+        "The maximum number of individuals an ecosystem can support indefinitely",
+        "The rate at which a population increases or decreases",
+        "The total number of species in an ecosystem",
+        "The minimum number of individuals needed for a population to survive"
+      ],
+      "correct_answer": "The maximum number of individuals an ecosystem can support indefinitely",
+      "id": "C530E50A-2297-4381-8DB5-C019DC4F1B15"
+    },
+    {
+      "question": "What is the main reason for species loss in tropical rainforests?",
+      "options": [
+        "Climate change",
+        "Invasive species",
+        "Habitat destruction",
+        "Overharvesting"
+      ],
+      "correct_answer": "Habitat destruction",
+      "id": "297AB559-0F46-4506-A18E-2F673594BCEC"
+    },
+    {
+      "question": "Which of the following is an example of a density-dependent limiting factor?",
+      "options": [
+        "Disease",
+        "Flood",
+        "Drought",
+        "Fire"
+      ],
+      "correct_answer": "Disease",
+      "id": "5E89516E-6FE4-403F-A5FB-03F22F9308AC"
+    },
+    {
+      "question": "What is the primary reason that wetlands are important ecosystems?",
+      "options": [
+        "They provide habitat for endangered species",
+        "They act as natural water filters",
+        "They prevent soil erosion",
+        "They store large amounts of carbon"
+      ],
+      "correct_answer": "They act as natural water filters",
+      "id": "0E0046F4-233C-4984-BCB7-6B207A0C8E79"
+    },
+    {
+      "question": "Which of the following is an example of mutualism?",
+      "options": [
+        "Oxpecker and buffalo",
+        "Cuckoo and warbler",
+        "Lion and zebra",
+        "Mistletoe and tree"
+      ],
+      "correct_answer": "Oxpecker and buffalo",
+      "id": "28AC9141-5E79-4477-80D3-EBCA54BA87D5"
+    }
+  ]
+}

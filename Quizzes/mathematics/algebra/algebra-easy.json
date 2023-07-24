@@ -1,0 +1,116 @@
+{
+  "category": "Algebra",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the value of x in the equation 2x + 6 = 14?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": "4",
+      "id": "9A518385-8628-4AAC-AB69-0E17681CBA73"
+    },
+    {
+      "question": "What is the value of x in the equation 3x - 9 = 12?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_answer": "7",
+      "id": "4A001ABF-98C3-444C-BF90-26E918A845CA"
+    },
+    {
+      "question": "What is the result of the expression 4(3x + 2) when x = 1?",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "20"
+      ],
+      "correct_answer": "20",
+      "id": "ADB2A7C8-A026-4C21-AF95-FFBC0D6E9EEC"
+    },
+    {
+      "question": "Solve for x: x/3 + 2 = 5",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correct_answer": "9",
+      "id": "AFB746A9-11F7-45DE-87EA-3D679051E50D"
+    },
+    {
+      "question": "Which of the following is the simplified form of the expression 3x + 5x - 2x?",
+      "options": [
+        "x",
+        "6x",
+        "8x",
+        "10x"
+      ],
+      "correct_answer": "6x",
+      "id": "33388851-92EA-40C2-8340-1AD744124A08"
+    },
+    {
+      "question": "If a = 2 and b = 3, what is the value of 3a + 4b?",
+      "options": [
+        "12",
+        "16",
+        "17",
+        "18"
+      ],
+      "correct_answer": "18",
+      "id": "5988EC4F-6410-41EB-8808-C047524433CD"
+    },
+    {
+      "question": "Solve the equation for x: 5x - 10 = 20",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_answer": "6",
+      "id": "CDAD935F-BA5E-4669-8F7C-914920743403"
+    },
+    {
+      "question": "Which of the following is the result of the expression (2x + 3)(x - 4) when x = 2?",
+      "options": [
+        "-7",
+        "-3",
+        "3",
+        "7"
+      ],
+      "correct_answer": "-7",
+      "id": "54309868-ACA4-448A-8710-A49EF28FBA3F"
+    },
+    {
+      "question": "What is the value of x in the equation 4x + 8 = 24?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "4",
+      "id": "B1D3DD6F-FECD-4DCD-ADE9-EE007210DA17"
+    },
+    {
+      "question": "What is the value of x in the equation 5x - 15 = 10?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": "5",
+      "id": "A66DF8E9-7C87-487F-ABEE-D0D0E88EFFC5"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Optics",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "options": [
+        "3 x 10^8 m/s",
+        "2 x 10^8 m/s",
+        "1 x 10^8 m/s",
+        "5 x 10^8 m/s"
+      ],
+      "correct_answer": "3 x 10^8 m/s",
+      "id": "89482DED-E1E9-4392-B7CE-ECD4A4A77D0C"
+    },
+    {
+      "question": "What is the name of the phenomenon where light bends when it passes from one medium to another?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Interference"
+      ],
+      "correct_answer": "Refraction",
+      "id": "B5C6BE69-C902-48D2-9BD6-31464A344006"
+    },
+    {
+      "question": "What type of lens is thicker at the edges than in the middle?",
+      "options": [
+        "Concave lens",
+        "Convex lens",
+        "Biconvex lens",
+        "Plano-convex lens"
+      ],
+      "correct_answer": "Concave lens",
+      "id": "B0558BE1-71EE-4691-805A-5468BB1B542C"
+    },
+    {
+      "question": "What color of light has the longest wavelength?",
+      "options": [
+        "Red",
+        "Blue",
+        "Green",
+        "Violet"
+      ],
+      "correct_answer": "Red",
+      "id": "725B2504-11D0-4ED0-AE33-AAB6D8F0D4E8"
+    },
+    {
+      "question": "What is the focal length of a lens?",
+      "options": [
+        "The distance between the lens and the image",
+        "The distance between the lens and the object",
+        "The distance between the lens and the focal point",
+        "The distance between the object and the image"
+      ],
+      "correct_answer": "The distance between the lens and the focal point",
+      "id": "319E299F-A2F1-43F5-9585-557C3D801FE8"
+    },
+    {
+      "question": "What does the principle of reversibility in optics state?",
+      "options": [
+        "Light will follow the same path in reverse if the direction of propagation is reversed",
+        "Light can be bent",
+        "Light can be refracted",
+        "Light can be reflected"
+      ],
+      "correct_answer": "Light will follow the same path in reverse if the direction of propagation is reversed",
+      "id": "76A8D601-A8BF-4335-8F9E-BD5F31FFC9B7"
+    },
+    {
+      "question": "What is the phenomenon that occurs when two light waves combine to form a resultant wave of greater amplitude?",
+      "options": [
+        "Interference",
+        "Diffraction",
+        "Polarization",
+        "Reflection"
+      ],
+      "correct_answer": "Interference",
+      "id": "FA70909F-22DC-44C3-989B-F3CAC780A128"
+    },
+    {
+      "question": "What is the term for the bending of light around a barrier or through an aperture?",
+      "options": [
+        "Refraction",
+        "Diffraction",
+        "Interference",
+        "Reflection"
+      ],
+      "correct_answer": "Diffraction",
+      "id": "883B3824-0C21-4A17-B952-DD2A7339D3C3"
+    },
+    {
+      "question": "What type of mirror is used to create a magnified image?",
+      "options": [
+        "Plane mirror",
+        "Convex mirror",
+        "Concave mirror",
+        "None of the above"
+      ],
+      "correct_answer": "Concave mirror",
+      "id": "EF2C4574-9B14-433B-B1B3-87F7352E1062"
+    },
+    {
+      "question": "What term describes light that vibrates in a single plane?",
+      "options": [
+        "Polarized light",
+        "Unpolarized light",
+        "Diffuse light",
+        "Coherent light"
+      ],
+      "correct_answer": "Polarized light",
+      "id": "BC0BC095-7244-4858-9195-F68B50B2E7A6"
+    }
+  ]
+}

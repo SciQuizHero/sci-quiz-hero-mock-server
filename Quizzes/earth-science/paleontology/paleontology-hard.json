@@ -1,0 +1,116 @@
+{
+  "category": "Paleontology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the term for the area of study focused on the transition of organisms from aquatic to terrestrial life during the Devonian period?",
+      "options": [
+        "Tetrapod transition",
+        "Amphibian migration",
+        "Devonian dichotomy",
+        "Aquatic escape"
+      ],
+      "correct_answer": "Tetrapod transition",
+      "id": "905C6290-C23A-4EA5-B388-55CFACC78B9C"
+    },
+    {
+      "question": "The Cretaceous–Paleogene extinction event led to the extinction of non-avian dinosaurs. What is the commonly accepted main cause for this event?",
+      "options": [
+        "Intense volcanic activity",
+        "A sudden and drastic climate change",
+        "An asteroid or comet impact",
+        "A large-scale pandemic"
+      ],
+      "correct_answer": "An asteroid or comet impact",
+      "id": "67EBBA5B-3A2E-4197-9DA1-0B735183D1EF"
+    },
+    {
+      "question": "Which fossil site in Canada's Burgess Shale is famous for its preservation of soft-bodied organisms from the Cambrian Explosion?",
+      "options": [
+        "Mount Burgess",
+        "Marrella Splendens Site",
+        "Walcott Quarry",
+        "Ogygopsis Klotzi Site"
+      ],
+      "correct_answer": "Walcott Quarry",
+      "id": "FECE9B2D-F82E-4C32-B6F4-59F35000C69D"
+    },
+    {
+      "question": "Which paleontologist is best known for his work on the 'Cambrian explosion', and for proposing the theory of 'punctuated equilibrium' along with Niles Eldredge?",
+      "options": [
+        "Richard Leakey",
+        "Stephen Jay Gould",
+        "Donald Johanson",
+        "Louis Leakey"
+      ],
+      "correct_answer": "Stephen Jay Gould",
+      "id": "AE42AC08-85ED-4A0F-8F2F-4133322F47DA"
+    },
+    {
+      "question": "The K-T boundary is a geological signature, usually a thin band, observed in sedimentary rocks, and is associated with the Cretaceous–Paleogene extinction event. What does the 'T' in K-T boundary stand for?",
+      "options": [
+        "Triassic",
+        "Tertiary",
+        "Turbidite",
+        "Trilobite"
+      ],
+      "correct_answer": "Tertiary",
+      "id": "5F8B99FB-B121-46DD-9B66-2E330118B073"
+    },
+    {
+      "question": "Which early dinosaur discovered in Argentina is known as 'frightful lizard' and considered the largest land predator?",
+      "options": [
+        "Tyrannosaurus rex",
+        "Giganotosaurus",
+        "Velociraptor",
+        "Spinosaurus"
+      ],
+      "correct_answer": "Giganotosaurus",
+      "id": "0527EAEC-AB4A-4F38-91A1-C703F775C726"
+    },
+    {
+      "question": "What is the Burgess Shale fauna famous for?",
+      "options": [
+        "Preserving dinosaurs with feathers",
+        "Providing evidence for the asteroid impact theory",
+        "Preserving a variety of soft-bodied organisms from the Cambrian period",
+        "Fossils of the earliest known mammals"
+      ],
+      "correct_answer": "Preserving a variety of soft-bodied organisms from the Cambrian period",
+      "id": "493634F8-937B-40AA-8F4F-1C79A575994A"
+    },
+    {
+      "question": "What term is used to describe an animal species that existed across a wide geographical area but only during a short period of time, and is used in biostratigraphy?",
+      "options": [
+        "Chronospecies",
+        "Index fossil",
+        "Living fossil",
+        "Endemic species"
+      ],
+      "correct_answer": "Index fossil",
+      "id": "77417074-5AF4-4DB0-910C-ED88791929A4"
+    },
+    {
+      "question": "Which extinct hominid species, discovered in a cave at La Chapelle-aux-Saints in France, was the first to be recognized as an early human ancestor?",
+      "options": [
+        "Homo habilis",
+        "Homo erectus",
+        "Neanderthal",
+        "Australopithecus afarensis"
+      ],
+      "correct_answer": "Neanderthal",
+      "id": "552412C8-D3D7-4979-AC6B-D093E82D9796"
+    },
+    {
+      "question": "Who is known for developing the Law of Superposition, which is crucial for the relative dating of rock layers and the fossils within them?",
+      "options": [
+        "Charles Lyell",
+        "James Hutton",
+        "Nicolas Steno",
+        "Alfred Wegener"
+      ],
+      "correct_answer": "Nicolas Steno",
+      "id": "943AFC2C-12A6-45BE-8F15-A2887F3F1F9D"
+    }
+  ]
+}

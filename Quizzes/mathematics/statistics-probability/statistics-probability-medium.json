@@ -1,0 +1,116 @@
+{
+  "category": "Statistics and Probability",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What type of correlation would you expect between the amount of time spent studying and exam scores?",
+      "options": [
+        "Positive correlation",
+        "Negative correlation",
+        "No correlation",
+        "Correlation cannot be determined"
+      ],
+      "correct_answer": "Positive correlation",
+      "id": "9E68056B-866A-46BA-86C4-D6C1CAAFC6D9"
+    },
+    {
+      "question": "What is the probability of drawing an Ace from a well shuffled standard deck of 52 cards?",
+      "options": [
+        "1/13",
+        "1/4",
+        "4/52",
+        "1/52"
+      ],
+      "correct_answer": "1/13",
+      "id": "D79BC4E9-72BC-44C8-AAD0-1FEE206A485E"
+    },
+    {
+      "question": "In a hypothesis test, what does a Type II error represent?",
+      "options": [
+        "Rejecting a true null hypothesis",
+        "Failing to reject a false null hypothesis",
+        "Rejecting a false null hypothesis",
+        "Failing to reject a true null hypothesis"
+      ],
+      "correct_answer": "Failing to reject a false null hypothesis",
+      "id": "DA40DAEB-0C09-44C2-BD8A-7B40AE34BA1A"
+    },
+    {
+      "question": "In a binomial distribution, what does the 'n' parameter represent?",
+      "options": [
+        "The probability of success",
+        "The number of trials",
+        "The number of successes",
+        "The standard deviation"
+      ],
+      "correct_answer": "The number of trials",
+      "id": "FE75BB19-2559-4FE3-A57C-C15C68CB2E15"
+    },
+    {
+      "question": "Which measure of central tendency is most suitable for skewed data?",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode",
+        "All equally suitable"
+      ],
+      "correct_answer": "Median",
+      "id": "AF3A3D61-90E7-4005-9C84-1B3C40BAEB5E"
+    },
+    {
+      "question": "What does the Central Limit Theorem state?",
+      "options": [
+        "The mean of a large number of independent and identically distributed random variables tends to be normally distributed",
+        "The sum of a large number of independent and identically distributed random variables tends to be normally distributed",
+        "The variance of a large number of independent and identically distributed random variables tends to be normally distributed",
+        "Both the mean and sum of a large number of independent and identically distributed random variables tend to be normally distributed"
+      ],
+      "correct_answer": "Both the mean and sum of a large number of independent and identically distributed random variables tend to be normally distributed",
+      "id": "C41D92CD-C41E-4E6E-BFFF-ABCC2051A9C7"
+    },
+    {
+      "question": "What does a negative value for skewness imply?",
+      "options": [
+        "The distribution is negatively skewed, with the tail on the left side of the distribution",
+        "The distribution is positively skewed, with the tail on the right side of the distribution",
+        "The distribution is symmetric",
+        "Skewness cannot be negative"
+      ],
+      "correct_answer": "The distribution is negatively skewed, with the tail on the left side of the distribution",
+      "id": "C976FD8F-497C-4668-8039-3F7943E477FA"
+    },
+    {
+      "question": "What is the interquartile range of the following data set: 2, 5, 6, 9, 12, 15, 18, 21, 24?",
+      "options": [
+        "12",
+        "16",
+        "18",
+        "22"
+      ],
+      "correct_answer": "16",
+      "id": "B2EF0F51-0EA7-41D1-85B3-B0203F0875B6"
+    },
+    {
+      "question": "If two dice are rolled, what is the probability of the sum of the numbers on the top faces being 7?",
+      "options": [
+        "1/6",
+        "1/9",
+        "1/12",
+        "1/16"
+      ],
+      "correct_answer": "1/6",
+      "id": "33DF16C0-2B37-471A-97C2-13D48C04583F"
+    },
+    {
+      "question": "Which statistical test would you use to compare the means of two related groups?",
+      "options": [
+        "Chi-square test",
+        "One-sample t-test",
+        "Paired t-test",
+        "Independent samples t-test"
+      ],
+      "correct_answer": "Paired t-test",
+      "id": "D7741479-7D4B-4B36-9BF4-67DA395B93D4"
+    }
+  ]
+}

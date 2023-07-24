@@ -1,0 +1,116 @@
+{
+  "category": "Electromagnetism",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What term refers to the changing magnetic field within a coil that induces an electromotive force (EMF) in another coil?",
+      "options": [
+        "Electromagnetic interference",
+        "Electromagnetic induction",
+        "Electromagnetic dispersion",
+        "Electromagnetic oscillation"
+      ],
+      "correct_answer": "Electromagnetic induction",
+      "id": "B7A654EF-3DEA-471B-81DA-A4CD177B0E71"
+    },
+    {
+      "question": "What is the formula for calculating the total capacitance in a series circuit of capacitors?",
+      "options": [
+        "The sum of all capacitances",
+        "The product over the sum of capacitances",
+        "The average of all capacitances",
+        "The reciprocal of the sum of the reciprocals of each capacitance"
+      ],
+      "correct_answer": "The reciprocal of the sum of the reciprocals of each capacitance",
+      "id": "4966AD55-D181-4A17-AF46-90AD90152838"
+    },
+    {
+      "question": "Which equation describes the behavior of electromagnetic waves in vacuum?",
+      "options": [
+        "Maxwell's equations",
+        "Schrodinger's equation",
+        "Newton's second law",
+        "Navier-Stokes equation"
+      ],
+      "correct_answer": "Maxwell's equations",
+      "id": "91B23569-6486-4742-A745-9A2A48F44FCC"
+    },
+    {
+      "question": "Which of the following materials does not obey Ohm's law?",
+      "options": [
+        "Copper",
+        "Aluminium",
+        "Silicon",
+        "Gold"
+      ],
+      "correct_answer": "Silicon",
+      "id": "5197B649-817B-4A84-AE9E-709930600F7A"
+    },
+    {
+      "question": "What phenomenon causes a change in the direction of light as it passes from one medium to another?",
+      "options": [
+        "Diffraction",
+        "Interference",
+        "Refraction",
+        "Polarization"
+      ],
+      "correct_answer": "Refraction",
+      "id": "BDE30E62-51A0-4057-A11D-892C596137EE"
+    },
+    {
+      "question": "What is the unit of magnetic flux density in the International System of Units?",
+      "options": [
+        "Weber",
+        "Tesla",
+        "Faraday",
+        "Ampere per meter"
+      ],
+      "correct_answer": "Tesla",
+      "id": "55CAB269-F3AC-4AE1-9E0D-4EDE52EE3362"
+    },
+    {
+      "question": "What term describes the phenomenon where the phase velocity of light or other waves in a medium is dependent on frequency?",
+      "options": [
+        "Wavefront",
+        "Dispersion",
+        "Refraction",
+        "Reflection"
+      ],
+      "correct_answer": "Dispersion",
+      "id": "C23593CD-3C98-48D1-9C89-501655E6BC7C"
+    },
+    {
+      "question": "What is the unit of inductance?",
+      "options": [
+        "Tesla",
+        "Farad",
+        "Henry",
+        "Ohm"
+      ],
+      "correct_answer": "Henry",
+      "id": "15A4478E-5F9C-406D-855F-68E5DEE595BC"
+    },
+    {
+      "question": "Which of the following electromagnetic waves has the highest frequency?",
+      "options": [
+        "Radio waves",
+        "Microwaves",
+        "Infrared waves",
+        "Gamma rays"
+      ],
+      "correct_answer": "Gamma rays",
+      "id": "AEE5965D-7943-4ECE-BC3D-FB76E7C790CB"
+    },
+    {
+      "question": "Which principle states that every point on a wavefront may be considered a source of secondary spherical wavelets that spread out in all directions at the speed of light?",
+      "options": [
+        "Huygens' principle",
+        "Maxwell's equations",
+        "Fermat's principle",
+        "Snell's law"
+      ],
+      "correct_answer": "Huygens' principle",
+      "id": "E1EFC738-8C0D-42DE-A92F-C9CF0B696A2A"
+    }
+  ]
+}

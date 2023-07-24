@@ -1,0 +1,116 @@
+{
+  "category": "Cosmology",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the cosmic coincidence problem in cosmology?",
+      "options": [
+        "The problem of why the densities of dark energy and dark matter are nearly equal today",
+        "The problem of why the universe appears isotropic from Earth",
+        "The problem of why the cosmological constant is non-zero",
+        "The problem of why there are more matter particles than anti-matter particles"
+      ],
+      "correct_answer": "The problem of why the densities of dark energy and dark matter are nearly equal today",
+      "id": "A531387B-8FA3-4B91-BBFA-85320942A3A2"
+    },
+    {
+      "question": "What is the baryon asymmetry problem in cosmology?",
+      "options": [
+        "The problem of why there is more matter than antimatter in the universe",
+        "The problem of why galaxies have more baryonic matter than intergalactic space",
+        "The problem of why the universe is not composed entirely of hydrogen and helium",
+        "The problem of why the cosmological constant is non-zero"
+      ],
+      "correct_answer": "The problem of why there is more matter than antimatter in the universe",
+      "id": "DC66DFC3-1034-4735-8C1F-99A1A8EF2527"
+    },
+    {
+      "question": "What is the name of the effect where the frequency of light changes due to the expansion of the universe?",
+      "options": [
+        "Doppler effect",
+        "Zeeman effect",
+        "Compton scattering",
+        "Cosmological redshift"
+      ],
+      "correct_answer": "Cosmological redshift",
+      "id": "78FA4536-837D-493E-BD1A-9FDF43AFFE98"
+    },
+    {
+      "question": "What does the Tolman surface brightness test suggest about the universe's spatial curvature?",
+      "options": [
+        "The universe is positively curved",
+        "The universe is negatively curved",
+        "The universe is flat",
+        "The test provides no information about the universe's curvature"
+      ],
+      "correct_answer": "The universe is flat",
+      "id": "716F25EB-CEE0-41FF-A444-4A7F40160DA6"
+    },
+    {
+      "question": "What does the term 'dark' in dark matter and dark energy signify?",
+      "options": [
+        "They are evil forces",
+        "They absorb all light",
+        "They are mysterious and not well understood",
+        "They do not interact with electromagnetic radiation"
+      ],
+      "correct_answer": "They do not interact with electromagnetic radiation",
+      "id": "8A78931B-4313-4826-93EF-DDBA3C90A951"
+    },
+    {
+      "question": "What is the Sachs-Wolfe effect?",
+      "options": [
+        "It describes the change in the frequency of cosmic microwave background photons as they climb out of potential wells",
+        "It describes the acceleration of the universe's expansion due to dark energy",
+        "It describes the scattering of light by dust particles in space",
+        "It describes the polarization of cosmic microwave background radiation"
+      ],
+      "correct_answer": "It describes the change in the frequency of cosmic microwave background photons as they climb out of potential wells",
+      "id": "6D2563D8-EE06-4796-98D5-7FDB5D16748D"
+    },
+    {
+      "question": "What does the no-hair theorem state about black holes?",
+      "options": [
+        "Black holes cannot have a complex internal structure",
+        "Black holes have no hair",
+        "Black holes can be fully described by just their mass, charge, and angular momentum",
+        "Black holes lose all information about the objects that formed them"
+      ],
+      "correct_answer": "Black holes can be fully described by just their mass, charge, and angular momentum",
+      "id": "766BB58D-6A46-4CB9-98E6-9F6C4585D1F0"
+    },
+    {
+      "question": "What is the Hubble tension in cosmology?",
+      "options": [
+        "The disagreement between different measurements of the Hubble constant",
+        "The tension caused by the expansion of the universe",
+        "The stretching of cosmic strings due to the expansion of the universe",
+        "The debate over whether the universe will eventually contract"
+      ],
+      "correct_answer": "The disagreement between different measurements of the Hubble constant",
+      "id": "FB74CF07-1721-4140-A444-C153340A23CB"
+    },
+    {
+      "question": "What is the concept of 'Cosmic Inflation' proposed by Alan Guth?",
+      "options": [
+        "The financial cost of observing the universe",
+        "The expansion of the universe after the Big Bang",
+        "The change in the shape of galaxies over time",
+        "The expansion of the universe before the Big Bang"
+      ],
+      "correct_answer": "The expansion of the universe after the Big Bang",
+      "id": "D6F19A7F-9A1D-44E6-B655-38D767C76EC5"
+    },
+    {
+      "question": "What does the term 'recombination' refer to in cosmology?",
+      "options": [
+        "The process where protons and neutrons combined to form nuclei",
+        "The process where galaxies merged to form larger structures",
+        "The process where free electrons and nuclei combined to form neutral atoms",
+        "The process where dark matter particles combined to form larger particles"
+      ],
+      "correct_answer": "The process where free electrons and nuclei combined to form neutral atoms",
+      "id": "438C67AD-C23E-4D00-B21C-3FEF001D843F"
+    }
+  ]
+}

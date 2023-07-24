@@ -1,0 +1,116 @@
+{
+  "category": "Mechanical Engineering",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the study of the motion of objects and the forces that cause motion called?",
+      "options": [
+        "Thermodynamics",
+        "Dynamics",
+        "Statics",
+        "Mechanics"
+      ],
+      "correct_answer": "Dynamics",
+      "id": "10EBD5AE-6A9D-4E30-A7DE-04ABF026F753"
+    },
+    {
+      "question": "Which law states that the internal energy of an ideal gas is only dependent on its temperature?",
+      "options": [
+        "Ideal Gas Law",
+        "First Law of Thermodynamics",
+        "Joule's Law",
+        "Second Law of Thermodynamics"
+      ],
+      "correct_answer": "Joule's Law",
+      "id": "281C308A-6F62-40CB-82FE-96DFB5CE27ED"
+    },
+    {
+      "question": "Which type of mechanical stress occurs when a force is applied perpendicular to the surface of a material?",
+      "options": [
+        "Tensile stress",
+        "Compressive stress",
+        "Shear stress",
+        "Torsional stress"
+      ],
+      "correct_answer": "Shear stress",
+      "id": "B08E7C8B-154B-4802-BD3E-17AA3692F27E"
+    },
+    {
+      "question": "Which type of heat transfer occurs through the direct contact of two objects?",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Advection"
+      ],
+      "correct_answer": "Conduction",
+      "id": "06EC7802-ADC7-4BED-A9CC-898C53151B54"
+    },
+    {
+      "question": "What is the term for the energy stored in an object due to its position in a force field or its configuration?",
+      "options": [
+        "Kinetic energy",
+        "Potential energy",
+        "Internal energy",
+        "Thermal energy"
+      ],
+      "correct_answer": "Potential energy",
+      "id": "6FEE6F49-12DE-44D1-8D2D-A887870F3DB1"
+    },
+    {
+      "question": "Which type of simple machine consists of a rigid bar that pivots around a fixed point?",
+      "options": [
+        "Lever",
+        "Pulley",
+        "Inclined plane",
+        "Wheel and axle"
+      ],
+      "correct_answer": "Lever",
+      "id": "2C4FB844-8E8A-4166-806E-48A0BD92F561"
+    },
+    {
+      "question": "What is the term for the ability of a material to resist deformation when subjected to stress?",
+      "options": [
+        "Ductility",
+        "Elasticity",
+        "Malleability",
+        "Hardness"
+      ],
+      "correct_answer": "Elasticity",
+      "id": "4BD585C0-B22F-4CB8-9215-E57190B9C831"
+    },
+    {
+      "question": "What is the term for the amount of energy required to raise the temperature of one unit mass of a substance by one degree Celsius?",
+      "options": [
+        "Heat capacity",
+        "Specific heat",
+        "Thermal conductivity",
+        "Latent heat"
+      ],
+      "correct_answer": "Specific heat",
+      "id": "BFCC1FDB-CFB3-4D9D-957B-AD2DAB5E178C"
+    },
+    {
+      "question": "What is the principle that states the total mechanical energy of an isolated system remains constant if the only forces acting on it are conservative forces?",
+      "options": [
+        "First Law of Thermodynamics",
+        "Second Law of Thermodynamics",
+        "Conservation of energy",
+        "Conservation of momentum"
+      ],
+      "correct_answer": "Conservation of energy",
+      "id": "CA5158A0-C25B-4E59-B99F-79CFFECEB27D"
+    },
+    {
+      "question": "Which type of bearing uses a series of round balls between two rings to reduce friction?",
+      "options": [
+        "Ball bearing",
+        "Roller bearing",
+        "Thrust bearing",
+        "Spherical bearing"
+      ],
+      "correct_answer": "Ball bearing",
+      "id": "C03D2421-3E99-47FC-BB84-8F85A47B6FD9"
+    }
+  ]
+}

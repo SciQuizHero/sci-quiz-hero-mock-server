@@ -1,0 +1,116 @@
+{
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the average case time complexity of QuickSort?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(n^2)",
+        "O(n log n)"
+      ],
+      "correct_answer": "O(n log n)",
+      "id": "D9BA6F7F-EA4C-4BF4-B2F7-35D4AEBC3622"
+    },
+    {
+      "question": "Which data structure can be used to implement LRU (Least Recently Used) cache?",
+      "options": [
+        "Linked List",
+        "Hash Table",
+        "Doubly Linked List and Hash Table",
+        "Queue"
+      ],
+      "correct_answer": "Doubly Linked List and Hash Table",
+      "id": "FA0AEA71-EA9F-4411-A883-0A6A04B7F91F"
+    },
+    {
+      "question": "Which of the following is not a divide and conquer algorithm?",
+      "options": [
+        "Merge Sort",
+        "Quick Sort",
+        "Heap Sort",
+        "Binary Search"
+      ],
+      "correct_answer": "Heap Sort",
+      "id": "432ECDBE-EB30-4A44-B043-6DDBDEC5AFFD"
+    },
+    {
+      "question": "What's the time complexity of finding a node in a balanced binary search tree?",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n log n)"
+      ],
+      "correct_answer": "O(log n)",
+      "id": "0734629B-FC42-49FA-9281-B07DE1DCD9DF"
+    },
+    {
+      "question": "Which algorithm can be used to solve the Traveling Salesman Problem?",
+      "options": [
+        "Breadth-First Search",
+        "Bellman-Ford",
+        "Dynamic Programming",
+        "Dijkstra's"
+      ],
+      "correct_answer": "Dynamic Programming",
+      "id": "F25095E9-FC6C-426B-9384-4C0DAF827CBB"
+    },
+    {
+      "question": "What is the main difference between Prim's and Kruskal's algorithm?",
+      "options": [
+        "Prim's builds the MST by adding the minimum weight edge at each step, Kruskal's adds the minimum weight edge that doesn't form a cycle",
+        "Prim's uses a priority queue, Kruskal's uses a union-find data structure",
+        "Prim's is for directed graphs, Kruskal's is for undirected graphs",
+        "Prim's uses DFS, Kruskal's uses BFS"
+      ],
+      "correct_answer": "Prim's builds the MST by adding the minimum weight edge at each step, Kruskal's adds the minimum weight edge that doesn't form a cycle",
+      "id": "A00A428B-3E2C-4D53-BB48-C61AC102A11C"
+    },
+    {
+      "question": "How would you compute the Longest Common Subsequence (LCS) of two strings?",
+      "options": [
+        "Using a hash map",
+        "Using Dynamic Programming",
+        "Using Backtracking",
+        "Using Depth-First Search"
+      ],
+      "correct_answer": "Using Dynamic Programming",
+      "id": "AFBC5B8F-68A3-4EF2-8E0A-70992B53A52D"
+    },
+    {
+      "question": "What's the time complexity of finding the shortest path in a weighted graph using Dijkstra's algorithm?",
+      "options": [
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)",
+        "O(log n)"
+      ],
+      "correct_answer": "O(n log n)",
+      "id": "D3034958-4547-4F27-B9B5-04E2ABDB6232"
+    },
+    {
+      "question": "Which data structure can be used to implement a Priority Queue?",
+      "options": [
+        "Array",
+        "Linked List",
+        "Stack",
+        "Heap"
+      ],
+      "correct_answer": "Heap",
+      "id": "0B9C9D1F-6334-42BC-8D91-CA20B95737FF"
+    },
+    {
+      "question": "Which of the following algorithms is not an example of a greedy algorithm?",
+      "options": [
+        "Dijkstra's",
+        "Kruskal's",
+        "Prims's",
+        "Bellman-Ford"
+      ],
+      "correct_answer": "Bellman-Ford",
+      "id": "1896AB3C-4FF1-40D2-9336-06DE3616570A"
+    }
+  ]
+}

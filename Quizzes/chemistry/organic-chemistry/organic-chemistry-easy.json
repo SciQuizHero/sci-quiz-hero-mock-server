@@ -1,0 +1,116 @@
+{
+  "category": "Organic Chemistry",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the general formula for alkanes?",
+      "options": [
+        "CnH2n+2",
+        "CnH2n",
+        "CnH2n-2",
+        "CnH2n+1"
+      ],
+      "correct_answer": "CnH2n+2",
+      "id": "E58CDF21-F144-4EF4-AA28-4305F6AD6325"
+    },
+    {
+      "question": "What does 'organic' mean in the context of chemistry?",
+      "options": [
+        "Pertaining to organisms",
+        "Pertaining to compounds containing carbon",
+        "Pertaining to compounds containing oxygen",
+        "Pertaining to natural compounds"
+      ],
+      "correct_answer": "Pertaining to compounds containing carbon",
+      "id": "E4621B00-49FD-4C7B-BC61-BAD6580D2904"
+    },
+    {
+      "question": "Which functional group is present in alcohols?",
+      "options": [
+        "-OH",
+        "-COOH",
+        "-NH2",
+        "-CHO"
+      ],
+      "correct_answer": "-OH",
+      "id": "8792E40E-1391-4A8C-B31B-7F41933FCE05"
+    },
+    {
+      "question": "What is the process called when a molecule breaks down into two or more smaller molecules?",
+      "options": [
+        "Substitution",
+        "Addition",
+        "Cracking",
+        "Hydration"
+      ],
+      "correct_answer": "Cracking",
+      "id": "2F047CB7-3C47-4B48-A021-43812DACDAA4"
+    },
+    {
+      "question": "What type of reaction is characterized by the addition of hydrogen to a molecule?",
+      "options": [
+        "Oxidation",
+        "Reduction",
+        "Hydrogenation",
+        "Dehydrogenation"
+      ],
+      "correct_answer": "Hydrogenation",
+      "id": "A88FE33A-ADF7-446C-99DF-CD9F52788102"
+    },
+    {
+      "question": "What is the functional group of carboxylic acids?",
+      "options": [
+        "-OH",
+        "-COOH",
+        "-NH2",
+        "-CHO"
+      ],
+      "correct_answer": "-COOH",
+      "id": "C352B287-D665-4C56-B3F1-6221FE1ACB70"
+    },
+    {
+      "question": "Which type of isomerism occurs due to the different spatial arrangements of groups in the molecule?",
+      "options": [
+        "Structural isomerism",
+        "Geometric isomerism",
+        "Optical isomerism",
+        "Conformational isomerism"
+      ],
+      "correct_answer": "Geometric isomerism",
+      "id": "D59F9A7D-6EBA-41E7-9D33-F5393CF7B8E4"
+    },
+    {
+      "question": "What type of reaction involves an unsaturated reactant becoming a saturated product?",
+      "options": [
+        "Addition reaction",
+        "Substitution reaction",
+        "Elimination reaction",
+        "Condensation reaction"
+      ],
+      "correct_answer": "Addition reaction",
+      "id": "B40D6232-7B4F-491A-AE6C-7884E0EFF67E"
+    },
+    {
+      "question": "What type of organic compound is formed when a carboxylic acid reacts with an alcohol?",
+      "options": [
+        "Ester",
+        "Amide",
+        "Ether",
+        "Amine"
+      ],
+      "correct_answer": "Ester",
+      "id": "E1AD54BE-24B9-49B5-994A-6377B5D09DFE"
+    },
+    {
+      "question": "Which class of organic compounds is characterized by a carbonyl group attached to two alkyl or aryl groups?",
+      "options": [
+        "Aldehydes",
+        "Ketones",
+        "Esters",
+        "Amides"
+      ],
+      "correct_answer": "Ketones",
+      "id": "227BC8E3-8486-4537-8877-3C99CE52E553"
+    }
+  ]
+}

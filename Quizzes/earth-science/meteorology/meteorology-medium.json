@@ -1,0 +1,116 @@
+{
+  "category": "Meteorology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the term for a narrow, fast-flowing air current found in the upper atmosphere?",
+      "options": [
+        "Jet stream",
+        "Trade wind",
+        "Polar front",
+        "Monsoon"
+      ],
+      "correct_answer": "Jet stream",
+      "id": "EF60A10A-33C7-42E6-830E-0E1D61A87443"
+    },
+    {
+      "question": "What is the term for the process by which water vapor in the air is changed directly into ice, without passing through the liquid phase?",
+      "options": [
+        "Deposition",
+        "Sublimation",
+        "Condensation",
+        "Evaporation"
+      ],
+      "correct_answer": "Deposition",
+      "id": "2786C878-A091-4339-8236-1FCE69F691E9"
+    },
+    {
+      "question": "What is the name of the large-scale atmospheric circulation pattern that affects the weather and climate of the Earth's tropical regions?",
+      "options": [
+        "Hadley cell",
+        "Ferrel cell",
+        "Polar cell",
+        "Coriolis cell"
+      ],
+      "correct_answer": "Hadley cell",
+      "id": "58ACC0DC-9275-4645-B3F1-6D9F21A3BE31"
+    },
+    {
+      "question": "Which of the following factors is responsible for the formation of deserts on the western coasts of continents?",
+      "options": [
+        "Orographic lift",
+        "Rain shadow effect",
+        "Coastal upwelling",
+        "Cold ocean currents"
+      ],
+      "correct_answer": "Cold ocean currents",
+      "id": "E9143C2C-B89E-45B3-8614-C84A6F1AEE89"
+    },
+    {
+      "question": "Which of the following is NOT a greenhouse gas?",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Nitrous oxide",
+        "Argon"
+      ],
+      "correct_answer": "Argon",
+      "id": "01CFE847-C5B1-4D8F-9F14-2A4F8E72A232"
+    },
+    {
+      "question": "What is the name of the weather phenomenon that occurs when warm, moist air rises and cools, releasing heavy precipitation?",
+      "options": [
+        "Orographic precipitation",
+        "Convective precipitation",
+        "Frontal precipitation",
+        "Cyclonic precipitation"
+      ],
+      "correct_answer": "Convective precipitation",
+      "id": "D66C3F51-F184-43EF-A557-6A9A986CAC09"
+    },
+    {
+      "question": "Which of the following is the correct order of atmospheric layers from the Earth's surface upward?",
+      "options": [
+        "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere",
+        "Exosphere, Thermosphere, Mesosphere, Stratosphere, Troposphere",
+        "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere",
+        "Thermosphere, Exosphere, Mesosphere, Stratosphere, Troposphere"
+      ],
+      "correct_answer": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere",
+      "id": "5EF7F46F-3BCC-4257-9CED-8AE1198C8755"
+    },
+    {
+      "question": "Which of the following is the primary cause of sea breezes and land breezes?",
+      "options": [
+        "Differences in air pressure",
+        "Differences in moisture content",
+        "Differences in temperature",
+        "Differences in wind direction"
+      ],
+      "correct_answer": "Differences in temperature",
+      "id": "78E15AD2-E7D3-4D23-B8A8-C488058C8EB6"
+    },
+    {
+      "question": "What is the term for a small, intense weather system that produces strong winds, heavy rain, and sometimes hail and tornadoes?",
+      "options": [
+        "Hurricane",
+        "Cyclone",
+        "Thunderstorm",
+        "Blizzard"
+      ],
+      "correct_answer": "Thunderstorm",
+      "id": "FCAC3F4B-F9C3-4A45-9753-DE53B238D634"
+    },
+    {
+      "question": "Which of the following is a measure of the average kinetic energy of the particles in a substance?",
+      "options": [
+        "Temperature",
+        "Heat",
+        "Thermal energy",
+        "Internal energy"
+      ],
+      "correct_answer": "Temperature",
+      "id": "B978868B-83A7-4BC9-BDDA-9A2C12247F48"
+    }
+  ]
+}

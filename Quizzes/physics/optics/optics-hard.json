@@ -1,0 +1,116 @@
+{
+  "category": "Optics",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "In a Young's double-slit experiment, the spacing between the slits is 0.025 mm, and they are illuminated by monochromatic light of wavelength 550 nm. At what angle to the central bright fringe is the first dark fringe?",
+      "options": [
+        "0.0126 radians",
+        "0.0063 radians",
+        "0.0252 radians",
+        "0.0504 radians"
+      ],
+      "correct_answer": "0.0126 radians",
+      "id": "8CA31AB0-4C9B-4C6B-9EB6-06289E3CAF8A"
+    },
+    {
+      "question": "A Fabry-Perot interferometer has a mirror spacing of 1 cm and is illuminated with light of wavelength 500 nm. What is the maximum number of observable fringes (bright spots)?",
+      "options": [
+        "2x10^5",
+        "2x10^4",
+        "1x10^4",
+        "1x10^5"
+      ],
+      "correct_answer": "2x10^5",
+      "id": "A2CD62B0-A354-4B05-8F20-B7674813C46D"
+    },
+    {
+      "question": "For a Fresnel diffraction pattern from a circular aperture, at what radius does the first dark ring occur? Assume the radius of the aperture is a, the wavelength of the light is λ, and the pattern is observed at a distance D from the aperture.",
+      "options": [
+        "sqrt(λD/a)",
+        "sqrt(aD/λ)",
+        "sqrt(λa/D)",
+        "sqrt(Da/λ)"
+      ],
+      "correct_answer": "sqrt(λD/a)",
+      "id": "04B36A3A-E25E-404F-84FA-3FCF217BA4B3"
+    },
+    {
+      "question": "A plane wave of wavelength 600 nm falls normally on a thin film of oil (n = 1.4) floating on water. What minimum thickness of oil film will result in constructive interference and a strong reflection?",
+      "options": [
+        "214 nm",
+        "428 nm",
+        "107 nm",
+        "321 nm"
+      ],
+      "correct_answer": "214 nm",
+      "id": "8CF55897-D420-4D41-A163-352EFC15501D"
+    },
+    {
+      "question": "A converging lens has a focal length of 20 cm. An object is placed 30 cm from the lens. Where is the image located?",
+      "options": [
+        "60 cm on the opposite side",
+        "60 cm on the same side",
+        "30 cm on the opposite side",
+        "30 cm on the same side"
+      ],
+      "correct_answer": "60 cm on the opposite side",
+      "id": "4BA337E1-5643-40E1-8EF5-922576F79998"
+    },
+    {
+      "question": "A plane mirror is moving towards a stationary point source of light with a speed of 5 cm/s. What will be the speed of the image?",
+      "options": [
+        "5 cm/s",
+        "10 cm/s",
+        "0 cm/s",
+        "2.5 cm/s"
+      ],
+      "correct_answer": "10 cm/s",
+      "id": "55897BE7-9F55-42A4-A8AC-E8D0394938D2"
+    },
+    {
+      "question": "In a two-slit Young's experiment, the separation between the slits is reduced. What will be the impact on the fringe pattern?",
+      "options": [
+        "The fringes will get closer together",
+        "The fringes will get further apart",
+        "The fringes will become brighter",
+        "The fringe pattern will not change"
+      ],
+      "correct_answer": "The fringes will get further apart",
+      "id": "75D7D960-3FE5-4E27-B73B-15BF58E48DE4"
+    },
+    {
+      "question": "An equiconvex lens of glass (refractive index 1.5) has both surfaces of equal radii of curvature of 20 cm. An object of 5 cm in size is placed at a distance of 10 cm from the lens. What is the nature and position of the image?",
+      "options": [
+        "Virtual and 30 cm",
+        "Real and 30 cm",
+        "Virtual and 60 cm",
+        "Real and 60 cm"
+      ],
+      "correct_answer": "Real and 30 cm",
+      "id": "4D29D092-42CF-4CDE-A927-A2A391274FAF"
+    },
+    {
+      "question": "What is the Brewster angle for light incident on a glass surface (n = 1.5) from air (n = 1.0)?",
+      "options": [
+        "56.31 degrees",
+        "33.69 degrees",
+        "45.00 degrees",
+        "60.00 degrees"
+      ],
+      "correct_answer": "56.31 degrees",
+      "id": "9AEF6978-B1B4-4972-8217-A039FF9DE2D5"
+    },
+    {
+      "question": "A beam of unpolarised light of intensity I0 is incident on a polarizer. What is the intensity of the light transmitted through the polarizer?",
+      "options": [
+        "I0",
+        "I0 / 2",
+        "I0 / 4",
+        "0"
+      ],
+      "correct_answer": "I0 / 2",
+      "id": "D1C09DAA-5E4D-47EA-88CE-D51866FFCF52"
+    }
+  ]
+}

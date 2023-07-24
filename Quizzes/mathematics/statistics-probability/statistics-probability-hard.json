@@ -1,0 +1,116 @@
+{
+  "category": "Statistics and Probability",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "How is the 'Kurtosis' of a distribution defined?",
+      "options": [
+        "It is the measure of the 'tailedness' of the probability distribution",
+        "It is the measure of the symmetry of the distribution",
+        "It is the measure of the peakedness of the distribution",
+        "Both A and C"
+      ],
+      "correct_answer": "Both A and C",
+      "id": "02FF248C-998B-4F33-804C-493A607465C8"
+    },
+    {
+      "question": "In Bayesian Inference, what does the 'prior probability' represent?",
+      "options": [
+        "The probability of the event after evidence is taken into account",
+        "The initial degree of belief in an event, before new evidence is taken into account",
+        "The probability of the evidence under the assumed hypothesis",
+        "The final degree of belief in an event after the new evidence is taken into account"
+      ],
+      "correct_answer": "The initial degree of belief in an event, before new evidence is taken into account",
+      "id": "32EC1020-3690-4CCB-9687-CFD00030D701"
+    },
+    {
+      "question": "What is the primary assumption of the Poisson distribution?",
+      "options": [
+        "The events are independently occurring",
+        "The mean is larger than the variance",
+        "The events occur at a constant rate",
+        "Both A and C"
+      ],
+      "correct_answer": "Both A and C",
+      "id": "AE5313F0-8C6F-4EF1-AC7E-6C7673D523ED"
+    },
+    {
+      "question": "Which of the following tests would be appropriate for testing the hypothesis that the means of three or more groups are equal?",
+      "options": [
+        "Two-sample t-test",
+        "Chi-square test of independence",
+        "Analysis of Variance (ANOVA)",
+        "Wilcoxon signed-rank test"
+      ],
+      "correct_answer": "Analysis of Variance (ANOVA)",
+      "id": "9E32279C-C6B8-42BA-AA57-2BCE5F206D6A"
+    },
+    {
+      "question": "In statistics, what does 'multicollinearity' refer to?",
+      "options": [
+        "The correlation between multiple variables in a regression model",
+        "The correlation between the error terms in a regression model",
+        "The scenario where independent variables in a regression model are not independent",
+        "The scenario where the dependent variable in a regression model is related to the error term"
+      ],
+      "correct_answer": "The scenario where independent variables in a regression model are not independent",
+      "id": "ABAC6F9C-58E8-4098-B63E-B9EED2AECAA2"
+    },
+    {
+      "question": "In hypothesis testing, what is a Type I error?",
+      "options": [
+        "Accepting the null hypothesis when it is true",
+        "Rejecting the null hypothesis when it is false",
+        "Accepting the null hypothesis when it is false",
+        "Rejecting the null hypothesis when it is true"
+      ],
+      "correct_answer": "Rejecting the null hypothesis when it is true",
+      "id": "F76A30D4-0A60-44ED-9ADA-E4DB674B6E53"
+    },
+    {
+      "question": "What does 'heteroscedasticity' refer to in a regression analysis?",
+      "options": [
+        "The dependent variable is correlated with the error term",
+        "The independent variables are not linearly related",
+        "The variance of the error term is not a constant",
+        "The error terms are not normally distributed"
+      ],
+      "correct_answer": "The variance of the error term is not a constant",
+      "id": "27FED2D3-73A6-464A-9C96-988B8A4C706D"
+    },
+    {
+      "question": "What is a 'confidence interval' in statistics?",
+      "options": [
+        "An interval that contains all possible values of a parameter",
+        "An interval that contains the most likely values of a parameter",
+        "An interval that contains the true population parameter a certain percentage of the time",
+        "An interval that contains the sample mean"
+      ],
+      "correct_answer": "An interval that contains the true population parameter a certain percentage of the time",
+      "id": "EAD78524-FF93-4F80-87DF-7379BB6588DE"
+    },
+    {
+      "question": "In a survival analysis, what does the 'hazard function' represent?",
+      "options": [
+        "The probability of surviving past a certain time",
+        "The probability of dying at a certain time",
+        "The instantaneous risk of the event happening at a certain time, given survival up to that time",
+        "The cumulative risk of the event happening up to a certain time"
+      ],
+      "correct_answer": "The instantaneous risk of the event happening at a certain time, given survival up to that time",
+      "id": "55E0AAE6-AE8D-4D09-846B-49CE981CF898"
+    },
+    {
+      "question": "Which distribution would you use to model the number of defects per unit in a manufacturing process?",
+      "options": [
+        "Poisson Distribution",
+        "Normal Distribution",
+        "Binomial Distribution",
+        "Exponential Distribution"
+      ],
+      "correct_answer": "Poisson Distribution",
+      "id": "5A043846-AAB8-4553-873A-C2A84F0C240F"
+    }
+  ]
+}

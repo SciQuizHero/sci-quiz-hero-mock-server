@@ -1,0 +1,116 @@
+{
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Which of the following languages is homoiconic, meaning its code is represented as its own data structures?",
+      "options": [
+        "Lisp",
+        "Python",
+        "Ruby",
+        "Java"
+      ],
+      "correct_answer": "Lisp",
+      "id": "F6C6DE81-15F7-4FB3-8476-A502A16E8DEC"
+    },
+    {
+      "question": "Which of the following is a lexically scoped functional programming language?",
+      "options": [
+        "C",
+        "Scala",
+        "Haskell",
+        "Prolog"
+      ],
+      "correct_answer": "Haskell",
+      "id": "DFA2B1B9-090D-46C7-B30B-EF82214DDD3C"
+    },
+    {
+      "question": "Which of the following programming languages is statically-typed and supports type inference?",
+      "options": [
+        "JavaScript",
+        "Python",
+        "Kotlin",
+        "PHP"
+      ],
+      "correct_answer": "Kotlin",
+      "id": "8D108874-C9ED-4AA5-B08E-66748DAE8513"
+    },
+    {
+      "question": "Which of the following languages is a statically-typed scripting language?",
+      "options": [
+        "TypeScript",
+        "Lua",
+        "Python",
+        "Groovy"
+      ],
+      "correct_answer": "TypeScript",
+      "id": "2937B191-5270-4BD7-868E-322B777E2161"
+    },
+    {
+      "question": "Which of the following languages was designed for concurrent programming and is known for its 'actor model' of computation?",
+      "options": [
+        "Erlang",
+        "Scala",
+        "Haskell",
+        "Clojure"
+      ],
+      "correct_answer": "Erlang",
+      "id": "B03B7A1E-D0B8-4875-8119-4E0B8D20AB55"
+    },
+    {
+      "question": "Which of the following languages is known for its strong metaprogramming capabilities?",
+      "options": [
+        "Ruby",
+        "Java",
+        "C#",
+        "Go"
+      ],
+      "correct_answer": "Ruby",
+      "id": "74C93A03-4B57-456C-971A-14E424A1C406"
+    },
+    {
+      "question": "In Python, which of the following keywords is used to define a generator function?",
+      "options": [
+        "generator",
+        "yield",
+        "return",
+        "async"
+      ],
+      "correct_answer": "yield",
+      "id": "EAC1C7B0-D406-4E05-97B6-EEF17E3F593A"
+    },
+    {
+      "question": "Which programming language is known for its unique syntax of using significant whitespace instead of curly braces or keywords for code blocks?",
+      "options": [
+        "Python",
+        "Ruby",
+        "JavaScript",
+        "PHP"
+      ],
+      "correct_answer": "Python",
+      "id": "C12110EC-CC8D-456A-805A-264987FC81B3"
+    },
+    {
+      "question": "What is the primary goal of the programming language TypeScript?",
+      "options": [
+        "Improve JavaScript performance",
+        "Add static typing to JavaScript",
+        "Make JavaScript code more readable",
+        "Provide better support for functional programming"
+      ],
+      "correct_answer": "Add static typing to JavaScript",
+      "id": "EDF4E90A-E8BF-43B1-8098-215C5CE9558A"
+    },
+    {
+      "question": "Which of the following programming languages uses the Actor model for concurrency?",
+      "options": [
+        "Scala",
+        "Erlang",
+        "Haskell",
+        "Go"
+      ],
+      "correct_answer": "Erlang",
+      "id": "8AAA955C-6A54-45D6-8D3C-B8E16C8153D8"
+    }
+  ]
+}

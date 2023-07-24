@@ -1,0 +1,116 @@
+{
+  "category": "Solar System",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct_answer": "Mars",
+      "id": "01C0AB98-89F3-4D26-BFAA-DBFA04A72ABB"
+    },
+    {
+      "question": "Which planet in our solar system is the largest?",
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct_answer": "Jupiter",
+      "id": "8BE7A890-FA04-4F62-8AC0-22A5DF9E93CB"
+    },
+    {
+      "question": "What celestial body is at the center of our solar system?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "The Sun"
+      ],
+      "correct_answer": "The Sun",
+      "id": "178DE741-E375-4412-A571-BFD3670B4297"
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct_answer": "Jupiter",
+      "id": "B120BB39-5FBD-4875-AF2C-34E7897DE444"
+    },
+    {
+      "question": "Which of the following planets is not considered a gas giant?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Mars"
+      ],
+      "correct_answer": "Mars",
+      "id": "1E93D907-226F-4FDD-92F5-3257FD1EFA63"
+    },
+    {
+      "question": "What is the smallest planet in our solar system?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "correct_answer": "Mercury",
+      "id": "886A6258-F29F-4F55-A196-5FC6C499D02E"
+    },
+    {
+      "question": "Which planet has the longest day of all the planets in our solar system?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      "correct_answer": "Venus",
+      "id": "769B7A38-5DD0-42E4-88B2-E75D41A0A4E8"
+    },
+    {
+      "question": "What is the name of the largest volcano in our solar system, located on Mars?",
+      "options": [
+        "Olympus Mons",
+        "Mauna Loa",
+        "Etna",
+        "Krakatoa"
+      ],
+      "correct_answer": "Olympus Mons",
+      "id": "C566CB60-AFF3-466B-A6C5-8D50A7377F57"
+    },
+    {
+      "question": "Which planet is known for its distinct ring system?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct_answer": "Saturn",
+      "id": "3CD05D87-84ED-4FDF-96B5-DC3F11E1023B"
+    },
+    {
+      "question": "What are the four inner planets of our solar system called?",
+      "options": [
+        "Gas Giants",
+        "Terrestrial Planets",
+        "Ice Giants",
+        "Dwarf Planets"
+      ],
+      "correct_answer": "Terrestrial Planets",
+      "id": "04DBF8D2-91A7-48E4-ABD6-6BE5558046A1"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Artificial Intelligence",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What does AI stand for in computer science?",
+      "options": [
+        "Artificial Intelligence",
+        "Automated Installation",
+        "Algorithmic Implementation",
+        "Application Interface"
+      ],
+      "correct_answer": "Artificial Intelligence",
+      "id": "1805A13A-7A13-4BB7-ADE4-43FA5D23E47E"
+    },
+    {
+      "question": "Which of the following is a type of AI that is based on the idea of human intelligence?",
+      "options": [
+        "Natural Language Processing",
+        "Computer Vision",
+        "Machine Learning",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "id": "FF484FF8-6C4F-4EA4-AE9B-CF2AB0D47B0B"
+    },
+    {
+      "question": "What is the primary goal of AI?",
+      "options": [
+        "To create systems that can function intelligently and independently",
+        "To improve the speed of data processing",
+        "To replace human labor in all tasks",
+        "To solve mathematical problems"
+      ],
+      "correct_answer": "To create systems that can function intelligently and independently",
+      "id": "E71BE830-3EB0-4EB3-B509-8C3C4554F918"
+    },
+    {
+      "question": "What is the term used for the ability of an AI to understand and generate human language?",
+      "options": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Deep Learning",
+        "Artificial Intelligence"
+      ],
+      "correct_answer": "Natural Language Processing",
+      "id": "770DDDE3-5316-437D-B211-7EBFC65A5AF0"
+    },
+    {
+      "question": "In AI, what does 'machine learning' mean?",
+      "options": [
+        "The process by which a computer system learns from data",
+        "The ability of a machine to improve its own code",
+        "A method for achieving artificial intelligence",
+        "Both A and C"
+      ],
+      "correct_answer": "Both A and C",
+      "id": "D4B9CE85-1261-4126-B087-5991F98BB57B"
+    },
+    {
+      "question": "Who is considered the father of Artificial Intelligence?",
+      "options": [
+        "Alan Turing",
+        "John McCarthy",
+        "Bill Gates",
+        "Elon Musk"
+      ],
+      "correct_answer": "John McCarthy",
+      "id": "7F7F90EA-4A67-4FE1-94CB-2647D00746A2"
+    },
+    {
+      "question": "What does the 'Turing Test' measure?",
+      "options": [
+        "The intelligence of a machine",
+        "The speed of a computer",
+        "The memory of a computer",
+        "The size of a computer"
+      ],
+      "correct_answer": "The intelligence of a machine",
+      "id": "44140218-1F8D-450C-8B4B-1129FB2BAB8A"
+    },
+    {
+      "question": "What type of machine learning involves providing the model with input data, but without any corresponding output data?",
+      "options": [
+        "Supervised learning",
+        "Unsupervised learning",
+        "Reinforcement learning",
+        "Deep learning"
+      ],
+      "correct_answer": "Unsupervised learning",
+      "id": "FA3C98DB-5562-41E8-AB24-91E5ACF4B0B7"
+    },
+    {
+      "question": "Which AI technique mimics the neural circuits of the human brain to solve complex problems?",
+      "options": [
+        "Natural Language Processing",
+        "Deep Learning",
+        "Swarm Intelligence",
+        "Genetic Algorithms"
+      ],
+      "correct_answer": "Deep Learning",
+      "id": "C07CC70B-5796-4C52-943F-99081AC17531"
+    },
+    {
+      "question": "What is the name for AI systems that can understand, learn, predict, adapt and potentially operate autonomously?",
+      "options": [
+        "Cognitive Intelligence",
+        "Artificial General Intelligence",
+        "Emotional Intelligence",
+        "Artificial Narrow Intelligence"
+      ],
+      "correct_answer": "Cognitive Intelligence",
+      "id": "47174041-C820-4E20-8E94-487222FE74F4"
+    }
+  ]
+}

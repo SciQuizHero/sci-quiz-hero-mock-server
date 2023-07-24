@@ -1,0 +1,116 @@
+{
+  "category": "Paleontology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What does the term 'paleontology' refer to?",
+      "options": [
+        "The study of ancient cultures",
+        "The study of ancient languages",
+        "The study of ancient life, including fossils",
+        "The study of ancient geography"
+      ],
+      "correct_answer": "The study of ancient life, including fossils",
+      "id": "79BE5665-CCAB-43F1-963F-259A3C401BD4"
+    },
+    {
+      "question": "What are fossils?",
+      "options": [
+        "Ancient coins",
+        "Ancient weapons",
+        "Remains or traces of ancient life",
+        "Old maps"
+      ],
+      "correct_answer": "Remains or traces of ancient life",
+      "id": "8F5E73D7-96CB-4208-ABF8-05E306C59181"
+    },
+    {
+      "question": "Which era is known as the 'Age of the Dinosaurs'?",
+      "options": [
+        "Cenozoic Era",
+        "Mesozoic Era",
+        "Paleozoic Era",
+        "Proterozoic Era"
+      ],
+      "correct_answer": "Mesozoic Era",
+      "id": "31275306-7E40-4BA2-8272-83967EC17C1C"
+    },
+    {
+      "question": "What is the name of the supercontinent that existed during the Paleozoic Era?",
+      "options": [
+        "Atlantis",
+        "Pangea",
+        "Gondwana",
+        "Laurasia"
+      ],
+      "correct_answer": "Pangea",
+      "id": "9898C151-78F4-4A66-9879-80B5C147A07B"
+    },
+    {
+      "question": "Which type of fossil is an imprint or impression, without any organic material?",
+      "options": [
+        "Trace Fossil",
+        "Cast Fossil",
+        "Mold Fossil",
+        "True Form Fossil"
+      ],
+      "correct_answer": "Mold Fossil",
+      "id": "892B5BA3-90A0-400B-811B-3791AAFC114D"
+    },
+    {
+      "question": "What does a paleobotanist study?",
+      "options": [
+        "Ancient rocks and minerals",
+        "Fossilized animals and their behavior",
+        "Fossilized plants and their evolution",
+        "Ancient human remains and artifacts"
+      ],
+      "correct_answer": "Fossilized plants and their evolution",
+      "id": "9468B803-FE76-4C13-98E1-D544D7D42CEE"
+    },
+    {
+      "question": "Which prehistoric animal is known for its woolly hair and long tusks?",
+      "options": [
+        "Dinosaur",
+        "Mammoth",
+        "Saber-toothed cat",
+        "Dodo"
+      ],
+      "correct_answer": "Mammoth",
+      "id": "FE537F3F-4B6A-4DAC-9FFC-33D4F1E2D1CD"
+    },
+    {
+      "question": "Which extinct group of marine animals are known for their five-point radial symmetry?",
+      "options": [
+        "Ammonites",
+        "Trilobites",
+        "Eurypterids",
+        "Sea lilies or Crinoids"
+      ],
+      "correct_answer": "Sea lilies or Crinoids",
+      "id": "499D1225-3653-4D5C-AD9C-C93D1AAE1131"
+    },
+    {
+      "question": "What is the primary method of dating fossils?",
+      "options": [
+        "Carbon dating",
+        "Radioactive dating",
+        "Uranium-lead dating",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "id": "FFA20949-22B6-472B-ACED-A5697A3B41F2"
+    },
+    {
+      "question": "What are the preserved remains of plants or animals called?",
+      "options": [
+        "Artifacts",
+        "Fossils",
+        "Specimens",
+        "Relics"
+      ],
+      "correct_answer": "Fossils",
+      "id": "050F0724-E244-4428-9E95-A3AB853822F7"
+    }
+  ]
+}

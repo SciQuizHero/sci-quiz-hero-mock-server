@@ -1,0 +1,116 @@
+{
+  "category": "Pollution",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What type of compound is PCB and why is it hazardous?",
+      "options": [
+        "Polychlorinated Biphenyl - Bioaccumulates and is a carcinogen",
+        "Polychlorinated Benzene - Causes acid rain",
+        "Polycyclic Carbonate - Damages the ozone layer",
+        "Polycondensed Butane - Highly flammable and causes air pollution"
+      ],
+      "correct_answer": "Polychlorinated Biphenyl - Bioaccumulates and is a carcinogen",
+      "id": "97019459-3BC0-4CCC-A0F9-283D75B8B893"
+    },
+    {
+      "question": "What are Volatile Organic Compounds (VOCs) and how do they contribute to air pollution?",
+      "options": [
+        "Solid particles suspended in air - Cause respiratory issues",
+        "Gaseous substances - Contribute to greenhouse effect",
+        "Solid and liquid substances in the atmosphere - Form aerosols",
+        "Organic chemicals that easily vaporize - Contribute to formation of ground-level ozone"
+      ],
+      "correct_answer": "Organic chemicals that easily vaporize - Contribute to formation of ground-level ozone",
+      "id": "659221CE-8394-40AA-84E5-4E7107EFC8D6"
+    },
+    {
+      "question": "What is the significance of a 'trophic transfer' in the context of pollution?",
+      "options": [
+        "It refers to the spread of pollutants through food chains",
+        "It refers to the transfer of pollutants from water to soil",
+        "It refers to the transfer of pollutants from soil to air",
+        "It refers to the process of pollutant degradation"
+      ],
+      "correct_answer": "It refers to the spread of pollutants through food chains",
+      "id": "5EEB3D75-02B3-41DB-AD24-0C7A29F8046B"
+    },
+    {
+      "question": "What are the primary sources of dioxins and furans, and why are they harmful?",
+      "options": [
+        "Industrial processes - They bioaccumulate and are carcinogenic",
+        "Volcanic eruptions - They contribute to global warming",
+        "Agricultural practices - They cause eutrophication",
+        "Automobile emissions - They cause photochemical smog"
+      ],
+      "correct_answer": "Industrial processes - They bioaccumulate and are carcinogenic",
+      "id": "CBA60C6E-21D1-4490-8C7E-25D430A1AA60"
+    },
+    {
+      "question": "Why are Persistent Organic Pollutants (POPs) a global concern?",
+      "options": [
+        "They remain in the environment for long periods, can travel long distances, bioaccumulate, and are toxic",
+        "They quickly degrade and cause immediate harm to local ecosystems",
+        "They cause rapid changes in climate conditions",
+        "They increase the acidity of rainwater"
+      ],
+      "correct_answer": "They remain in the environment for long periods, can travel long distances, bioaccumulate, and are toxic",
+      "id": "36B76146-0715-49EC-802F-BAE2AEDEB5C9"
+    },
+    {
+      "question": "Which compound is primarily responsible for the depletion of the ozone layer?",
+      "options": [
+        "Chlorofluorocarbons (CFCs)",
+        "Carbon Dioxide (CO2)",
+        "Sulphur Dioxide (SO2)",
+        "Methane (CH4)"
+      ],
+      "correct_answer": "Chlorofluorocarbons (CFCs)",
+      "id": "E9DFB1EB-8781-43ED-95A6-3C2B2E9B54FD"
+    },
+    {
+      "question": "How do endocrine disruptors pose a threat to wildlife and humans?",
+      "options": [
+        "They interfere with hormone systems",
+        "They contribute to global warming",
+        "They lead to oxygen depletion in water bodies",
+        "They cause physical obstructions in animal bodies"
+      ],
+      "correct_answer": "They interfere with hormone systems",
+      "id": "D9164FB7-69C3-414D-8F0B-CEE7EF97474E"
+    },
+    {
+      "question": "What is biomagnification, and why is it a concern with regards to pollutants?",
+      "options": [
+        "The increase of pollution in an ecosystem - Causes habitat destruction",
+        "The increase in concentration of a substance in organisms at higher levels in a food chain - Leads to high toxicity in apex predators",
+        "The absorption of pollutants by plants - Leads to loss of biodiversity",
+        "The increase in temperature due to pollutants - Leads to global warming"
+      ],
+      "correct_answer": "The increase in concentration of a substance in organisms at higher levels in a food chain - Leads to high toxicity in apex predators",
+      "id": "5C325577-E8CD-41C6-A25D-4AD3C9E5DB46"
+    },
+    {
+      "question": "How does lead pollution affect human health?",
+      "options": [
+        "Causes skin irritation",
+        "Leads to vision impairment",
+        "Results in respiratory diseases",
+        "Negatively impacts the nervous system"
+      ],
+      "correct_answer": "Negatively impacts the nervous system",
+      "id": "6177E348-B010-4D6A-90CF-FAA1D53032B1"
+    },
+    {
+      "question": "What is the process by which sulfur dioxide and nitrogen oxides produce acid rain?",
+      "options": [
+        "Oxidation and reaction with water",
+        "Decomposition in sunlight",
+        "Reaction with ozone in the upper atmosphere",
+        "Direct dissolution in rainwater"
+      ],
+      "correct_answer": "Oxidation and reaction with water",
+      "id": "FF5DD7B9-F01E-43F5-9343-12B5EAD77A56"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Renewable Energy",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Which type of energy is derived from the sun's heat?",
+      "options": [
+        "Wind Energy",
+        "Solar Energy",
+        "Geothermal Energy",
+        "Nuclear Energy"
+      ],
+      "correct_answer": "Solar Energy",
+      "id": "2857029A-9111-430B-8D56-2692FC54778B"
+    },
+    {
+      "question": "What is the process of generating electricity from the movement of water called?",
+      "options": [
+        "Hydroelectric Power",
+        "Solar Power",
+        "Wind Power",
+        "Nuclear Power"
+      ],
+      "correct_answer": "Hydroelectric Power",
+      "id": "C5E9FB37-4121-4338-8F68-DD48F988A36C"
+    },
+    {
+      "question": "Which type of renewable energy is derived from organic plant and animal materials?",
+      "options": [
+        "Solar Energy",
+        "Biomass Energy",
+        "Hydroelectric Energy",
+        "Geothermal Energy"
+      ],
+      "correct_answer": "Biomass Energy",
+      "id": "4143F5A9-B3E5-431B-8E98-82C70B009432"
+    },
+    {
+      "question": "Which type of renewable energy involves the use of underground heat?",
+      "options": [
+        "Geothermal Energy",
+        "Solar Energy",
+        "Wind Energy",
+        "Hydroelectric Energy"
+      ],
+      "correct_answer": "Geothermal Energy",
+      "id": "D643D1C7-83E7-458A-86F2-0F6BE602AB20"
+    },
+    {
+      "question": "Which type of renewable energy involves the movement of air?",
+      "options": [
+        "Solar Energy",
+        "Biomass Energy",
+        "Wind Energy",
+        "Geothermal Energy"
+      ],
+      "correct_answer": "Wind Energy",
+      "id": "6D7C3B60-ED80-4B49-853C-9D27B03464D8"
+    },
+    {
+      "question": "Which renewable energy source is not dependent on weather conditions?",
+      "options": [
+        "Solar Energy",
+        "Wind Energy",
+        "Tidal Energy",
+        "Geothermal Energy"
+      ],
+      "correct_answer": "Geothermal Energy",
+      "id": "71F86836-0DE4-4F06-802D-55C29FEDAE7E"
+    },
+    {
+      "question": "What type of renewable energy is created from the movement of tides and waves?",
+      "options": [
+        "Wind Energy",
+        "Tidal Energy",
+        "Geothermal Energy",
+        "Solar Energy"
+      ],
+      "correct_answer": "Tidal Energy",
+      "id": "597240C7-63CE-428A-872A-AE234C3FAA82"
+    },
+    {
+      "question": "What is the main disadvantage of renewable energy sources compared to fossil fuels?",
+      "options": [
+        "More Expensive",
+        "Less Reliable",
+        "Lower Energy Output",
+        "All of the Above"
+      ],
+      "correct_answer": "All of the Above",
+      "id": "B4D328A0-5C58-4B77-BF78-C297231C68AD"
+    },
+    {
+      "question": "What is the term for a renewable energy source that comes from plants?",
+      "options": [
+        "Biomass",
+        "Geothermal",
+        "Hydroelectric",
+        "Solar"
+      ],
+      "correct_answer": "Biomass",
+      "id": "98FA5CC1-1543-49D0-A80B-65D301838333"
+    },
+    {
+      "question": "Which country generates the most energy from wind power?",
+      "options": [
+        "United States",
+        "China",
+        "Germany",
+        "India"
+      ],
+      "correct_answer": "China",
+      "id": "F01E8CF5-D085-4784-85E7-C1F38B116502"
+    }
+  ]
+}

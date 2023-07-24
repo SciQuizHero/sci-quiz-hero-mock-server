@@ -1,0 +1,116 @@
+{
+  "category": "Renewable Energy",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the concept of 'levelised cost of electricity' (LCOE)?",
+      "options": [
+        "The total cost of installing a renewable energy system",
+        "The average cost of electricity per unit of electricity produced over the lifetime of a renewable energy system",
+        "The cost of producing one unit of electricity at peak demand",
+        "The cost of storing one unit of electricity in a battery"
+      ],
+      "correct_answer": "The average cost of electricity per unit of electricity produced over the lifetime of a renewable energy system",
+      "id": "9A7A6326-E447-477A-8F9C-F74072B83ED0"
+    },
+    {
+      "question": "What is the Betz Limit in context of wind energy production?",
+      "options": [
+        "The maximum fraction of power of the wind that can be extracted by a wind turbine",
+        "The highest wind speed at which a wind turbine can operate",
+        "The maximum height that a wind turbine can be built",
+        "The limit to the number of wind turbines that can be installed in a given area"
+      ],
+      "correct_answer": "The maximum fraction of power of the wind that can be extracted by a wind turbine",
+      "id": "F887B790-BDB3-46EC-9FB3-2969027EE313"
+    },
+    {
+      "question": "What is the main challenge associated with the use of hydrogen as a renewable energy source?",
+      "options": [
+        "The conversion of hydrogen into electricity is inefficient",
+        "The production of hydrogen requires large amounts of energy",
+        "The storage of hydrogen is difficult due to its high reactivity",
+        "The extraction of hydrogen from water is a complex process"
+      ],
+      "correct_answer": "The production of hydrogen requires large amounts of energy",
+      "id": "CD575DFE-38C7-4392-96ED-A5F9F0AAA9AB"
+    },
+    {
+      "question": "Which of the following is a disadvantage of 'concentrated solar power' (CSP) systems?",
+      "options": [
+        "They are less efficient than photovoltaic solar panels",
+        "They require direct sunlight to operate efficiently",
+        "They cannot store energy for use when the sun is not shining",
+        "They require a large amount of water for cooling"
+      ],
+      "correct_answer": "They require direct sunlight to operate efficiently",
+      "id": "019E40AB-1543-41D2-8C86-249B9C1A7FCC"
+    },
+    {
+      "question": "What is the 'energy returned on energy invested' (EROEI) in context of renewable energy sources?",
+      "options": [
+        "The ratio of the amount of energy produced by a renewable energy source to the amount of energy used to produce it",
+        "The ratio of the amount of energy produced by a renewable energy source to the amount of energy stored in it",
+        "The ratio of the amount of energy used to produce a renewable energy source to the amount of energy it can produce over its lifetime",
+        "The ratio of the amount of energy produced by a renewable energy source to the amount of energy used to maintain and operate it"
+      ],
+      "correct_answer": "The ratio of the amount of energy produced by a renewable energy source to the amount of energy used to produce it",
+      "id": "DC170C2B-13D7-441F-966E-2667F86335CD"
+    },
+    {
+      "question": "What is the role of 'phase change materials' (PCMs) in renewable energy systems?",
+      "options": [
+        "They are used to convert direct current (DC) to alternating current (AC)",
+        "They are used to store thermal energy",
+        "They are used to increase the efficiency of photovoltaic cells",
+        "They are used to regulate the voltage of the electrical output"
+      ],
+      "correct_answer": "They are used to store thermal energy",
+      "id": "4EE3950E-A449-4302-8ABB-07B4999AB788"
+    },
+    {
+      "question": "Which of the following renewable energy sources is not typically used for grid-scale energy production?",
+      "options": [
+        "Wind",
+        "Solar",
+        "Tidal",
+        "Geothermal"
+      ],
+      "correct_answer": "Tidal",
+      "id": "3EBDFF62-CB6C-45EA-9F0C-19C097E8D0EE"
+    },
+    {
+      "question": "Which renewable energy source has the highest energy density?",
+      "options": [
+        "Solar",
+        "Wind",
+        "Hydro",
+        "Bioenergy"
+      ],
+      "correct_answer": "Hydro",
+      "id": "F415EC62-188E-4C80-AAFA-E66237492A6E"
+    },
+    {
+      "question": "What's the major advantage of 'perovskite solar cells' over traditional silicon-based solar cells?",
+      "options": [
+        "They are more efficient",
+        "They are less expensive to produce",
+        "They can be made flexible and lightweight",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "id": "30AAC9E3-BA11-4A65-BEF7-CCB3DCC6898F"
+    },
+    {
+      "question": "What is 'feed-in tariff' in the context of renewable energy?",
+      "options": [
+        "The cost of feeding renewable energy into the grid",
+        "A tax on non-renewable energy sources",
+        "A premium rate paid for electricity fed back into the electricity grid from a designated renewable electricity generation source",
+        "A subsidy for the installation of renewable energy systems"
+      ],
+      "correct_answer": "A premium rate paid for electricity fed back into the electricity grid from a designated renewable electricity generation source",
+      "id": "7C83D1AF-3E48-4EC1-ABDA-5CF6362A56D4"
+    }
+  ]
+}

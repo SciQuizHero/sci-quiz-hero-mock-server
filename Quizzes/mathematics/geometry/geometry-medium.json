@@ -1,0 +1,116 @@
+{
+  "category": "Geometry",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "id": "14ac749b-f05e-4c6c-87e0-6c7f4ca02b03",
+      "question": "What is the sum of the exterior angles of a convex polygon?",
+      "options": [
+        "90 degrees",
+        "180 degrees",
+        "270 degrees",
+        "360 degrees"
+      ],
+      "correct_answer": "360 degrees"
+    },
+    {
+      "id": "4ae9cda4-63d8-4854-a0ef-c2c901384648",
+      "question": "What is the ratio of the areas of two similar triangles with corresponding side lengths in a ratio of 2:3?",
+      "options": [
+        "1:4",
+        "1:9",
+        "4:9",
+        "2:3"
+      ],
+      "correct_answer": "4:9"
+    },
+    {
+      "id": "26cc66eb-7976-44d5-baf9-1704ffc63a8a",
+      "question": "What is the area of a parallelogram with a base of 8 units and a height of 5 units?",
+      "options": [
+        "20 square units",
+        "26 square units",
+        "40 square units",
+        "13 square units"
+      ],
+      "correct_answer": "40 square units"
+    },
+    {
+      "id": "4ddc8c46-9e3d-4dc0-a07b-b45d189cffaf",
+      "question": "In a circle with a diameter of 10 units, what is the length of a chord that makes an angle of 60 degrees at the center of the circle?",
+      "options": [
+        "5 units",
+        "5√3 units",
+        "10 units",
+        "10√3 units"
+      ],
+      "correct_answer": "5√3 units"
+    },
+    {
+      "id": "4710e804-5b47-44e6-ba98-0e0b5869b2e8",
+      "question": "What is the measure of an individual interior angle in a regular nonagon?",
+      "options": [
+        "120 degrees",
+        "140 degrees",
+        "160 degrees",
+        "180 degrees"
+      ],
+      "correct_answer": "140 degrees"
+    },
+    {
+      "id": "ecd26f87-f897-4a92-b067-ce3af3361f80",
+      "question": "What is the length of the diagonal of a rectangle with a length of 6 units and a width of 8 units?",
+      "options": [
+        "10 units",
+        "14 units",
+        "12 units",
+        "15 units"
+      ],
+      "correct_answer": "10 units"
+    },
+    {
+      "id": "c1cf12ac-fba8-4104-bb19-1909e4476d9b",
+      "question": "What is the radius of a circle with a circumference of 18π units?",
+      "options": [
+        "3 units",
+        "6 units",
+        "9 units",
+        "12 units"
+      ],
+      "correct_answer": "9 units"
+    },
+    {
+      "id": "a1312d52-5926-4034-9831-14b1b0d8289c",
+      "question": "What is the measure of a central angle in a regular dodecagon?",
+      "options": [
+        "15 degrees",
+        "30 degrees",
+        "45 degrees",
+        "60 degrees"
+      ],
+      "correct_answer": "30 degrees"
+    },
+    {
+      "id": "4b0fb12d-c978-4cae-8c0b-3f8feaaa14a3",
+      "question": "If the area of a trapezoid is 60 square units, and its height is 6 units, what is the sum of the lengths of its bases?",
+      "options": [
+        "10 units",
+        "20 units",
+        "30 units",
+        "40 units"
+      ],
+      "correct_answer": "20 units"
+    },
+    {
+      "id": "ff641451-2b75-4b46-8b2f-e9b3fa8534d5",
+      "question": "What is the length of an arc with a radius of 5 units and a central angle of 120 degrees?",
+      "options": [
+        "5π units",
+        "10π units",
+        "15π units",
+        "20π units"
+      ],
+      "correct_answer": "10π units"
+    }
+  ]
+}

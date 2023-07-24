@@ -1,0 +1,116 @@
+{
+  "category": "Ecology",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the term for a group of individuals of the same species living in the same area?",
+      "options": [
+        "Ecosystem",
+        "Population",
+        "Community",
+        "Habitat"
+      ],
+      "correct_answer": "Population",
+      "id": "64471004-82B5-4831-80A9-357DCB7027A0"
+    },
+    {
+      "question": "Which level of ecological organization involves both biotic and abiotic components?",
+      "options": [
+        "Species",
+        "Population",
+        "Community",
+        "Ecosystem"
+      ],
+      "correct_answer": "Ecosystem",
+      "id": "014D6452-87D2-4D0A-B347-DD6C4D517709"
+    },
+    {
+      "question": "What term is used for animals that eat plants?",
+      "options": [
+        "Herbivores",
+        "Carnivores",
+        "Omnivores",
+        "Scavengers"
+      ],
+      "correct_answer": "Herbivores",
+      "id": "E6D376D1-4D3C-459D-B375-B5A4317F1DA9"
+    },
+    {
+      "question": "What is the term for a symbiotic relationship where both species benefit?",
+      "options": [
+        "Parasitism",
+        "Commensalism",
+        "Mutualism",
+        "Competition"
+      ],
+      "correct_answer": "Mutualism",
+      "id": "BB101E82-015F-4024-8F95-D8A8E39B9595"
+    },
+    {
+      "question": "In the food chain, which organism is always at the start?",
+      "options": [
+        "Producer",
+        "Primary Consumer",
+        "Secondary Consumer",
+        "Decomposer"
+      ],
+      "correct_answer": "Producer",
+      "id": "76682A52-72FB-4890-B6BE-93653DBFFBB5"
+    },
+    {
+      "question": "What is the term for the variety of life in the world or in a particular habitat or ecosystem?",
+      "options": [
+        "Habitat Diversity",
+        "Genetic Diversity",
+        "Species Diversity",
+        "Biodiversity"
+      ],
+      "correct_answer": "Biodiversity",
+      "id": "B92A0379-EE26-43AE-BA4F-8F12A9D30311"
+    },
+    {
+      "question": "What term describes the maximum population size that an environment can sustain indefinitely?",
+      "options": [
+        "Carrying Capacity",
+        "Population Growth",
+        "Ecological Footprint",
+        "Biotic Potential"
+      ],
+      "correct_answer": "Carrying Capacity",
+      "id": "8D9FF5CF-0D67-49C8-8630-CCC2038E1EB9"
+    },
+    {
+      "question": "What is the term for a large naturally occurring community of flora and fauna occupying a major habitat?",
+      "options": [
+        "Biome",
+        "Ecosystem",
+        "Population",
+        "Community"
+      ],
+      "correct_answer": "Biome",
+      "id": "A4FB18B9-95E8-4E86-9051-389BE944D10A"
+    },
+    {
+      "question": "What is the main difference between a food chain and a food web?",
+      "options": [
+        "A food chain shows a single pathway, while a food web shows multiple pathways",
+        "A food web shows a single pathway, while a food chain shows multiple pathways",
+        "A food chain is a type of food web",
+        "A food web is a type of food chain"
+      ],
+      "correct_answer": "A food chain shows a single pathway, while a food web shows multiple pathways",
+      "id": "EBA81193-9ED1-4AC3-A261-30BED7684BF5"
+    },
+    {
+      "question": "Which type of organism breaks down dead organic material?",
+      "options": [
+        "Producers",
+        "Consumers",
+        "Decomposers",
+        "Detritivores"
+      ],
+      "correct_answer": "Decomposers",
+      "id": "7F6FEDD1-8B1B-4D8C-8980-3500F2BE3897"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Electromagnetism",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the integral form of Maxwell's fourth equation (Ampere's law with Maxwell's addition) in a differential medium?",
+      "options": [
+        "∮B.dl = μ₀ ∫∫(J + ε₀ ∂E/∂t) . ds",
+        "∮E.dl = - d/dt ∫∫ B . ds",
+        "∫∫D.ds = Q_free",
+        "∫∫B.ds = 0"
+      ],
+      "correct_answer": "∮B.dl = μ₀ ∫∫(J + ε₀ ∂E/∂t) . ds",
+      "id": "C6118572-BC2E-4C99-823F-7E3B74A338DA"
+    },
+    {
+      "question": "In quantum electrodynamics, what is the name given to the elementary interaction where a single photon is absorbed or emitted?",
+      "options": [
+        "Photon scattering",
+        "Compton scattering",
+        "Quantum jump",
+        "Vertex"
+      ],
+      "correct_answer": "Vertex",
+      "id": "2A366780-7ABC-487A-84EA-C7765C1D432D"
+    },
+    {
+      "question": "How does the Larmor formula describe the power radiated by an accelerating non-relativistic point charge?",
+      "options": [
+        "Proportional to the square of the charge and inversely proportional to the cube of the acceleration",
+        "Proportional to the square of the charge and the acceleration",
+        "Proportional to the square of the charge and the square of the acceleration",
+        "Proportional to the charge and the square of the acceleration"
+      ],
+      "correct_answer": "Proportional to the square of the charge and the square of the acceleration",
+      "id": "D435D7C5-A13E-4B3F-8984-0D7BF8B25C3F"
+    },
+    {
+      "question": "Which type of magnetic material is characterized by the alignment of magnetic moments in the absence of an external magnetic field?",
+      "options": [
+        "Ferromagnetic",
+        "Paramagnetic",
+        "Diamagnetic",
+        "Antiferromagnetic"
+      ],
+      "correct_answer": "Ferromagnetic",
+      "id": "736E701A-75CA-4606-8D0D-8DC18FA4BE67"
+    },
+    {
+      "question": "What kind of surface is not appropriate for applying Gauss's law in integral form for electric fields?",
+      "options": [
+        "A surface that encloses no charge",
+        "A surface that encloses a symmetric charge distribution",
+        "A non-conducting surface",
+        "A surface that is not symmetric with the charge distribution it encloses"
+      ],
+      "correct_answer": "A surface that is not symmetric with the charge distribution it encloses",
+      "id": "69ECD0BE-3DAF-4896-94D4-86DD5956E7F6"
+    },
+    {
+      "question": "In an electromagnetic wave in vacuum, the ratio of the magnitudes of the electric field strength to the magnetic field strength is equal to...",
+      "options": [
+        "The speed of light",
+        "The permittivity of free space",
+        "The permeability of free space",
+        "The impedance of free space"
+      ],
+      "correct_answer": "The speed of light",
+      "id": "F32D15D0-9FAF-4ED1-BAC2-F7E80F355499"
+    },
+    {
+      "question": "Which one of Maxwell's equations represents the non-existence of magnetic monopoles?",
+      "options": [
+        "Gauss's law for electricity",
+        "Gauss's law for magnetism",
+        "Faraday's law of induction",
+        "Ampere's law with Maxwell's addition"
+      ],
+      "correct_answer": "Gauss's law for magnetism",
+      "id": "6CCEA256-7E0D-485F-BF10-63BAF2A9C012"
+    },
+    {
+      "question": "What does the Planck-Einstein relation describe in the context of light?",
+      "options": [
+        "The energy of a photon as a function of its frequency",
+        "The speed of a photon as a function of its wavelength",
+        "The intensity of a photon as a function of its frequency",
+        "The energy of a photon as a function of its wavelength"
+      ],
+      "correct_answer": "The energy of a photon as a function of its frequency",
+      "id": "AA97EC9E-892A-4512-B860-652855E1E5B5"
+    },
+    {
+      "question": "In the quantum Hall effect, what is quantized?",
+      "options": [
+        "The Hall resistance",
+        "The Hall voltage",
+        "The Hall current",
+        "The Hall conductance"
+      ],
+      "correct_answer": "The Hall resistance",
+      "id": "E40BC974-A36E-491E-8795-559608369E14"
+    },
+    {
+      "question": "What is the unit of magnetic field strength in the Gaussian system of units?",
+      "options": [
+        "Tesla",
+        "Weber",
+        "Gauss",
+        "Oersted"
+      ],
+      "correct_answer": "Oersted",
+      "id": "F5484E0C-0E65-41A9-8DC4-A5876B376001"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Geometry",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "id": "bf335893-68b3-4ada-a442-49f2d663ac06",
+      "question": "What is the sum of the interior angles of a triangle?",
+      "options": [
+        "90 degrees",
+        "180 degrees",
+        "270 degrees",
+        "360 degrees"
+      ],
+      "correct_answer": "180 degrees"
+    },
+    {
+      "id": "8ca6c5e0-54c9-46f8-8ca0-3621703efa86",
+      "question": "What is the term for a straight line that touches a circle at a single point?",
+      "options": [
+        "Tangent",
+        "Secant",
+        "Radius",
+        "Chord"
+      ],
+      "correct_answer": "Tangent"
+    },
+    {
+      "id": "7b822528-8445-4530-aba8-37eb34204433",
+      "question": "How many sides does a hexagon have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_answer": "6"
+    },
+    {
+      "id": "b694353a-d017-43fe-829f-ef773a6d0ea3",
+      "question": "What is the name of a polygon with eight sides?",
+      "options": [
+        "Hexagon",
+        "Heptagon",
+        "Octagon",
+        "Nonagon"
+      ],
+      "correct_answer": "Octagon"
+    },
+    {
+      "id": "59c58c69-4f5b-4a49-973b-62b9be4cbc27",
+      "question": "Which type of triangle has all sides of equal length?",
+      "options": [
+        "Equilateral",
+        "Isosceles",
+        "Scalene",
+        "Right"
+      ],
+      "correct_answer": "Equilateral"
+    },
+    {
+      "id": "30e3e012-79f7-4a40-8c73-e7ce0a358ce7",
+      "question": "What is the sum of the exterior angles of a polygon?",
+      "options": [
+        "90 degrees",
+        "180 degrees",
+        "270 degrees",
+        "360 degrees"
+      ],
+      "correct_answer": "360 degrees"
+    },
+    {
+      "id": "bf49ae82-f0b4-47c7-ab29-f11685cbf72e",
+      "question": "What is the name of a polygon with five sides?",
+      "options": [
+        "Triangle",
+        "Quadrilateral",
+        "Pentagon",
+        "Hexagon"
+      ],
+      "correct_answer": "Pentagon"
+    },
+    {
+      "id": "fa7ec5e9-ff7e-4ded-a776-134a66925ea7",
+      "question": "Which type of triangle has one right angle?",
+      "options": [
+        "Equilateral",
+        "Isosceles",
+        "Scalene",
+        "Right"
+      ],
+      "correct_answer": "Right"
+    },
+    {
+      "id": "2bc84844-086e-42ea-90ee-c548bb05b0f7",
+      "question": "Which type of triangle has two sides of equal length?",
+      "options": [
+        "Equilateral",
+        "Isosceles",
+        "Scalene",
+        "Right"
+      ],
+      "correct_answer": "Isosceles"
+    },
+    {
+      "id": "c81af2b1-f318-4d37-bc92-51d1969434a1",
+      "question": "What is the term for a line segment that connects two points on a circle?",
+      "options": [
+        "Tangent",
+        "Secant",
+        "Radius",
+        "Chord"
+      ],
+      "correct_answer": "Chord"
+    }
+  ]
+}

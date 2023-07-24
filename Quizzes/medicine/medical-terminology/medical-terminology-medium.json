@@ -1,0 +1,116 @@
+{
+  "category": "Medical Terminology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What does 'dys-' signify in medical terms?",
+      "options": [
+        "Painful",
+        "Abnormal",
+        "Difficult",
+        "Normal"
+      ],
+      "correct_answer": "Abnormal",
+      "id": "65D550A4-06E3-4925-A90D-AD20F2A2ADF9"
+    },
+    {
+      "question": "What does the term 'myocardial infarction' refer to?",
+      "options": [
+        "Stroke",
+        "Heart Attack",
+        "Lung Infection",
+        "Kidney Infection"
+      ],
+      "correct_answer": "Heart Attack",
+      "id": "2ABABB19-05C5-45D6-A380-B29AA16727CE"
+    },
+    {
+      "question": "What is the medical term for inflammation of the gallbladder?",
+      "options": [
+        "Cholecystitis",
+        "Hepatitis",
+        "Gastritis",
+        "Cystitis"
+      ],
+      "correct_answer": "Cholecystitis",
+      "id": "DFA1B7D6-4EFC-4D4F-8BEE-AD9FF5D763F5"
+    },
+    {
+      "question": "Which term refers to a surgical puncture to remove fluid from the lung?",
+      "options": [
+        "Thoracotomy",
+        "Thoracentesis",
+        "Thoracoscopy",
+        "Tracheostomy"
+      ],
+      "correct_answer": "Thoracentesis",
+      "id": "2BEFECDE-B2A1-4977-B35D-BC61CF89AAE9"
+    },
+    {
+      "question": "What is the medical term for the process of producing a picture of blood vessels?",
+      "options": [
+        "Angiography",
+        "Angioplasty",
+        "Arteriography",
+        "Atherectomy"
+      ],
+      "correct_answer": "Angiography",
+      "id": "A1E6BB7A-DE42-421E-B1D1-AE804943C7F8"
+    },
+    {
+      "question": "What does the term 'neurogenic' refer to?",
+      "options": [
+        "Originating from the kidneys",
+        "Originating from the heart",
+        "Originating from the nerves",
+        "Originating from the muscles"
+      ],
+      "correct_answer": "Originating from the nerves",
+      "id": "84137B59-5C1D-4079-B730-B20CB68DD2B7"
+    },
+    {
+      "question": "What is 'hypertrophy' in medical terms?",
+      "options": [
+        "Decrease in size of a tissue or organ",
+        "Increase in size of a tissue or organ",
+        "Disease related to hyperactivity",
+        "Condition related to low blood pressure"
+      ],
+      "correct_answer": "Increase in size of a tissue or organ",
+      "id": "48110751-2EB2-4FFF-90C8-201E6AB8E134"
+    },
+    {
+      "question": "The medical term 'bradycardia' refers to which condition?",
+      "options": [
+        "Rapid heart rate",
+        "Slow heart rate",
+        "Irregular heart rate",
+        "Normal heart rate"
+      ],
+      "correct_answer": "Slow heart rate",
+      "id": "E76B9F4E-8D16-494C-86A6-129E83B0AB0F"
+    },
+    {
+      "question": "What is the medical term for inflammation of the liver?",
+      "options": [
+        "Hepatitis",
+        "Cirrhosis",
+        "Cholecystitis",
+        "Pancreatitis"
+      ],
+      "correct_answer": "Hepatitis",
+      "id": "9E2ECB9B-D283-424F-B0EE-3AD5AB84CA5E"
+    },
+    {
+      "question": "What is the medical term for the surgical removal of the gallbladder?",
+      "options": [
+        "Cholecystectomy",
+        "Gastrectomy",
+        "Appendectomy",
+        "Hysterectomy"
+      ],
+      "correct_answer": "Cholecystectomy",
+      "id": "3DDA4CB4-F139-4582-8EA5-F3CDCBB94628"
+    }
+  ]
+}

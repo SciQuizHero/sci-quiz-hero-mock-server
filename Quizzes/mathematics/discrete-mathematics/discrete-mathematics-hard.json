@@ -1,0 +1,116 @@
+{
+  "category": "Discrete Mathematics",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What does the Pigeonhole Principle state?",
+      "options": [
+        "If n items are put into m containers, with n > m, then at least one container must contain more than one item",
+        "If n items are put into m containers, with n < m, then at least one container must contain more than one item",
+        "If n items are put into m containers, with n > m, then at least one container must be empty",
+        "If n items are put into m containers, with n = m, then each container must contain exactly one item"
+      ],
+      "correct_answer": "If n items are put into m containers, with n > m, then at least one container must contain more than one item",
+      "id": "D11C82D0-D2FC-4D37-894E-035DF45EDE2D"
+    },
+    {
+      "question": "What is the formula for the nth term of the Fibonacci sequence, also known as Binet's formula?",
+      "options": [
+        "n/(sqrt(5)) * (((1+sqrt(5))/2)^n - ((1-sqrt(5))/2)^n)",
+        "n * ((1+sqrt(5))/2)^n",
+        "1/(sqrt(5)) * (((1+sqrt(5))/2)^n - ((1-sqrt(5))/2)^n)",
+        "n * ((1+sqrt(5))/2)^n - ((1-sqrt(5))/2)^n"
+      ],
+      "correct_answer": "1/(sqrt(5)) * (((1+sqrt(5))/2)^n - ((1-sqrt(5))/2)^n)",
+      "id": "45EADB40-CCE7-4D55-926D-401A614FF0A1"
+    },
+    {
+      "question": "Which theorem states that every natural number greater than 1 is either a prime number, or can be written as a unique product of prime numbers?",
+      "options": [
+        "Euclid's theorem",
+        "The prime number theorem",
+        "The fundamental theorem of arithmetic",
+        "Euler's theorem"
+      ],
+      "correct_answer": "The fundamental theorem of arithmetic",
+      "id": "CDB0ECD1-5809-4D68-ACA3-3A7A758234EE"
+    },
+    {
+      "question": "In graph theory, what term is used to refer to a walk in which all the graph edges and vertices are distinct?",
+      "options": [
+        "Trail",
+        "Path",
+        "Cycle",
+        "Walk"
+      ],
+      "correct_answer": "Path",
+      "id": "606B228E-435B-4934-B9C4-48BCB2CF2A53"
+    },
+    {
+      "question": "In number theory, what is the name for a positive integer n that divides evenly into 2^n - 2?",
+      "options": [
+        "Eulerian number",
+        "Catalan number",
+        "Bernoulli number",
+        "Fermat number"
+      ],
+      "correct_answer": "Fermat number",
+      "id": "15FC7EC3-CDC4-408F-BFAC-B09FCFA69C13"
+    },
+    {
+      "question": "What is the generating function for the sequence of Fibonacci numbers?",
+      "options": [
+        "x / (1 - x - x^2)",
+        "1 / (1 - x - x^2)",
+        "x / (1 + x + x^2)",
+        "1 / (1 + x + x^2)"
+      ],
+      "correct_answer": "x / (1 - x - x^2)",
+      "id": "0BD507E5-4C7C-4B89-8A22-DF7CC8F231FB"
+    },
+    {
+      "question": "What is the primary use of the Chinese Remainder Theorem?",
+      "options": [
+        "Solving systems of linear equations",
+        "Determining the congruence of integers",
+        "Solving systems of simultaneous congruences",
+        "Finding the greatest common divisor of two integers"
+      ],
+      "correct_answer": "Solving systems of simultaneous congruences",
+      "id": "238F8BBD-6133-4AC4-B237-9934F7B1E28B"
+    },
+    {
+      "question": "In a Boolean algebra, what do you call an element 'a' such that 'a AND a' equals 'a'?",
+      "options": [
+        "Idempotent element",
+        "Commutative element",
+        "Associative element",
+        "Distributive element"
+      ],
+      "correct_answer": "Idempotent element",
+      "id": "8C31ECBB-E7A7-4DCD-881D-686A1E315A9A"
+    },
+    {
+      "question": "If a graph has a Hamiltonian cycle, which theorem guarantees that the graph has a Hamiltonian path as well?",
+      "options": [
+        "Dirac's theorem",
+        "Ore's theorem",
+        "Euler's theorem",
+        "Hamilton's theorem"
+      ],
+      "correct_answer": "Hamilton's theorem",
+      "id": "2F05584C-7A9D-4ACE-A145-3CCEE95B9862"
+    },
+    {
+      "question": "What is the maximum number of edges in a simple undirected graph with 'n' vertices?",
+      "options": [
+        "n(n - 1)/2",
+        "n(n + 1)/2",
+        "n(n - 1)",
+        "n^2 - n"
+      ],
+      "correct_answer": "n(n - 1)/2",
+      "id": "BE510360-2FEF-4278-8A10-CE328A5F8509"
+    }
+  ]
+}

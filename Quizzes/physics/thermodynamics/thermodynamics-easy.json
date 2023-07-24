@@ -1,0 +1,116 @@
+{
+  "category": "Thermodynamics",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the First Law of Thermodynamics?",
+      "options": [
+        "Energy can be created and destroyed",
+        "Entropy of a closed system can never decrease",
+        "Energy cannot be created or destroyed, only transferred or changed in form",
+        "Energy can be transferred by conduction, convection, or radiation"
+      ],
+      "correct_answer": "Energy cannot be created or destroyed, only transferred or changed in form",
+      "id": "31AC67B3-CDC5-4AD3-943E-32085E7B51FA"
+    },
+    {
+      "question": "What is the main concept behind the Second Law of Thermodynamics?",
+      "options": [
+        "Energy is constant and can neither be created nor destroyed",
+        "The entropy of an isolated system not in equilibrium will tend to increase over time",
+        "Heat can flow from a cold body to a hot body only with the help of an external work",
+        "Heat energy cannot be completely converted into mechanical work"
+      ],
+      "correct_answer": "The entropy of an isolated system not in equilibrium will tend to increase over time",
+      "id": "E6C7BF25-3268-435E-AED1-F93AEA535393"
+    },
+    {
+      "question": "What is entropy?",
+      "options": [
+        "The energy of a system that is available for doing mechanical work",
+        "The transfer of energy as heat to or from a system",
+        "The measure of disorder or randomness in a system",
+        "The force that opposes motion between two surfaces that are in contact"
+      ],
+      "correct_answer": "The measure of disorder or randomness in a system",
+      "id": "B58C8814-1B73-4B7D-B21C-B927102BAC10"
+    },
+    {
+      "question": "In thermodynamics, what is a 'closed system'?",
+      "options": [
+        "A system where energy and matter can be exchanged with the surroundings",
+        "A system where no energy or matter can be exchanged with the surroundings",
+        "A system where only energy, but not matter, can be exchanged with the surroundings",
+        "A system where only matter, but not energy, can be exchanged with the surroundings"
+      ],
+      "correct_answer": "A system where only energy, but not matter, can be exchanged with the surroundings",
+      "id": "4584DF78-2A10-44AB-8E90-ABD75C5E3CDB"
+    },
+    {
+      "question": "What does a thermodynamic process involve?",
+      "options": [
+        "Change in the state of a thermodynamic system",
+        "Static state of a thermodynamic system",
+        "No change in the internal energy of a system",
+        "Non-exchange of heat between a system and its surroundings"
+      ],
+      "correct_answer": "Change in the state of a thermodynamic system",
+      "id": "4C3F5CBE-8ADB-4766-A310-DA14EAF9F99D"
+    },
+    {
+      "question": "What is the unit of temperature in the International System of Units (SI)?",
+      "options": [
+        "Fahrenheit",
+        "Kelvin",
+        "Celsius",
+        "Rankine"
+      ],
+      "correct_answer": "Kelvin",
+      "id": "4901450A-B411-4281-B009-B5C03F77AA76"
+    },
+    {
+      "question": "What term is used to describe the amount of heat energy required to raise the temperature of a substance?",
+      "options": [
+        "Entropy",
+        "Enthalpy",
+        "Specific Heat Capacity",
+        "Thermal Conductivity"
+      ],
+      "correct_answer": "Specific Heat Capacity",
+      "id": "3D7A1596-29EF-45EE-95C8-79E2CA2CEF0B"
+    },
+    {
+      "question": "What does the zeroth law of thermodynamics establish?",
+      "options": [
+        "The concept of temperature",
+        "The concept of energy conservation",
+        "The concept of entropy",
+        "The concept of thermal equilibrium"
+      ],
+      "correct_answer": "The concept of thermal equilibrium",
+      "id": "8ADCD8D3-C9E9-4617-9511-B3C731F202AF"
+    },
+    {
+      "question": "Which term refers to a thermodynamic quantity equivalent to the total heat content of a system?",
+      "options": [
+        "Entropy",
+        "Enthalpy",
+        "Thermal Expansion",
+        "Internal Energy"
+      ],
+      "correct_answer": "Enthalpy",
+      "id": "B69E239A-576B-427B-8D36-72A8E639B905"
+    },
+    {
+      "question": "In a thermodynamic process, if the system does not exchange heat with its surroundings, it is referred to as what type of process?",
+      "options": [
+        "Adiabatic",
+        "Isothermal",
+        "Isobaric",
+        "Isochoric"
+      ],
+      "correct_answer": "Adiabatic",
+      "id": "745981B3-1781-4EA4-A60F-42D199E21B58"
+    }
+  ]
+}

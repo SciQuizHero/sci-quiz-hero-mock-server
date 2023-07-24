@@ -1,0 +1,116 @@
+{
+  "category": "Algebra",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the sum of the complex roots of the equation x^3 - 2x^2 + 2x - 8 = 0?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct_answer": "2",
+      "id": "9E0D0912-0299-468C-837C-EA25F7DF76EF"
+    },
+    {
+      "question": "Find the determinant of the matrix [[1, 3, 2], [4, 1, 2], [2, 3, 1]]",
+      "options": [
+        "18",
+        "-18",
+        "36",
+        "-36"
+      ],
+      "correct_answer": "18",
+      "id": "B472F663-65ED-409D-8B9E-5E44BCD4759B"
+    },
+    {
+      "question": "How many distinct real roots does the equation x^4 - 5x^2 + 4 = 0 have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "2",
+      "id": "730C4432-77C6-44A8-8589-CFA2654D3FE5"
+    },
+    {
+      "question": "What is the inverse of the function f(x) = (3x - 7)/(x + 1)?",
+      "options": [
+        "f^{-1}(x) = (7x + 3)/(x - 1)",
+        "f^{-1}(x) = (3x + 7)/(x - 1)",
+        "f^{-1}(x) = (x - 7)/(3x + 1)",
+        "f^{-1}(x) = (x + 7)/(3x - 1)"
+      ],
+      "correct_answer": "f^{-1}(x) = (7x + 3)/(x - 1)",
+      "id": "46861B03-6A8C-45F8-8BAE-1AF11023AD78"
+    },
+    {
+      "question": "If the polynomial P(x) = x^4 - 5x^3 + 9x^2 - 8x + 3 has a root of multiplicity 2 at x = 2, which of the following must also be a root of P(x)?",
+      "options": [
+        "1",
+        "-1",
+        "3",
+        "-3"
+      ],
+      "correct_answer": "1",
+      "id": "69B0CBC8-2919-4EB6-BEE2-708D698FB0D4"
+    },
+    {
+      "question": "Find the value of a in the quadratic equation ax^2 - 6x + 9 = 0 if the equation has only one real root.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct_answer": "3",
+      "id": "FADBEAB2-21A0-4465-8B6C-394297E884FB"
+    },
+    {
+      "question": "Solve the equation for x: log(x + 3) - log(x) = 2",
+      "options": [
+        "x = 1/99",
+        "x = 1/9",
+        "x = 1/3",
+        "x = 1"
+      ],
+      "correct_answer": "x = 1/99",
+      "id": "21BDABDF-896A-4FFE-BD99-8333E0CD3468"
+    },
+    {
+      "question": "Find the limit as x approaches infinity of (e^x - 1)/(e^x + 1)",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "infinity"
+      ],
+      "correct_answer": "1",
+      "id": "F55A57B2-2A89-4CFA-BCB1-EC40A9BD392C"
+    },
+    {
+      "question": "Evaluate the integral: ∫(3x^2 - 2x + 1)dx",
+      "options": [
+        "x^3 - x^2 + x + C",
+        "x^3 - x^2 + x - C",
+        "x^3 + x^2 + x + C",
+        "x^3 + x^2 + x - C"
+      ],
+      "correct_answer": "x^3 - x^2 + x + C",
+      "id": "8ADF5C3D-3A4B-42C0-B95E-7CC998C072EC"
+    },
+    {
+      "question": "Find the value of k for which the system of equations has infinitely many solutions: 2x + 3y = 4, 4x + ky = 8",
+      "options": [
+        "6",
+        "9",
+        "12",
+        "15"
+      ],
+      "correct_answer": "6",
+      "id": "518F3D0F-211A-4CA3-B4B4-E2184ED8EB67"
+    }
+  ]
+}

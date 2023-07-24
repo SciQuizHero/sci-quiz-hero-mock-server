@@ -1,0 +1,116 @@
+{
+  "category": "Climatology",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What phenomenon is characterized by unusually warm ocean temperatures in the Equatorial Pacific?",
+      "options": [
+        "La Niña",
+        "El Niño",
+        "Indian Ocean Dipole",
+        "Atlantic Multidecadal Oscillation"
+      ],
+      "correct_answer": "El Niño",
+      "id": "09F73874-FDBC-42F3-AD61-A9A221196532"
+    },
+    {
+      "question": "Which branch of climatology is concerned with observing and understanding all aspects of the world's climate with respect to its variability and averages over various time scales?",
+      "options": [
+        "Paleoclimatology",
+        "Bioclimatology",
+        "Historical Climatology",
+        "Physical Climatology"
+      ],
+      "correct_answer": "Physical Climatology",
+      "id": "F377B541-8EB3-40AF-811F-36D709A9FC68"
+    },
+    {
+      "question": "What is the term for the average course or condition of the weather at a place usually over a period of years?",
+      "options": [
+        "Meteorology",
+        "Weather",
+        "Climate",
+        "Atmosphere"
+      ],
+      "correct_answer": "Climate",
+      "id": "EB79D4A1-64C3-4F59-8226-1DD6D73C05A5"
+    },
+    {
+      "question": "What atmospheric layer contains the ozone layer?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct_answer": "Stratosphere",
+      "id": "BD3AF44F-AE57-4067-ADDB-C619AAE5F862"
+    },
+    {
+      "question": "What is the term for the amount of solar radiation reflected off a surface, often expressed as a percentage?",
+      "options": [
+        "Insolation",
+        "Albedo",
+        "Emissivity",
+        "Radiative Forcing"
+      ],
+      "correct_answer": "Albedo",
+      "id": "B10BD318-9B5B-48CE-A324-2BE763CFF621"
+    },
+    {
+      "question": "What term is used to describe the study of climate change and its causes, processes, and effects on the planet?",
+      "options": [
+        "Paleoclimatology",
+        "Historical Climatology",
+        "Physical Climatology",
+        "Climatic Determinism"
+      ],
+      "correct_answer": "Paleoclimatology",
+      "id": "87DDC061-4278-4F09-9997-A900E34FBE48"
+    },
+    {
+      "question": "What climate zone is characterized by little rainfall and large daily temperatures, and covers large parts of Western North America, Northern Africa, and central Australia?",
+      "options": [
+        "Tropical",
+        "Polar",
+        "Temperate",
+        "Desert"
+      ],
+      "correct_answer": "Desert",
+      "id": "426DFBFF-0A0C-4C97-9B7C-774E993B9BCD"
+    },
+    {
+      "question": "Which wind system features dry, warm, descending air moving out towards the poles and is found at approximately 30 degrees latitude?",
+      "options": [
+        "Polar Easterlies",
+        "Prevailing Westerlies",
+        "Trade Winds",
+        "Hadley Cells"
+      ],
+      "correct_answer": "Hadley Cells",
+      "id": "FC054BFB-9CDA-4783-947F-AC823FE5C9A9"
+    },
+    {
+      "question": "What is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of carbon dioxide and water, and is a crucial part of the carbon cycle?",
+      "options": [
+        "Respiration",
+        "Transpiration",
+        "Photosynthesis",
+        "Carbon Fixation"
+      ],
+      "correct_answer": "Photosynthesis",
+      "id": "D961279C-DE8C-41B5-B4A4-B69D3BE9F026"
+    },
+    {
+      "question": "What climate phenomenon occurs approximately every two to seven years and can last up to two years, impacting global climate and weather patterns?",
+      "options": [
+        "La Niña",
+        "El Niño",
+        "North Atlantic Oscillation",
+        "Indian Ocean Dipole"
+      ],
+      "correct_answer": "El Niño",
+      "id": "1B85F1DC-3315-47DA-B321-B4CACDDE22BC"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Civil Engineering",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What is the predominant load for 'dead load' calculations?",
+      "options": [
+        "Occupancy loads",
+        "Weight of the building materials and fixtures",
+        "Wind loads",
+        "Snow loads"
+      ],
+      "correct_answer": "Weight of the building materials and fixtures",
+      "id": "B5100882-160B-4B81-8AEC-94F3C1E34E18"
+    },
+    {
+      "question": "What is the term for the point in a structure where a sudden change in form or material occurs?",
+      "options": [
+        "Fault line",
+        "Shear force point",
+        "Discontinuity point",
+        "Compression point"
+      ],
+      "correct_answer": "Discontinuity point",
+      "id": "84949F60-437C-4051-A466-EEFD7E14ED70"
+    },
+    {
+      "question": "Which of the following is a 'breathable' building material?",
+      "options": [
+        "Concrete",
+        "Steel",
+        "Lime mortar",
+        "Vinyl siding"
+      ],
+      "correct_answer": "Lime mortar",
+      "id": "F5E25B83-FA9F-4F26-BF0B-1B13A64FB0ED"
+    },
+    {
+      "question": "What type of foundation is typically used for skyscrapers?",
+      "options": [
+        "Shallow foundation",
+        "Pile foundation",
+        "Pad foundation",
+        "Strip foundation"
+      ],
+      "correct_answer": "Pile foundation",
+      "id": "50437360-86AF-4B92-B417-14320C8E072F"
+    },
+    {
+      "question": "In the context of soil mechanics, what does the term 'liquefaction' refer to?",
+      "options": [
+        "The process of soil becoming hard and compact",
+        "The process of soil becoming fluid-like in response to an applied stress",
+        "The saturation of soil with water",
+        "The process of soil eroding due to water flow"
+      ],
+      "correct_answer": "The process of soil becoming fluid-like in response to an applied stress",
+      "id": "7FE6B201-54C5-4F14-83FB-D0F7CAF0EDA0"
+    },
+    {
+      "question": "What is the concept of 'plasticity index' in soil mechanics?",
+      "options": [
+        "Difference in water content between the liquid limit and the plastic limit",
+        "The rate at which soil compresses under pressure",
+        "The ability of soil to retain water",
+        "The ratio of void volume to the total volume of soil"
+      ],
+      "correct_answer": "Difference in water content between the liquid limit and the plastic limit",
+      "id": "A4F239C2-752B-4809-AED4-F5AA25EEABAE"
+    },
+    {
+      "question": "In hydraulics, what is the function of a 'weir'?",
+      "options": [
+        "To prevent erosion of the river bank",
+        "To control the flow of water",
+        "To store water for later use",
+        "To provide a navigation route for boats"
+      ],
+      "correct_answer": "To control the flow of water",
+      "id": "872C8862-2678-4802-9309-041EF3239C03"
+    },
+    {
+      "question": "What are 'Buckling restrained braces' used for in building structures?",
+      "options": [
+        "To resist lateral forces during earthquakes",
+        "To support vertical loads",
+        "To prevent the building from sinking into the ground",
+        "To provide additional space for utilities"
+      ],
+      "correct_answer": "To resist lateral forces during earthquakes",
+      "id": "66D322F2-BF4A-48CC-B6A5-038479353379"
+    },
+    {
+      "question": "Which type of cement is resistant to attack by sulfates in water and soil?",
+      "options": [
+        "Blast furnace slag cement",
+        "Low heat cement",
+        "Sulfate resisting cement",
+        "White cement"
+      ],
+      "correct_answer": "Sulfate resisting cement",
+      "id": "A6608752-67E7-4D2E-BB09-56BA18AD1291"
+    },
+    {
+      "question": "What's the importance of 'creep' in understanding the behavior of concrete structures?",
+      "options": [
+        "It refers to the slow, steady deformation of a material due to a constant mechanical stress",
+        "It refers to the rapid cracking of concrete due to thermal stress",
+        "It refers to the sinking of a structure due to poor soil conditions",
+        "It refers to the lateral movement of a structure due to wind loads"
+      ],
+      "correct_answer": "It refers to the slow, steady deformation of a material due to a constant mechanical stress",
+      "id": "8AD48395-32E1-4456-A405-A91D99CDDE91"
+    }
+  ]
+}

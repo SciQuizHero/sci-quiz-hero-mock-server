@@ -1,0 +1,116 @@
+{
+  "category": "Thermodynamics",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "If the equation of state of a particular gas is given by PV = RT + BP^2, where P is pressure, V is volume, T is temperature, R is a constant and B is a second virial coefficient, how would you derive the expression for the isothermal compressibility of the gas?",
+      "options": [
+        "Differentiate the equation with respect to pressure and set temperature constant",
+        "Differentiate the equation with respect to volume and set temperature constant",
+        "Differentiate the equation with respect to temperature and set pressure constant",
+        "Differentiate the equation with respect to volume and set pressure constant"
+      ],
+      "correct_answer": "Differentiate the equation with respect to pressure and set temperature constant",
+      "id": "4BBFBAA8-DBB9-4989-883F-5DE2D2B613DB"
+    },
+    {
+      "question": "In the Joule-Thomson effect, under what conditions does the temperature of an ideal gas change?",
+      "options": [
+        "When the gas is expanded at constant enthalpy",
+        "When the gas is compressed at constant entropy",
+        "When the gas is heated at constant volume",
+        "An ideal gas never changes its temperature in the Joule-Thomson effect"
+      ],
+      "correct_answer": "An ideal gas never changes its temperature in the Joule-Thomson effect",
+      "id": "FBB61A82-BCD1-46E5-80BC-7A41A0EA0EB6"
+    },
+    {
+      "question": "In the context of statistical mechanics, what is the significance of the partition function?",
+      "options": [
+        "It measures the probability of a system being in a particular state",
+        "It gives the total energy of a system",
+        "It determines the macroscopic properties of a system from its microscopic states",
+        "It describes the evolution of a system over time"
+      ],
+      "correct_answer": "It determines the macroscopic properties of a system from its microscopic states",
+      "id": "2FB3C731-1EE6-4407-95F3-736162DFFBEF"
+    },
+    {
+      "question": "What is the concept of negative temperatures in thermodynamics and where might it be observed?",
+      "options": [
+        "It's a theoretical concept, observed when entropy decreases with increasing energy",
+        "It's an experimental error and doesn't have physical significance",
+        "It represents temperatures below absolute zero, observed in supercooled fluids",
+        "It refers to temperatures under zero Kelvin, observed in Bose-Einstein condensates"
+      ],
+      "correct_answer": "It's a theoretical concept, observed when entropy decreases with increasing energy",
+      "id": "A91CF00E-2F93-4BA0-92E9-11A2C310FEEC"
+    },
+    {
+      "question": "According to the third law of thermodynamics, why is it impossible to reach absolute zero temperature?",
+      "options": [
+        "Because it would violate the second law of thermodynamics",
+        "Because the entropy of a system at absolute zero is a non-zero constant",
+        "Because the heat capacity of a substance becomes infinite as temperature approaches absolute zero",
+        "Because the kinetic energy of particles cannot be completely removed"
+      ],
+      "correct_answer": "Because the kinetic energy of particles cannot be completely removed",
+      "id": "3723BA40-F2DE-4D1F-B142-3DF1B93C53C1"
+    },
+    {
+      "question": "How does the concept of a quasi-static process relate to the second law of thermodynamics?",
+      "options": [
+        "Quasi-static processes allow the second law to be violated momentarily",
+        "Quasi-static processes guarantee the system is always in thermal equilibrium, thus ensuring the second law isn't violated",
+        "Quasi-static processes allow the system to reach absolute zero, thus contradicting the second law",
+        "Quasi-static processes have no relation with the second law of thermodynamics"
+      ],
+      "correct_answer": "Quasi-static processes guarantee the system is always in thermal equilibrium, thus ensuring the second law isn't violated",
+      "id": "661FB8C8-821C-46C5-A9F9-A8918A1C0EAE"
+    },
+    {
+      "question": "What's the physical interpretation of Maxwell's thermodynamic relations?",
+      "options": [
+        "They indicate the rate of heat transfer between two systems",
+        "They provide a connection between different partial derivatives of state variables",
+        "They describe the dependence of entropy on volume and pressure",
+        "They determine the efficiency of heat engines"
+      ],
+      "correct_answer": "They provide a connection between different partial derivatives of state variables",
+      "id": "3057C3AE-A20F-4938-9229-2DFDBF0C3D7D"
+    },
+    {
+      "question": "What is the key principle of the Carnot cycle?",
+      "options": [
+        "It is a theoretical cycle that provides the upper limit on the efficiency that any classical thermodynamic engine can achieve during the conversion of heat into work, without violating the second law of thermodynamics",
+        "It is the process of converting work into heat in the most efficient way",
+        "It is the process of achieving absolute zero in a finite number of steps",
+        "It is a cycle in which the amount of heat input equals the amount of work done"
+      ],
+      "correct_answer": "It is a theoretical cycle that provides the upper limit on the efficiency that any classical thermodynamic engine can achieve during the conversion of heat into work, without violating the second law of thermodynamics",
+      "id": "A4A58EA1-ABC4-4A98-90F1-488E71B39D18"
+    },
+    {
+      "question": "What role does the concept of a 'fugacity' play in thermodynamics?",
+      "options": [
+        "It measures the departure of a real gas from ideal gas behavior",
+        "It is used to define the phase transitions of a substance",
+        "It quantifies the interaction between particles in a system",
+        "It defines the total heat content of a system"
+      ],
+      "correct_answer": "It measures the departure of a real gas from ideal gas behavior",
+      "id": "AC25B402-CA12-4BD6-B05A-7CF3B7A49E95"
+    },
+    {
+      "question": "In the Van der Waals equation of state, what do the parameters 'a' and 'b' signify?",
+      "options": [
+        "They represent specific heat at constant volume and pressure respectively",
+        "They account for molecular attraction and molecular volume respectively",
+        "They represent enthalpy and entropy respectively",
+        "They account for the heat capacity and temperature respectively"
+      ],
+      "correct_answer": "They account for molecular attraction and molecular volume respectively",
+      "id": "62B9253F-FEBC-476B-9B5B-68F7E7824422"
+    }
+  ]
+}

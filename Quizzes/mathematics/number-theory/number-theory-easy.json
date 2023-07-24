@@ -1,0 +1,116 @@
+{
+  "category": "Number Theory",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Which of the following numbers is a prime number?",
+      "options": [
+        "10",
+        "18",
+        "21",
+        "23"
+      ],
+      "correct_answer": "23",
+      "id": "BE34250D-2F9F-4B74-B972-5B52DF1EB63C"
+    },
+    {
+      "question": "What is the smallest natural number?",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "None of the above"
+      ],
+      "correct_answer": "1",
+      "id": "CAB82B77-F35E-4321-ADCB-4D1F73B8F904"
+    },
+    {
+      "question": "What is the term used to denote the positive factor of a number?",
+      "options": [
+        "Composite",
+        "Dividend",
+        "Divisor",
+        "Multiple"
+      ],
+      "correct_answer": "Divisor",
+      "id": "B04CE462-80FE-4A4E-9002-0FC35D233ACF"
+    },
+    {
+      "question": "What is the term for a number that can only be divided by 1 and itself?",
+      "options": [
+        "Composite number",
+        "Prime number",
+        "Perfect number",
+        "Square number"
+      ],
+      "correct_answer": "Prime number",
+      "id": "99CAA99E-8B52-451A-BEE6-B5282BB0A0C4"
+    },
+    {
+      "question": "What is the value of the cube of 4?",
+      "options": [
+        "12",
+        "16",
+        "64",
+        "256"
+      ],
+      "correct_answer": "64",
+      "id": "39A5D53F-7021-4A13-A404-8B1CD6D50969"
+    },
+    {
+      "question": "Which number is referred to as the identity for addition?",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "None of the above"
+      ],
+      "correct_answer": "0",
+      "id": "6767C945-43E6-46EC-8396-0FB7C9E1F14D"
+    },
+    {
+      "question": "Which of the following numbers is a perfect square?",
+      "options": [
+        "17",
+        "25",
+        "33",
+        "40"
+      ],
+      "correct_answer": "25",
+      "id": "0E48FA98-C6B7-4453-8B41-E9CA7F808DF5"
+    },
+    {
+      "question": "What is the name for a number which has an odd number of factors?",
+      "options": [
+        "Prime number",
+        "Perfect number",
+        "Composite number",
+        "Perfect square"
+      ],
+      "correct_answer": "Perfect square",
+      "id": "BFF814E4-71DA-48AC-A61B-E32D9A7FDE55"
+    },
+    {
+      "question": "What is the smallest composite number?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "4",
+      "id": "DEC36458-C18A-4D20-A315-BA52897562D1"
+    },
+    {
+      "question": "How many prime numbers are there between 1 and 10?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "4",
+      "id": "8A323802-0A3E-426B-8065-33F99B5BFA35"
+    }
+  ]
+}

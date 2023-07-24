@@ -1,0 +1,116 @@
+{
+  "category": "Networking",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What does HTTP stand for in web technology?",
+      "options": [
+        "Hyper Text Transfer Protocol",
+        "Hyper Transfer Text Protocol",
+        "High Transfer Text Protocol",
+        "Hyper Text Text Protocol"
+      ],
+      "correct_answer": "Hyper Text Transfer Protocol",
+      "id": "B9D66243-C85E-4E38-B7A3-8471AAFE0127"
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for ensuring the delivery of packets?",
+      "options": [
+        "Physical Layer",
+        "Data Link Layer",
+        "Transport Layer",
+        "Application Layer"
+      ],
+      "correct_answer": "Transport Layer",
+      "id": "FB0B24E9-5C0C-40B5-8F6B-5F4510209347"
+    },
+    {
+      "question": "What is the main purpose of a router in a network?",
+      "options": [
+        "Connects devices within a network",
+        "Connects multiple networks",
+        "Increases the network speed",
+        "Protects the network from viruses"
+      ],
+      "correct_answer": "Connects multiple networks",
+      "id": "EC226EBB-FB85-4423-BA94-69D9AB0CF47D"
+    },
+    {
+      "question": "Which protocol is used to send email messages?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "POP3"
+      ],
+      "correct_answer": "SMTP",
+      "id": "870A41DD-6E1D-4472-BE2F-14BD4FD1C222"
+    },
+    {
+      "question": "Which of the following is a valid IP address?",
+      "options": [
+        "192.0.2.0",
+        "256.1.1.1",
+        "300.0.0.1",
+        "500.500.500.500"
+      ],
+      "correct_answer": "192.0.2.0",
+      "id": "38032424-2B24-4A9C-BFB3-095B3EFCDB7F"
+    },
+    {
+      "question": "What does DNS stand for in Networking?",
+      "options": [
+        "Domain Name System",
+        "Data Name System",
+        "Domain Network System",
+        "Data Network System"
+      ],
+      "correct_answer": "Domain Name System",
+      "id": "2E155C4F-7F4B-448C-8387-C430F420F532"
+    },
+    {
+      "question": "What does LAN stand for?",
+      "options": [
+        "Large Area Network",
+        "Local Area Network",
+        "Light Area Network",
+        "Limited Area Network"
+      ],
+      "correct_answer": "Local Area Network",
+      "id": "E81DE6D6-6F08-485D-A473-EB54F95472A2"
+    },
+    {
+      "question": "What is the primary purpose of Network Topology?",
+      "options": [
+        "Describes the physical and logical interconnections between nodes",
+        "Determines the physical location of the network",
+        "Determines the speed of the network",
+        "Describes the color of the network"
+      ],
+      "correct_answer": "Describes the physical and logical interconnections between nodes",
+      "id": "A52B312D-794D-4F6C-8B2F-EA037E9B08D8"
+    },
+    {
+      "question": "What does the protocol TCP stand for?",
+      "options": [
+        "Transmission Control Protocol",
+        "Transfer Control Protocol",
+        "Transmission Control Procedure",
+        "Transfer Control Procedure"
+      ],
+      "correct_answer": "Transmission Control Protocol",
+      "id": "9425BF0B-7D72-48C7-B131-5C6D30C43A96"
+    },
+    {
+      "question": "What is the purpose of a firewall in a network?",
+      "options": [
+        "Increase network speed",
+        "Connect multiple networks",
+        "Protection against unauthorized access",
+        "Transfer data"
+      ],
+      "correct_answer": "Protection against unauthorized access",
+      "id": "7AB495E2-51D7-400F-AD59-827C4225D7A9"
+    }
+  ]
+}

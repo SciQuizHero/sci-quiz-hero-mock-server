@@ -1,0 +1,116 @@
+{
+  "category": "Optics",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "In an optical fiber, what phenomenon causes light to be guided along its path?",
+      "options": [
+        "Refraction",
+        "Reflection",
+        "Total Internal Reflection",
+        "Dispersion"
+      ],
+      "correct_answer": "Total Internal Reflection",
+      "id": "8858DEF2-7703-4D72-9668-58315E467892"
+    },
+    {
+      "question": "How do polarizing sunglasses reduce glare?",
+      "options": [
+        "By reflecting light",
+        "By refracting light",
+        "By dispersing light",
+        "By absorbing certain orientations of light waves"
+      ],
+      "correct_answer": "By absorbing certain orientations of light waves",
+      "id": "DCC397A8-E42F-4129-B7C6-8581390BB834"
+    },
+    {
+      "question": "What is the Brewster angle?",
+      "options": [
+        "The angle at which reflected light is completely polarized",
+        "The angle at which refracted light is completely polarized",
+        "The angle of incidence that gives maximum refraction",
+        "The angle of incidence that gives minimum refraction"
+      ],
+      "correct_answer": "The angle at which reflected light is completely polarized",
+      "id": "4F6E2A5E-92E0-4000-A595-E54FF9010470"
+    },
+    {
+      "question": "How does a convex lens focus light?",
+      "options": [
+        "It spreads the light out",
+        "It reflects the light in parallel rays",
+        "It focuses the light to a point",
+        "It does not affect the light"
+      ],
+      "correct_answer": "It focuses the light to a point",
+      "id": "72269D10-7B61-46D5-9C07-B6467187529C"
+    },
+    {
+      "question": "What is the main difference between geometrical optics and physical optics?",
+      "options": [
+        "Geometrical optics deals with ray propagation, while physical optics involves wave nature of light",
+        "Geometrical optics involves wave nature of light, while physical optics deals with ray propagation",
+        "Geometrical optics focuses on reflection, while physical optics deals with refraction",
+        "Geometrical optics focuses on refraction, while physical optics deals with reflection"
+      ],
+      "correct_answer": "Geometrical optics deals with ray propagation, while physical optics involves wave nature of light",
+      "id": "DC110C82-5407-4B81-A3DB-CA2C0EC93DC6"
+    },
+    {
+      "question": "What principle states that the path taken between two points by a ray of light is the path that can be traversed in the least time?",
+      "options": [
+        "Huygens' principle",
+        "Brewster's law",
+        "Fermat's principle",
+        "Snell's law"
+      ],
+      "correct_answer": "Fermat's principle",
+      "id": "09C14CED-28FC-4D8B-A99D-23096B766F49"
+    },
+    {
+      "question": "Which of these best describes the phenomenon of interference in optics?",
+      "options": [
+        "It is the process where the path of light alters due to the presence of an obstacle",
+        "It is the redistribution of light energy due to the superposition of two or more coherent light beams",
+        "It is the process where light waves bend when they pass from one medium to another",
+        "It is the process where light changes direction when it bounces off a surface"
+      ],
+      "correct_answer": "It is the redistribution of light energy due to the superposition of two or more coherent light beams",
+      "id": "0D1765C8-2E1E-45DA-B0E3-017C1DBC0549"
+    },
+    {
+      "question": "What is the phenomenon called when light passes from a denser medium to a rarer medium and bends away from the normal?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Total internal reflection",
+        "Dispersion"
+      ],
+      "correct_answer": "Refraction",
+      "id": "AC825AAD-1188-4EEC-A8F2-E9F76EE3398E"
+    },
+    {
+      "question": "If a lens has a negative focal length, what type of lens is it?",
+      "options": [
+        "Concave",
+        "Convex",
+        "Plano-convex",
+        "Biconvex"
+      ],
+      "correct_answer": "Concave",
+      "id": "43D59DDF-AC60-4636-96AD-69BE672A7110"
+    },
+    {
+      "question": "Which formula represents the lens maker's formula?",
+      "options": [
+        "1/f = (n2/n1 - 1) * (1/R1 - 1/R2)",
+        "1/f = n1/n2 * (1/R1 - 1/R2)",
+        "1/f = n1/n2 * (1/R1 + 1/R2)",
+        "1/f = (n2/n1 + 1) * (1/R1 - 1/R2)"
+      ],
+      "correct_answer": "1/f = (n2/n1 - 1) * (1/R1 - 1/R2)",
+      "id": "C178B75E-91A0-43F2-A04D-2051374495F5"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Which of the following statements is true about the B+ tree data structure?",
+      "options": [
+        "All leaves are at the same depth",
+        "Each internal node (non-leaf and non-root) can hold between [n/2] and [n-1] keys",
+        "Both statements are correct",
+        "Neither statement is correct"
+      ],
+      "correct_answer": "Both statements are correct",
+      "id": "31847EF9-CA23-4219-906E-D7198B8C3D38"
+    },
+    {
+      "question": "Which of the following is not an inherent application of the Minimum Spanning Tree?",
+      "options": [
+        "Creating an itinerary involving certain cities",
+        "Designing a least cost network",
+        "Determining the best way to multi-thread an algorithm",
+        "Creating a network design"
+      ],
+      "correct_answer": "Determining the best way to multi-thread an algorithm",
+      "id": "78F56F86-F9CE-4DAF-B48A-EC160600DFFE"
+    },
+    {
+      "question": "In the Convex Hull problem using the Graham Scan algorithm, what is the time complexity of sorting the points?",
+      "options": [
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)",
+        "O(n^3)"
+      ],
+      "correct_answer": "O(n log n)",
+      "id": "902D1052-8913-4A00-8224-CC999F8101A6"
+    },
+    {
+      "question": "In the context of Dynamic Programming, what does the 'principle of optimality' state?",
+      "options": [
+        "An optimal solution can always be constructed from optimal solutions of its subproblems",
+        "An optimal solution to the problem contains an optimal solution to the best subproblem",
+        "An optimal solution can only be obtained by considering all possible solutions",
+        "The optimal solution to a problem maximizes the combined value of its subproblems"
+      ],
+      "correct_answer": "An optimal solution can always be constructed from optimal solutions of its subproblems",
+      "id": "61E9B764-39D9-4757-93F6-4D9AA21B8FD6"
+    },
+    {
+      "question": "In a Max-Flow/Min-Cut problem, how is the 'maximum flow' from a source to a sink in a flow network determined?",
+      "options": [
+        "By finding a path in the residual graph where every edge has residual capacity",
+        "By finding a cut in the network such that the capacity of the cut is minimized",
+        "By summing up the capacities of all edges going out from the source",
+        "By summing up the capacities of all edges coming into the sink"
+      ],
+      "correct_answer": "By finding a path in the residual graph where every edge has residual capacity",
+      "id": "05F02987-38DB-4FE0-9241-D49EE1A85DC9"
+    },
+    {
+      "question": "What is the time complexity of the Fast Fourier Transform (FFT) algorithm?",
+      "options": [
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)",
+        "O(n^3)"
+      ],
+      "correct_answer": "O(n log n)",
+      "id": "762E1802-89EB-4518-8A55-A69B5E248C6C"
+    },
+    {
+      "question": "In a Red-Black tree, what is the maximum number of black nodes on any path from a node (including the node) to a leaf?",
+      "options": [
+        "Logarithmic in terms of the number of nodes in the tree",
+        "Equal to the number of its children nodes",
+        "Proportional to the height of the tree",
+        "Dependent on the number of red nodes in the tree"
+      ],
+      "correct_answer": "Logarithmic in terms of the number of nodes in the tree",
+      "id": "962D5C74-37A6-41DF-895D-89BC55F8414F"
+    },
+    {
+      "question": "Which algorithm can be used to find the Strongly Connected Components in a Directed Graph?",
+      "options": [
+        "Dijkstra's Algorithm",
+        "Kosaraju's Algorithm",
+        "Kruskal's Algorithm",
+        "Prim's Algorithm"
+      ],
+      "correct_answer": "Kosaraju's Algorithm",
+      "id": "DD2BEBA3-C4D4-48C9-B7E2-D2C610FD2B26"
+    },
+    {
+      "question": "Which of the following is NOT a property of a good hash function for hashing strings?",
+      "options": [
+        "Uniform distribution of hash values",
+        "Determinism",
+        "Dependence on the string length",
+        "Fast computation"
+      ],
+      "correct_answer": "Dependence on the string length",
+      "id": "7316A5FD-4E40-4F0D-A94A-BDC20A3530FE"
+    },
+    {
+      "question": "Which of the following problems CANNOT be solved using the divide and conquer strategy?",
+      "options": [
+        "Finding the maximum subarray sum",
+        "Strassen's Matrix Multiplication",
+        "Karatsuba algorithm for fast multiplication",
+        "Heapsort"
+      ],
+      "correct_answer": "Heapsort",
+      "id": "CAB4F19D-5638-4460-93CB-3500C2F9A023"
+    }
+  ]
+}

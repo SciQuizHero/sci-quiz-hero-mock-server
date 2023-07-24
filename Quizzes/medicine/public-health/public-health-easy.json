@@ -1,0 +1,106 @@
+{
+  "category": "Public Health",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the primary goal of public health?",
+      "options": [
+        "Preventing disease and promoting health in individuals.",
+        "Providing medical treatment for individuals.",
+        "Conducting research on new medical treatments.",
+        "Promoting healthy lifestyles in communities."
+      ],
+      "correct_answer": "Preventing disease and promoting health in individuals."
+    },
+    {
+      "question": "What is the role of public health in promoting healthy lifestyles?",
+      "options": [
+        "Administering vaccinations.",
+        "Conducting medical research studies.",
+        "Educating individuals and communities about healthy choices.",
+        "Providing medical care for individuals."
+      ],
+      "correct_answer": "Educating individuals and communities about healthy choices."
+    },
+    {
+      "question": "What is the importance of vaccination in public health?",
+      "options": [
+        "Preventing the spread of infectious diseases.",
+        "Improving mental health and well-being.",
+        "Promoting healthy eating habits.",
+        "Managing chronic diseases."
+      ],
+      "correct_answer": "Preventing the spread of infectious diseases."
+    },
+    {
+      "question": "What are some common risk factors for chronic diseases?",
+      "options": [
+        "Regular exercise and physical activity.",
+        "Eating a balanced diet.",
+        "Tobacco use and excessive alcohol consumption.",
+        "Maintaining a healthy weight."
+      ],
+      "correct_answer": "Tobacco use and excessive alcohol consumption."
+    },
+    {
+      "question": "What is the purpose of epidemiological studies in public health?",
+      "options": [
+        "Studying the effects of medications on individuals.",
+        "Developing new medical treatments.",
+        "Identifying patterns and causes of diseases in populations.",
+        "Providing medical care for individuals."
+      ],
+      "correct_answer": "Identifying patterns and causes of diseases in populations."
+    },
+    {
+      "question": "What is the role of public health in emergency preparedness?",
+      "options": [
+        "Providing immediate medical care during emergencies.",
+        "Ensuring access to clean water and food during emergencies.",
+        "Promoting healthy lifestyles in communities.",
+        "Conducting research on new medical treatments."
+      ],
+      "correct_answer": "Ensuring access to clean water and food during emergencies."
+    },
+    {
+      "question": "What is the significance of health education in public health?",
+      "options": [
+        "Preventing the spread of infectious diseases.",
+        "Administering vaccinations to individuals.",
+        "Providing medical treatment for individuals.",
+        "Conducting medical research studies."
+      ],
+      "correct_answer": "Preventing the spread of infectious diseases."
+    },
+    {
+      "question": "What is the aim of health promotion programs?",
+      "options": [
+        "Conducting research on new medical treatments.",
+        "Providing medical care for individuals.",
+        "Promoting healthy behaviors and preventing diseases.",
+        "Ensuring access to healthcare services for all individuals."
+      ],
+      "correct_answer": "Promoting healthy behaviors and preventing diseases."
+    },
+    {
+      "question": "What is the role of public health in environmental health?",
+      "options": [
+        "Conducting medical research studies.",
+        "Monitoring and addressing environmental hazards.",
+        "Providing immediate medical care to individuals.",
+        "Promoting healthy lifestyles in communities."
+      ],
+      "correct_answer": "Monitoring and addressing environmental hazards."
+    },
+    {
+      "question": "What is the primary goal of public health?",
+      "options": [
+        "Providing medical treatment to individuals.",
+        "Preventing and controlling diseases.",
+        "Conducting research on new medical treatments.",
+        "Administering vaccinations to communities."
+      ],
+      "correct_answer": "Preventing and controlling diseases."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "category": "Calculus",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What is the second derivative of the function f(x) = 3x^4 + 5x^2 - 2x + 7?",
+      "options": [
+        "24x^2 + 10",
+        "12x^3 + 5x",
+        "24x^3 + 10x",
+        "12x^2 + 5"
+      ],
+      "correct_answer": "24x^2 + 10",
+      "id": "D05E64CC-DDD8-4591-8138-CE52A6953F97"
+    },
+    {
+      "question": "What is the derivative of the function f(x) = e^(3x)?",
+      "options": [
+        "3e^(3x)",
+        "e^(3x)",
+        "3e^x",
+        "e^3x"
+      ],
+      "correct_answer": "3e^(3x)",
+      "id": "7E5BDF44-7934-42EB-B951-252B44B6EB8D"
+    },
+    {
+      "question": "What is the integral of f(x) = x^2 e^x dx?",
+      "options": [
+        "(x^2 - 2x + 2)e^x + C",
+        "x^2 e^x + C",
+        "(2x - 1)e^x + C",
+        "(x^2 + 2x)e^x + C"
+      ],
+      "correct_answer": "(x^2 - 2x + 2)e^x + C",
+      "id": "96D438F5-88CB-420F-A8CF-2901EEDCB01A"
+    },
+    {
+      "question": "What is the derivative of the function f(x) = sin(3x)?",
+      "options": [
+        "3cos(3x)",
+        "cos(3x)",
+        "3sin(3x)",
+        "sin(3x)"
+      ],
+      "correct_answer": "3cos(3x)",
+      "id": "3D9C5CDE-FB18-4798-9B0B-693C1C392E49"
+    },
+    {
+      "question": "What is the integral of f(x) = x/sqrt(x^2 + 1) dx?",
+      "options": [
+        "sqrt(x^2 + 1) + C",
+        "ln|x + sqrt(x^2 + 1)| + C",
+        "ln|x| + C",
+        "(x^2 + 1)^(3/2) + C"
+      ],
+      "correct_answer": "sqrt(x^2 + 1) + C",
+      "id": "4DAA61F1-29BC-422C-B859-AD741434EB25"
+    },
+    {
+      "question": "What is the derivative of the function f(x) = ln|x^2 + 1|?",
+      "options": [
+        "2x/(x^2 + 1)",
+        "2x/|x^2 + 1|",
+        "1/(x^2 + 1)",
+        "(2x^2 + 1)/x"
+      ],
+      "correct_answer": "2x/(x^2 + 1)",
+      "id": "73F3B3EE-94E8-4E0C-B863-BDD43B5E74AB"
+    },
+    {
+      "question": "What is the integral of f(x) = tan(x) dx?",
+      "options": [
+        "ln|sec(x)| + C",
+        "ln|sin(x)| + C",
+        "ln|cos(x)| + C",
+        "-ln|cos(x)| + C"
+      ],
+      "correct_answer": "ln|sec(x)| + C",
+      "id": "01E344F6-E471-4239-BB26-A2C42E9694EE"
+    },
+    {
+      "question": "What is the derivative of the function f(x) = arcsin(x)?",
+      "options": [
+        "1/sqrt(1 - x^2)",
+        "sqrt(1 - x^2)",
+        "1/(1 - x^2)",
+        "-1/sqrt(1 - x^2)"
+      ],
+      "correct_answer": "1/sqrt(1 - x^2)",
+      "id": "40725879-75B4-401B-A666-F7AEC12BDAB4"
+    },
+    {
+      "question": "What is the derivative of the function f(x) = arctan(x)?",
+      "options": [
+        "1/(x^2 + 1)",
+        "x/(x^2 + 1)",
+        "1/(1 - x^2)",
+        "x/(1 - x^2)"
+      ],
+      "correct_answer": "1/(x^2 + 1)",
+      "id": "CC37DFB2-BFDB-40D2-BED9-905D0469F526"
+    },
+    {
+      "question": "What is the integral of f(x) = sec^2(x) dx?",
+      "options": [
+        "tan(x) + C",
+        "cot(x) + C",
+        "sec(x) + C",
+        "csc(x) + C"
+      ],
+      "correct_answer": "tan(x) + C",
+      "id": "FD803E88-4ABF-4467-9A09-07A243DE7937"
+    }
+  ]
+}
