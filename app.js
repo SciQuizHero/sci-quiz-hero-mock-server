@@ -1,51 +1,72 @@
-const express = require('express');
-const fs = require('fs').promises;
-const path = require('path');
-const app = express();
+const express = require('express')
+const fs = require('fs').promises
+const path = require('path')
 
-// Helper function to load quiz from a JSON file
-async function loadQuiz(file, category, difficulty) {
-    try {
-        let rawdata = await fs.readFile(file);
-        let quiz = JSON.parse(rawdata);
-        if (quiz.category === category && quiz.difficulty === difficulty) {
-            return quiz.questions;
-        }
-    } catch (err) {
-        console.error(`Error reading or parsing file ${file}: `, err);
-    }
-    return null;
+const app = express()
+
+// Data Access Layer
+const readQuizFile = async (filePath) => {
+    const data = await fs.readFile(filePath, 'utf8')
+    return JSON.parse(data)
 }
 
-app.get('/quizzes', async (req, res) => {
-    let size = req.query.size || 10;  // Default size is 10 if not provided
-    let category = req.query.category;
-    let difficulty = req.query.difficulty;
-    let quizFolder = path.join(__dirname, 'Quizzes');
+const getQuizFiles = async (dirPath) => {
+    const files = (await fs.readdir(dirPath)).filter(f => path.extname(f) === '.json')
+    return files.map(file => path.join(dirPath, file))
+}
 
-    let quizQuestions = [];
-    try {
-        let files = await fs.readdir(quizFolder);
-        for (let file of files) {
-            if (path.extname(file) === '.json') {
-                let questions = await loadQuiz(path.join(quizFolder, file), category, difficulty);
-                if (questions) {
-                    quizQuestions.push(...questions);
-                }
-            }
-        }
-    } catch (err) {
-        console.error(`Error reading directory ${quizFolder}: `, err);
-        res.status(500).send('Server error');
-        return;
+// Service Layer
+const getQuizzes = async (category, difficulty, size) => {
+    const dirPath = path.join(__dirname, "Quizzes")
+    const quizFiles = await getQuizFiles(dirPath)
+
+    const quizzes = await Promise.all(quizFiles.map(readQuizFile))
+    const matchingQuizzes = quizzes.filter(quiz =>
+        category.includes(quiz.category.toLowerCase()) && quiz.difficulty.toLowerCase() === difficulty)
+
+    if (!matchingQuizzes.length) {
+        return null
     }
 
-    // Randomize and cut down the size of the quizQuestions array
-    quizQuestions.sort(() => Math.random() - 0.5);
-    quizQuestions = quizQuestions.slice(0, size);
-    res.json(quizQuestions);
-});
+    const selectedQuestions = []
+    const baseSize = Math.floor(size / category.length)
+    let remainder = size % category.length
 
-app.listen(3000, () => {
-    console.log('App is listening on port 3000');
-});
+    for (const quiz of matchingQuizzes) {
+        const selectedCount = remainder > 0 ? baseSize + 1 : baseSize
+        selectedQuestions.push(...quiz.questions.slice(0, selectedCount))
+        remainder--
+    }
+
+    return selectedQuestions
+}
+
+// Route Handling Layer
+app.get('/quizzes', async (req, res, next) => {
+    let { category, difficulty, size } = req.query
+    category = Array.isArray(category) ? category : [category]
+
+    try {
+        const selectedQuestions = await getQuizzes(
+            category.map(c => c.toLowerCase()),
+            difficulty.toLowerCase(),
+            parseInt(size))
+
+        if (!selectedQuestions) {
+            return res.status(404).json({ "error": "No matching quizzes found" })
+        }
+        return res.json(selectedQuestions)
+    } catch (error) {
+        next(error)
+    }
+})
+
+// Error Handling Middleware
+app.use((err, req, res, next) => {
+    console.error(err)
+    res.status(500).json({ "error": "Internal Server Error" })
+})
+
+// Server Setup
+const port = process.env.PORT || 3000
+app.listen(port, () => console.log(`Server running on port ${port}`))
