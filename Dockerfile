@@ -10,13 +10,13 @@ WORKDIR /usr/src/app
 COPY package*.json yarn.lock ./
 
 # Install yarn globally and install dependencies
-RUN npm install -g yarn && yarn install
+RUN yarn install
 
 # Bundle app source
 COPY . .
 
 # The application's default port
-EXPOSE 8080
+EXPOSE 3000
 
 # Define the command that should be executed
 # when the Docker container starts up
